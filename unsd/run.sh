@@ -3,5 +3,5 @@ rapper -i turtle tmp.ttl -o turtle  | sed -e "s/file:\/\/.*/#> ./" > unsd-method
 rm tmp.ttl
 
 tarql.sh 240.rq > tmp.ttl
-cwm -n3 tmp.ttl > cities.ttl
+cwm -n3 tmp.ttl | sed -e "s/http:\/\/harth.org\/andreas\/2017\/citydata\/unsd\///" | sed -e "s/cities#/#/" > cities.ttl
 rm tmp.ttl

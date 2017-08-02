@@ -5,9 +5,9 @@
 #       notation3.py,v 1.200 2007/12/11 21:18:08 syosi Exp
 
 #   Base was: file:///home/aharth/papers/citydata/unsd/tmp.ttl
-     @prefix : <http://harth.org/andreas/2017/citydata/cities#> .
+     @prefix : <#> .
     @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
-    @prefix unsdmethod: <http://harth.org/andreas/2017/citydata/unsd-methodology#> .
+    @prefix unsdmethod: <unsd-methodology#> .
     
     :000048     :codeOfCity "000048";
          unsdmethod:countryOrAreaOf unsdmethod:8;
