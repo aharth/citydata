@@ -1,0 +1,2672 @@
+@base <file:///home/aharth/papers/city-qb/crawling/links/add-city.rq> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix ocdp: <http://harth.org/andreas/2017/ocdp/vocabs/ocdp#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+
+<http://dbpedia.org/resource/'s-Gravenhage>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/'s-Hertogenbosch>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Aachen>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Aalborg>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Aberdeen>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Acireale>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Adana>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Aix-en-Provence>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Ajaccio>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Albacete>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Albi>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Alcobendas>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/AlcorcÃ³n>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Alcorcón>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Algeciras>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Alicante/Alacant>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Alkmaar>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Almada>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Almelo>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Almere>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/AlmerÃ­a>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Almería>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Alytus>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Amadora>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Amersfoort>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Amiens>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Amstelveen>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Amsterdam>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Ancona>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Angers>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/AngoulÃªme>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Angoulême>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Ankara>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Annecy>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Annemasse>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Antalya>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Antwerpen>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Apeldoorn>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Arad>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Arnhem>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Arras>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Arrecife>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Aschaffenburg>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Ashford>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Asti>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Athina>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Aubagne>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Augsburg>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Austria>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Aveiro>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Avellino>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Avignon>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/AvilÃ©s>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Avilés>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Bacau>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Badajoz>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Badalona>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Balikesir>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Bamberg>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Barakaldo>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Barcelona>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Bari>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Barletta>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Barnet>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Barnsley>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Barreiro>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Basel>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Basildon>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Bayonne>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Bayreuth>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Beauvais>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Bedford>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Belfast>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Belfort>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Belgium>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Benevento>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Benidorm>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Beograd>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Bergamo>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Bergen>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Berlin>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Bern>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/BesanÃ§on>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Besançon>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Bexley>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Bialystok>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Biel/Bienne>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Bielefeld>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Biella>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Bielsko-Biala>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Bilbao>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Birmingham>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Bistrita>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Blackpool>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Blagoevgrad>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Bochum>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Bologna>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Bolton>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Bolzano>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Bonn>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Bordeaux>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/BorÃ¥s>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Borås>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Botosani>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Bottrop>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Boulogne-sur-Mer>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Bourges>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Bournemouth>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Bradford>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Braga>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Braila>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Brasov>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Bratislava>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Braunschweig>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Breda>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Bremen>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Bremerhaven>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Brent>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Brescia>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Brest>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Bristol>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Brive-la-Gaillarde>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Brno>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Bromley>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Brugge>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Bucuresti>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Budapest>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Bulgaria>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Burgas>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Burgos>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Burnley>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Bursa>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Bury>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Buzau>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Bydgoszcz>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Bytom>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/BÃ¢rlad>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/BÃ©ziers>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Bârlad>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Béziers>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Caen>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Cagliari>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Calais>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Calarasi>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Cambridge>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Camden>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Campobasso>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Cardiff>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Carlisle>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Carrara>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Cartagena>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Caserta>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Castelldefels>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Catania>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Catanzaro>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Celle>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Cergy-Pontoise>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Ceuta>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Chalon-sur-SaÃ´ne>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Chalon-sur-Saône>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/ChambÃ©ry>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Chambéry>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Charleroi>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Charleville-MÃ©ziÃ¨res>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Charleville-Mézières>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Chartres>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Chelm>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Chelmsford>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Cheltenham>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Chemnitz>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Cherbourg>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Chesterfield>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Chomutov-Jirkov>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/ChorzÃ³w>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Chorzów>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/ChÃ¢lons-en-Champagne>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/ChÃ¢teauroux>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Châlons-en-Champagne>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Châteauroux>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Clermont-Ferrand>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Cluj-Napoca>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Coimbra>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Colchester>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Colmar>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Como>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/CompiÃ¨gne>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Compiègne>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Constanta>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Cork>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Cosenza>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Coslada>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Cottbus>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Coventry>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Craiova>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Crawley>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Creil>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Cremona>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Croydon>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Cyprus>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Czestochowa>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/CÃ¡ceres>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/CÃ¡diz>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/CÃ³rdoba>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Cáceres>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Cádiz>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Córdoba>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Dacorum>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Darlington>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Darmstadt>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Daugavpils>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Debrecen>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Delft>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Denizli>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Denmark>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Derby>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Derry>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Dessau-Roßlau>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Deventer>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Dijon>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Diyarbakir>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Dobrich>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Doncaster>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Dordrecht>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Dortmund>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Douai>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Dresden>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Dublin>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Dudley>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Duisburg>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Dunkerque>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Düsseldorf>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Ealing>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Eastbourne>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Ede>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Edinburgh>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Edirne>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Eindhoven>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Elblag>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Elche/Elx>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Elda>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Elk>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Enfield>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Enschede>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Erfurt>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Erlangen>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Erzurum>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Essen>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Estonia>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Evreux>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Evry>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Exeter>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Falkirk>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Fareham>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Faro>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Ferrara>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Ferrol>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Finland>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Firenze>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Flensburg>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Focsani>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Foggia>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/ForlÃ¬>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Forlì>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Fort-de-France>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/France>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Friedrichshafen>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/FrÃ©jus>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Fréjus>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Fuengirola>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Fuenlabrada>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Fulda>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Funchal>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/FÃ¼rth>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Fürth>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Galati>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Galway>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Gandia>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Gateshead>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Gaziantep>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Gdansk>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Gdynia>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Gelsenkirchen>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Genova>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Gent>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Genève>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Gera>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Germany>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Getafe>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Getxo>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Gießen>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/GijÃ³n>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Gijón>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Girona>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Giurgiu>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Glasgow>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Gliwice>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/GlogÃ³w>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Glogów>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Gloucester>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Gniezno>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Gondomar>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Gouda>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Granada>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Granollers>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Gravesham>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Graz>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Greece>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Greenwich>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Greifswald>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Grenoble>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Groningen>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Grudziadz>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Guadalajara>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Guildford>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/GuimarÃ£es>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Guimarães>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/GyÃµr>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Gyõr>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/GÃ¶teborg>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Görlitz>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Göteborg>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Göttingen>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Haarlem>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Haarlemmermeer>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Hackney>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Hagen>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Halton>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Hamburg>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Hamm>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Hanau>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Hannover>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Haringey>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Harlow>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Harrow>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Hartlepool>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Haskovo>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Hastings>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Hatay>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Havering>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Havírov>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Heerlen>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Heidelberg>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Heilbronn>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Helmond>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Helsingborg>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Helsinki>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Hengelo>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Herne>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Hildesheim>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Hillingdon>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Hilversum>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Hoorn>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Hounslow>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Huelva>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Hungary>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Hyndburn>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Iasi>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Ingolstadt>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Innsbruck>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Inowroclaw>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Ioannina>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Ipswich>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Irakleio>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Ireland>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Irun>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Iserlohn>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Islington>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Istanbul>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Italy>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Izmir>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Jastrzebie-ZdrÃ³j>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Jastrzebie-Zdrój>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/JaÃ©n>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Jaén>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Jelgava>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Jena>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Jihlava>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/JyvÃ¤skylÃ¤>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Jyväskylä>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/JÃ¶nkÃ¶ping>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Jönköping>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Kaiserslautern>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Kalamata>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Kalisz>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Karlsruhe>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Kars>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Karviná>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Kassel>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Kastamonu>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Katowice>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Katwijk>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Kaunas>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Kavala>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Kayseri>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/KecskemÃ©t>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Kecskemét>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Kiel>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Kielce>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Kingston-upon-Hull>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Kirklees>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Kladno>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Klagenfurt>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Klaipeda>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Koblenz>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Kocaeli>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Konin>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Konstanz>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Konya>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Kortrijk>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Kosice>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Koszalin>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/KrakÃ³w>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Kraków>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Krefeld>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Kristiansand>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Kuopio>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/KÃ¸benhavn>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Köln>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/København>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Lambeth>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Landshut>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Larisa>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Latina>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Latvia>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Lausanne>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Lecce>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Lecco>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Leeds>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Leeuwarden>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Lefkosia>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/LeganÃ©s>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Leganés>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Legnica>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Leicester>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Leiden>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Leidschendam-Voorburg>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Leipzig>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Lelystad>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Lemesos>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Leszno>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Leuven>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Leverkusen>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Lewisham>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/LeÃ³n>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/León>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Liberec>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Liepaja>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Lille>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Limerick>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Limoges>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Lincoln>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/LinkÃ¶ping>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Linköping>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Linz>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Lisboa>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Lisburn>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Lithuania>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Liverpool>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Livorno>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Liège>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Ljubljana>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Lleida>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/LogroÃ±o>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Logroño>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Lomza>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/London>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Lorient>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Lubin>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Lublin>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Ludwigsburg>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Lugano>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Lugo>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Lund>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Luton>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Luxembourg>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Luzern>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Lyon>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/LÃ³dz>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/LÃ¼beck>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Lódz>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Lübeck>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Lüneburg>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Maastricht>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Madrid>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Magdeburg>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Maidstone>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Mainz>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Majadahonda>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Malatya>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/MalmÃ¶>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Malmö>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Malta>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Manchester>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Manisa>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Mannheim>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Manresa>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Mansfield>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Marbella>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Marburg>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Maribor>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Marseille>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Martigues>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Massa>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/MatarÃ³>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Mataró>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Matera>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Matosinhos>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Meaux>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Medway>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Melilla>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Melun>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Merton>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Messina>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Metz>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Middelburg>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Middlesbrough>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Milano>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Miskolc>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Modena>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Moers>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Mons>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/MontbÃ©liard>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Montbéliard>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Montpellier>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Monza>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Most>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Mulhouse>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Murcia>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/MÃ¡laga>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/MÃ³stoles>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Málaga>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Móstoles>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Mönchengladbach>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/München>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Münster>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Namur>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Nancy>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Nantes>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Napoli>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Narva>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Netherlands>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Neu-Ulm>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Neubrandenburg>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Neumünster>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Neuss>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Nevsehir>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Newcastle-under-Lyme>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Newham>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Newport>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Nice>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Nijmegen>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Niort>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Nitra>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Norge>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/NorrkÃ¶ping>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Norrköping>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Northampton>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Norwich>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Nottingham>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Novara>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/NyÃ­regyhÃ¡za>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Nyíregyháza>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/NÃ®mes>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Nîmes>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Nürnberg>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Oberhausen>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Odense>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Odivelas>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Offenburg>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Oldham>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Olomouc>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Olsztyn>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Oostende>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Opole>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Oradea>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/OrlÃ©ans>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Orléans>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Osijek>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Oslo>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/OsnabrÃ¼ck>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Osnabrück>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Ostrava>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Oulu>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Ourense>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Oviedo>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Oxford>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Pabianice>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Paderborn>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Padova>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Palencia>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Palermo>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Pamplona/IruÃ±a>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Pamplona/Iruña>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Panevezys>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Pardubice>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Paredes>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Paris>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Parla>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Parma>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Passau>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Pau>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Pavia>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Pazardzhik>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Pernik>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Perpignan>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Perugia>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Pesaro>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Pescara>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Peterborough>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Pforzheim>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Piacenza>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Pila>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Pisa>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Pitesti>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Plauen>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Pleven>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Plock>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Ploiesti>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Plovdiv>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Plymouth>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Plzen>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Poitiers>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Poland>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Ponferrada>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Pontevedra>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Poole>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Pordenone>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Porto>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Portsmouth>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Portugal>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Potenza>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Potsdam>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Poznan>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Praha>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Prato>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Presov>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Preston>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Przemysl>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Purmerend>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/PÃ¡tra>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/PÃ©cs>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Pátra>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Pécs>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Quimper>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Radom>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Ravenna>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Reading>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Recklinghausen>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Redbridge>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Redditch>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Regensburg>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Reims>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Remscheid>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Rennes>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Reus>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Reutlingen>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Reykjavik>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/ReykjavÃ­k>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Reykjavík>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Riga>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Rijeka>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Rimini>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Roanne>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Rochdale>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Roma>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Roman>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Romania>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Roosendaal>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Rosenheim>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Rostock>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Rotherham>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Rotterdam>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Rouen>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/RubÃ­>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Rubí>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Ruse>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Rybnik>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/RzeszÃ³w>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Rzeszów>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Saarbrücken>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Sabadell>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Saint-Brieuc>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Saint-Etienne>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Saint-Nazaire>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Saint-Quentin>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Salamanca>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Salerno>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Salford>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Salzburg>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Salzgitter>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Samsun>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Sandwell>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Sanremo>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Santander>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Sassari>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Savona>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Schiedam>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Schweinfurt>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Schweiz/Suisse>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Schwerin>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Sefton>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Seixal>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/SetÃºbal>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Setúbal>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Sevilla>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Sheffield>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Shumen>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Siauliai>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Sibiu>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Siedlce>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Siegen>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Siirt>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Sindelfingen>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Sintra>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Siracusa>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Sittard-Geleen>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Skopje>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Slatina>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Sliven>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Slough>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Slovakia>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Slovenia>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Slupsk>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Sofia>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Solihull>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Solingen>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Sosnowiec>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Southampton>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Southend-on-Sea>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Southwark>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Spain>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Speyer>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Spijkenisse>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Split>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Stavanger>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Stevenage>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Stockholm>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Stockport>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Stockton-on-Tees>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Stoke-on-trent>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Stralsund>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Strasbourg>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Stuttgart>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Suceava>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Sunderland>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Sutton>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Suwalki>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Swansea>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Sweden>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Swidnica>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Swindon>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Szczecin>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Szeged>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Szombathely>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/SzÃ©kesfehÃ©rvÃ¡r>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Székesfehérvár>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Tallinn>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Tameside>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Tamworth>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Taranto>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Tarbes>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/TarnÃ³w>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Tarnów>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Tarragona>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Tartu>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Tczew>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Telde>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Terni>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Terrassa>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Thanet>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Thessaloniki>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Thurrock>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Tilburg>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Timisoara>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Toledo>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Torbay>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Torino>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Torremolinos>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Torrevieja>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Torun>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Toulon>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Toulouse>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Tours>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Trabzon>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Trafford>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/TrencÃ­n>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Trencín>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Trento>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Treviso>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Trier>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Trieste>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Trnava>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/TromsÃ¸>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Tromsø>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Trondheim>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Troyes>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Tulcea>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Turkey>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Tychy>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/TÃ¢rgoviste>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Târgoviste>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Tübingen>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Udine>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Ulm>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/UmeÃ¥>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Umeå>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Uppsala>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Utrecht>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Vaduz>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Valence>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Valencia>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Valenciennes>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Valladolid>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Valletta>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Valongo>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Van>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Vannes>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Varese>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Varna>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Velsen>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Venezia>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Venlo>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Verona>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Versailles>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Viareggio>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Vicenza>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Vidin>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Vigevano>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Vigo>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Viladecans>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Villingen-Schwenningen>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Vilnius>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Viseu>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Vitoria/Gasteiz>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Vlaardingen>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Volos>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Vratsa>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/VÃ¤sterÃ¥s>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Västerås>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Wakefield>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Walbrzych>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Walsall>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Wandsworth>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Warrington>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Warszawa>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Warwick>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Waterford>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Waveney>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Weimar>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Westminster>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Wetzlar>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Wien>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Wiesbaden>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Wigan>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Wilhelmshaven>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Winterthur>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Wirral>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Witten>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Wloclawek>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Woking>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Wolfsburg>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Wolverhampton>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Worcester>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Worthing>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Wrexham>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Wroclaw>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Wuppertal>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Wycombe>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/WÃ¼rzburg>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Würzburg>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Yambol>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/York>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Zaanstad>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Zabrze>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Zagreb>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Zamora>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Zamosc>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Zaragoza>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Zgierz>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Zilina>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Zlín>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Zoetermeer>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Zonguldak>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Zory>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Zwickau>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Zwolle>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Zürich>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Århus>
+    a ocdp:City .
+
+<http://dbpedia.org/resource/Örebro>
+    a ocdp:City .
+

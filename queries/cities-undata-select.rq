@@ -1,0 +1,30 @@
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
+PREFIX sdmxdim: <http://purl.org/linked-data/sdmx/2009/dimension#>
+PREFIX ocdp: <http://harth.org/andreas/2017/ocdp/vocabs/ocdp#>
+
+SELECT DISTINCT ?x
+FROM <http://citydata.wu.ac.at/Linked-UNData/data/240>
+FROM <http://citydata.wu.ac.at/Linked-UNData/data/277>
+FROM <http://citydata.wu.ac.at/Linked-UNData/data/279>
+FROM <http://citydata.wu.ac.at/Linked-UNData/data/281>
+FROM <http://citydata.wu.ac.at/Linked-UNData/data/283>
+FROM <http://citydata.wu.ac.at/Linked-UNData/data/285>
+FROM <http://citydata.wu.ac.at/Linked-UNData/data/289>
+FROM <http://citydata.wu.ac.at/Linked-UNData/data/291>
+FROM <http://citydata.wu.ac.at/Linked-UNData/data/293>
+FROM <http://citydata.wu.ac.at/Linked-UNData/data/295>
+FROM <http://citydata.wu.ac.at/Linked-UNData/data/297>
+FROM <http://citydata.wu.ac.at/Linked-UNData/data/299>
+FROM <http://citydata.wu.ac.at/Linked-UNData/data/301>
+FROM <http://citydata.wu.ac.at/Linked-UNData/data/303>
+FROM <http://citydata.wu.ac.at/Linked-UNData/data/305>
+FROM <http://citydata.wu.ac.at/Linked-UNData/data/307>
+FROM <http://citydata.wu.ac.at/Linked-UNData/data/308>
+FROM <http://citydata.wu.ac.at/Linked-UNData/data/310>
+FROM <http://citydata.wu.ac.at/Linked-UNData/data/312>
+FROM <http://citydata.wu.ac.at/Linked-UNData/data/314>
+FROM <http://citydata.wu.ac.at/Linked-UNData/data/316>
+WHERE {
+  [] sdmxdim:refArea ?x .
+}

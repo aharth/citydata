@@ -1,0 +1,90 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix qb: <http://purl.org/linked-data/cube#> .
+
+<http://citydata.wu.ac.at/Linked-UNData/data/240>
+    dcterms:title "U.N. Dataset - 240" ;
+    a qb:DataSet .
+
+<http://citydata.wu.ac.at/Linked-UNData/data/277>
+    dcterms:title "U.N. Dataset - 277" ;
+    a qb:DataSet .
+
+<http://citydata.wu.ac.at/Linked-UNData/data/279>
+    dcterms:title "U.N. Dataset - 279" ;
+    a qb:DataSet .
+
+<http://citydata.wu.ac.at/Linked-UNData/data/281>
+    dcterms:title "U.N. Dataset - 281" ;
+    a qb:DataSet .
+
+<http://citydata.wu.ac.at/Linked-UNData/data/283>
+    dcterms:title "U.N. Dataset - 283" ;
+    a qb:DataSet .
+
+<http://citydata.wu.ac.at/Linked-UNData/data/285>
+    dcterms:title "U.N. Dataset - 285" ;
+    a qb:DataSet .
+
+<http://citydata.wu.ac.at/Linked-UNData/data/289>
+    dcterms:title "U.N. Dataset - 289" ;
+    a qb:DataSet .
+
+<http://citydata.wu.ac.at/Linked-UNData/data/291>
+    dcterms:title "U.N. Dataset - 291" ;
+    a qb:DataSet .
+
+<http://citydata.wu.ac.at/Linked-UNData/data/293>
+    dcterms:title "U.N. Dataset - 293" ;
+    a qb:DataSet .
+
+<http://citydata.wu.ac.at/Linked-UNData/data/295>
+    dcterms:title "U.N. Dataset - 295" ;
+    a qb:DataSet .
+
+<http://citydata.wu.ac.at/Linked-UNData/data/297>
+    dcterms:title "U.N. Dataset - 297" ;
+    a qb:DataSet .
+
+<http://citydata.wu.ac.at/Linked-UNData/data/299>
+    dcterms:title "U.N. Dataset - 299" ;
+    a qb:DataSet .
+
+<http://citydata.wu.ac.at/Linked-UNData/data/301>
+    dcterms:title "U.N. Dataset - 301" ;
+    a qb:DataSet .
+
+<http://citydata.wu.ac.at/Linked-UNData/data/303>
+    dcterms:title "U.N. Dataset - 303" ;
+    a qb:DataSet .
+
+<http://citydata.wu.ac.at/Linked-UNData/data/305>
+    dcterms:title "U.N. Dataset - 305" ;
+    a qb:DataSet .
+
+<http://citydata.wu.ac.at/Linked-UNData/data/307>
+    dcterms:title "U.N. Dataset - 307" ;
+    a qb:DataSet .
+
+<http://citydata.wu.ac.at/Linked-UNData/data/308>
+    dcterms:title "U.N. Dataset - 308" ;
+    a qb:DataSet .
+
+<http://citydata.wu.ac.at/Linked-UNData/data/310>
+    dcterms:title "U.N. Dataset - 310" ;
+    a qb:DataSet .
+
+<http://citydata.wu.ac.at/Linked-UNData/data/312>
+    dcterms:title "U.N. Dataset - 312" ;
+    a qb:DataSet .
+
+<http://citydata.wu.ac.at/Linked-UNData/data/314>
+    dcterms:title "U.N. Dataset - 314" ;
+    a qb:DataSet .
+
+<http://citydata.wu.ac.at/Linked-UNData/data/316>
+    dcterms:title "U.N. Dataset - 316" ;
+    a qb:DataSet .
+

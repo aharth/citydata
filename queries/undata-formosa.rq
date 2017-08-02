@@ -1,0 +1,15 @@
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
+PREFIX sdmxdim: <http://purl.org/linked-data/sdmx/2009/dimension#>
+PREFIX ocdp: <http://harth.org/andreas/2017/ocdp/vocabs/ocdp#>
+
+SELECT DISTINCT ?year ?population 
+FROM <http://citydata.wu.ac.at/Linked-UNData/data/240>
+WHERE {
+  [] sdmxdim:refArea <http://dbpedia.org/resource/Formosa> ;
+     <http://purl.org/linked-data/sdmx/2009/measure#obsValue> ?population ;
+     <http://purl.org/dc/terms/date> ?year ;
+     <http://citydata.wu.ac.at/ns#freq> <http://citydata.wu.ac.at/Linked-UNData/un_freq#A> ;
+     <http://citydata.wu.ac.at/ns#hasIndicator> <http://citydata.wu.ac.at/ns#population> ;
+     <http://citydata.wu.ac.at/ns#unit> <http://citydata.wu.ac.at/Linked-UNData/un_unit#COUNT> .
+}

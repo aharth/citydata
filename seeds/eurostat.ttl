@@ -1,0 +1,114 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix owl: <http://www.w3.org/2002/07/owl#>.
+@prefix dcterms: <http://purl.org/dc/terms/>.
+@prefix qb: <http://purl.org/linked-data/cube#> .
+
+# Eurostat (except Urban Audit)
+
+#<http://estatwrap.ontologycentral.com/id/nama_10r_3popgdp#ds> a qb:DataSet ;
+#    dcterms:title "Eurostat Population Dataset" .
+
+#<http://estatwrap.ontologycentral.com/id/lfst_r_lfp2act#ds> a qb:DataSet ;
+#    dcterms:title "Eurostat Population Dataset" .
+
+#<http://estatwrap.ontologycentral.com/id/met_lfp3pop#ds> a qb:DataSet ;
+#    dcterms:title "Eurostat Population Dataset" .
+
+<http://estatwrap.ontologycentral.com/id/crim_hom_city#ds> a qb:DataSet ;
+    dcterms:title "Crimes recorded by the police: homicide in cities" .
+
+<http://estatwrap.ontologycentral.com/id/tour_occ_nim#ds> a qb:DataSet ;
+    dcterms:title "Nights spent at tourist accommodation establishments - monthly data" .
+
+<http://estatwrap.ontologycentral.com/id/educ_uoe_enrt03#ds> a qb:DataSet ;
+    dcterms:title "Students enrolled in tertiary education by education level, programme orientation, sex and field of education" .
+
+#<http://estatwrap.ontologycentral.com/id/lfst_r_lfu2ltu#ds> a qb:DataSet ;
+#    dcterms:title "Eurostat Unemployment Dataset" .
+
+#<http://estatwrap.ontologycentral.com/id/lfst_r_lfu3pers#ds> a qb:DataSet ;
+#    dcterms:title "Eurostat Unemployment Dataset" .
+
+#<http://estatwrap.ontologycentral.com/id/lfst_r_lfu3rt#ds> a qb:DataSet ;
+#    dcterms:title "Eurostat Unemployment Dataset" .
+
+#<http://estatwrap.ontologycentral.com/id/tsieb020#ds> a qb:DataSet ;
+#    dcterms:title "Eurostat GDP Dataset" .
+
+# Eurostat (Urban Audit)
+
+<http://estatwrap.ontologycentral.com/id/urb_cecfi#id> a qb:DataSet ;
+    dcterms:title "Economy and finance - cities and greater cities" .
+
+<http://estatwrap.ontologycentral.com/id/urb_ceduc#id> a qb:DataSet ;
+    dcterms:title "Education - cities and greater cities" .
+
+<http://estatwrap.ontologycentral.com/id/urb_cenv#id> a qb:DataSet ;
+    dcterms:title "Environment - cities and greater cities" .
+
+<http://estatwrap.ontologycentral.com/id/urb_cfermor#id> a qb:DataSet ;
+    dcterms:title "Fertility and mortality - cities and greater cities" .
+
+<http://estatwrap.ontologycentral.com/id/urb_clivcon#id> a qb:DataSet ;
+    dcterms:title "Living conditions - cities and greater cities" .
+
+<http://estatwrap.ontologycentral.com/id/urb_clma#id> a qb:DataSet ;
+    dcterms:title "Labour market - cities and greater cities" .
+
+<http://estatwrap.ontologycentral.com/id/urb_cpop1#id> a qb:DataSet ;
+    dcterms:title "Population on 1 January by age groups and sex - cities and greater cities" .
+
+<http://estatwrap.ontologycentral.com/id/urb_cpopcb#id> a qb:DataSet ;
+    dcterms:title "Population by citizenship and country of birth - cities and greater cities" .
+
+<http://estatwrap.ontologycentral.com/id/urb_cpopstr#id> a qb:DataSet ;
+    dcterms:title "Population structure - cities and greater cities" .
+
+<http://estatwrap.ontologycentral.com/id/urb_ctour#id> a qb:DataSet ;
+    dcterms:title "Culture and tourism - cities and greater cities" .
+
+<http://estatwrap.ontologycentral.com/id/urb_ctran#id> a qb:DataSet ;
+    dcterms:title "Transport - cities and greater cities" .
+
+<http://estatwrap.ontologycentral.com/id/urb_leduc#id> a qb:DataSet ;
+    dcterms:title "Education - functional urban areas" .
+
+<http://estatwrap.ontologycentral.com/id/urb_lenv#id> a qb:DataSet ;
+    dcterms:title "Environment - functional urban areas" .
+
+<http://estatwrap.ontologycentral.com/id/urb_lfermor#id> a qb:DataSet ;
+    dcterms:title "Fertility and mortality - functional urban areas" .
+
+<http://estatwrap.ontologycentral.com/id/urb_llivcon#id> a qb:DataSet ;
+    dcterms:title "Living conditions - functional urban areas" .
+
+<http://estatwrap.ontologycentral.com/id/urb_llma#id> a qb:DataSet ;
+    dcterms:title "Labour market - functional urban areas" .
+
+<http://estatwrap.ontologycentral.com/id/urb_lpop1#id> a qb:DataSet ;
+    dcterms:title "Population on 1 January by age groups and sex - functional urban areas" .
+
+<http://estatwrap.ontologycentral.com/id/urb_lpopcb#id> a qb:DataSet ;
+    dcterms:title "Population by citizenship and country of birth - functional urban areas" .
+
+<http://estatwrap.ontologycentral.com/id/urb_lpopstr#id> a qb:DataSet ;
+    dcterms:title "Population structure - functional urban areas" .
+
+<http://estatwrap.ontologycentral.com/id/urb_ltran#id> a qb:DataSet ;
+    dcterms:title "Transport - functional urban areas" .
+
+<http://estatwrap.ontologycentral.com/id/urb_percep#id> a qb:DataSet ;
+    dcterms:title "Perception survey results" .
+
+# Links
+
+<> rdfs:seeAlso
+# Links from Estatwrap Indicators to CDP ontology
+<../links/eurostat-indicator-cd-links.ttl> ,
+
+# Links of dimension properties 
+<../links/eurostat-dimension-links.ttl> ,
+
+# Links of city estatwrap dbpedia
+<../links/eurostat-cities-dbpedia-links.ttl> .

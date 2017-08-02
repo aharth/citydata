@@ -1,0 +1,12 @@
+PREFIX owl: <http://www.w3.org/2002/07/owl#>
+PREFIX ocdp: <http://harth.org/andreas/2017/ocdp/vocabs/ocdp#>
+
+CONSTRUCT {
+ ?ecity owl:sameAs ?wcity .
+ ?wcity a ocdp:City .
+}
+FROM <eurostat-ls-cities-select-wikidata.csv> 
+WHERE {
+BIND (URI(CONCAT("http://estatwrap.ontologycentral.com/dic/cities#", ?id, "1")) AS ?ecity)
+BIND (URI(CONCAT("http://www.wikidata.org/entity/", ?wikicity)) AS ?wcity)
+}

@@ -1,0 +1,12 @@
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
+PREFIX sdmxdim: <http://purl.org/linked-data/sdmx/2009/dimension#>
+PREFIX ocdp: <http://harth.org/andreas/2017/ocdp/vocabs/ocdp#>
+
+CONSTRUCT {
+ ?x a ocdp:City .
+}
+FROM <cities-undata-dbpedia.ttl>
+WHERE {
+  ?x a <http://dbpedia.org/ontology/City> .
+}

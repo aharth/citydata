@@ -1,0 +1,100 @@
+x,id,label,isocode,clabel
+http://eurostat.linked-statistics.org/dic/cities#BE001C,BE001C,Bruxelles / Brussel,BE,Belgium
+http://eurostat.linked-statistics.org/dic/cities#BE002C,BE002C,Antwerpen,BE,Belgium
+http://eurostat.linked-statistics.org/dic/cities#BE003C,BE003C,Gent,BE,Belgium
+http://eurostat.linked-statistics.org/dic/cities#BE004C,BE004C,Charleroi,BE,Belgium
+http://eurostat.linked-statistics.org/dic/cities#BE005C,BE005C,Liège,BE,Belgium
+http://eurostat.linked-statistics.org/dic/cities#BE006C,BE006C,Brugge,BE,Belgium
+http://eurostat.linked-statistics.org/dic/cities#BE007C,BE007C,Namur,BE,Belgium
+http://eurostat.linked-statistics.org/dic/cities#BG001C,BG001C,Sofia,BG,Bulgaria
+http://eurostat.linked-statistics.org/dic/cities#BG002C,BG002C,Plovdiv,BG,Bulgaria
+http://eurostat.linked-statistics.org/dic/cities#BG003C,BG003C,Varna,BG,Bulgaria
+http://eurostat.linked-statistics.org/dic/cities#BG004C,BG004C,Burgas,BG,Bulgaria
+http://eurostat.linked-statistics.org/dic/cities#BG005C,BG005C,Pleven,BG,Bulgaria
+http://eurostat.linked-statistics.org/dic/cities#BG006C,BG006C,Ruse,BG,Bulgaria
+http://eurostat.linked-statistics.org/dic/cities#BG007C,BG007C,Vidin,BG,Bulgaria
+http://eurostat.linked-statistics.org/dic/cities#BG008C,BG008C,Stara Zagora,BG,Bulgaria
+http://eurostat.linked-statistics.org/dic/cities#CZ001C,CZ001C,Praha,CZ,Czech Republic
+http://eurostat.linked-statistics.org/dic/cities#CZ002C,CZ002C,Brno,CZ,Czech Republic
+http://eurostat.linked-statistics.org/dic/cities#CZ003C,CZ003C,Ostrava,CZ,Czech Republic
+http://eurostat.linked-statistics.org/dic/cities#CZ004C,CZ004C,Plzen,CZ,Czech Republic
+http://eurostat.linked-statistics.org/dic/cities#CZ005C,CZ005C,Usti nad Labem,CZ,Czech Republic
+http://eurostat.linked-statistics.org/dic/cities#CZ006C,CZ006C,Olomouc,CZ,Czech Republic
+http://eurostat.linked-statistics.org/dic/cities#CZ007C,CZ007C,Liberec,CZ,Czech Republic
+http://eurostat.linked-statistics.org/dic/cities#CZ008C,CZ008C,Ceske Budejovice,CZ,Czech Republic
+http://eurostat.linked-statistics.org/dic/cities#CZ009C,CZ009C,Hradec Kralove,CZ,Czech Republic
+http://eurostat.linked-statistics.org/dic/cities#CZ010C,CZ010C,Pardubice,CZ,Czech Republic
+http://eurostat.linked-statistics.org/dic/cities#CZ011C,CZ011C,Zlin,CZ,Czech Republic
+http://eurostat.linked-statistics.org/dic/cities#CZ012C,CZ012C,Kladno,CZ,Czech Republic
+http://eurostat.linked-statistics.org/dic/cities#CZ013C,CZ013C,Karlovy Vary,CZ,Czech Republic
+http://eurostat.linked-statistics.org/dic/cities#CZ014C,CZ014C,Jihlava,CZ,Czech Republic
+http://eurostat.linked-statistics.org/dic/cities#DK001C,DK001C,København,DK,Denmark
+http://eurostat.linked-statistics.org/dic/cities#DK002C,DK002C,Aarhus,DK,Denmark
+http://eurostat.linked-statistics.org/dic/cities#DK003C,DK003C,Odense,DK,Denmark
+http://eurostat.linked-statistics.org/dic/cities#DK004C,DK004C,Aalborg,DK,Denmark
+http://eurostat.linked-statistics.org/dic/cities#DE001C,DE001C,Berlin,DE,Germany (including  former GDR from 1991)
+http://eurostat.linked-statistics.org/dic/cities#DE002C,DE002C,Hamburg,DE,Germany (including  former GDR from 1991)
+http://eurostat.linked-statistics.org/dic/cities#DE003C,DE003C,München,DE,Germany (including  former GDR from 1991)
+http://eurostat.linked-statistics.org/dic/cities#DE004C,DE004C,Köln,DE,Germany (including  former GDR from 1991)
+http://eurostat.linked-statistics.org/dic/cities#DE005C,DE005C,Frankfurt am Main,DE,Germany (including  former GDR from 1991)
+http://eurostat.linked-statistics.org/dic/cities#DE006C,DE006C,Essen,DE,Germany (including  former GDR from 1991)
+http://eurostat.linked-statistics.org/dic/cities#DE007C,DE007C,Stuttgart,DE,Germany (including  former GDR from 1991)
+http://eurostat.linked-statistics.org/dic/cities#DE008C,DE008C,Leipzig,DE,Germany (including  former GDR from 1991)
+http://eurostat.linked-statistics.org/dic/cities#DE009C,DE009C,Dresden,DE,Germany (including  former GDR from 1991)
+http://eurostat.linked-statistics.org/dic/cities#DE010C,DE010C,Dortmund,DE,Germany (including  former GDR from 1991)
+http://eurostat.linked-statistics.org/dic/cities#DE011C,DE011C,Düsseldorf,DE,Germany (including  former GDR from 1991)
+http://eurostat.linked-statistics.org/dic/cities#DE012C,DE012C,Bremen,DE,Germany (including  former GDR from 1991)
+http://eurostat.linked-statistics.org/dic/cities#DE013C,DE013C,Hannover,DE,Germany (including  former GDR from 1991)
+http://eurostat.linked-statistics.org/dic/cities#DE014C,DE014C,Nürnberg,DE,Germany (including  former GDR from 1991)
+http://eurostat.linked-statistics.org/dic/cities#DE015C,DE015C,Bochum,DE,Germany (including  former GDR from 1991)
+http://eurostat.linked-statistics.org/dic/cities#DE016C,DE016C,Wuppertal,DE,Germany (including  former GDR from 1991)
+http://eurostat.linked-statistics.org/dic/cities#DE017C,DE017C,Bielefeld,DE,Germany (including  former GDR from 1991)
+http://eurostat.linked-statistics.org/dic/cities#DE018C,DE018C,Halle an der Saale,DE,Germany (including  former GDR from 1991)
+http://eurostat.linked-statistics.org/dic/cities#DE019C,DE019C,Magdeburg,DE,Germany (including  former GDR from 1991)
+http://eurostat.linked-statistics.org/dic/cities#DE020C,DE020C,Wiesbaden,DE,Germany (including  former GDR from 1991)
+http://eurostat.linked-statistics.org/dic/cities#DE021C,DE021C,Göttingen,DE,Germany (including  former GDR from 1991)
+http://eurostat.linked-statistics.org/dic/cities#DE022C,DE022C,Mülheim a.d.Ruhr,DE,Germany (including  former GDR from 1991)
+http://eurostat.linked-statistics.org/dic/cities#DE023C,DE023C,Moers,DE,Germany (including  former GDR from 1991)
+http://eurostat.linked-statistics.org/dic/cities#DE025C,DE025C,Darmstadt,DE,Germany (including  former GDR from 1991)
+http://eurostat.linked-statistics.org/dic/cities#DE026C,DE026C,Trier,DE,Germany (including  former GDR from 1991)
+http://eurostat.linked-statistics.org/dic/cities#DE027C,DE027C,Freiburg im Breisgau,DE,Germany (including  former GDR from 1991)
+http://eurostat.linked-statistics.org/dic/cities#DE028C,DE028C,Regensburg,DE,Germany (including  former GDR from 1991)
+http://eurostat.linked-statistics.org/dic/cities#DE029C,DE029C,Frankfurt (Oder),DE,Germany (including  former GDR from 1991)
+http://eurostat.linked-statistics.org/dic/cities#DE030C,DE030C,Weimar,DE,Germany (including  former GDR from 1991)
+http://eurostat.linked-statistics.org/dic/cities#DE031C,DE031C,Schwerin,DE,Germany (including  former GDR from 1991)
+http://eurostat.linked-statistics.org/dic/cities#DE032C,DE032C,Erfurt,DE,Germany (including  former GDR from 1991)
+http://eurostat.linked-statistics.org/dic/cities#DE033C,DE033C,Augsburg,DE,Germany (including  former GDR from 1991)
+http://eurostat.linked-statistics.org/dic/cities#DE034C,DE034C,Bonn,DE,Germany (including  former GDR from 1991)
+http://eurostat.linked-statistics.org/dic/cities#DE035C,DE035C,Karlsruhe,DE,Germany (including  former GDR from 1991)
+http://eurostat.linked-statistics.org/dic/cities#DE036C,DE036C,Mönchengladbach,DE,Germany (including  former GDR from 1991)
+http://eurostat.linked-statistics.org/dic/cities#DE037C,DE037C,Mainz,DE,Germany (including  former GDR from 1991)
+http://eurostat.linked-statistics.org/dic/cities#DE039C,DE039C,Kiel,DE,Germany (including  former GDR from 1991)
+http://eurostat.linked-statistics.org/dic/cities#DE040C,DE040C,Saarbrucken,DE,Germany (including  former GDR from 1991)
+http://eurostat.linked-statistics.org/dic/cities#DE041C,DE041C,Potsdam,DE,Germany (including  former GDR from 1991)
+http://eurostat.linked-statistics.org/dic/cities#DE042C,DE042C,Koblenz,DE,Germany (including  former GDR from 1991)
+http://eurostat.linked-statistics.org/dic/cities#DE043C,DE043C,Rostock,DE,Germany (including  former GDR from 1991)
+http://eurostat.linked-statistics.org/dic/cities#DE501C,DE501C,Duisburg,DE,Germany (including  former GDR from 1991)
+http://eurostat.linked-statistics.org/dic/cities#DE502C,DE502C,Mannheim,DE,Germany (including  former GDR from 1991)
+http://eurostat.linked-statistics.org/dic/cities#DE503C,DE503C,Gelsenkirchen,DE,Germany (including  former GDR from 1991)
+http://eurostat.linked-statistics.org/dic/cities#DE504C,DE504C,Munster,DE,Germany (including  former GDR from 1991)
+http://eurostat.linked-statistics.org/dic/cities#DE505C,DE505C,Chemnitz,DE,Germany (including  former GDR from 1991)
+http://eurostat.linked-statistics.org/dic/cities#DE506C,DE506C,Braunschweig,DE,Germany (including  former GDR from 1991)
+http://eurostat.linked-statistics.org/dic/cities#DE507C,DE507C,Aachen,DE,Germany (including  former GDR from 1991)
+http://eurostat.linked-statistics.org/dic/cities#DE508C,DE508C,Krefeld,DE,Germany (including  former GDR from 1991)
+http://eurostat.linked-statistics.org/dic/cities#DE509C,DE509C,Oberhausen,DE,Germany (including  former GDR from 1991)
+http://eurostat.linked-statistics.org/dic/cities#DE510C,DE510C,Lubeck,DE,Germany (including  former GDR from 1991)
+http://eurostat.linked-statistics.org/dic/cities#DE511C,DE511C,Hagen,DE,Germany (including  former GDR from 1991)
+http://eurostat.linked-statistics.org/dic/cities#DE512C,DE512C,Rostock,DE,Germany (including  former GDR from 1991)
+http://eurostat.linked-statistics.org/dic/cities#DE513C,DE513C,Kassel,DE,Germany (including  former GDR from 1991)
+http://eurostat.linked-statistics.org/dic/cities#DE514C,DE514C,Hamm,DE,Germany (including  former GDR from 1991)
+http://eurostat.linked-statistics.org/dic/cities#DE515C,DE515C,Herne,DE,Germany (including  former GDR from 1991)
+http://eurostat.linked-statistics.org/dic/cities#DE516C,DE516C,Solingen,DE,Germany (including  former GDR from 1991)
+http://eurostat.linked-statistics.org/dic/cities#DE517C,DE517C,Osnabruck,DE,Germany (including  former GDR from 1991)
+http://eurostat.linked-statistics.org/dic/cities#DE518C,DE518C,Ludwigshafen am Rhein,DE,Germany (including  former GDR from 1991)
+http://eurostat.linked-statistics.org/dic/cities#DE519C,DE519C,Leverkusen,DE,Germany (including  former GDR from 1991)
+http://eurostat.linked-statistics.org/dic/cities#DE520C,DE520C,Oldenburg (Oldenburg),DE,Germany (including  former GDR from 1991)
+http://eurostat.linked-statistics.org/dic/cities#DE521C,DE521C,Neuss,DE,Germany (including  former GDR from 1991)
+http://eurostat.linked-statistics.org/dic/cities#DE522C,DE522C,Heidelberg,DE,Germany (including  former GDR from 1991)
+http://eurostat.linked-statistics.org/dic/cities#DE523C,DE523C,Paderborn,DE,Germany (including  former GDR from 1991)
+http://eurostat.linked-statistics.org/dic/cities#DE524C,DE524C,Wurzburg,DE,Germany (including  former GDR from 1991)
+http://eurostat.linked-statistics.org/dic/cities#DE525C,DE525C,Recklinghausen,DE,Germany (including  former GDR from 1991)

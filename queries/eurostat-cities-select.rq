@@ -1,0 +1,10 @@
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
+PREFIX ocdp: <http://harth.org/andreas/2017/ocdp/vocabs/ocdp#>
+
+SELECT DISTINCT ?x
+FROM <http://estatwrap.ontologycentral.com/dic/cities>
+WHERE {
+  ?x a skos:Concept ; rdfs:label ?label .
+  FILTER (lang(?label) = "en")
+}

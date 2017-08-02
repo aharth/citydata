@@ -1,0 +1,30 @@
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX owl: <http://www.w3.org/2002/07/owl#> 
+PREFIX ocdp: <http://harth.org/andreas/2017/ocdp/vocabs/ocdp#>
+
+PREFIX : <http://ontologycentral.com/2009/01/eurostat/ns#>
+PREFIX qb: <http://purl.org/linked-data/cube#>
+PREFIX sdmx-measure: <http://purl.org/linked-data/sdmx/2009/measure#>
+PREFIX dcterms: <http://purl.org/dc/terms/>
+
+#FROM <wikidata-cities-pop-area-construct.ttl>
+#FROM <../links/eurostat-cities-wikidata-links.ttl>
+#FROM <http://estatwrap.ontologycentral.com/id/urb_cpop1>
+#FROM <http://estatwrap.ontologycentral.com/dic/cities>
+
+#ldfu.sh -i wikidata-cities-pop-area-construct.ttl ../links/eurostat-cities-wikidata-links.ttl http://estatwrap.ontologycentral.com/id/urb_cpop1 http://estatwrap.ontologycentral.com/dic/cities -q wikidata-cities-eurostat-check.rq wikidata-cities-eurostat-check.tsv
+
+SELECT ?x ?y ?area1 ?pop1 ?pop2
+WHERE {
+  ?x a ocdp:City .
+  ?x ocdp:population ?pop1 .
+  ?x ocdp:area ?area1 .
+
+  ?y owl:sameAs ?x .
+
+?tmp :cities ?y ;
+   :indic_ur <http://estatwrap.ontologycentral.com/dic/indic_ur#DE1001V> ;
+   dcterms:date "2015" ;
+   qb:dataSet <http://estatwrap.ontologycentral.com/id/urb_cpop1#ds> ;
+   sdmx-measure:obsValue ?pop2 .
+}

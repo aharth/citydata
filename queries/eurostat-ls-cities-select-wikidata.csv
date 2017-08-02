@@ -1,0 +1,740 @@
+x,id,label,wikicity,isocode,clabel,wikicountry
+http://eurostat.linked-statistics.org/dic/cities#BE001C,BE001C,Brussels,Q239,BE,Belgium,Q31
+http://eurostat.linked-statistics.org/dic/cities#BE002C,BE002C,Antwerp,Q12892,BE,Belgium,Q31
+http://eurostat.linked-statistics.org/dic/cities#BE003C,BE003C,Ghent,Q1296,BE,Belgium,Q31
+http://eurostat.linked-statistics.org/dic/cities#BE004C,BE004C,Charleroi,Q81046,BE,Belgium,Q31
+http://eurostat.linked-statistics.org/dic/cities#BE005C,BE005C,Liège,Q3992,BE,Belgium,Q31
+http://eurostat.linked-statistics.org/dic/cities#BE006C,BE006C,Bruges,Q12994,BE,Belgium,Q31
+http://eurostat.linked-statistics.org/dic/cities#BE007C,BE007C,Namur,Q134121,BE,Belgium,Q31
+http://eurostat.linked-statistics.org/dic/cities#BG001C,BG001C,Sofia,Q472,BG,Bulgaria,Q219
+http://eurostat.linked-statistics.org/dic/cities#BG002C,BG002C,Plovdiv,Q459,BG,Bulgaria,Q219
+http://eurostat.linked-statistics.org/dic/cities#BG003C,BG003C,Varna,Q6506,BG,Bulgaria,Q219
+http://eurostat.linked-statistics.org/dic/cities#BG004C,BG004C,Burgas,Q6509,BG,Bulgaria,Q219
+http://eurostat.linked-statistics.org/dic/cities#BG005C,BG005C,Pleven,Q165420,BG,Bulgaria,Q219
+http://eurostat.linked-statistics.org/dic/cities#BG006C,BG006C,Ruse,Q160173,BG,Bulgaria,Q219
+http://eurostat.linked-statistics.org/dic/cities#BG007C,BG007C,Vidin,Q178531,BG,Bulgaria,Q219
+http://eurostat.linked-statistics.org/dic/cities#BG008C,BG008C,Stara Zagora,Q170415,BG,Bulgaria,Q219
+http://eurostat.linked-statistics.org/dic/cities#CZ001C,CZ001C,Prague,Q1085,CZ,Youth in the Czech Republic,Q15297478
+http://eurostat.linked-statistics.org/dic/cities#CZ002C,CZ002C,Brno,Q14960,CZ,Youth in the Czech Republic,Q15297478
+http://eurostat.linked-statistics.org/dic/cities#CZ003C,CZ003C,Ostrava,Q8385,CZ,Youth in the Czech Republic,Q15297478
+http://eurostat.linked-statistics.org/dic/cities#CZ004C,CZ004C,Plzeň,Q43453,CZ,Youth in the Czech Republic,Q15297478
+http://eurostat.linked-statistics.org/dic/cities#CZ005C,CZ005C,Ústí nad Labem,Q156974,CZ,Youth in the Czech Republic,Q15297478
+http://eurostat.linked-statistics.org/dic/cities#CZ006C,CZ006C,Olomouc,Q81137,CZ,Youth in the Czech Republic,Q15297478
+http://eurostat.linked-statistics.org/dic/cities#CZ007C,CZ007C,Liberec,Q146351,CZ,Youth in the Czech Republic,Q15297478
+http://eurostat.linked-statistics.org/dic/cities#CZ008C,CZ008C,České Budějovice,Q16506,CZ,Youth in the Czech Republic,Q15297478
+http://eurostat.linked-statistics.org/dic/cities#CZ009C,CZ009C,Hradec Králové,Q180139,CZ,Youth in the Czech Republic,Q15297478
+http://eurostat.linked-statistics.org/dic/cities#CZ010C,CZ010C,Pardubice,Q36989,CZ,Youth in the Czech Republic,Q15297478
+http://eurostat.linked-statistics.org/dic/cities#CZ011C,CZ011C,Zlín,Q171018,CZ,Youth in the Czech Republic,Q15297478
+http://eurostat.linked-statistics.org/dic/cities#CZ012C,CZ012C,Kladno,Q155993,CZ,Youth in the Czech Republic,Q15297478
+http://eurostat.linked-statistics.org/dic/cities#CZ013C,CZ013C,Karlovy Vary,Q384544,CZ,Youth in the Czech Republic,Q15297478
+http://eurostat.linked-statistics.org/dic/cities#CZ014C,CZ014C,Jihlava,Q183111,CZ,Youth in the Czech Republic,Q15297478
+http://eurostat.linked-statistics.org/dic/cities#DK001C,DK001C,Copenhagen,Q1748,DK,Denmark,Q35
+http://eurostat.linked-statistics.org/dic/cities#DK002C,DK002C,Aarhus,Q25319,DK,Denmark,Q35
+http://eurostat.linked-statistics.org/dic/cities#DK003C,DK003C,Odense,Q25331,DK,Denmark,Q35
+http://eurostat.linked-statistics.org/dic/cities#DK004C,DK004C,Aalborg,Q25410,DK,Denmark,Q35
+http://eurostat.linked-statistics.org/dic/cities#DE001C,DE001C,Berlin,Q64,DE,Germany,Q183
+http://eurostat.linked-statistics.org/dic/cities#DE002C,DE002C,Hamburg,Q1055,DE,Germany,Q183
+http://eurostat.linked-statistics.org/dic/cities#DE003C,DE003C,Munich,Q1726,DE,Germany,Q183
+http://eurostat.linked-statistics.org/dic/cities#DE004C,DE004C,Cologne,Q365,DE,Germany,Q183
+http://eurostat.linked-statistics.org/dic/cities#DE005C,DE005C,Frankfurt,Q1794,DE,Germany,Q183
+http://eurostat.linked-statistics.org/dic/cities#DE006C,DE006C,Essen,Q2066,DE,Germany,Q183
+http://eurostat.linked-statistics.org/dic/cities#DE007C,DE007C,Stuttgart,Q1022,DE,Germany,Q183
+http://eurostat.linked-statistics.org/dic/cities#DE008C,DE008C,Leipzig,Q2079,DE,Germany,Q183
+http://eurostat.linked-statistics.org/dic/cities#DE009C,DE009C,Dresden,Q1731,DE,Germany,Q183
+http://eurostat.linked-statistics.org/dic/cities#DE010C,DE010C,Dortmund,Q1295,DE,Germany,Q183
+http://eurostat.linked-statistics.org/dic/cities#DE011C,DE011C,Düsseldorf,Q1718,DE,Germany,Q183
+http://eurostat.linked-statistics.org/dic/cities#DE012C,DE012C,Free Hanseatic City of Bremen,Q1209,DE,Germany,Q183
+http://eurostat.linked-statistics.org/dic/cities#DE013C,DE013C,Hanover,Q1715,DE,Germany,Q183
+http://eurostat.linked-statistics.org/dic/cities#DE014C,DE014C,Nuremberg,Q2090,DE,Germany,Q183
+http://eurostat.linked-statistics.org/dic/cities#DE015C,DE015C,Bochum,Q2103,DE,Germany,Q183
+http://eurostat.linked-statistics.org/dic/cities#DE016C,DE016C,Wuppertal,Q2107,DE,Germany,Q183
+http://eurostat.linked-statistics.org/dic/cities#DE017C,DE017C,Bielefeld,Q2112,DE,Germany,Q183
+http://eurostat.linked-statistics.org/dic/cities#DE018C,DE018C,Halle,Q2814,DE,Germany,Q183
+http://eurostat.linked-statistics.org/dic/cities#DE019C,DE019C,Magdeburg,Q1733,DE,Germany,Q183
+http://eurostat.linked-statistics.org/dic/cities#DE020C,DE020C,Wiesbaden,Q1721,DE,Germany,Q183
+http://eurostat.linked-statistics.org/dic/cities#DE021C,DE021C,Göttingen,Q3033,DE,Germany,Q183
+http://eurostat.linked-statistics.org/dic/cities#DE022C,DE022C,Mülheim an der Ruhr,Q2899,DE,Germany,Q183
+http://eurostat.linked-statistics.org/dic/cities#DE023C,DE023C,Moers,Q3132,DE,Germany,Q183
+http://eurostat.linked-statistics.org/dic/cities#DE025C,DE025C,Darmstadt,Q2973,DE,Germany,Q183
+http://eurostat.linked-statistics.org/dic/cities#DE026C,DE026C,Trier,Q3138,DE,Germany,Q183
+http://eurostat.linked-statistics.org/dic/cities#DE027C,DE027C,Freiburg im Breisgau,Q2833,DE,Germany,Q183
+http://eurostat.linked-statistics.org/dic/cities#DE028C,DE028C,Regensburg,Q2978,DE,Germany,Q183
+http://eurostat.linked-statistics.org/dic/cities#DE029C,DE029C,Frankfurt (Oder),Q4024,DE,Germany,Q183
+http://eurostat.linked-statistics.org/dic/cities#DE030C,DE030C,Weimar,Q3955,DE,Germany,Q183
+http://eurostat.linked-statistics.org/dic/cities#DE031C,DE031C,Schwerin,Q1709,DE,Germany,Q183
+http://eurostat.linked-statistics.org/dic/cities#DE032C,DE032C,Erfurt,Q1729,DE,Germany,Q183
+http://eurostat.linked-statistics.org/dic/cities#DE033C,DE033C,Augsburg,Q2749,DE,Germany,Q183
+http://eurostat.linked-statistics.org/dic/cities#DE034C,DE034C,Bonn,Q586,DE,Germany,Q183
+http://eurostat.linked-statistics.org/dic/cities#DE035C,DE035C,Karlsruhe,Q1040,DE,Germany,Q183
+http://eurostat.linked-statistics.org/dic/cities#DE036C,DE036C,Mönchengladbach,Q2758,DE,Germany,Q183
+http://eurostat.linked-statistics.org/dic/cities#DE037C,DE037C,Mainz,Q1720,DE,Germany,Q183
+http://eurostat.linked-statistics.org/dic/cities#DE039C,DE039C,Kiel,Q1707,DE,Germany,Q183
+http://eurostat.linked-statistics.org/dic/cities#DE040C,DE040C,Saarbrücken,Q1724,DE,Germany,Q183
+http://eurostat.linked-statistics.org/dic/cities#DE041C,DE041C,Potsdam,Q1711,DE,Germany,Q183
+http://eurostat.linked-statistics.org/dic/cities#DE042C,DE042C,Koblenz,Q3104,DE,Germany,Q183
+http://eurostat.linked-statistics.org/dic/cities#DE043C,DE043C,Rostock,Q2861,DE,Germany,Q183
+http://eurostat.linked-statistics.org/dic/cities#DE501C,DE501C,Duisburg,Q2100,DE,Germany,Q183
+http://eurostat.linked-statistics.org/dic/cities#DE502C,DE502C,Mannheim,Q2119,DE,Germany,Q183
+http://eurostat.linked-statistics.org/dic/cities#DE503C,DE503C,Gelsenkirchen,Q2765,DE,Germany,Q183
+http://eurostat.linked-statistics.org/dic/cities#DE504C,DE504C,Münster,Q2742,DE,Germany,Q183
+http://eurostat.linked-statistics.org/dic/cities#DE505C,DE505C,Chemnitz,Q2795,DE,Germany,Q183
+http://eurostat.linked-statistics.org/dic/cities#DE506C,DE506C,Braunschweig,Q2773,DE,Germany,Q183
+http://eurostat.linked-statistics.org/dic/cities#DE507C,DE507C,Aachen,Q1017,DE,Germany,Q183
+http://eurostat.linked-statistics.org/dic/cities#DE508C,DE508C,Krefeld,Q2805,DE,Germany,Q183
+http://eurostat.linked-statistics.org/dic/cities#DE509C,DE509C,Oberhausen,Q2838,DE,Germany,Q183
+http://eurostat.linked-statistics.org/dic/cities#DE510C,DE510C,Lübeck,Q2843,DE,Germany,Q183
+http://eurostat.linked-statistics.org/dic/cities#DE511C,DE511C,Hagen,Q2871,DE,Germany,Q183
+http://eurostat.linked-statistics.org/dic/cities#DE512C,DE512C,Rostock,Q2861,DE,Germany,Q183
+http://eurostat.linked-statistics.org/dic/cities#DE513C,DE513C,Kassel,Q2865,DE,Germany,Q183
+http://eurostat.linked-statistics.org/dic/cities#DE514C,DE514C,Hamm,Q2880,DE,Germany,Q183
+http://eurostat.linked-statistics.org/dic/cities#DE515C,DE515C,Herne,Q2904,DE,Germany,Q183
+http://eurostat.linked-statistics.org/dic/cities#DE516C,DE516C,Solingen,Q2942,DE,Germany,Q183
+http://eurostat.linked-statistics.org/dic/cities#DE517C,DE517C,Osnabrück,Q2916,DE,Germany,Q183
+http://eurostat.linked-statistics.org/dic/cities#DE518C,DE518C,Ludwigshafen,Q2910,DE,Germany,Q183
+http://eurostat.linked-statistics.org/dic/cities#DE519C,DE519C,Leverkusen,Q2938,DE,Germany,Q183
+http://eurostat.linked-statistics.org/dic/cities#DE520C,DE520C,Oldenburg,Q2936,DE,Germany,Q183
+http://eurostat.linked-statistics.org/dic/cities#DE521C,DE521C,Neuss,Q2948,DE,Germany,Q183
+http://eurostat.linked-statistics.org/dic/cities#DE522C,DE522C,Heidelberg,Q2966,DE,Germany,Q183
+http://eurostat.linked-statistics.org/dic/cities#DE523C,DE523C,Paderborn,Q2971,DE,Germany,Q183
+http://eurostat.linked-statistics.org/dic/cities#DE524C,DE524C,Würzburg,Q2999,DE,Germany,Q183
+http://eurostat.linked-statistics.org/dic/cities#DE525C,DE525C,Recklinghausen,Q3050,DE,Germany,Q183
+http://eurostat.linked-statistics.org/dic/cities#DE526C,DE526C,Wolfsburg,Q3014,DE,Germany,Q183
+http://eurostat.linked-statistics.org/dic/cities#DE527C,DE527C,Bremerhaven,Q2706,DE,Germany,Q183
+http://eurostat.linked-statistics.org/dic/cities#DE528C,DE528C,Bottrop,Q3069,DE,Germany,Q183
+http://eurostat.linked-statistics.org/dic/cities#DE529C,DE529C,Heilbronn,Q715,DE,Germany,Q183
+http://eurostat.linked-statistics.org/dic/cities#DE530C,DE530C,Remscheid,Q3097,DE,Germany,Q183
+http://eurostat.linked-statistics.org/dic/cities#DE531C,DE531C,Offenbach am Main,Q3042,DE,Germany,Q183
+http://eurostat.linked-statistics.org/dic/cities#DE532C,DE532C,Ulm,Q3012,DE,Germany,Q183
+http://eurostat.linked-statistics.org/dic/cities#DE533C,DE533C,Pforzheim,Q3046,DE,Germany,Q183
+http://eurostat.linked-statistics.org/dic/cities#DE534C,DE534C,Ingolstadt,Q3004,DE,Germany,Q183
+http://eurostat.linked-statistics.org/dic/cities#DE535C,DE535C,Gera,Q3750,DE,Germany,Q183
+http://eurostat.linked-statistics.org/dic/cities#DE536C,DE536C,Salzgitter,Q3200,DE,Germany,Q183
+http://eurostat.linked-statistics.org/dic/cities#DE537C,DE537C,Reutlingen,Q3085,DE,Germany,Q183
+http://eurostat.linked-statistics.org/dic/cities#DE538C,DE538C,Fürth,Q3075,DE,Germany,Q183
+http://eurostat.linked-statistics.org/dic/cities#DE539C,DE539C,Cottbus,Q3214,DE,Germany,Q183
+http://eurostat.linked-statistics.org/dic/cities#DE540C,DE540C,Siegen,Q3167,DE,Germany,Q183
+http://eurostat.linked-statistics.org/dic/cities#DE541C,DE541C,Bergisch Gladbach,Q3117,DE,Germany,Q183
+http://eurostat.linked-statistics.org/dic/cities#DE542C,DE542C,Hildesheim,Q3185,DE,Germany,Q183
+http://eurostat.linked-statistics.org/dic/cities#DE543C,DE543C,Witten,Q3764,DE,Germany,Q183
+http://eurostat.linked-statistics.org/dic/cities#DE544C,DE544C,Zwickau,Q3778,DE,Germany,Q183
+http://eurostat.linked-statistics.org/dic/cities#DE545C,DE545C,Erlangen,Q3126,DE,Germany,Q183
+http://eurostat.linked-statistics.org/dic/cities#DE546C,DE546C,Wuppertal,Q2107,DE,Germany,Q183
+http://eurostat.linked-statistics.org/dic/cities#DE547C,DE547C,Jena,Q3150,DE,Germany,Q183
+http://eurostat.linked-statistics.org/dic/cities#EE001C,EE001C,Tallinn,Q1770,EE,Estonia,Q191
+http://eurostat.linked-statistics.org/dic/cities#EE002C,EE002C,Tartu,Q13972,EE,Estonia,Q191
+http://eurostat.linked-statistics.org/dic/cities#IE001C,IE001C,Dublin,Q1761,IE,Ireland,Q27
+http://eurostat.linked-statistics.org/dic/cities#IE002C,IE002C,Cork,Q36647,IE,Ireland,Q27
+http://eurostat.linked-statistics.org/dic/cities#IE003C,IE003C,Limerick,Q133315,IE,Ireland,Q27
+http://eurostat.linked-statistics.org/dic/cities#IE004C,IE004C,Galway,Q129610,IE,Ireland,Q27
+http://eurostat.linked-statistics.org/dic/cities#IE005C,IE005C,Waterford,Q183551,IE,Ireland,Q27
+http://eurostat.linked-statistics.org/dic/cities#EL001C,EL001C,Athina Temple,Q25167221,EL,Greece,Q41
+http://eurostat.linked-statistics.org/dic/cities#EL002C,EL002C,Thessaloniki,Q17151,EL,Greece,Q41
+http://eurostat.linked-statistics.org/dic/cities#EL003C,EL003C,Patras,Q133123,EL,Greece,Q41
+http://eurostat.linked-statistics.org/dic/cities#EL004C,EL004C,Heraklion,Q160544,EL,Greece,Q41
+http://eurostat.linked-statistics.org/dic/cities#EL005C,EL005C,Larissa,Q178405,EL,Greece,Q41
+http://eurostat.linked-statistics.org/dic/cities#EL006C,EL006C,Volos,Q200036,EL,Greece,Q41
+http://eurostat.linked-statistics.org/dic/cities#EL007C,EL007C,Dimos Ioánnina,Q25162198,EL,Greece,Q41
+http://eurostat.linked-statistics.org/dic/cities#EL008C,EL008C,Kavala,Q187352,EL,Greece,Q41
+http://eurostat.linked-statistics.org/dic/cities#EL009C,EL009C,Kalamata,Q6350358,EL,Greece,Q41
+http://eurostat.linked-statistics.org/dic/cities#EL501C,EL501C,Piraeus,Q58976,EL,Greece,Q41
+http://eurostat.linked-statistics.org/dic/cities#ES001C,ES001C,Madrid,Q2807,ES,Spain,Q29
+http://eurostat.linked-statistics.org/dic/cities#ES002C,ES002C,Barcelona,Q1492,ES,Spain,Q29
+http://eurostat.linked-statistics.org/dic/cities#ES003C,ES003C,Valencia,Q8818,ES,Spain,Q29
+http://eurostat.linked-statistics.org/dic/cities#ES004C,ES004C,Seville,Q8717,ES,Spain,Q29
+http://eurostat.linked-statistics.org/dic/cities#ES005C,ES005C,Zaragoza,Q10305,ES,Spain,Q29
+http://eurostat.linked-statistics.org/dic/cities#ES006C,ES006C,Málaga,Q8851,ES,Spain,Q29
+http://eurostat.linked-statistics.org/dic/cities#ES007C,ES007C,Murcia,Q12225,ES,Spain,Q29
+http://eurostat.linked-statistics.org/dic/cities#ES008C,ES008C,Las Palmas de Gran Canaria,Q11974,ES,Spain,Q29
+http://eurostat.linked-statistics.org/dic/cities#ES009C,ES009C,Valladolid,Q8356,ES,Spain,Q29
+http://eurostat.linked-statistics.org/dic/cities#ES010C,ES010C,Palma,Q8826,ES,Spain,Q29
+http://eurostat.linked-statistics.org/dic/cities#ES011C,ES011C,Santiago de Compostela,Q14314,ES,Spain,Q29
+http://eurostat.linked-statistics.org/dic/cities#ES012C,ES012C,Vitoria-Gasteiz,Q14318,ES,Spain,Q29
+http://eurostat.linked-statistics.org/dic/cities#ES013C,ES013C,Oviedo,Q14317,ES,Spain,Q29
+http://eurostat.linked-statistics.org/dic/cities#ES014C,ES014C,Pamplona,Q10282,ES,Spain,Q29
+http://eurostat.linked-statistics.org/dic/cities#ES015C,ES015C,Santander,Q12233,ES,Spain,Q29
+http://eurostat.linked-statistics.org/dic/cities#ES016C,ES016C,Toledo,Q5836,ES,Spain,Q29
+http://eurostat.linked-statistics.org/dic/cities#ES017C,ES017C,Badajoz,Q15679,ES,Spain,Q29
+http://eurostat.linked-statistics.org/dic/cities#ES018C,ES018C,Logroño,Q14325,ES,Spain,Q29
+http://eurostat.linked-statistics.org/dic/cities#ES019C,ES019C,Bilbao,Q8692,ES,Spain,Q29
+http://eurostat.linked-statistics.org/dic/cities#ES020C,ES020C,Córdoba,Q5818,ES,Spain,Q29
+http://eurostat.linked-statistics.org/dic/cities#ES021C,ES021C,Alicante,Q11959,ES,Spain,Q29
+http://eurostat.linked-statistics.org/dic/cities#ES022C,ES022C,Vigo,Q8745,ES,Spain,Q29
+http://eurostat.linked-statistics.org/dic/cities#ES023C,ES023C,Gijón,Q12273,ES,Spain,Q29
+http://eurostat.linked-statistics.org/dic/cities#ES024C,ES024C,L'Hospitalet de Llobregat (lungsod),Q23999262,ES,Spain,Q29
+http://eurostat.linked-statistics.org/dic/cities#ES025C,ES025C,Santa Cruz de Tenerife,Q14328,ES,Spain,Q29
+http://eurostat.linked-statistics.org/dic/cities#ES501C,ES501C,Granada,Q8810,ES,Spain,Q29
+http://eurostat.linked-statistics.org/dic/cities#ES026C,ES026C,A Coruña,Q8757,ES,Spain,Q29
+http://eurostat.linked-statistics.org/dic/cities#ES503C,ES503C,Badalona,Q15468,ES,Spain,Q29
+http://eurostat.linked-statistics.org/dic/cities#ES504C,ES504C,Móstoles (munisipyo),Q24012719,ES,Spain,Q29
+http://eurostat.linked-statistics.org/dic/cities#ES505C,ES505C,Elche,Q10509,ES,Spain,Q29
+http://eurostat.linked-statistics.org/dic/cities#ES506C,ES506C,Cartagena,Q162615,ES,Spain,Q29
+http://eurostat.linked-statistics.org/dic/cities#ES507C,ES507C,Sabadell,Q12258,ES,Spain,Q29
+http://eurostat.linked-statistics.org/dic/cities#ES508C,ES508C,Jerez de la Frontera,Q12303,ES,Spain,Q29
+http://eurostat.linked-statistics.org/dic/cities#ES509C,ES509C,Fuenlabrada (munisipyo),Q24012745,ES,Spain,Q29
+http://eurostat.linked-statistics.org/dic/cities#ES510C,ES510C,Donostia/San Sebastián,Q10313,ES,Spain,Q29
+http://eurostat.linked-statistics.org/dic/cities#ES511C,ES511C,Alcalá de Henares,Q46940,ES,Spain,Q29
+http://eurostat.linked-statistics.org/dic/cities#ES512C,ES512C,Terrassa,Q13939,ES,Spain,Q29
+http://eurostat.linked-statistics.org/dic/cities#ES513C,ES513C,Unión por Leganés,Q6157189,ES,Spain,Q29
+http://eurostat.linked-statistics.org/dic/cities#ES514C,ES514C,Almería,Q10400,ES,Spain,Q29
+http://eurostat.linked-statistics.org/dic/cities#ES515C,ES515C,Burgos,Q9580,ES,Spain,Q29
+http://eurostat.linked-statistics.org/dic/cities#ES516C,ES516C,Salamanca,Q15695,ES,Spain,Q29
+http://eurostat.linked-statistics.org/dic/cities#ES517C,ES517C,Escudo de Alcorcón,Q22991401,ES,Spain,Q29
+http://eurostat.linked-statistics.org/dic/cities#ES518C,ES518C,Getafe,Q8802,ES,Spain,Q29
+http://eurostat.linked-statistics.org/dic/cities#ES519C,ES519C,Albacete,Q15095,ES,Spain,Q29
+http://eurostat.linked-statistics.org/dic/cities#ES520C,ES520C,Castellón de la Plana,Q15092,ES,Spain,Q29
+http://eurostat.linked-statistics.org/dic/cities#ES521C,ES521C,Huelva,Q12246,ES,Spain,Q29
+http://eurostat.linked-statistics.org/dic/cities#ES522C,ES522C,Cádiz,Q15682,ES,Spain,Q29
+http://eurostat.linked-statistics.org/dic/cities#ES523C,ES523C,León,Q15699,ES,Spain,Q29
+http://eurostat.linked-statistics.org/dic/cities#ES524C,ES524C,San Cristóbal de La Laguna,Q54898,ES,Spain,Q29
+http://eurostat.linked-statistics.org/dic/cities#ES525C,ES525C,Tarragona,Q15088,ES,Spain,Q29
+http://eurostat.linked-statistics.org/dic/cities#ES526C,ES526C,Santa Coloma de Gramenet (lungsod),Q23993246,ES,Spain,Q29
+http://eurostat.linked-statistics.org/dic/cities#ES527C,ES527C,Jaén,Q15681,ES,Spain,Q29
+http://eurostat.linked-statistics.org/dic/cities#ES528C,ES528C,Lleida,Q15090,ES,Spain,Q29
+http://eurostat.linked-statistics.org/dic/cities#ES529C,ES529C,Ourense,Q99151,ES,Spain,Q29
+http://eurostat.linked-statistics.org/dic/cities#ES530C,ES530C,Mataró (munisipyo),Q24009568,ES,Spain,Q29
+http://eurostat.linked-statistics.org/dic/cities#ES531C,ES531C,Dos Hermanas,Q5813711,ES,Spain,Q29
+http://eurostat.linked-statistics.org/dic/cities#ES532C,ES532C,Algeciras Port,Q24021209,ES,Spain,Q29
+http://eurostat.linked-statistics.org/dic/cities#ES533C,ES533C,Marbella,Q484799,ES,Spain,Q29
+http://eurostat.linked-statistics.org/dic/cities#ES534C,ES534C,Torrejón de Ardoz (munisipyo),Q24012681,ES,Spain,Q29
+http://eurostat.linked-statistics.org/dic/cities#ES535C,ES535C,Alcobendas,Q487679,ES,Spain,Q29
+http://eurostat.linked-statistics.org/dic/cities#FR001C,FR001C,Paris,Q90,FR,France,Q142
+http://eurostat.linked-statistics.org/dic/cities#FR003C,FR003C,Lyon,Q456,FR,France,Q142
+http://eurostat.linked-statistics.org/dic/cities#FR004C,FR004C,Toulouse,Q7880,FR,France,Q142
+http://eurostat.linked-statistics.org/dic/cities#FR006C,FR006C,Strasbourg,Q6602,FR,France,Q142
+http://eurostat.linked-statistics.org/dic/cities#FR007C,FR007C,Bordeaux,Q1479,FR,France,Q142
+http://eurostat.linked-statistics.org/dic/cities#FR008C,FR008C,Nantes,Q12191,FR,France,Q142
+http://eurostat.linked-statistics.org/dic/cities#FR009C,FR009C,Lille,Q648,FR,France,Q142
+http://eurostat.linked-statistics.org/dic/cities#FR010C,FR010C,Montpellier,Q6441,FR,France,Q142
+http://eurostat.linked-statistics.org/dic/cities#FR011C,FR011C,Saint-Etienne,Q42716,FR,France,Q142
+http://eurostat.linked-statistics.org/dic/cities#FR012C,FR012C,Le Havre,Q42810,FR,France,Q142
+http://eurostat.linked-statistics.org/dic/cities#FR013C,FR013C,Rennes,Q647,FR,France,Q142
+http://eurostat.linked-statistics.org/dic/cities#FR014C,FR014C,Amiens,Q41604,FR,France,Q142
+http://eurostat.linked-statistics.org/dic/cities#FR015C,FR015C,Rouen,Q30974,FR,France,Q142
+http://eurostat.linked-statistics.org/dic/cities#FR016C,FR016C,Nancy,Q40898,FR,France,Q142
+http://eurostat.linked-statistics.org/dic/cities#FR017C,FR017C,Metz,Q22690,FR,France,Q142
+http://eurostat.linked-statistics.org/dic/cities#FR018C,FR018C,Reims,Q41876,FR,France,Q142
+http://eurostat.linked-statistics.org/dic/cities#FR019C,FR019C,New Orleans,Q34404,FR,France,Q142
+http://eurostat.linked-statistics.org/dic/cities#FR020C,FR020C,Dijon,Q7003,FR,France,Q142
+http://eurostat.linked-statistics.org/dic/cities#FR021C,FR021C,Poitiers,Q6616,FR,France,Q142
+http://eurostat.linked-statistics.org/dic/cities#FR022C,FR022C,Sport à Clermont-Ferrand,Q3493975,FR,France,Q142
+http://eurostat.linked-statistics.org/dic/cities#FR023C,FR023C,Caen,Q41185,FR,France,Q142
+http://eurostat.linked-statistics.org/dic/cities#FR024C,FR024C,Limoges,Q45656,FR,France,Q142
+http://eurostat.linked-statistics.org/dic/cities#FR025C,FR025C,Besançon,Q37776,FR,France,Q142
+http://eurostat.linked-statistics.org/dic/cities#FR026C,FR026C,Grenoble,Q1289,FR,France,Q142
+http://eurostat.linked-statistics.org/dic/cities#FR027C,FR027C,Ajaccio,Q40104,FR,France,Q142
+http://eurostat.linked-statistics.org/dic/cities#FR028C,FR028C,Saint Denis,Q244380,FR,France,Q142
+http://eurostat.linked-statistics.org/dic/cities#FR029C,FR029C,Pointe-à-Pitre (munisipyo),Q24878662,FR,France,Q142
+http://eurostat.linked-statistics.org/dic/cities#FR030C,FR030C,Fort-de-France (munisipyo),Q27729485,FR,France,Q142
+http://eurostat.linked-statistics.org/dic/cities#FR031C,FR031C,Cayenne,Q44401,FR,France,Q142
+http://eurostat.linked-statistics.org/dic/cities#FR032C,FR032C,Toulon,Q575533,FR,France,Q142
+http://eurostat.linked-statistics.org/dic/cities#FR034C,FR034C,Rhônel Sporting Club de Valenciennes,Q3429969,FR,France,Q142
+http://eurostat.linked-statistics.org/dic/cities#FR035C,FR035C,Genoese tower,Q1502700,FR,France,Q142
+http://eurostat.linked-statistics.org/dic/cities#FR036C,FR036C,Angers,Q38380,FR,France,Q142
+http://eurostat.linked-statistics.org/dic/cities#FR037C,FR037C,Brest,Q140147,FR,France,Q142
+http://eurostat.linked-statistics.org/dic/cities#FR038C,FR038C,2011 Petit Le Mans,Q3377169,FR,France,Q142
+http://eurostat.linked-statistics.org/dic/cities#FR039C,FR039C,Avignon,Q6397,FR,France,Q142
+http://eurostat.linked-statistics.org/dic/cities#FR040C,FR040C,Mulhouse,Q79815,FR,France,Q142
+http://eurostat.linked-statistics.org/dic/cities#FR041C,FR041C,Béthune,Q207145,FR,France,Q142
+http://eurostat.linked-statistics.org/dic/cities#FR042C,FR042C,Four Days of Dunkirk,Q513691,FR,France,Q142
+http://eurostat.linked-statistics.org/dic/cities#FR043C,FR043C,Conservatoire à rayonnement régional de Perpignan,Q2994575,FR,France,Q142
+http://eurostat.linked-statistics.org/dic/cities#FR044C,FR044C,Nimes,Q42807,FR,France,Q142
+http://eurostat.linked-statistics.org/dic/cities#FR045C,FR045C,Pau,Q132671,FR,France,Q142
+http://eurostat.linked-statistics.org/dic/cities#FR046C,FR046C,Bayonne,Q812589,FR,France,Q142
+http://eurostat.linked-statistics.org/dic/cities#FR047C,FR047C,Annemasse,Q212901,FR,France,Q142
+http://eurostat.linked-statistics.org/dic/cities#FR048C,FR048C,Annecy,Q50189,FR,France,Q142
+http://eurostat.linked-statistics.org/dic/cities#FR049C,FR049C,Raid on Lorient,Q3485928,FR,France,Q142
+http://eurostat.linked-statistics.org/dic/cities#FR050C,FR050C,Montbéliard,Q154715,FR,France,Q142
+http://eurostat.linked-statistics.org/dic/cities#FR051C,FR051C,Paris–Troyes,Q597018,FR,France,Q142
+http://eurostat.linked-statistics.org/dic/cities#FR052C,FR052C,Saint-Nazaire,Q152027,FR,France,Q142
+http://eurostat.linked-statistics.org/dic/cities#FR053C,FR053C,La Rochelle,Q82185,FR,France,Q142
+http://eurostat.linked-statistics.org/dic/cities#FR055C,FR055C,Thionville,Q22640,FR,France,Q142
+http://eurostat.linked-statistics.org/dic/cities#FR056C,FR056C,maison d'Angoulême,Q3279163,FR,France,Q142
+http://eurostat.linked-statistics.org/dic/cities#FR057C,FR057C,Boulogne Sur Mer,Q2922134,FR,France,Q142
+http://eurostat.linked-statistics.org/dic/cities#FR058C,FR058C,Vélostation de Chambéry,Q29034762,FR,France,Q142
+http://eurostat.linked-statistics.org/dic/cities#FR059C,FR059C,Volley-Ball Chalon-sur-Saône,Q3562822,FR,France,Q142
+http://eurostat.linked-statistics.org/dic/cities#FR060C,FR060C,Chartres,Q130272,FR,France,Q142
+http://eurostat.linked-statistics.org/dic/cities#FR061C,FR061C,Foirexpo de Niort,Q3074900,FR,France,Q142
+http://eurostat.linked-statistics.org/dic/cities#FR062C,FR062C,Calais,Q612696,FR,France,Q142
+http://eurostat.linked-statistics.org/dic/cities#FR063C,FR063C,Béziers,Q174019,FR,France,Q142
+http://eurostat.linked-statistics.org/dic/cities#FR064C,FR064C,Paris-Arras Tour,Q3365097,FR,France,Q142
+http://eurostat.linked-statistics.org/dic/cities#FR065C,FR065C,Bourges,Q132404,FR,France,Q142
+http://eurostat.linked-statistics.org/dic/cities#FR066C,FR066C,Roller Armor Club Saint-Brieuc,Q3440438,FR,France,Q142
+http://eurostat.linked-statistics.org/dic/cities#FR067C,FR067C,Quimper,Q342,FR,France,Q142
+http://eurostat.linked-statistics.org/dic/cities#FR068C,FR068C,Vannes,Q6593,FR,France,Q142
+http://eurostat.linked-statistics.org/dic/cities#FR069C,FR069C,Cherbourg Harbour,Q3416395,FR,France,Q142
+http://eurostat.linked-statistics.org/dic/cities#FR070C,FR070C,Les Folies de Maubeuge,Q3232713,FR,France,Q142
+http://eurostat.linked-statistics.org/dic/cities#FR071C,FR071C,Internationaux de Tennis de BLOIS,Q13493441,FR,France,Q142
+http://eurostat.linked-statistics.org/dic/cities#FR073C,FR073C,Tarbes-3,Q20493462,FR,France,Q142
+http://eurostat.linked-statistics.org/dic/cities#FR074C,FR074C,Compiègne,Q180871,FR,France,Q142
+http://eurostat.linked-statistics.org/dic/cities#FR076C,FR076C,Belfort,Q171545,FR,France,Q142
+http://eurostat.linked-statistics.org/dic/cities#FR077C,FR077C,Maire de Roanne,Q26266362,FR,France,Q142
+http://eurostat.linked-statistics.org/dic/cities#FR078C,FR078C,Forbach,Q934654,FR,France,Q142
+http://eurostat.linked-statistics.org/dic/cities#FR079C,FR079C,Saint-Quentin,Q182744,FR,France,Q142
+http://eurostat.linked-statistics.org/dic/cities#FR080C,FR080C,Laval,Q141810,FR,France,Q142
+http://eurostat.linked-statistics.org/dic/cities#FR081C,FR081C,Bourg-en-Bresse,Q20852843,FR,France,Q142
+http://eurostat.linked-statistics.org/dic/cities#FR082C,FR082C,Beauvais,Q174257,FR,France,Q142
+http://eurostat.linked-statistics.org/dic/cities#FR083C,FR083C,Nevers,Q166997,FR,France,Q142
+http://eurostat.linked-statistics.org/dic/cities#FR084C,FR084C,Effet CREIL,Q3048926,FR,France,Q142
+http://eurostat.linked-statistics.org/dic/cities#FR085C,FR085C,La Vendéenne La Roche sur Yon,Q3213487,FR,France,Q142
+http://eurostat.linked-statistics.org/dic/cities#FR086C,FR086C,Evreux,Q171800,FR,France,Q142
+http://eurostat.linked-statistics.org/dic/cities#FR087C,FR087C,Sporting union Agen,Q3494138,FR,France,Q142
+http://eurostat.linked-statistics.org/dic/cities#FR088C,FR088C,Saint-Omer-de-Blain,Q3463073,FR,France,Q142
+http://eurostat.linked-statistics.org/dic/cities#FR089C,FR089C,Site universitaire de Périgueux,Q3485463,FR,France,Q142
+http://eurostat.linked-statistics.org/dic/cities#FR090C,FR090C,Châteauroux,Q174251,FR,France,Q142
+http://eurostat.linked-statistics.org/dic/cities#FR091C,FR091C,Épinal print,Q860708,FR,France,Q142
+http://eurostat.linked-statistics.org/dic/cities#FR092C,FR092C,Club Alès en Cévennes Volley-Ball,Q2979797,FR,France,Q142
+http://eurostat.linked-statistics.org/dic/cities#FR093C,FR093C,Foire du livre de Brive-la-Gaillarde,Q3074876,FR,France,Q142
+http://eurostat.linked-statistics.org/dic/cities#FR095C,FR095C,Elbeuf,Q247219,FR,France,Q142
+http://eurostat.linked-statistics.org/dic/cities#FR096C,FR096C,Albi,Q132801,FR,France,Q142
+http://eurostat.linked-statistics.org/dic/cities#FR097C,FR097C,Auxerre,Q16352268,FR,France,Q142
+http://eurostat.linked-statistics.org/dic/cities#FR099C,FR099C,Fréjus,Q1903049,FR,France,Q142
+http://eurostat.linked-statistics.org/dic/cities#FR101C,FR101C,Carcassonne,Q6582,FR,France,Q142
+http://eurostat.linked-statistics.org/dic/cities#FR102C,FR102C,Dieppe,Q264075,FR,France,Q142
+http://eurostat.linked-statistics.org/dic/cities#FR103C,FR103C,Festival de Vichy de Scrabble francophone,Q3070219,FR,France,Q142
+http://eurostat.linked-statistics.org/dic/cities#FR104C,FR104C,ESPE Basket Châlons-en-Champagne,Q3046130,FR,France,Q142
+http://eurostat.linked-statistics.org/dic/cities#FR105C,FR105C,Montluçon,Q193256,FR,France,Q142
+http://eurostat.linked-statistics.org/dic/cities#FR106C,FR106C,Bastia,Q134698,FR,France,Q142
+http://eurostat.linked-statistics.org/dic/cities#FR107C,FR107C,Montauban,Q172593,FR,France,Q142
+http://eurostat.linked-statistics.org/dic/cities#FR108C,FR108C,Cholet Pays de Loire Dames,Q16957938,FR,France,Q142
+http://eurostat.linked-statistics.org/dic/cities#FR109C,FR109C,Bergerac (AOC),Q2897081,FR,France,Q142
+http://eurostat.linked-statistics.org/dic/cities#FR110C,FR110C,Narbonne,Q6555,FR,France,Q142
+http://eurostat.linked-statistics.org/dic/cities#FR111C,FR111C,Saint Malo,Q3463967,FR,France,Q142
+http://eurostat.linked-statistics.org/dic/cities#FR113C,FR113C,Châtellerault,Q20493330,FR,France,Q142
+http://eurostat.linked-statistics.org/dic/cities#FR114C,FR114C,Menton,Q1221441,FR,France,Q142
+http://eurostat.linked-statistics.org/dic/cities#FR115C,FR115C,Montargis coince la bulle,Q3322442,FR,France,Q142
+http://eurostat.linked-statistics.org/dic/cities#FR116C,FR116C,Sète-1,Q20493370,FR,France,Q142
+http://eurostat.linked-statistics.org/dic/cities#FR117C,FR117C,Amicale Saint-Michel Basket Le Puy Haute-Loire,Q2843236,FR,France,Q142
+http://eurostat.linked-statistics.org/dic/cities#FR118C,FR118C,Romans-sur-Isère,Q239078,FR,France,Q142
+http://eurostat.linked-statistics.org/dic/cities#FR119C,FR119C,Rodez,Q17983446,FR,France,Q142
+http://eurostat.linked-statistics.org/dic/cities#FR120C,FR120C,Alençon lace,Q2143601,FR,France,Q142
+http://eurostat.linked-statistics.org/dic/cities#FR121C,FR121C,Soissons,Q167152,FR,France,Q142
+http://eurostat.linked-statistics.org/dic/cities#FR122C,FR122C,pilon à Villefranche-sur-Saône,Q29334978,FR,France,Q142
+http://eurostat.linked-statistics.org/dic/cities#FR123C,FR123C,Castres,Q188776,FR,France,Q142
+http://eurostat.linked-statistics.org/dic/cities#FR125C,FR125C,Fortified Sector of Haguenau,Q3477401,FR,France,Q142
+http://eurostat.linked-statistics.org/dic/cities#FR126C,FR126C,Lannion,Q3217602,FR,France,Q142
+http://eurostat.linked-statistics.org/dic/cities#FR127C,FR127C,Cambrai,Q181285,FR,France,Q142
+http://eurostat.linked-statistics.org/dic/cities#FR128C,FR128C,SO Armentières,Q3459929,FR,France,Q142
+http://eurostat.linked-statistics.org/dic/cities#FR129C,FR129C,Montelimar Beach,Q6905106,FR,France,Q142
+http://eurostat.linked-statistics.org/dic/cities#FR130C,FR130C,Moulins,Q184883,FR,France,Q142
+http://eurostat.linked-statistics.org/dic/cities#FR131C,FR131C,Dreux,Q142410,FR,France,Q142
+http://eurostat.linked-statistics.org/dic/cities#FR132C,FR132C,Cantoni di Aurillac,Q3656415,FR,France,Q142
+http://eurostat.linked-statistics.org/dic/cities#FR133C,FR133C,Missense Variant,Q27429979,FR,France,Q142
+http://eurostat.linked-statistics.org/dic/cities#FR134C,FR134C,Histoire de Saint-Dizier,Q3136795,FR,France,Q142
+http://eurostat.linked-statistics.org/dic/cities#FR135C,FR135C,Mont-de-Marsan,Q20851972,FR,France,Q142
+http://eurostat.linked-statistics.org/dic/cities#FR136C,FR136C,Ligne de Chaugey à Lons-le-Saunier,Q24937610,FR,France,Q142
+http://eurostat.linked-statistics.org/dic/cities#FR137C,FR137C,Arcachon Cup,Q2999579,FR,France,Q142
+http://eurostat.linked-statistics.org/dic/cities#FR138C,FR138C,Vienne,Q12804,FR,France,Q142
+http://eurostat.linked-statistics.org/dic/cities#FR140C,FR140C,chrismatories,Q27949738,FR,France,Q142
+http://eurostat.linked-statistics.org/dic/cities#FR141C,FR141C,campanile à Salon-de-Provence,Q29320490,FR,France,Q142
+http://eurostat.linked-statistics.org/dic/cities#FR142C,FR142C,La Basse Terre,Q21943268,FR,France,Q142
+http://eurostat.linked-statistics.org/dic/cities#FR201C,FR201C,gradin d'autel à Aubagne,Q29321128,FR,France,Q142
+http://eurostat.linked-statistics.org/dic/cities#FR202C,FR202C,WTA Aix-en-Provence Open,Q4017080,FR,France,Q142
+http://eurostat.linked-statistics.org/dic/cities#FR203C,FR203C,Marseille,Q23482,FR,France,Q142
+http://eurostat.linked-statistics.org/dic/cities#FR204C,FR204C,Grasse,Q173705,FR,France,Q142
+http://eurostat.linked-statistics.org/dic/cities#FR205C,FR205C,Nice,Q33959,FR,France,Q142
+http://eurostat.linked-statistics.org/dic/cities#FR206C,FR206C,Azur Arena Antibes,Q15150474,FR,France,Q142
+http://eurostat.linked-statistics.org/dic/cities#FR207C,FR207C,Liévin,Q217841,FR,France,Q142
+http://eurostat.linked-statistics.org/dic/cities#FR208C,FR208C,Communauté d'agglomération d'Hénin-Carvin,Q1120196,FR,France,Q142
+http://eurostat.linked-statistics.org/dic/cities#FR209C,FR209C,Regional Conservatoire of Douai,Q2994562,FR,France,Q142
+http://eurostat.linked-statistics.org/dic/cities#IT001C,IT001C,Rome,Q220,IT,Italy,Q38
+http://eurostat.linked-statistics.org/dic/cities#IT002C,IT002C,Milan,Q490,IT,Italy,Q38
+http://eurostat.linked-statistics.org/dic/cities#IT003C,IT003C,Naples,Q2634,IT,Italy,Q38
+http://eurostat.linked-statistics.org/dic/cities#IT004C,IT004C,Turin,Q495,IT,Italy,Q38
+http://eurostat.linked-statistics.org/dic/cities#IT005C,IT005C,Palermo,Q2656,IT,Italy,Q38
+http://eurostat.linked-statistics.org/dic/cities#IT006C,IT006C,Genoa,Q1449,IT,Italy,Q38
+http://eurostat.linked-statistics.org/dic/cities#IT007C,IT007C,Florence,Q2044,IT,Italy,Q38
+http://eurostat.linked-statistics.org/dic/cities#IT008C,IT008C,Bari,Q3519,IT,Italy,Q38
+http://eurostat.linked-statistics.org/dic/cities#IT009C,IT009C,Bologna,Q1891,IT,Italy,Q38
+http://eurostat.linked-statistics.org/dic/cities#IT010C,IT010C,Catania,Q1903,IT,Italy,Q38
+http://eurostat.linked-statistics.org/dic/cities#IT011C,IT011C,Venice,Q641,IT,Italy,Q38
+http://eurostat.linked-statistics.org/dic/cities#IT012C,IT012C,Verona,Q2028,IT,Italy,Q38
+http://eurostat.linked-statistics.org/dic/cities#IT013C,IT013C,Cremona,Q6231,IT,Italy,Q38
+http://eurostat.linked-statistics.org/dic/cities#IT014C,IT014C,Trento,Q3376,IT,Italy,Q38
+http://eurostat.linked-statistics.org/dic/cities#IT015C,IT015C,Trieste,Q546,IT,Italy,Q38
+http://eurostat.linked-statistics.org/dic/cities#IT016C,IT016C,Perugia,Q3437,IT,Italy,Q38
+http://eurostat.linked-statistics.org/dic/cities#IT017C,IT017C,Ancona,Q3415,IT,Italy,Q38
+http://eurostat.linked-statistics.org/dic/cities#IT018C,IT018C,L'Aquila Park,Q21972235,IT,Italy,Q38
+http://eurostat.linked-statistics.org/dic/cities#IT019C,IT019C,Pescara,Q2704,IT,Italy,Q38
+http://eurostat.linked-statistics.org/dic/cities#IT020C,IT020C,Termoli-Campobasso Railway,Q3743351,IT,Italy,Q38
+http://eurostat.linked-statistics.org/dic/cities#IT021C,IT021C,Caserta,Q2177024,IT,Italy,Q38
+http://eurostat.linked-statistics.org/dic/cities#IT022C,IT022C,Taranto,Q13498,IT,Italy,Q38
+http://eurostat.linked-statistics.org/dic/cities#IT023C,IT023C,Potenza,Q3543,IT,Italy,Q38
+http://eurostat.linked-statistics.org/dic/cities#IT024C,IT024C,Catanzaro,Q27103943,IT,Italy,Q38
+http://eurostat.linked-statistics.org/dic/cities#IT025C,IT025C,Reggio Calabria,Q8471,IT,Italy,Q38
+http://eurostat.linked-statistics.org/dic/cities#IT026C,IT026C,Sassari,Q13629,IT,Italy,Q38
+http://eurostat.linked-statistics.org/dic/cities#IT027C,IT027C,Cagliari,Q1897,IT,Italy,Q38
+http://eurostat.linked-statistics.org/dic/cities#IT028C,IT028C,Padua,Q617,IT,Italy,Q38
+http://eurostat.linked-statistics.org/dic/cities#IT029C,IT029C,Brescia,Q6221,IT,Italy,Q38
+http://eurostat.linked-statistics.org/dic/cities#IT030C,IT030C,Modena,Q279,IT,Italy,Q38
+http://eurostat.linked-statistics.org/dic/cities#IT031C,IT031C,Foggia,Q13464,IT,Italy,Q38
+http://eurostat.linked-statistics.org/dic/cities#IT032C,IT032C,Salerno,Q1083,IT,Italy,Q38
+http://eurostat.linked-statistics.org/dic/cities#IT501C,IT501C,Messina,Q13666,IT,Italy,Q38
+http://eurostat.linked-statistics.org/dic/cities#IT502C,IT502C,Prato,Q13377,IT,Italy,Q38
+http://eurostat.linked-statistics.org/dic/cities#IT503C,IT503C,Parma,Q2683,IT,Italy,Q38
+http://eurostat.linked-statistics.org/dic/cities#IT504C,IT504C,Livorno,Q6761,IT,Italy,Q38
+http://eurostat.linked-statistics.org/dic/cities#IT505C,IT505C,Reggio Emilia,Q13360,IT,Italy,Q38
+http://eurostat.linked-statistics.org/dic/cities#IT506C,IT506C,Ravenna,Q13364,IT,Italy,Q38
+http://eurostat.linked-statistics.org/dic/cities#IT507C,IT507C,Ferrara,Q13362,IT,Italy,Q38
+http://eurostat.linked-statistics.org/dic/cities#IT508C,IT508C,Rimini,Q13369,IT,Italy,Q38
+http://eurostat.linked-statistics.org/dic/cities#IT509C,IT509C,Syracuse,Q13670,IT,Italy,Q38
+http://eurostat.linked-statistics.org/dic/cities#IT510C,IT510C,Monza,Q6252,IT,Italy,Q38
+http://eurostat.linked-statistics.org/dic/cities#IT511C,IT511C,Bergamo,Q628,IT,Italy,Q38
+http://eurostat.linked-statistics.org/dic/cities#IT512C,IT512C,Forlì,Q13367,IT,Italy,Q38
+http://eurostat.linked-statistics.org/dic/cities#IT513C,IT513C,Latina,Q13410,IT,Italy,Q38
+http://eurostat.linked-statistics.org/dic/cities#IT514C,IT514C,Vicenza,Q6537,IT,Italy,Q38
+http://eurostat.linked-statistics.org/dic/cities#IT515C,IT515C,Terni,Q8621,IT,Italy,Q38
+http://eurostat.linked-statistics.org/dic/cities#IT516C,IT516C,Novara,Q6046,IT,Italy,Q38
+http://eurostat.linked-statistics.org/dic/cities#IT517C,IT517C,Giugliano in Campania,Q72125,IT,Italy,Q38
+http://eurostat.linked-statistics.org/dic/cities#CY001C,CY001C,Nicosia,Q3856,CY,Cyprus,Q229
+http://eurostat.linked-statistics.org/dic/cities#CY501C,CY501C,Limassol,Q185632,CY,Cyprus,Q229
+http://eurostat.linked-statistics.org/dic/cities#LV001C,LV001C,Riga,Q1773,LV,Latvia,Q211
+http://eurostat.linked-statistics.org/dic/cities#LV002C,LV002C,Liepāja,Q167668,LV,Latvia,Q211
+http://eurostat.linked-statistics.org/dic/cities#LV501C,LV501C,Daugavpils,Q80021,LV,Latvia,Q211
+http://eurostat.linked-statistics.org/dic/cities#LT001C,LT001C,Vilnius,Q216,LT,Lithuania,Q37
+http://eurostat.linked-statistics.org/dic/cities#LT002C,LT002C,Kaunas,Q4115712,LT,Lithuania,Q37
+http://eurostat.linked-statistics.org/dic/cities#LT003C,LT003C,Šilai (Panevėžys),Q9352779,LT,Lithuania,Q37
+http://eurostat.linked-statistics.org/dic/cities#LT501C,LT501C,Klaipėda,Q776965,LT,Lithuania,Q37
+http://eurostat.linked-statistics.org/dic/cities#LT502C,LT502C,Šiauliai,Q134712,LT,Lithuania,Q37
+http://eurostat.linked-statistics.org/dic/cities#LU001C,LU001C,Luxembourg,Q1842,LU,Luxembourg,Q32
+http://eurostat.linked-statistics.org/dic/cities#HU001C,HU001C,Budapest,Q1781,HU,Hungary,Q28
+http://eurostat.linked-statistics.org/dic/cities#HU002C,HU002C,Miskolc,Q102397,HU,Hungary,Q28
+http://eurostat.linked-statistics.org/dic/cities#HU003C,HU003C,Nyíregyháza,Q171223,HU,Hungary,Q28
+http://eurostat.linked-statistics.org/dic/cities#HU004C,HU004C,Pécs,Q45779,HU,Hungary,Q28
+http://eurostat.linked-statistics.org/dic/cities#HU005C,HU005C,Debrecen,Q79880,HU,Hungary,Q28
+http://eurostat.linked-statistics.org/dic/cities#HU006C,HU006C,Szeged,Q81581,HU,Hungary,Q28
+http://eurostat.linked-statistics.org/dic/cities#HU007C,HU007C,Győr,Q134494,HU,Hungary,Q28
+http://eurostat.linked-statistics.org/dic/cities#HU008C,HU008C,Kecskemét,Q171357,HU,Hungary,Q28
+http://eurostat.linked-statistics.org/dic/cities#HU009C,HU009C,Székesfehérvár,Q130212,HU,Hungary,Q28
+http://eurostat.linked-statistics.org/dic/cities#MT001C,MT001C,Valletta,Q1274333,MT,Malta,Q233
+http://eurostat.linked-statistics.org/dic/cities#MT002C,MT002C,Gozo-gozo,Q12258712,MT,Malta,Q233
+http://eurostat.linked-statistics.org/dic/cities#NL001C,NL001C,The Hague,Q36600,NL,dolmens in the Netherlands,Q1917059
+http://eurostat.linked-statistics.org/dic/cities#NL002C,NL002C,Amsterdam,Q727,NL,dolmens in the Netherlands,Q1917059
+http://eurostat.linked-statistics.org/dic/cities#NL003C,NL003C,Rotterdam,Q34370,NL,dolmens in the Netherlands,Q1917059
+http://eurostat.linked-statistics.org/dic/cities#NL004C,NL004C,Utrecht,Q803,NL,dolmens in the Netherlands,Q1917059
+http://eurostat.linked-statistics.org/dic/cities#NL005C,NL005C,Eindhoven,Q9832,NL,dolmens in the Netherlands,Q1917059
+http://eurostat.linked-statistics.org/dic/cities#NL006C,NL006C,Tilburg,Q9871,NL,dolmens in the Netherlands,Q1917059
+http://eurostat.linked-statistics.org/dic/cities#NL007C,NL007C,Groningen,Q749,NL,dolmens in the Netherlands,Q1917059
+http://eurostat.linked-statistics.org/dic/cities#NL008C,NL008C,Enschede,Q10002,NL,dolmens in the Netherlands,Q1917059
+http://eurostat.linked-statistics.org/dic/cities#NL009C,NL009C,Arnhem,Q1310,NL,dolmens in the Netherlands,Q1917059
+http://eurostat.linked-statistics.org/dic/cities#NL010C,NL010C,Li-Ning/Infinity Heerlen,Q2735119,NL,dolmens in the Netherlands,Q1917059
+http://eurostat.linked-statistics.org/dic/cities#NL011C,NL011C,Almere,Q83178,NL,dolmens in the Netherlands,Q1917059
+http://eurostat.linked-statistics.org/dic/cities#NL012C,NL012C,Breda,Q40844,NL,dolmens in the Netherlands,Q1917059
+http://eurostat.linked-statistics.org/dic/cities#NL013C,NL013C,Nijmegen,Q47887,NL,dolmens in the Netherlands,Q1917059
+http://eurostat.linked-statistics.org/dic/cities#NL014C,NL014C,Apeldoorn,Q3018561,NL,dolmens in the Netherlands,Q1917059
+http://eurostat.linked-statistics.org/dic/cities#NL015C,NL015C,Leeuwarden,Q25390,NL,dolmens in the Netherlands,Q1917059
+http://eurostat.linked-statistics.org/dic/cities#NL501C,NL501C,Haarlem,Q9920,NL,dolmens in the Netherlands,Q1917059
+http://eurostat.linked-statistics.org/dic/cities#NL502C,NL502C,VV Zaanstad,Q2913563,NL,dolmens in the Netherlands,Q1917059
+http://eurostat.linked-statistics.org/dic/cities#NL503C,NL503C,'s-Hertogenbosch,Q2766547,NL,dolmens in the Netherlands,Q1917059
+http://eurostat.linked-statistics.org/dic/cities#NL504C,NL504C,Amersfoort,Q992,NL,dolmens in the Netherlands,Q1917059
+http://eurostat.linked-statistics.org/dic/cities#NL505C,NL505C,Maastricht,Q1309,NL,dolmens in the Netherlands,Q1917059
+http://eurostat.linked-statistics.org/dic/cities#NL506C,NL506C,Dordrecht,Q26421,NL,dolmens in the Netherlands,Q1917059
+http://eurostat.linked-statistics.org/dic/cities#NL507C,NL507C,Leiden,Q43631,NL,dolmens in the Netherlands,Q1917059
+http://eurostat.linked-statistics.org/dic/cities#NL508C,NL508C,Nieuwerkerk,Q2625297,NL,dolmens in the Netherlands,Q1917059
+http://eurostat.linked-statistics.org/dic/cities#NL509C,NL509C,Zoetermeer,Q26432,NL,dolmens in the Netherlands,Q1917059
+http://eurostat.linked-statistics.org/dic/cities#NL510C,NL510C,Emmen,Q6807568,NL,dolmens in the Netherlands,Q1917059
+http://eurostat.linked-statistics.org/dic/cities#NL511C,NL511C,Zwolle,Q793,NL,dolmens in the Netherlands,Q1917059
+http://eurostat.linked-statistics.org/dic/cities#NL512C,NL512C,Ede,Q26555,NL,dolmens in the Netherlands,Q1917059
+http://eurostat.linked-statistics.org/dic/cities#NL513C,NL513C,Deventer,Q26296883,NL,dolmens in the Netherlands,Q1917059
+http://eurostat.linked-statistics.org/dic/cities#NL514C,NL514C,Alkmaar,Q16977290,NL,dolmens in the Netherlands,Q1917059
+http://eurostat.linked-statistics.org/dic/cities#NL515C,NL515C,Venlo,Q3322237,NL,dolmens in the Netherlands,Q1917059
+http://eurostat.linked-statistics.org/dic/cities#NL516C,NL516C,Helmond,Q9844,NL,dolmens in the Netherlands,Q1917059
+http://eurostat.linked-statistics.org/dic/cities#NL517C,NL517C,Hengelo,Q417923,NL,dolmens in the Netherlands,Q1917059
+http://eurostat.linked-statistics.org/dic/cities#NL518C,NL518C,Schiedam,Q204709,NL,dolmens in the Netherlands,Q1917059
+http://eurostat.linked-statistics.org/dic/cities#NL519C,NL519C,Almelo,Q988,NL,dolmens in the Netherlands,Q1917059
+http://eurostat.linked-statistics.org/dic/cities#NL520C,NL520C,Lelystad,Q166065,NL,dolmens in the Netherlands,Q1917059
+http://eurostat.linked-statistics.org/dic/cities#AT001C,AT001C,Vienna,Q1741,AT,Austria,Q40
+http://eurostat.linked-statistics.org/dic/cities#AT002C,AT002C,Graz,Q13298,AT,Austria,Q40
+http://eurostat.linked-statistics.org/dic/cities#AT003C,AT003C,Linz,Q41329,AT,Austria,Q40
+http://eurostat.linked-statistics.org/dic/cities#AT004C,AT004C,Salzburg,Q34713,AT,Austria,Q40
+http://eurostat.linked-statistics.org/dic/cities#AT005C,AT005C,Innsbruck,Q1735,AT,Austria,Q40
+http://eurostat.linked-statistics.org/dic/cities#PL001C,PL001C,Warsaw,Q270,PL,Poland,Q36
+http://eurostat.linked-statistics.org/dic/cities#PL002C,PL002C,Łódź,Q580,PL,Poland,Q36
+http://eurostat.linked-statistics.org/dic/cities#PL003C,PL003C,Kraków,Q31487,PL,Poland,Q36
+http://eurostat.linked-statistics.org/dic/cities#PL004C,PL004C,Wrocław,Q1799,PL,Poland,Q36
+http://eurostat.linked-statistics.org/dic/cities#PL005C,PL005C,Poznań,Q268,PL,Poland,Q36
+http://eurostat.linked-statistics.org/dic/cities#PL006C,PL006C,Gdańsk,Q1792,PL,Poland,Q36
+http://eurostat.linked-statistics.org/dic/cities#PL007C,PL007C,Szczecin,Q393,PL,Poland,Q36
+http://eurostat.linked-statistics.org/dic/cities#PL008C,PL008C,Bydgoszcz,Q41252,PL,Poland,Q36
+http://eurostat.linked-statistics.org/dic/cities#PL009C,PL009C,Lublin,Q37333,PL,Poland,Q36
+http://eurostat.linked-statistics.org/dic/cities#PL010C,PL010C,Katowice,Q588,PL,Poland,Q36
+http://eurostat.linked-statistics.org/dic/cities#PL011C,PL011C,Białystok,Q761,PL,Poland,Q36
+http://eurostat.linked-statistics.org/dic/cities#PL012C,PL012C,Kielce,Q102317,PL,Poland,Q36
+http://eurostat.linked-statistics.org/dic/cities#PL013C,PL013C,Toruń,Q47554,PL,Poland,Q36
+http://eurostat.linked-statistics.org/dic/cities#PL014C,PL014C,Olsztyn,Q82765,PL,Poland,Q36
+http://eurostat.linked-statistics.org/dic/cities#PL015C,PL015C,Rzeszów,Q598,PL,Poland,Q36
+http://eurostat.linked-statistics.org/dic/cities#PL016C,PL016C,Opole,Q92212,PL,Poland,Q36
+http://eurostat.linked-statistics.org/dic/cities#PL017C,PL017C,Gorzów Wielkopolski,Q104731,PL,Poland,Q36
+http://eurostat.linked-statistics.org/dic/cities#PL018C,PL018C,Zielona Góra,Q104720,PL,Poland,Q36
+http://eurostat.linked-statistics.org/dic/cities#PL019C,PL019C,Jelenia Góra,Q147934,PL,Poland,Q36
+http://eurostat.linked-statistics.org/dic/cities#PL020C,PL020C,Nowy Sącz,Q802,PL,Poland,Q36
+http://eurostat.linked-statistics.org/dic/cities#PL021C,PL021C,Suwałki,Q236083,PL,Poland,Q36
+http://eurostat.linked-statistics.org/dic/cities#PL022C,PL022C,Konin,Q52845,PL,Poland,Q36
+http://eurostat.linked-statistics.org/dic/cities#PL023C,PL023C,Żory,Q393171,PL,Poland,Q36
+http://eurostat.linked-statistics.org/dic/cities#PL024C,PL024C,Częstochowa,Q103217,PL,Poland,Q36
+http://eurostat.linked-statistics.org/dic/cities#PL025C,PL025C,Radom,Q104740,PL,Poland,Q36
+http://eurostat.linked-statistics.org/dic/cities#PL026C,PL026C,Płock,Q104725,PL,Poland,Q36
+http://eurostat.linked-statistics.org/dic/cities#PL027C,PL027C,Kalisz,Q52842,PL,Poland,Q36
+http://eurostat.linked-statistics.org/dic/cities#PL028C,PL028C,Koszalin,Q62868,PL,Poland,Q36
+http://eurostat.linked-statistics.org/dic/cities#PL501C,PL501C,Gdynia,Q385,PL,Poland,Q36
+http://eurostat.linked-statistics.org/dic/cities#PL502C,PL502C,Sosnowiec,Q105060,PL,Poland,Q36
+http://eurostat.linked-statistics.org/dic/cities#PL503C,PL503C,Gliwice,Q105084,PL,Poland,Q36
+http://eurostat.linked-statistics.org/dic/cities#PL504C,PL504C,Zabrze,Q103892,PL,Poland,Q36
+http://eurostat.linked-statistics.org/dic/cities#PL505C,PL505C,Bytom,Q102350,PL,Poland,Q36
+http://eurostat.linked-statistics.org/dic/cities#PL506C,PL506C,Bielsko-Biała,Q106583,PL,Poland,Q36
+http://eurostat.linked-statistics.org/dic/cities#PL507C,PL507C,Ruda Śląska,Q108679,PL,Poland,Q36
+http://eurostat.linked-statistics.org/dic/cities#PL508C,PL508C,Rybnik,Q107094,PL,Poland,Q36
+http://eurostat.linked-statistics.org/dic/cities#PL509C,PL509C,Tychy,Q11977,PL,Poland,Q36
+http://eurostat.linked-statistics.org/dic/cities#PL510C,PL510C,Dąbrowa Górnicza,Q108672,PL,Poland,Q36
+http://eurostat.linked-statistics.org/dic/cities#PL511C,PL511C,Wałbrzych,Q110732,PL,Poland,Q36
+http://eurostat.linked-statistics.org/dic/cities#PL512C,PL512C,Elbląg,Q104712,PL,Poland,Q36
+http://eurostat.linked-statistics.org/dic/cities#PL513C,PL513C,Włocławek,Q106681,PL,Poland,Q36
+http://eurostat.linked-statistics.org/dic/cities#PL514C,PL514C,Tarnów,Q106281,PL,Poland,Q36
+http://eurostat.linked-statistics.org/dic/cities#PL515C,PL515C,Chorzów,Q104302,PL,Poland,Q36
+http://eurostat.linked-statistics.org/dic/cities#PL516C,PL516C,Legnica,Q106274,PL,Poland,Q36
+http://eurostat.linked-statistics.org/dic/cities#PL517C,PL517C,Grudziądz,Q123511,PL,Poland,Q36
+http://eurostat.linked-statistics.org/dic/cities#PT001C,PT001C,Lisbon,Q597,PT,Portugal,Q45
+http://eurostat.linked-statistics.org/dic/cities#PT002C,PT002C,Porto,Q36433,PT,Portugal,Q45
+http://eurostat.linked-statistics.org/dic/cities#PT003C,PT003C,Braga,Q83247,PT,Portugal,Q45
+http://eurostat.linked-statistics.org/dic/cities#PT004C,PT004C,Funchal,Q25444,PT,Portugal,Q45
+http://eurostat.linked-statistics.org/dic/cities#PT005C,PT005C,Coimbra,Q45412,PT,Portugal,Q45
+http://eurostat.linked-statistics.org/dic/cities#PT006C,PT006C,Setúbal,Q173699,PT,Portugal,Q45
+http://eurostat.linked-statistics.org/dic/cities#PT007C,PT007C,Ponta Delgada,Q208149,PT,Portugal,Q45
+http://eurostat.linked-statistics.org/dic/cities#PT008C,PT008C,Aveiro,Q485581,PT,Portugal,Q45
+http://eurostat.linked-statistics.org/dic/cities#PT009C,PT009C,Faro,Q159457,PT,Portugal,Q45
+http://eurostat.linked-statistics.org/dic/cities#PT501C,PT501C,Queluz (Sintra),Q14808749,PT,Portugal,Q45
+http://eurostat.linked-statistics.org/dic/cities#PT502C,PT502C,Vila Nova de Gaia,Q191135,PT,Portugal,Q45
+http://eurostat.linked-statistics.org/dic/cities#PT503C,PT503C,Mercado Municipal de Matosinhos,Q17390226,PT,Portugal,Q45
+http://eurostat.linked-statistics.org/dic/cities#PT504C,PT504C,Rio Tinto,Q1020836,PT,Portugal,Q45
+http://eurostat.linked-statistics.org/dic/cities#PT505C,PT505C,Guimarães,Q170903,PT,Portugal,Q45
+http://eurostat.linked-statistics.org/dic/cities#PT506C,PT506C,Castle of Santa Maria da Feira,Q3775726,PT,Portugal,Q45
+http://eurostat.linked-statistics.org/dic/cities#PT507C,PT507C,Vila Nova de Famalicão,Q551658,PT,Portugal,Q45
+http://eurostat.linked-statistics.org/dic/cities#PT508C,PT508C,Biblioteca Municipal de Vila Franca de Xira,Q9656612,PT,Portugal,Q45
+http://eurostat.linked-statistics.org/dic/cities#PT509C,PT509C,Barcelos Municipality,Q213242,PT,Portugal,Q45
+http://eurostat.linked-statistics.org/dic/cities#PT510C,PT510C,Maia,Q21488838,PT,Portugal,Q45
+http://eurostat.linked-statistics.org/dic/cities#PT511C,PT511C,Leiria,Q206933,PT,Portugal,Q45
+http://eurostat.linked-statistics.org/dic/cities#RO001C,RO001C,Bucharest,Q19660,RO,Romania,Q218
+http://eurostat.linked-statistics.org/dic/cities#RO002C,RO002C,Cluj-Napoca Central Park,Q715958,RO,Romania,Q218
+http://eurostat.linked-statistics.org/dic/cities#RO003C,RO003C,BRD Timișoara Challenger,Q3991460,RO,Romania,Q218
+http://eurostat.linked-statistics.org/dic/cities#RO004C,RO004C,Craiova,Q20849234,RO,Romania,Q218
+http://eurostat.linked-statistics.org/dic/cities#RO005C,RO005C,Făurei,Q1006796,RO,Romania,Q218
+http://eurostat.linked-statistics.org/dic/cities#RO006C,RO006C,CSM Digi Oradea,Q24970442,RO,Romania,Q218
+http://eurostat.linked-statistics.org/dic/cities#RO007C,RO007C,Bacau,Q182679,RO,Romania,Q218
+http://eurostat.linked-statistics.org/dic/cities#RO008C,RO008C,Arad,Q152473,RO,Romania,Q218
+http://eurostat.linked-statistics.org/dic/cities#RO009C,RO009C,Săliște,Q3573941,RO,Romania,Q218
+http://eurostat.linked-statistics.org/dic/cities#RO010C,RO010C,Tabula Regia din Târgu Mureș,Q1106887,RO,Romania,Q218
+http://eurostat.linked-statistics.org/dic/cities#RO011C,RO011C,Gara Piatra Neamț,Q20429820,RO,Romania,Q218
+http://eurostat.linked-statistics.org/dic/cities#RO012C,RO012C,Călărași,Q1014367,RO,Romania,Q218
+http://eurostat.linked-statistics.org/dic/cities#RO013C,RO013C,Giurgiu,Q202351,RO,Romania,Q218
+http://eurostat.linked-statistics.org/dic/cities#RO014C,RO014C,CSU Alba Iulia,Q17354367,RO,Romania,Q218
+http://eurostat.linked-statistics.org/dic/cities#RO501C,RO501C,Constanta,Q79808,RO,Romania,Q218
+http://eurostat.linked-statistics.org/dic/cities#RO502C,RO502C,Iasi,Q46852,RO,Romania,Q218
+http://eurostat.linked-statistics.org/dic/cities#RO503C,RO503C,Galati,Q170996,RO,Romania,Q218
+http://eurostat.linked-statistics.org/dic/cities#RO504C,RO504C,Victoria,Q850969,RO,Romania,Q218
+http://eurostat.linked-statistics.org/dic/cities#RO505C,RO505C,Gara Ploiești Nord,Q18540349,RO,Romania,Q218
+http://eurostat.linked-statistics.org/dic/cities#RO506C,RO506C,CET Piteşti,Q28230323,RO,Romania,Q218
+http://eurostat.linked-statistics.org/dic/cities#RO507C,RO507C,Centrul istoric din Baia Mare,Q12723821,RO,Romania,Q218
+http://eurostat.linked-statistics.org/dic/cities#RO508C,RO508C,Buzau,Q201404,RO,Romania,Q218
+http://eurostat.linked-statistics.org/dic/cities#RO509C,RO509C,Satu Mare,Q185332,RO,Romania,Q218
+http://eurostat.linked-statistics.org/dic/cities#RO510C,RO510C,Ștefănești,Q276154,RO,Romania,Q218
+http://eurostat.linked-statistics.org/dic/cities#RO511C,RO511C,"Capela, Râmnicu Vâlcea",Q16256482,RO,Romania,Q218
+http://eurostat.linked-statistics.org/dic/cities#RO512C,RO512C,Broșteni,Q10860283,RO,Romania,Q218
+http://eurostat.linked-statistics.org/dic/cities#RO513C,RO513C,Castelul de apă din Drobeta Turnu Severin,Q18538720,RO,Romania,Q218
+http://eurostat.linked-statistics.org/dic/cities#SI001C,SI001C,Ljubljana,Q437,SI,Slovenia,Q215
+http://eurostat.linked-statistics.org/dic/cities#SI002C,SI002C,Maribor,Q1010,SI,Slovenia,Q215
+http://eurostat.linked-statistics.org/dic/cities#SK001C,SK001C,Bratislava,Q1780,SK,Slovakia,Q214
+http://eurostat.linked-statistics.org/dic/cities#SK002C,SK002C,Košice,Q25409,SK,Slovakia,Q214
+http://eurostat.linked-statistics.org/dic/cities#SK003C,SK003C,Banská Bystrica,Q144983,SK,Slovakia,Q214
+http://eurostat.linked-statistics.org/dic/cities#SK004C,SK004C,Nitra,Q26397,SK,Slovakia,Q214
+http://eurostat.linked-statistics.org/dic/cities#SK005C,SK005C,Prešov,Q26119,SK,Slovakia,Q214
+http://eurostat.linked-statistics.org/dic/cities#SK006C,SK006C,Žilina,Q25797,SK,Slovakia,Q214
+http://eurostat.linked-statistics.org/dic/cities#SK007C,SK007C,Trnava,Q26175,SK,Slovakia,Q214
+http://eurostat.linked-statistics.org/dic/cities#SK008C,SK008C,Trenčín,Q145002,SK,Slovakia,Q214
+http://eurostat.linked-statistics.org/dic/cities#FI001C,FI001C,Helsinki,Q1757,FI,Finland,Q33
+http://eurostat.linked-statistics.org/dic/cities#FI002C,FI002C,Tampere,Q40840,FI,Finland,Q33
+http://eurostat.linked-statistics.org/dic/cities#FI003C,FI003C,Turku,Q38511,FI,Finland,Q33
+http://eurostat.linked-statistics.org/dic/cities#FI004C,FI004C,Oulu,Q47048,FI,Finland,Q33
+http://eurostat.linked-statistics.org/dic/cities#SE001C,SE001C,Stockholm,Q1754,SE,Sweden,Q34
+http://eurostat.linked-statistics.org/dic/cities#SE002C,SE002C,Gothenburg,Q25287,SE,Sweden,Q34
+http://eurostat.linked-statistics.org/dic/cities#SE003C,SE003C,Malmö,Q2211,SE,Sweden,Q34
+http://eurostat.linked-statistics.org/dic/cities#SE004C,SE004C,Jönköping,Q25415,SE,Sweden,Q34
+http://eurostat.linked-statistics.org/dic/cities#SE005C,SE005C,Umeå,Q25579,SE,Sweden,Q34
+http://eurostat.linked-statistics.org/dic/cities#SE006C,SE006C,Uppsala,Q25286,SE,Sweden,Q34
+http://eurostat.linked-statistics.org/dic/cities#SE007C,SE007C,collège de Linköping,Q2983764,SE,Sweden,Q34
+http://eurostat.linked-statistics.org/dic/cities#SE008C,SE008C,Örebro,Q25732,SE,Sweden,Q34
+http://eurostat.linked-statistics.org/dic/cities#SE501C,SE501C,Västerås,Q25412,SE,Sweden,Q34
+http://eurostat.linked-statistics.org/dic/cities#SE502C,SE502C,Norrköping,Q25724,SE,Sweden,Q34
+http://eurostat.linked-statistics.org/dic/cities#SE503C,SE503C,Campus Helsingborg,Q10441278,SE,Sweden,Q34
+http://eurostat.linked-statistics.org/dic/cities#SE504C,SE504C,Lund,Q2167,SE,Sweden,Q34
+http://eurostat.linked-statistics.org/dic/cities#SE505C,SE505C,Borås,Q26040,SE,Sweden,Q34
+http://eurostat.linked-statistics.org/dic/cities#UK001C,UK001C,City of London,Q23311,UK,Act of Parliament of the United Kingdom,Q4677783
+http://eurostat.linked-statistics.org/dic/cities#UK002C,UK002C,Birmingham,Q2256,UK,Act of Parliament of the United Kingdom,Q4677783
+http://eurostat.linked-statistics.org/dic/cities#UK003C,UK003C,Leeds,Q39121,UK,Act of Parliament of the United Kingdom,Q4677783
+http://eurostat.linked-statistics.org/dic/cities#UK004C,UK004C,Glasgow,Q4093,UK,Act of Parliament of the United Kingdom,Q4677783
+http://eurostat.linked-statistics.org/dic/cities#UK005C,UK005C,Bradford,Q22905,UK,Act of Parliament of the United Kingdom,Q4677783
+http://eurostat.linked-statistics.org/dic/cities#UK006C,UK006C,Liverpool,Q24826,UK,Act of Parliament of the United Kingdom,Q4677783
+http://eurostat.linked-statistics.org/dic/cities#UK007C,UK007C,Edinburgh,Q23436,UK,Act of Parliament of the United Kingdom,Q4677783
+http://eurostat.linked-statistics.org/dic/cities#UK008C,UK008C,Manchester,Q18125,UK,Act of Parliament of the United Kingdom,Q4677783
+http://eurostat.linked-statistics.org/dic/cities#UK009C,UK009C,Cardiff,Q10690,UK,Act of Parliament of the United Kingdom,Q4677783
+http://eurostat.linked-statistics.org/dic/cities#UK010C,UK010C,Sheffield,Q42448,UK,Act of Parliament of the United Kingdom,Q4677783
+http://eurostat.linked-statistics.org/dic/cities#UK011C,UK011C,Bristol,Q23154,UK,Act of Parliament of the United Kingdom,Q4677783
+http://eurostat.linked-statistics.org/dic/cities#UK012C,UK012C,Belfast,Q10686,UK,Act of Parliament of the United Kingdom,Q4677783
+http://eurostat.linked-statistics.org/dic/cities#UK013C,UK013C,Newcastle upon Tyne,Q1425428,UK,Act of Parliament of the United Kingdom,Q4677783
+http://eurostat.linked-statistics.org/dic/cities#UK014C,UK014C,Leicester,Q83065,UK,Act of Parliament of the United Kingdom,Q4677783
+http://eurostat.linked-statistics.org/dic/cities#UK015C,UK015C,Derry,Q163584,UK,Act of Parliament of the United Kingdom,Q4677783
+http://eurostat.linked-statistics.org/dic/cities#UK016C,UK016C,Aberdeen,Q36405,UK,Act of Parliament of the United Kingdom,Q4677783
+http://eurostat.linked-statistics.org/dic/cities#UK017C,UK017C,Cambridge,Q350,UK,Act of Parliament of the United Kingdom,Q4677783
+http://eurostat.linked-statistics.org/dic/cities#UK018C,UK018C,Exeter,Q134672,UK,Act of Parliament of the United Kingdom,Q4677783
+http://eurostat.linked-statistics.org/dic/cities#UK019C,UK019C,Lincoln,Q180057,UK,Act of Parliament of the United Kingdom,Q4677783
+http://eurostat.linked-statistics.org/dic/cities#UK020C,UK020C,Gravesham local elections,Q5597930,UK,Act of Parliament of the United Kingdom,Q4677783
+http://eurostat.linked-statistics.org/dic/cities#UK021C,UK021C,Stevenage Oilers,Q7615440,UK,Act of Parliament of the United Kingdom,Q4677783
+http://eurostat.linked-statistics.org/dic/cities#UK022C,UK022C,Wrexham Challenger,Q4021029,UK,Act of Parliament of the United Kingdom,Q4677783
+http://eurostat.linked-statistics.org/dic/cities#UK023C,UK023C,Portsmouth,Q72259,UK,Act of Parliament of the United Kingdom,Q4677783
+http://eurostat.linked-statistics.org/dic/cities#UK024C,UK024C,Worcester,Q1646181,UK,Act of Parliament of the United Kingdom,Q4677783
+http://eurostat.linked-statistics.org/dic/cities#UK025C,UK025C,Coventry,Q6225,UK,Act of Parliament of the United Kingdom,Q4677783
+http://eurostat.linked-statistics.org/dic/cities#UK026C,UK026C,Kingston upon Hull,Q128147,UK,Act of Parliament of the United Kingdom,Q4677783
+http://eurostat.linked-statistics.org/dic/cities#UK027C,UK027C,Stoke-on-Trent,Q134902,UK,Act of Parliament of the United Kingdom,Q4677783
+http://eurostat.linked-statistics.org/dic/cities#UK028C,UK028C,Wolverhampton,Q126269,UK,Act of Parliament of the United Kingdom,Q4677783
+http://eurostat.linked-statistics.org/dic/cities#UK029C,UK029C,Nottingham,Q41262,UK,Act of Parliament of the United Kingdom,Q4677783
+http://eurostat.linked-statistics.org/dic/cities#UK030C,UK030C,Wirral Waters,Q8027001,UK,Act of Parliament of the United Kingdom,Q4677783
+http://eurostat.linked-statistics.org/dic/cities#UK501C,UK501C,Kirklees Way,Q6415763,UK,Act of Parliament of the United Kingdom,Q4677783
+http://eurostat.linked-statistics.org/dic/cities#UK502C,UK502C,"Balloch, North Lanarkshire",Q4851819,UK,Act of Parliament of the United Kingdom,Q4677783
+http://eurostat.linked-statistics.org/dic/cities#UK503C,UK503C,Wakefield,Q216638,UK,Act of Parliament of the United Kingdom,Q4677783
+http://eurostat.linked-statistics.org/dic/cities#UK504C,UK504C,Dudley,Q213832,UK,Act of Parliament of the United Kingdom,Q4677783
+http://eurostat.linked-statistics.org/dic/cities#UK505C,UK505C,Wigan,Q7999501,UK,Act of Parliament of the United Kingdom,Q4677783
+http://eurostat.linked-statistics.org/dic/cities#UK506C,UK506C,Doncaster RLFC,Q3036242,UK,Act of Parliament of the United Kingdom,Q4677783
+http://eurostat.linked-statistics.org/dic/cities#UK507C,UK507C,Stockport,Q2123171,UK,Act of Parliament of the United Kingdom,Q4677783
+http://eurostat.linked-statistics.org/dic/cities#UK508C,UK508C,Sefton,Q20963535,UK,Act of Parliament of the United Kingdom,Q4677783
+http://eurostat.linked-statistics.org/dic/cities#UK509C,UK509C,Sandwell Valley,Q7417060,UK,Act of Parliament of the United Kingdom,Q4677783
+http://eurostat.linked-statistics.org/dic/cities#UK510C,UK510C,Sunderland,Q188304,UK,Act of Parliament of the United Kingdom,Q4677783
+http://eurostat.linked-statistics.org/dic/cities#UK511C,UK511C,Bolton,Q184579,UK,Act of Parliament of the United Kingdom,Q4677783
+http://eurostat.linked-statistics.org/dic/cities#UK512C,UK512C,Walsall Canal,Q7963766,UK,Act of Parliament of the United Kingdom,Q4677783
+http://eurostat.linked-statistics.org/dic/cities#UK513C,UK513C,The Medway Poets,Q3304121,UK,Act of Parliament of the United Kingdom,Q4677783
+http://eurostat.linked-statistics.org/dic/cities#UK514C,UK514C,Rotherham sex grooming case,Q7370452,UK,Act of Parliament of the United Kingdom,Q4677783
+http://eurostat.linked-statistics.org/dic/cities#UK515C,UK515C,Brighton and Hove,Q1022488,UK,Act of Parliament of the United Kingdom,Q4677783
+http://eurostat.linked-statistics.org/dic/cities#UK516C,UK516C,Plymouth,Q30990,UK,Act of Parliament of the United Kingdom,Q4677783
+http://eurostat.linked-statistics.org/dic/cities#UK517C,UK517C,Swansea,Q23051,UK,Act of Parliament of the United Kingdom,Q4677783
+http://eurostat.linked-statistics.org/dic/cities#UK518C,UK518C,Derby,Q43475,UK,Act of Parliament of the United Kingdom,Q4677783
+http://eurostat.linked-statistics.org/dic/cities#UK519C,UK519C,Barnsley Shoal,Q22520827,UK,Act of Parliament of the United Kingdom,Q4677783
+http://eurostat.linked-statistics.org/dic/cities#UK520C,UK520C,Southampton,Q79848,UK,Act of Parliament of the United Kingdom,Q4677783
+http://eurostat.linked-statistics.org/dic/cities#UK521C,UK521C,Oldham,Q202628,UK,Act of Parliament of the United Kingdom,Q4677783
+http://eurostat.linked-statistics.org/dic/cities#UK522C,UK522C,Salford,Q47952,UK,Act of Parliament of the United Kingdom,Q4677783
+http://eurostat.linked-statistics.org/dic/cities#UK523C,UK523C,Tameside Hippodrome,Q7681170,UK,Act of Parliament of the United Kingdom,Q4677783
+http://eurostat.linked-statistics.org/dic/cities#UK524C,UK524C,Trafford Park,Q940877,UK,Act of Parliament of the United Kingdom,Q4677783
+http://eurostat.linked-statistics.org/dic/cities#UK525C,UK525C,"Denbigh, Milton Keynes",Q5256604,UK,Act of Parliament of the United Kingdom,Q4677783
+http://eurostat.linked-statistics.org/dic/cities#UK526C,UK526C,Touchstones Rochdale,Q7828737,UK,Act of Parliament of the United Kingdom,Q4677783
+http://eurostat.linked-statistics.org/dic/cities#UK527C,UK527C,Solihull Lodge,Q7558097,UK,Act of Parliament of the United Kingdom,Q4677783
+http://eurostat.linked-statistics.org/dic/cities#UK528C,UK528C,Northampton,Q192240,UK,Act of Parliament of the United Kingdom,Q4677783
+http://eurostat.linked-statistics.org/dic/cities#UK529C,UK529C,North Tyneside Loop,Q7057063,UK,Act of Parliament of the United Kingdom,Q4677783
+http://eurostat.linked-statistics.org/dic/cities#UK530C,UK530C,Gateshead TMD,Q5527164,UK,Act of Parliament of the United Kingdom,Q4677783
+http://eurostat.linked-statistics.org/dic/cities#UK531C,UK531C,Warrington Academy,Q3025751,UK,Act of Parliament of the United Kingdom,Q4677783
+http://eurostat.linked-statistics.org/dic/cities#UK532C,UK532C,The Rules of Luton,Q20825616,UK,Act of Parliament of the United Kingdom,Q4677783
+http://eurostat.linked-statistics.org/dic/cities#UK533C,UK533C,York,Q42462,UK,Act of Parliament of the United Kingdom,Q4677783
+http://eurostat.linked-statistics.org/dic/cities#UK534C,UK534C,Bury,Q9182324,UK,Act of Parliament of the United Kingdom,Q4677783
+http://eurostat.linked-statistics.org/dic/cities#UK535C,UK535C,Swindon Steam Railway Museum,Q3978805,UK,Act of Parliament of the United Kingdom,Q4677783
+http://eurostat.linked-statistics.org/dic/cities#UK536C,UK536C,"Newtown, Stockton-on-Tees",Q7020659,UK,Act of Parliament of the United Kingdom,Q4677783
+http://eurostat.linked-statistics.org/dic/cities#UK537C,UK537C,St. Helens,Q1650613,UK,Act of Parliament of the United Kingdom,Q4677783
+http://eurostat.linked-statistics.org/dic/cities#UK538C,UK538C,Basildon Meadows,Q24993792,UK,Act of Parliament of the United Kingdom,Q4677783
+http://eurostat.linked-statistics.org/dic/cities#UK539C,UK539C,British Hard Court Championships,Q929574,UK,Act of Parliament of the United Kingdom,Q4677783
+http://eurostat.linked-statistics.org/dic/cities#UK540C,UK540C,High Wycombe (kastilyo),Q24660874,UK,Act of Parliament of the United Kingdom,Q4677783
+http://eurostat.linked-statistics.org/dic/cities#UK541C,UK541C,County Borough of Southend-on-Sea,Q23939264,UK,Act of Parliament of the United Kingdom,Q4677783
+http://eurostat.linked-statistics.org/dic/cities#UK542C,UK542C,"Woodcote, Telford and Wrekin",Q21088802,UK,Act of Parliament of the United Kingdom,Q4677783
+http://eurostat.linked-statistics.org/dic/cities#UK543C,UK543C,"Milepost, Wold Newton, North East Lincolnshire",Q26677140,UK,Act of Parliament of the United Kingdom,Q4677783
+http://eurostat.linked-statistics.org/dic/cities#UK544C,UK544C,Chelmsford,Q210985,UK,Act of Parliament of the United Kingdom,Q4677783
+http://eurostat.linked-statistics.org/dic/cities#UK545C,UK545C,Peterborough,Q172438,UK,Act of Parliament of the United Kingdom,Q4677783
+http://eurostat.linked-statistics.org/dic/cities#UK546C,UK546C,Colchester,Q575411,UK,Act of Parliament of the United Kingdom,Q4677783
+http://eurostat.linked-statistics.org/dic/cities#UK547C,UK547C,South Tyneside College RUFC,Q7568691,UK,Act of Parliament of the United Kingdom,Q4677783
+http://eurostat.linked-statistics.org/dic/cities#UK548C,UK548C,Basingstoke War Memorial,Q26678062,UK,Act of Parliament of the United Kingdom,Q4677783
+http://eurostat.linked-statistics.org/dic/cities#UK549C,UK549C,Bedford,Q505704,UK,Act of Parliament of the United Kingdom,Q4677783
+http://eurostat.linked-statistics.org/dic/cities#UK550C,UK550C,Dundee,Q123709,UK,Act of Parliament of the United Kingdom,Q4677783
+http://eurostat.linked-statistics.org/dic/cities#UK551C,UK551C,East Stirlingshire F.C.–Falkirk F.C. rivalry,Q16838559,UK,Act of Parliament of the United Kingdom,Q4677783
+http://eurostat.linked-statistics.org/dic/cities#UK552C,UK552C,Reading,Q237896,UK,Act of Parliament of the United Kingdom,Q4677783
+http://eurostat.linked-statistics.org/dic/cities#UK553C,UK553C,"North Pier, Blackpool",Q3177822,UK,Act of Parliament of the United Kingdom,Q4677783
+http://eurostat.linked-statistics.org/dic/cities#UK554C,UK554C,Maidstone Park,Q21932507,UK,Act of Parliament of the United Kingdom,Q4677783
+http://eurostat.linked-statistics.org/dic/cities#UK555C,UK555C,Poole,Q203349,UK,Act of Parliament of the United Kingdom,Q4677783
+http://eurostat.linked-statistics.org/dic/cities#UK556C,UK556C,Primary schools in Dacorum,Q7243165,UK,Act of Parliament of the United Kingdom,Q4677783
+http://eurostat.linked-statistics.org/dic/cities#UK557C,UK557C,Blackburn with Darwen local elections,Q4922741,UK,Act of Parliament of the United Kingdom,Q4677783
+http://eurostat.linked-statistics.org/dic/cities#UK558C,UK558C,Newport,Q101254,UK,Act of Parliament of the United Kingdom,Q4677783
+http://eurostat.linked-statistics.org/dic/cities#UK559C,UK559C,2003–04 Middlesbrough F.C. season,Q4602291,UK,Act of Parliament of the United Kingdom,Q4677783
+http://eurostat.linked-statistics.org/dic/cities#UK560C,UK560C,Oxford,Q34217,UK,Act of Parliament of the United Kingdom,Q4677783
+http://eurostat.linked-statistics.org/dic/cities#UK561C,UK561C,Torbay Head,Q21883537,UK,Act of Parliament of the United Kingdom,Q4677783
+http://eurostat.linked-statistics.org/dic/cities#UK562C,UK562C,Preston,Q184090,UK,Act of Parliament of the United Kingdom,Q4677783
+http://eurostat.linked-statistics.org/dic/cities#UK563C,UK563C,St Albans,Q6226,UK,Act of Parliament of the United Kingdom,Q4677783
+http://eurostat.linked-statistics.org/dic/cities#UK564C,UK564C,Warwick,Q49195,UK,Act of Parliament of the United Kingdom,Q4677783
+http://eurostat.linked-statistics.org/dic/cities#UK565C,UK565C,Newcastle under Lyme Castle,Q24661803,UK,Act of Parliament of the United Kingdom,Q4677783
+http://eurostat.linked-statistics.org/dic/cities#UK566C,UK566C,Norwich,Q130191,UK,Act of Parliament of the United Kingdom,Q4677783
+http://eurostat.linked-statistics.org/dic/cities#UK567C,UK567C,Slough Trading Estate,Q7541490,UK,Act of Parliament of the United Kingdom,Q4677783
+http://eurostat.linked-statistics.org/dic/cities#UK568C,UK568C,Chester,Q170263,UK,Act of Parliament of the United Kingdom,Q4677783
+http://eurostat.linked-statistics.org/dic/cities#UK569C,UK569C,Ipswich,Q2676656,UK,Act of Parliament of the United Kingdom,Q4677783
+http://eurostat.linked-statistics.org/dic/cities#UK570C,UK570C,Crewe and Nantwich Circular Walk,Q5184837,UK,Act of Parliament of the United Kingdom,Q4677783
+http://eurostat.linked-statistics.org/dic/cities#UK571C,UK571C,Cheltenham Park,Q21928112,UK,Act of Parliament of the United Kingdom,Q4677783
+http://eurostat.linked-statistics.org/dic/cities#UK572C,UK572C,Gloucester,Q170497,UK,Act of Parliament of the United Kingdom,Q4677783
+http://eurostat.linked-statistics.org/dic/cities#UK573C,UK573C,Bracknell Forest local elections,Q4953732,UK,Act of Parliament of the United Kingdom,Q4677783
+http://eurostat.linked-statistics.org/dic/cities#UK574C,UK574C,Lisburn,Q1828035,UK,Act of Parliament of the United Kingdom,Q4677783
+http://eurostat.linked-statistics.org/dic/cities#UK575C,UK575C,Carlisle,Q192896,UK,Act of Parliament of the United Kingdom,Q4677783
+http://eurostat.linked-statistics.org/dic/cities#UK576C,UK576C,North Crawley,Q24666334,UK,Act of Parliament of the United Kingdom,Q4677783
+http://eurostat.linked-statistics.org/dic/cities#HR001C,HR001C,Zagreb,Q1435,HR,Croatia,Q224
+http://eurostat.linked-statistics.org/dic/cities#HR002C,HR002C,Rijeka,Q1647,HR,Croatia,Q224
+http://eurostat.linked-statistics.org/dic/cities#HR003C,HR003C,Slavonski Brod,Q4686,HR,Croatia,Q224
+http://eurostat.linked-statistics.org/dic/cities#HR004C,HR004C,Osijek,Q1640,HR,Croatia,Q224
+http://eurostat.linked-statistics.org/dic/cities#HR005C,HR005C,Split,Q1663,HR,Croatia,Q224
+http://eurostat.linked-statistics.org/dic/cities#TR001C,TR001C,Ankara,Q3640,TR,Turkey,Q43
+http://eurostat.linked-statistics.org/dic/cities#TR002C,TR002C,Adana,Q38545,TR,Turkey,Q43
+http://eurostat.linked-statistics.org/dic/cities#TR003C,TR003C,Antalya,Q6487,TR,Turkey,Q43
+http://eurostat.linked-statistics.org/dic/cities#TR004C,TR004C,Balıkesir,Q199723,TR,Turkey,Q43
+http://eurostat.linked-statistics.org/dic/cities#TR005C,TR005C,Bursa,Q40738,TR,Turkey,Q43
+http://eurostat.linked-statistics.org/dic/cities#TR006C,TR006C,Denizli,Q170967,TR,Turkey,Q43
+http://eurostat.linked-statistics.org/dic/cities#TR007C,TR007C,Diyarbakır,Q83387,TR,Turkey,Q43
+http://eurostat.linked-statistics.org/dic/cities#TR008C,TR008C,Edirne,Q43387,TR,Turkey,Q43
+http://eurostat.linked-statistics.org/dic/cities#TR009C,TR009C,Erzurum,Q122803,TR,Turkey,Q43
+http://eurostat.linked-statistics.org/dic/cities#TR010C,TR010C,Gaziantep,Q93338,TR,Turkey,Q43
+http://eurostat.linked-statistics.org/dic/cities#TR011C,TR011C,"Belen, Hatay",Q815399,TR,Turkey,Q43
+http://eurostat.linked-statistics.org/dic/cities#TR012C,TR012C,Istanbul,Q406,TR,Turkey,Q43
+http://eurostat.linked-statistics.org/dic/cities#TR013C,TR013C,İzmir,Q35997,TR,Turkey,Q43
+http://eurostat.linked-statistics.org/dic/cities#TR014C,TR014C,Kars,Q127063,TR,Turkey,Q43
+http://eurostat.linked-statistics.org/dic/cities#TR015C,TR015C,Kastamonu,Q155915,TR,Turkey,Q43
+http://eurostat.linked-statistics.org/dic/cities#TR016C,TR016C,Kayseri,Q48338,TR,Turkey,Q43
+http://eurostat.linked-statistics.org/dic/cities#TR017C,TR017C,Gölcük,Q27162,TR,Turkey,Q43
+http://eurostat.linked-statistics.org/dic/cities#TR018C,TR018C,Kulu,Q1948486,TR,Turkey,Q43
+http://eurostat.linked-statistics.org/dic/cities#TR019C,TR019C,Fethiye (Malatya),Q1409126,TR,Turkey,Q43
+http://eurostat.linked-statistics.org/dic/cities#TR020C,TR020C,Manisa,Q147089,TR,Turkey,Q43
+http://eurostat.linked-statistics.org/dic/cities#TR021C,TR021C,Nevşehir,Q206879,TR,Turkey,Q43
+http://eurostat.linked-statistics.org/dic/cities#TR022C,TR022C,Samsun,Q160450,TR,Turkey,Q43
+http://eurostat.linked-statistics.org/dic/cities#TR023C,TR023C,Siirt,Q185084,TR,Turkey,Q43
+http://eurostat.linked-statistics.org/dic/cities#TR024C,TR024C,Trabzon,Q45301,TR,Turkey,Q43
+http://eurostat.linked-statistics.org/dic/cities#TR025C,TR025C,Van,Q83061,TR,Turkey,Q43
+http://eurostat.linked-statistics.org/dic/cities#TR026C,TR026C,Zonguldak,Q187895,TR,Turkey,Q43
+http://eurostat.linked-statistics.org/dic/cities#NO001C,NO001C,Oslo,Q585,NO,Norwegian county road,Q1771902
+http://eurostat.linked-statistics.org/dic/cities#NO002C,NO002C,Bergen,Q26793,NO,Norwegian county road,Q1771902
+http://eurostat.linked-statistics.org/dic/cities#NO003C,NO003C,Trondheim,Q25804,NO,Norwegian county road,Q1771902
+http://eurostat.linked-statistics.org/dic/cities#NO004C,NO004C,Stavanger,Q25416,NO,Norwegian county road,Q1771902
+http://eurostat.linked-statistics.org/dic/cities#NO005C,NO005C,Kristiansand,Q2415,NO,Norwegian county road,Q1771902
+http://eurostat.linked-statistics.org/dic/cities#NO006C,NO006C,Tromsø,Q26087,NO,Norwegian county road,Q1771902
+http://eurostat.linked-statistics.org/dic/cities#CH001C,CH001C,Zürich,Q72,CH,Kyburz Switzerland,Q28912880
+http://eurostat.linked-statistics.org/dic/cities#CH002C,CH002C,Geneva,Q71,CH,Kyburz Switzerland,Q28912880
+http://eurostat.linked-statistics.org/dic/cities#CH004C,CH004C,Bern,Q70,CH,Kyburz Switzerland,Q28912880
+http://eurostat.linked-statistics.org/dic/cities#CH005C,CH005C,Lausanne,Q807,CH,Kyburz Switzerland,Q28912880
+http://eurostat.linked-statistics.org/dic/cities#MK001C,MK001C,Skopje,Q384,MK,Politics of the Republic of Macedonia,Q1154494
+http://eurostat.linked-statistics.org/dic/cities#IS001C,IS001C,Reykjavík,Q1764,IS,OMX Iceland 6,Q4992587
+http://eurostat.linked-statistics.org/dic/cities#LI001C,LI001C,Vaduz,Q1844,LI,municipality of Liechtenstein,Q203300
+http://eurostat.linked-statistics.org/dic/cities#AL001C,AL001C,Tirana,Q19689,AL,administrative territorial entity of Albania,Q1814009
+http://eurostat.linked-statistics.org/dic/cities#BA001C,BA001C,Sarajevo,Q11194,BA,"Trnovo, Bosnia and Herzegovina",Q18354624
+http://eurostat.linked-statistics.org/dic/cities#ME001C,ME001C,Podgorica,Q23564,ME,Montenegro in the Eurovision Song Contest,Q117205
+http://eurostat.linked-statistics.org/dic/cities#RS001C,RS001C,Belgrade,Q3711,RS,municipality of Serbia,Q783930
+http://eurostat.linked-statistics.org/dic/cities#XK001C,XK001C,Pristine Villa,Q11090512,XK,Kosovo,Q1246
+http://eurostat.linked-statistics.org/dic/cities#RU001C,RU001C,Moscow,Q649,RU,head of the region (Russia),Q1540324
+http://eurostat.linked-statistics.org/dic/cities#ZA001C,ZA001C,Pretoria,Q3926,ZA,Statistics South Africa,Q7604433
+http://eurostat.linked-statistics.org/dic/cities#CA001C,CA001C,Ottawa,Q1930,CA,federal electoral district of Canada,Q17202187
+http://eurostat.linked-statistics.org/dic/cities#US001C,US001C,"Washington, D.C.",Q61,US,United States Hockey League,Q499211
+http://eurostat.linked-statistics.org/dic/cities#US002C,US002C,"Shady, New York",Q7460887,US,United States Hockey League,Q499211
+http://eurostat.linked-statistics.org/dic/cities#US003C,US003C,Omni San Francisco Hotel,Q26699326,US,United States Hockey League,Q499211
+http://eurostat.linked-statistics.org/dic/cities#US004C,US004C,Omni Dallas Hotel a Park West,Q26492750,US,United States Hockey League,Q499211
+http://eurostat.linked-statistics.org/dic/cities#JP001C,JP001C,Tokyo City,Q1207735,JP,Japan Open Tennis Championships,Q1025949
+http://eurostat.linked-statistics.org/dic/cities#AU001C,AU001C,Canberra,Q3114,AU,Australian rules football,Q50776
+http://eurostat.linked-statistics.org/dic/cities#AU002C,AU002C,Sydney,Q3130,AU,Australian rules football,Q50776
+http://eurostat.linked-statistics.org/dic/cities#NZ001C,NZ001C,Wellington,Q23661,NZ,New Zealand statute,Q18336255
+http://eurostat.linked-statistics.org/dic/cities#CH003C,CH003C,Basel,Q78,CH,Kyburz Switzerland,Q28912880
+http://eurostat.linked-statistics.org/dic/cities#CH006C,CH006C,Winterthur,Q9125,CH,Kyburz Switzerland,Q28912880
+http://eurostat.linked-statistics.org/dic/cities#CH007C,CH007C,St. Gallen,Q25607,CH,Kyburz Switzerland,Q28912880
+http://eurostat.linked-statistics.org/dic/cities#CH008C,CH008C,Lucerne,Q4191,CH,Kyburz Switzerland,Q28912880
+http://eurostat.linked-statistics.org/dic/cities#CH009C,CH009C,Lugano,Q7024,CH,Kyburz Switzerland,Q28912880
+http://eurostat.linked-statistics.org/dic/cities#CH010C,CH010C,Biel/Bienne,Q1034,CH,Kyburz Switzerland,Q28912880

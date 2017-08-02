@@ -1,0 +1,16 @@
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
+PREFIX sdmxdim: <http://purl.org/linked-data/sdmx/2009/dimension#>
+PREFIX ocdp: <http://harth.org/andreas/2017/ocdp/vocabs/ocdp#>
+PREFIX estat: <http://ontologycentral.com/2009/01/eurostat/ns#>
+
+SELECT DISTINCT ?city ?citylabel ?year ?population 
+WHERE {
+  ?x estat:cities ?city ;
+     # Population on the 1st of January, total
+     estat:indic_ur <http://estatwrap.ontologycentral.com/dic/indic_ur#DE1001V> ;
+     <http://purl.org/linked-data/sdmx/2009/measure#obsValue> ?population ;
+     <http://purl.org/dc/terms/date> ?year .
+
+  ?city rdfs:label ?citylabel .
+}

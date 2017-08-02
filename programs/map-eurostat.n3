@@ -1,0 +1,40 @@
+# Linked Data-Fu Program for mapping Eurostat city URIs to DBpedia city URIs
+# Andreas Harth
+
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+
+@prefix http: <http://www.w3.org/2011/http#> .
+@prefix httpm: <http://www.w3.org/2011/http-methods#> .
+
+@prefix log: <http://www.w3.org/2000/10/swap/log#> .
+
+@prefix sdmxdim: <http://purl.org/linked-data/sdmx/2009/dimension#> .
+
+@prefix cd: <http://citydata.wu.ac.at/ns#> .
+
+# Eurostat (other than Urban Audit)
+{ ?s <http://ontologycentral.com/2009/01/eurostat/ns#geo> ?o . } => { ?s <http://purl.org/linked-data/sdmx/2009/dimension#refArea> ?o . } .
+
+# Eurostat Urban Audit
+{ ?s <http://ontologycentral.com/2009/01/eurostat/ns#cities> ?o . } => { ?s <http://purl.org/linked-data/sdmx/2009/dimension#refArea> ?o . } .
+
+# Map ref area to sameAs identifier (DBpedia)
+{
+  ?x sdmxdim:refArea ?area .
+  ?area owl:sameAs ?area1 .
+} => {
+  ?x sdmxdim:refArea ?area1 .
+} .
+
+# Indicators
+{ ?s <http://ontologycentral.com/2009/01/eurostat/ns#indic_ur> ?o . } => { ?s cd:hasIndicator ?o . } .
+
+# Map indicator to sameAs identifier
+{
+  ?x cd:hasIndicator ?indic .
+  ?indic owl:sameAs ?indic1 .
+} => {
+  ?x cd:hasIndicator ?indic1 .
+} .

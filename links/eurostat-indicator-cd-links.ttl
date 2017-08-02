@@ -1,0 +1,767 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix cd: <http://citydata.wu.ac.at/ns#> .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#CR1003I>
+    owl:sameAs cd:no_cinema_seats_per_1000_residents .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#CR1003V>
+    owl:sameAs cd:no_cinema_seats_total_capacity .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#CR1005V>
+    owl:sameAs cd:cinema_attendance_per_year .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#CR1007V>
+    owl:sameAs cd:no_museum_visitors_per_year .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#CR1008V>
+    owl:sameAs cd:no_theatres .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#CR1010V>
+    owl:sameAs cd:no_public_libraries_all_distribution_points .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#CR1015V>
+    owl:sameAs cd:no_public_swimming_pools_indoor_and_outdoor_excluding_beaches .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#CR2001V>
+    owl:sameAs cd:total_nights_spent_in_tourist_accommodation_establishments .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#CR2004V>
+    owl:sameAs cd:no_air_passengers_using_nearest_airport .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#CR2005V>
+    owl:sameAs cd:no_air_passengers_using_nearest_airport_total_arrivals .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#CR2006V>
+    owl:sameAs cd:no_air_passengers_using_nearest_airport_domestic_arrivals .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#CR2007V>
+    owl:sameAs cd:no_air_passengers_using_nearest_airport_total_departures .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#CR2008V>
+    owl:sameAs cd:no_air_passengers_using_nearest_airport_domestic_departures .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#CR2009V>
+    owl:sameAs cd:no_bed-places_in_tourist__accommodation_establishments .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#CR2010I>
+    owl:sameAs cd:no_available_beds_per_1000_residents .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#CR2011I>
+    owl:sameAs cd:no_tourist_overnight_stays_in_reg_accommodation_per_year_per_resident_population .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#DE1001V>
+    owl:sameAs cd:population_on_the_1st_of_january_total .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#DE1002V>
+    owl:sameAs cd:population_on_the_1st_of_january_male .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#DE1003V>
+    owl:sameAs cd:population_on_the_1st_of_january_female .
+
+
+# for UNData 240
+<http://estatwrap.ontologycentral.com/dic/indic_ur#DE1001V>
+    owl:sameAs cd:population .
+
+# for UNData 240
+<http://estatwrap.ontologycentral.com/dic/indic_ur#DE1002V>
+    owl:sameAs cd:population_male .
+
+# for UNData 240
+<http://estatwrap.ontologycentral.com/dic/indic_ur#DE1003V>
+    owl:sameAs cd:population_female .
+
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#DE1003I>
+    owl:sameAs cd:women_per_100_men .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#DE1025I>
+    owl:sameAs cd:proportion_of_total_population_aged_55-64 .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#DE1025V>
+    owl:sameAs cd:population_on_the_1st_of_january_55-64_years_total .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#DE1026V>
+    owl:sameAs cd:population_on_the_1st_of_january_55-64_years_male .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#DE1027V>
+    owl:sameAs cd:population_on_the_1st_of_january_55-64_years_female .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#DE1028I>
+    owl:sameAs cd:proportion_of_population_aged_65-74_years .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#DE1028V>
+    owl:sameAs cd:population_on_the_1st_of_january_65-74_years_total .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#DE1029V>
+    owl:sameAs cd:population_on_the_1st_of_january_65-74_years_male .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#DE1030V>
+    owl:sameAs cd:population_on_the_1st_of_january_65-74_years_female .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#DE1040I>
+    owl:sameAs cd:proportion_of_population_aged_0-4_years .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#DE1040V>
+    owl:sameAs cd:population_on_the_1st_of_january_0-4_years_total .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#DE1041V>
+    owl:sameAs cd:population_on_the_1st_of_january_0-4_years_male .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#DE1042V>
+    owl:sameAs cd:population_on_the_1st_of_january_0-4_years_female .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#DE1046I>
+    owl:sameAs cd:proportion_of_population_aged_15-19_years .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#DE1046V>
+    owl:sameAs cd:population_on_the_1st_of_january_15-19_years_total .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#DE1047V>
+    owl:sameAs cd:population_on_the_1st_of_january_15-19_years_male .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#DE1048V>
+    owl:sameAs cd:population_on_the_1st_of_january_15-19_years_female .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#DE1049I>
+    owl:sameAs cd:proportion_of_population_aged_20-24_years .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#DE1049V>
+    owl:sameAs cd:population_on_the_1st_of_january_20-24_years_total .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#DE1050V>
+    owl:sameAs cd:population_on_the_1st_of_january_20-24_years_male .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#DE1051V>
+    owl:sameAs cd:population_on_the_1st_of_january_20-24_years_female .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#DE1055I>
+    owl:sameAs cd:proportion_of_population_aged_75_years__and_over .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#DE1055V>
+    owl:sameAs cd:population_on_the_1st_of_january_75_years_and_over_total .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#DE1056V>
+    owl:sameAs cd:population_on_the_1st_of_january_75_years_and_over_male .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#DE1057I>
+    owl:sameAs cd:women_per_100_men_-_aged_75_years__and_over .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#DE1057V>
+    owl:sameAs cd:population_on_the_1st_of_january_75_years_and_over_female .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#DE1058I>
+    owl:sameAs cd:age_dependency_ratio_population_aged_0-19_and_65_and_more_to_population_aged_20-64 .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#DE1058V>
+    owl:sameAs cd:population_on_the_1st_of_january_25-34_years_total .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#DE1059I>
+    owl:sameAs cd:young-age_dependency_ratio_population_aged_0-19_to_population_20-64_years .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#DE1059V>
+    owl:sameAs cd:population_on_the_1st_of_january_25-34_years_male .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#DE1060I>
+    owl:sameAs cd:old_age_dependency_ratio_population_65_and_over_to_population_20_to_64_years .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#DE1060V>
+    owl:sameAs cd:population_on_the_1st_of_january_25-34_years_female .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#DE1061I>
+    owl:sameAs cd:population_change_over_1_year .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#DE1061V>
+    owl:sameAs cd:population_on_the_1st_of_january_35-44_years_total .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#DE1062V>
+    owl:sameAs cd:population_on_the_1st_of_january_35-44_years_male .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#DE1063V>
+    owl:sameAs cd:population_on_the_1st_of_january_35-44_years_female .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#DE1064I>
+    owl:sameAs cd:proportion_of_population_aged_45-54_years .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#DE1064V>
+    owl:sameAs cd:population_on_the_1st_of_january_45-54_years_total .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#DE1065V>
+    owl:sameAs cd:population_on_the_1st_of_january_45-54_years_male .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#DE1066V>
+    owl:sameAs cd:population_on_the_1st_of_january_45-54_years_female .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#DE1073I>
+    owl:sameAs cd:proportion_of_population_aged_25-34_years .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#DE1073V>
+    owl:sameAs cd:median_population_age .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#DE1074V>
+    owl:sameAs cd:population_on_the_1st_of_january_5-9_years_total .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#DE1075V>
+    owl:sameAs cd:population_on_the_1st_of_january_5-9_years_male .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#DE1076I>
+    owl:sameAs cd:proportion_of_population_aged_35-44_years .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#DE1076V>
+    owl:sameAs cd:population_on_the_1st_of_january_5-9_years_female .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#DE1077V>
+    owl:sameAs cd:population_on_the_1st_of_january_10-14_years_total .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#DE1078V>
+    owl:sameAs cd:population_on_the_1st_of_january_10-14_years_male .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#DE1079V>
+    owl:sameAs cd:population_on_the_1st_of_january_10-14_years_female .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#DE1084I>
+    owl:sameAs cd:proportion_of_population_aged_5-9_years .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#DE1085I>
+    owl:sameAs cd:proportion_of_population_aged_10-14_years .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#DE2001I>
+    owl:sameAs cd:nationals_as_a_proportion_of_population .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#DE2001V>
+    owl:sameAs cd:nationals .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#DE2002I>
+    owl:sameAs cd:eu_foreigners_as_a_proportion_of_population .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#DE2002V>
+    owl:sameAs cd:eu_foreigners .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#DE2003I>
+    owl:sameAs cd:non-eu_foreigners_as_a_proportion_of_population .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#DE2003V>
+    owl:sameAs cd:non-eu_foreigners .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#DE2007I>
+    owl:sameAs cd:foreigners_as_a_proportion_of_population .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#DE2008I>
+    owl:sameAs cd:native-born_as_a_proportion_of_population .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#DE2008V>
+    owl:sameAs cd:native-born .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#DE2009I>
+    owl:sameAs cd:foreign-born_as_a_proportion_of_population .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#DE2009V>
+    owl:sameAs cd:foreign-born .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#DE2010V>
+    owl:sameAs cd:foreign-born_in_a_eu_country .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#DE2011V>
+    owl:sameAs cd:foreign-born_in_a_non-eu_country .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#DE2012V>
+    owl:sameAs cd:foreigners .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#DE3001V>
+    owl:sameAs cd:private_households_excluding_institutional_households .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#DE3002I>
+    owl:sameAs cd:proportion_of_households_that_are_1-person_households .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#DE3002V>
+    owl:sameAs cd:one_person_households .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#DE3004I>
+    owl:sameAs cd:average_size_of_households .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#DE3005I>
+    owl:sameAs cd:proportion_of_households_that_are_lone-parent_households .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#DE3005V>
+    owl:sameAs cd:lone_parent_private_households_with_children_aged_0_to_under_18 .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#DE3008I>
+    owl:sameAs cd:proportion_households_that_are_lone-pensioner_households .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#DE3008V>
+    owl:sameAs cd:lone_pensioner_above_retirement_age_households .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#DE3011I>
+    owl:sameAs cd:proportion_of_households_with_children_aged_0-17 .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#DE3011V>
+    owl:sameAs cd:households_with_children_aged_0_to_under_18 .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#DE3016I>
+    owl:sameAs cd:lone_parent_households_per_100_households_with_children_aged_0-17 .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#DE3017V>
+    owl:sameAs cd:population_living_in_private_households_excluding_institutional_households .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#EC1001I>
+    owl:sameAs cd:activity_rate .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#EC1001V>
+    owl:sameAs cd:economically_active_population_total .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#EC1002I>
+    owl:sameAs cd:activity_rate_male .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#EC1002V>
+    owl:sameAs cd:economically_active_population_male .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#EC1003I>
+    owl:sameAs cd:activity_rate_female .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#EC1003V>
+    owl:sameAs cd:economically_active_population_female .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#EC1010V>
+    owl:sameAs cd:persons_unemployed_total .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#EC1011I>
+    owl:sameAs cd:unemployment_rate_male .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#EC1011V>
+    owl:sameAs cd:persons_unemployed_male .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#EC1012I>
+    owl:sameAs cd:unemployment_rate_female .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#EC1012V>
+    owl:sameAs cd:persons_unemployed_female .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#EC1020I>
+    owl:sameAs cd:unemployment_rate .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#EC1145V>
+    owl:sameAs cd:economically_active_population_55-64_total .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#EC1146V>
+    owl:sameAs cd:economically_active_population_55-64_male .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#EC1147V>
+    owl:sameAs cd:economically_active_population_55-64_female .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#EC1174V>
+    owl:sameAs cd:economically_active_population_20-64_total .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#EC1175V>
+    owl:sameAs cd:economically_active_population_20-64_male .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#EC1176V>
+    owl:sameAs cd:economically_active_population_20-64_female .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#EC1177V>
+    owl:sameAs cd:persons_employed_20-64_total .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#EC1178V>
+    owl:sameAs cd:persons_employed_20-64_male .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#EC1179V>
+    owl:sameAs cd:persons_employed_20-64_female .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#EC1180V>
+    owl:sameAs cd:persons_employed_55-64_total .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#EC1181V>
+    owl:sameAs cd:persons_employed_55-64_male .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#EC1182V>
+    owl:sameAs cd:persons_employed_55-64_female .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#EC2008I>
+    owl:sameAs cd:proportion_of_employment_in_agriculture_fishery .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#EC2008V>
+    owl:sameAs cd:employment_jobs_in_agriculture_fishery_nace_rev_2_a .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#EC2009I>
+    owl:sameAs cd:proportion_of_employment_in_industries_nace_rev11_c-e .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#EC2009V>
+    owl:sameAs cd:employment_jobs_in_mining_manufacturing_energy_nace_rev_2_b-e .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#EC2020V>
+    owl:sameAs cd:total_employment_divided_by_jobs_work_place_based .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#EC2021V>
+    owl:sameAs cd:all_companies .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#EC2022I>
+    owl:sameAs cd:proportion_of_employment_in_construction_nace_rev11_f .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#EC2022V>
+    owl:sameAs cd:employment_jobs_in_construction_nace_rev_2_f .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#EC2030V>
+    owl:sameAs cd:gdp_of_nuts-3_region_in_million_euro .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#EC2031V>
+    owl:sameAs cd:gdp_per_inhabitant_in_pps_of_nuts-3_region .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#EC2032V>
+    owl:sameAs cd:employment_jobs_in_trade_transport_hotels_restaurants_nace_rev_2_g_to_i .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#EC2033V>
+    owl:sameAs cd:employment_jobs_in_information_and_communication_nace_rev_2_j .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#EC2034V>
+    owl:sameAs cd:employment_jobs_in_financial_and_insurance_activities_nace_rev_2_k .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#EC2035V>
+    owl:sameAs cd:employment_jobs_in_real_estate_activities_nace_rev_2_l .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#EC2036V>
+    owl:sameAs cd:employment_jobs_in_professional_scientific_and_technical_activities_administrative_and_support_service_activities_nace_rev_2_m_and_n .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#EC2037V>
+    owl:sameAs cd:employment_jobs_in_public_administration_defence_education_human_health_and_social_work_activities_nace_rev_2_o_to_q .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#EC2038V>
+    owl:sameAs cd:employment_jobs_in_arts_entertainment_and_recreation_other_service_activities_activities_of_household_and_extra-territorial_organizations_and_bodies_nace_rev_2_r_to_u .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#EC3039V>
+    owl:sameAs cd:median_disposable_annual_household_income .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#EC3040V>
+    owl:sameAs cd:average_disposable_annual_household_income .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#EC3064V>
+    owl:sameAs cd:persons_living_in_households_with_very_low_work_intensity .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#EC3065V>
+    owl:sameAs cd:persons_at_risk_of_poverty_after_social_transfers .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#EC3066V>
+    owl:sameAs cd:severely_materially_deprived_persons .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#EC3067V>
+    owl:sameAs cd:persons_at_risk_of_poverty_or_social_exclusion .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#EN1002V>
+    owl:sameAs cd:total_no_hours_of_sunshine_per_day .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#EN1003V>
+    owl:sameAs cd:average_temperature_of_warmest_month .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#EN1004V>
+    owl:sameAs cd:average_temperature_of_coldest_month .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#EN1005V>
+    owl:sameAs cd:rainfall_litre_per_m2 .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#EN2002V>
+    owl:sameAs cd:no_days_ozone_o3_concentrations_exceed_120_microgram_per_m3 .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#EN2003V>
+    owl:sameAs cd:no_days_nitrogen_dioxide_no2_concentrations_exceed_200_microgram_per_m3 .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#EN2005V>
+    owl:sameAs cd:no_days_particulate_matter_pm10_concentrations_exceed_50_microgram_per_m3 .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#EN2025V>
+    owl:sameAs cd:accumulated_ozone_concentration_in_excess_70_microgram_per_m3 .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#EN2026V>
+    owl:sameAs cd:annual_average_concentration_of_no2_microgram_per_m3 .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#EN2027V>
+    owl:sameAs cd:annual_average_concentration_of_pm10_microgram_per_m3 .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#EN2028V>
+    owl:sameAs cd:no_residents_exposed_to_air_traffic_noise_greater_than_65_dba_at_day_time .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#EN2029I>
+    owl:sameAs cd:proportion_of_residents_exposed_to_air_traffic_noise_greater_than_55_dba_at_night_time .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#EN2029V>
+    owl:sameAs cd:no_residents_exposed_to_air_traffic_noise_greater_than_55_dba_at_night_time .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#EN2030V>
+    owl:sameAs cd:no_days_particulate_matter_pm25_concentrations_exceed_50_microgram_per_m3 .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#EN2032I>
+    owl:sameAs cd:proportion_of_residents_exposed_to_rail_traffic_noise_greater_than_65_dba_at_day_time .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#EN2032V>
+    owl:sameAs cd:no_residents_exposed_to_rail_traffic_incl_tram_noise_greater_than_65dba_at_daytime .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#EN2033I>
+    owl:sameAs cd:proportion_of_residents_exposed_to_road_traffic_noise_greater_than_65_dba_at_day_time .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#EN2033V>
+    owl:sameAs cd:no_residents_exposed_to_road_traffic_noise_greater_than_65_dba_at_day_time .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#EN2035I>
+    owl:sameAs cd:proportion_of_residents_exposed_to_road_traffic_noise_greater_than_55_dba_at_night_time .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#EN2035V>
+    owl:sameAs cd:no_residents_exposed_to_road_traffic_noise_greater_than_55_dba_at_night_time .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#EN2036I>
+    owl:sameAs cd:proportion_of_residents_exposed_to_rail_traffic_noise_greater_than_55_dba_at_night_time .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#EN2036V>
+    owl:sameAs cd:no_residents_exposed_to_rail_traffic_incl_tram_noise_greater_than_55dba_at_night-time .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#EN3003V>
+    owl:sameAs cd:total_use_of_water .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#EN3010V>
+    owl:sameAs cd:price_of_a_m3_of_domestic_water_euro .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#EN3011V>
+    owl:sameAs cd:percentage_of_the_urban_waste_water_load_in_population_equivalents_treated_according_to_the_applicable_standard .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#EN3012V>
+    owl:sameAs cd:share_of_population_connected_to_potable_drinking_water_system .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#EN3013V>
+    owl:sameAs cd:share_of_population_connected_to_sewerage_treatment_system .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#EN4008V>
+    owl:sameAs cd:municipal_waste_generated_domestic_and_commercial_total .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#EN5001V>
+    owl:sameAs cd:green_space_to_which_the_public_has_access .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#EN5003V>
+    owl:sameAs cd:total_land_area_km2_according_to_cadastral_register .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#EN5012V>
+    owl:sameAs cd:green_space_area_km2 .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#EN5015V>
+    owl:sameAs cd:water_and_wetland .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#EN5016V>
+    owl:sameAs cd:land_used_for_agricultural_purposes .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#EN5026V>
+    owl:sameAs cd:other_land_use .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#EN5101I>
+    owl:sameAs cd:population_density_total_resident_pop_per_square_km .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#SA1001V>
+    owl:sameAs cd:no_conventional_dwellings .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#SA1004V>
+    owl:sameAs cd:no_houses .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#SA1005V>
+    owl:sameAs cd:no_apartments .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#SA1007I>
+    owl:sameAs cd:proportion_of_households_living_in_houses .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#SA1007V>
+    owl:sameAs cd:no_households_living_in_houses .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#SA1008I>
+    owl:sameAs cd:proportion_of_households_living_in_apartments .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#SA1008V>
+    owl:sameAs cd:no_households_living_in_apartments .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#SA1011I>
+    owl:sameAs cd:proportion_of_households_living_in_owned_dwellings .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#SA1011V>
+    owl:sameAs cd:households_owning_their_own_dwelling .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#SA1012V>
+    owl:sameAs cd:households_in_social_housing .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#SA1013V>
+    owl:sameAs cd:households_in_private_rented_housing .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#SA1018V>
+    owl:sameAs cd:dwellings_lacking_basic_amenities .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#SA1022V>
+    owl:sameAs cd:average_area_of_living_accommodation_m2_per_person .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#SA1025V>
+    owl:sameAs cd:empty_conventional_dwellings .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#SA1029V>
+    owl:sameAs cd:no_people_in_accommodation_for_the_homeless .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#SA1049V>
+    owl:sameAs cd:average_annual_rent_for_housing_per_m2 .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#SA1050V>
+    owl:sameAs cd:average_price_for_buying_a_house .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#SA1051V>
+    owl:sameAs cd:average_price_for_buying_an_apartment .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#SA2004I>
+    owl:sameAs cd:infant_mortality_rate_per_1000_live_births .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#SA2004V>
+    owl:sameAs cd:infant_mortality_per_year .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#SA2007I>
+    owl:sameAs cd:crude_birth_rate_per_1000_inhabitants .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#SA2007V>
+    owl:sameAs cd:no_live_births_per_year .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#SA2013I>
+    owl:sameAs cd:mortality_rate_for_individuals_under_65_from_heart_diseases_and_respiratory_illness .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#SA2013V>
+    owl:sameAs cd:no_deaths_per_year_under_65_due_to_diseases_of_the_circulatory_or_respiratory_systems .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#SA2016I>
+    owl:sameAs cd:mortality_rate_for_under_65_per_year .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#SA2016V>
+    owl:sameAs cd:total_deaths_under_65_per_year .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#SA2017I>
+    owl:sameAs cd:mortality_rate_for_under_65_per_year_male .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#SA2017V>
+    owl:sameAs cd:total_deaths_under_65_per_year_male .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#SA2018I>
+    owl:sameAs cd:mortality_rate_for_under_65_per_year_female .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#SA2018V>
+    owl:sameAs cd:total_deaths_under_65_per_year_female .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#SA2019V>
+    owl:sameAs cd:total_deaths_per_year .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#SA2020V>
+    owl:sameAs cd:total_deaths_per_year_male .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#SA2021V>
+    owl:sameAs cd:total_deaths_per_year_female .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#SA2029I>
+    owl:sameAs cd:crude_death_rate_per_1000_inhabitants .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#SA3005V>
+    owl:sameAs cd:no_murders_and_violent_deaths .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#TE1001I>
+    owl:sameAs cd:no_children_0-4_in_day_care_publ_and_priv_per_1000_children_0-4 .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#TE1001V>
+    owl:sameAs cd:no_children_0-4_in_day_care_or_school .
+
+# @@@ should be level 5-8
+<http://estatwrap.ontologycentral.com/dic/indic_ur#TE1026V>
+    owl:sameAs cd:students_in_higher_education_isced_level_5-6_total .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#TE1026I>
+    owl:sameAs cd:share_of_students_in_higher_education_in_the_total_population_per_1000_persons .
+
+# @@@ should be level 5-8
+<http://estatwrap.ontologycentral.com/dic/indic_ur#TE1027V>
+    owl:sameAs cd:students_in_higher_education_isced_level_5-6_male .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#TE1028V>
+    owl:sameAs cd:students_in_higher_education_isced_level_5-6_female .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#TE1039V>
+    owl:sameAs cd:early_leavers_from_education_and_training_total .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#TE1040V>
+    owl:sameAs cd:early_leavers_from_education_and_training_male .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#TE1041V>
+    owl:sameAs cd:early_leavers_from_education_and_training_female .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#TE2025V>
+    owl:sameAs cd:persons_aged_25-64_with_isced_level_0_1or_2_as_the_highest_level_of_education .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#TE2028I>
+    owl:sameAs cd:proportion_of_working_age_population_qualified_at_level_3_or_4_isced .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#TE2028V>
+    owl:sameAs cd:persons_aged_25-64_with_isced_level_3_or_4_as_the_highest_level_of_education .
+
+# @@@ should be level 5-8
+<http://estatwrap.ontologycentral.com/dic/indic_ur#TE2031I>
+    owl:sameAs cd:proportion_of_working_age_population_qualified_at_level_5_or_6_isced .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#TE2031V>
+    owl:sameAs cd:persons_aged_25-64_with_isced_level_5_or_6_as_the_highest_level_of_education .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#TT1003V>
+    owl:sameAs cd:percentage_of_journeys_to_work_by_car .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#TT1006V>
+    owl:sameAs cd:percentage_of_journeys_to_work_by_motor_cycle .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#TT1007V>
+    owl:sameAs cd:percentage_of_journeys_to_work_by_bicycle .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#TT1008V>
+    owl:sameAs cd:percentage_of_journeys_to_work_by_foot .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#TT1010V>
+    owl:sameAs cd:percentage_of_journeys_to_work_by_public_transport_rail_metro_bus_tram .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#TT1012V>
+    owl:sameAs cd:percentage_of_journeys_to_work_by_car_or_motor_cycle .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#TT1013I>
+    owl:sameAs cd:no_registered_motor_cycles_per_1000_population .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#TT1019V>
+    owl:sameAs cd:average_time_of_journey_to_work_minutes .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#TT1020V>
+    owl:sameAs cd:average_length_of_journey_to_work_by_private_car_km .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#TT1057I>
+    owl:sameAs cd:no_registered_cars_per_1000_population .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#TT1057V>
+    owl:sameAs cd:no_private_cars_registered .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#TT1060I>
+    owl:sameAs cd:people_killed_in_road_accidents_per_10000_pop .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#TT1060V>
+    owl:sameAs cd:no_deaths_in_road_accidents .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#TT1064V>
+    owl:sameAs cd:people_commuting_into_the_city .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#TT1065V>
+    owl:sameAs cd:people_commuting_out_of_the_city .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#TT1071V>
+    owl:sameAs cd:accessibility_by_air_eu27_is_100 .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#TT1072V>
+    owl:sameAs cd:accessibility_by_rail_eu27_is_100 .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#TT1073V>
+    owl:sameAs cd:accessibility_by_road_eu27_is_100 .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#TT1074V>
+    owl:sameAs cd:multimodal_accessibility_eu27_is_100 .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#TT1079V>
+    owl:sameAs cd:length_of_bicycle_network_dedicated_cycle_paths_and_lanes .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#TT1080V>
+    owl:sameAs cd:cost_of_a_combined_monthly_ticket_all_modes_of_public_transport_for_5-10_km_in_the_central_zone .
+
+<http://estatwrap.ontologycentral.com/dic/indic_ur#TT1081V>
+    owl:sameAs cd:cost_of_a_taxi_ride_of_5_km_to_the_centre_at_day_time .

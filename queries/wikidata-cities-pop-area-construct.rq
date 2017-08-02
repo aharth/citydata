@@ -1,0 +1,10 @@
+PREFIX owl: <http://www.w3.org/2002/07/owl#>
+PREFIX ocdp: <http://harth.org/andreas/2017/ocdp/vocabs/ocdp#>
+
+CONSTRUCT {
+ ?x a ocdp:City ; ocdp:population ?pop ; ocdp:area ?area .
+}
+FROM <wikidata-cities-pop-area.csv>
+WHERE {
+  BIND (URI(?item) AS ?x)
+}

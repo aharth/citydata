@@ -1,0 +1,153 @@
+######
+# Linked Data-Fu Program for crawling RDF data cubes
+# Author: Benedikt Kaempgen (kaempgen@fzi.de)
+######
+
+# Comments are marked with a leading #
+# The whole document has to be valid N3
+
+# Prefix declarations
+@prefix http: <http://www.w3.org/2011/http#> .
+@prefix httpm: <http://www.w3.org/2011/http-methods#> .
+
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix geo: <http://www.w3.org/2003/01/geo/wgs84_pos#> .
+
+@prefix qb: <http://purl.org/linked-data/cube#> .
+@prefix sdmx-measure: <http://purl.org/linked-data/sdmx/2009/measure#> .
+
+# Retrieve data from all datasets
+{
+	?ds rdf:type qb:DataSet. 
+} => {
+        [] http:mthd httpm:GET ;
+           http:requestURI ?ds.
+} .
+
+# Retrieve DSD
+{
+	?ds qb:structure ?dsd .
+} => {
+        [] http:mthd httpm:GET ;
+           http:requestURI ?dsd .
+} .
+
+# ComponentSpecification
+{
+	?x rdf:type qb:ComponentSpecification . 
+} => {	
+        [] http:mthd httpm:GET ;
+  	   http:requestURI ?x .
+} .
+
+# Retrieve dimension properties
+{
+	?ds rdf:type qb:DataSet .
+	?ds qb:structure ?dsd . ?dsd qb:component ?component . ?component qb:dimension ?dimension .
+} => {	
+        [] http:mthd httpm:GET ;
+	   http:requestURI ?dimension .
+} .
+
+# Retrieve code lists
+{
+	?ds rdf:type qb:DataSet .
+	?ds qb:structure ?dsd . ?dsd qb:component ?component . ?component qb:dimension ?dimension . ?dimension qb:codeList ?codelist .
+} => {
+        [] http:mthd httpm:GET ;
+	   http:requestURI ?codelist .
+} .
+
+# Retrieve range
+{
+	?ds rdf:type qb:DataSet . ?ds qb:structure ?dsd . ?dsd qb:component ?component . ?component qb:dimension ?dimension . ?dimension rdfs:range ?range . 
+} => {
+        [] http:mthd httpm:GET ;
+	   http:requestURI ?range .
+} .
+
+# Retrieve all codelist members
+{
+	?ds rdf:type qb:DataSet .
+	?ds qb:structure ?dsd . ?dsd qb:component ?component . ?component qb:dimension ?dimension . ?dimension qb:codeList ?codelist . ?x skos:inScheme ?codelist .
+} => {
+        [] http:mthd httpm:GET ;
+	   http:requestURI ?x .
+} .
+
+# Retrieve all range members
+# Problem: Before we have resolved member, we do not know that it is of type range. Therefore 1) domain/range reasoning 2) resolve actively
+{
+	?ds rdf:type qb:DataSet .
+	?ds qb:structure ?dsd . ?dsd qb:component ?component . ?component qb:dimension ?dimension . ?dimension rdfs:range ?range . ?x rdf:type ?range .
+} => {
+        [] http:mthd httpm:GET ;
+      	   http:requestURI ?x.
+} .
+
+# Retrieve all members for dimensions
+{
+	?ds rdf:type qb:DataSet .
+	?ds qb:structure ?dsd . ?dsd qb:component ?component . ?component qb:dimension ?dimension . ?x ?dimension ?y .
+} => {
+        [] http:mthd httpm:GET ;
+	   http:requestURI ?y .
+} .
+
+# XXX retrieve hierarchical code list members
+
+# Retrieve measure properties
+{
+	?ds rdf:type qb:DataSet .
+	?ds qb:structure ?dsd . ?dsd qb:component ?component . ?component qb:measure ?measure .
+} => {
+        [] http:mthd httpm:GET ;
+           http:requestURI ?measure .
+} .
+
+# Retrieve attribute properties
+{
+	?ds rdf:type qb:DataSet .
+	?ds qb:structure ?dsd . ?dsd qb:component ?component . ?component qb:attribute ?attribute .
+} =>  {
+        [] http:mthd httpm:GET ;
+	   http:requestURI ?attribute .
+} .
+
+# Observations
+{
+	?obs rdf:type qb:Observation .
+} => {	
+        [] http:mthd httpm:GET ;
+           http:requestURI ?obs .
+} .
+
+# Slice
+{
+	?x rdf:type qb:Slice .
+} => {
+        [] http:mthd httpm:GET ;
+	   http:requestURI ?x .
+} .
+
+# SliceKey
+{
+	?x rdf:type qb:SliceKey .
+} => {	
+        [] http:mthd httpm:GET ;
+     	   http:requestURI ?x .
+} .
+
+# ObservationGroup
+{
+	?x rdf:type qb:ObservationGroup .
+} => {	
+        [] http:mthd httpm:GET ;
+	   http:requestURI ?x .
+} .

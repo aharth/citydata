@@ -1,0 +1,4337 @@
+@prefix owl:  <http://www.w3.org/2002/07/owl#> .
+@prefix rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#BE>
+        owl:sameAs  <http://www.wikidata.org/entity/Q31> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE3>
+        owl:sameAs  <http://www.wikidata.org/entity/Q64> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE30>
+        owl:sameAs  <http://www.wikidata.org/entity/Q64> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE300>
+        owl:sameAs  <http://www.wikidata.org/entity/Q64> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DK0>
+        owl:sameAs  <http://www.wikidata.org/entity/Q35> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DK00>
+        owl:sameAs  <http://www.wikidata.org/entity/Q35> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#EE>
+        owl:sameAs  <http://www.wikidata.org/entity/Q191> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#FR>
+        owl:sameAs  <http://www.wikidata.org/entity/Q142> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#FRA>
+        owl:sameAs  <http://www.wikidata.org/entity/Q202216> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#LI>
+        owl:sameAs  <http://www.wikidata.org/entity/Q347> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#LI0>
+        owl:sameAs  <http://www.wikidata.org/entity/Q347> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#LI00>
+        owl:sameAs  <http://www.wikidata.org/entity/Q347> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#LI000>
+        owl:sameAs  <http://www.wikidata.org/entity/Q347> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#UK>
+        owl:sameAs  <http://www.wikidata.org/entity/Q145> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#UKM>
+        owl:sameAs  <http://www.wikidata.org/entity/Q22> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#BE24>
+        owl:sameAs  <http://www.wikidata.org/entity/Q1118> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#BG>
+        owl:sameAs  <http://www.wikidata.org/entity/Q219> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE111>
+        owl:sameAs  <http://www.wikidata.org/entity/Q1022> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE2>
+        owl:sameAs  <http://www.wikidata.org/entity/Q980> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE5>
+        owl:sameAs  <http://www.wikidata.org/entity/Q1209> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE50>
+        owl:sameAs  <http://www.wikidata.org/entity/Q1209> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE9>
+        owl:sameAs  <http://www.wikidata.org/entity/Q1197> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DEA21>
+        owl:sameAs  <http://www.wikidata.org/entity/Q1017> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#FR26>
+        owl:sameAs  <http://www.wikidata.org/entity/Q1173> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#FRA1>
+        owl:sameAs  <http://www.wikidata.org/entity/Q17012> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ITC3>
+        owl:sameAs  <http://www.wikidata.org/entity/Q1256> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ITF3>
+        owl:sameAs  <http://www.wikidata.org/entity/Q1438> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#LV006>
+        owl:sameAs  <http://www.wikidata.org/entity/Q1773> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#NL23>
+        owl:sameAs  <http://www.wikidata.org/entity/Q707> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#NL310>
+        owl:sameAs  <http://www.wikidata.org/entity/Q803> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#AT>
+        owl:sameAs  <http://www.wikidata.org/entity/Q40> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#CE>
+        owl:sameAs  <http://www.wikidata.org/entity/Q181862> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#CH>
+        owl:sameAs  <http://www.wikidata.org/entity/Q39> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE126>
+        owl:sameAs  <http://www.wikidata.org/entity/Q2119> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE12C>
+        owl:sameAs  <http://www.wikidata.org/entity/Q8189> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE133>
+        owl:sameAs  <http://www.wikidata.org/entity/Q8193> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE135>
+        owl:sameAs  <http://www.wikidata.org/entity/Q8211> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE138>
+        owl:sameAs  <http://www.wikidata.org/entity/Q8206> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE13A>
+        owl:sameAs  <http://www.wikidata.org/entity/Q8200> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE145>
+        owl:sameAs  <http://www.wikidata.org/entity/Q8221> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE146>
+        owl:sameAs  <http://www.wikidata.org/entity/Q8223> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE213>
+        owl:sameAs  <http://www.wikidata.org/entity/Q4007> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE222>
+        owl:sameAs  <http://www.wikidata.org/entity/Q4190> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE231>
+        owl:sameAs  <http://www.wikidata.org/entity/Q7042> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE232>
+        owl:sameAs  <http://www.wikidata.org/entity/Q2978> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE241>
+        owl:sameAs  <http://www.wikidata.org/entity/Q3936> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE261>
+        owl:sameAs  <http://www.wikidata.org/entity/Q3942> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE403>
+        owl:sameAs  <http://www.wikidata.org/entity/Q4024> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE40H>
+        owl:sameAs  <http://www.wikidata.org/entity/Q6146> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE411>
+        owl:sameAs  <http://www.wikidata.org/entity/Q4024> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE42A>
+        owl:sameAs  <http://www.wikidata.org/entity/Q6146> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE502>
+        owl:sameAs  <http://www.wikidata.org/entity/Q2706> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE71E>
+        owl:sameAs  <http://www.wikidata.org/entity/Q7910> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE722>
+        owl:sameAs  <http://www.wikidata.org/entity/Q7905> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE725>
+        owl:sameAs  <http://www.wikidata.org/entity/Q7901> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE735>
+        owl:sameAs  <http://www.wikidata.org/entity/Q7894> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE801>
+        owl:sameAs  <http://www.wikidata.org/entity/Q4098> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE802>
+        owl:sameAs  <http://www.wikidata.org/entity/Q3958> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE80J>
+        owl:sameAs  <http://www.wikidata.org/entity/Q2902> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE80K>
+        owl:sameAs  <http://www.wikidata.org/entity/Q2898> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE80M>
+        owl:sameAs  <http://www.wikidata.org/entity/Q2876> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE911>
+        owl:sameAs  <http://www.wikidata.org/entity/Q2773> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE916>
+        owl:sameAs  <http://www.wikidata.org/entity/Q6040> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE923>
+        owl:sameAs  <http://www.wikidata.org/entity/Q5970> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE927>
+        owl:sameAs  <http://www.wikidata.org/entity/Q5958> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE929>
+        owl:sameAs  <http://www.wikidata.org/entity/Q5963> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE932>
+        owl:sameAs  <http://www.wikidata.org/entity/Q5897> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE937>
+        owl:sameAs  <http://www.wikidata.org/entity/Q5923> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE93B>
+        owl:sameAs  <http://www.wikidata.org/entity/Q5927> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE943>
+        owl:sameAs  <http://www.wikidata.org/entity/Q2936> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE944>
+        owl:sameAs  <http://www.wikidata.org/entity/Q2916> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE949>
+        owl:sameAs  <http://www.wikidata.org/entity/Q5936> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE94A>
+        owl:sameAs  <http://www.wikidata.org/entity/Q5932> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE94B>
+        owl:sameAs  <http://www.wikidata.org/entity/Q5939> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE94C>
+        owl:sameAs  <http://www.wikidata.org/entity/Q5934> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DEA1B>
+        owl:sameAs  <http://www.wikidata.org/entity/Q6246> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DEA27>
+        owl:sameAs  <http://www.wikidata.org/entity/Q6292> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DEA28>
+        owl:sameAs  <http://www.wikidata.org/entity/Q6280> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DEA32>
+        owl:sameAs  <http://www.wikidata.org/entity/Q2765> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DEA41>
+        owl:sameAs  <http://www.wikidata.org/entity/Q2112> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DEA46>
+        owl:sameAs  <http://www.wikidata.org/entity/Q6239> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DEA5C>
+        owl:sameAs  <http://www.wikidata.org/entity/Q6163> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DEB21>
+        owl:sameAs  <http://www.wikidata.org/entity/Q3138> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DEB32>
+        owl:sameAs  <http://www.wikidata.org/entity/Q3758> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DEC03>
+        owl:sameAs  <http://www.wikidata.org/entity/Q6799> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DED45>
+        owl:sameAs  <http://www.wikidata.org/entity/Q6330> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DED52>
+        owl:sameAs  <http://www.wikidata.org/entity/Q6308> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DEE05>
+        owl:sameAs  <http://www.wikidata.org/entity/Q6071> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DEE0A>
+        owl:sameAs  <http://www.wikidata.org/entity/Q6092> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DEF04>
+        owl:sameAs  <http://www.wikidata.org/entity/Q3879> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DEF06>
+        owl:sameAs  <http://www.wikidata.org/entity/Q3000> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DEF0A>
+        owl:sameAs  <http://www.wikidata.org/entity/Q2970> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DEF0D>
+        owl:sameAs  <http://www.wikidata.org/entity/Q2980> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DEG0C>
+        owl:sameAs  <http://www.wikidata.org/entity/Q7869> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DEG0H>
+        owl:sameAs  <http://www.wikidata.org/entity/Q7875> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DEG0M>
+        owl:sameAs  <http://www.wikidata.org/entity/Q7888> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#EL>
+        owl:sameAs  <http://www.wikidata.org/entity/Q41> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ES>
+        owl:sameAs  <http://www.wikidata.org/entity/Q29> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ES23>
+        owl:sameAs  <http://www.wikidata.org/entity/Q5727> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ES230>
+        owl:sameAs  <http://www.wikidata.org/entity/Q5727> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ES3>
+        owl:sameAs  <http://www.wikidata.org/entity/Q5756> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ES30>
+        owl:sameAs  <http://www.wikidata.org/entity/Q5756> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ES300>
+        owl:sameAs  <http://www.wikidata.org/entity/Q5756> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ES51>
+        owl:sameAs  <http://www.wikidata.org/entity/Q5705> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ES512>
+        owl:sameAs  <http://www.wikidata.org/entity/Q7194> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#FI193>
+        owl:sameAs  <http://www.wikidata.org/entity/Q5697> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#FI195>
+        owl:sameAs  <http://www.wikidata.org/entity/Q5702> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#FI1D2>
+        owl:sameAs  <http://www.wikidata.org/entity/Q5706> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#FI1D6>
+        owl:sameAs  <http://www.wikidata.org/entity/Q5704> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#FR231>
+        owl:sameAs  <http://www.wikidata.org/entity/Q3372> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#FR242>
+        owl:sameAs  <http://www.wikidata.org/entity/Q3377> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#FR261>
+        owl:sameAs  <http://www.wikidata.org/entity/Q3342> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#FR431>
+        owl:sameAs  <http://www.wikidata.org/entity/Q3361> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#FR432>
+        owl:sameAs  <http://www.wikidata.org/entity/Q3120> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#FR622>
+        owl:sameAs  <http://www.wikidata.org/entity/Q3216> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#FR711>
+        owl:sameAs  <http://www.wikidata.org/entity/Q3083> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#FR811>
+        owl:sameAs  <http://www.wikidata.org/entity/Q3207> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#FR821>
+        owl:sameAs  <http://www.wikidata.org/entity/Q3131> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#FR93>
+        owl:sameAs  <http://www.wikidata.org/entity/Q3769> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#FR930>
+        owl:sameAs  <http://www.wikidata.org/entity/Q3769> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#FRA3>
+        owl:sameAs  <http://www.wikidata.org/entity/Q3769> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#FRA30>
+        owl:sameAs  <http://www.wikidata.org/entity/Q3769> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#HR>
+        owl:sameAs  <http://www.wikidata.org/entity/Q224> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#HU>
+        owl:sameAs  <http://www.wikidata.org/entity/Q28> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#KY>
+        owl:sameAs  <http://www.wikidata.org/entity/Q184469> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#RO>
+        owl:sameAs  <http://www.wikidata.org/entity/Q218> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#TR>
+        owl:sameAs  <http://www.wikidata.org/entity/Q43> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#UKG31>
+        owl:sameAs  <http://www.wikidata.org/entity/Q2256> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#CH02>
+        owl:sameAs  <http://www.wikidata.org/entity/Q30983> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#CH033>
+        owl:sameAs  <http://www.wikidata.org/entity/Q11972> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#CH04>
+        owl:sameAs  <http://www.wikidata.org/entity/Q11943> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#CH054>
+        owl:sameAs  <http://www.wikidata.org/entity/Q12094> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#CH061>
+        owl:sameAs  <http://www.wikidata.org/entity/Q12121> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#CH064>
+        owl:sameAs  <http://www.wikidata.org/entity/Q12573> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#CH065>
+        owl:sameAs  <http://www.wikidata.org/entity/Q12592> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#CH07>
+        owl:sameAs  <http://www.wikidata.org/entity/Q12724> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#CH070>
+        owl:sameAs  <http://www.wikidata.org/entity/Q12724> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE116>
+        owl:sameAs  <http://www.wikidata.org/entity/Q8528> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE11A>
+        owl:sameAs  <http://www.wikidata.org/entity/Q8520> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE11D>
+        owl:sameAs  <http://www.wikidata.org/entity/Q8522> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE21C>
+        owl:sameAs  <http://www.wikidata.org/entity/Q10502> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE21D>
+        owl:sameAs  <http://www.wikidata.org/entity/Q10518> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE21J>
+        owl:sameAs  <http://www.wikidata.org/entity/Q10496> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE229>
+        owl:sameAs  <http://www.wikidata.org/entity/Q10483> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE22A>
+        owl:sameAs  <http://www.wikidata.org/entity/Q10477> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE22B>
+        owl:sameAs  <http://www.wikidata.org/entity/Q10482> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE234>
+        owl:sameAs  <http://www.wikidata.org/entity/Q10421> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE246>
+        owl:sameAs  <http://www.wikidata.org/entity/Q10439> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE24D>
+        owl:sameAs  <http://www.wikidata.org/entity/Q10432> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE258>
+        owl:sameAs  <http://www.wikidata.org/entity/Q10455> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE25A>
+        owl:sameAs  <http://www.wikidata.org/entity/Q10456> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE26>
+        owl:sameAs  <http://www.wikidata.org/entity/Q10547> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE264>
+        owl:sameAs  <http://www.wikidata.org/entity/Q10471> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE26A>
+        owl:sameAs  <http://www.wikidata.org/entity/Q10469> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE272>
+        owl:sameAs  <http://www.wikidata.org/entity/Q14805> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE275>
+        owl:sameAs  <http://www.wikidata.org/entity/Q10415> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE276>
+        owl:sameAs  <http://www.wikidata.org/entity/Q10414> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE277>
+        owl:sameAs  <http://www.wikidata.org/entity/Q10417> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE27A>
+        owl:sameAs  <http://www.wikidata.org/entity/Q10401> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DEA56>
+        owl:sameAs  <http://www.wikidata.org/entity/Q11280> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DEB12>
+        owl:sameAs  <http://www.wikidata.org/entity/Q8596> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DEB23>
+        owl:sameAs  <http://www.wikidata.org/entity/Q8580> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DEB3G>
+        owl:sameAs  <http://www.wikidata.org/entity/Q8562> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ES513>
+        owl:sameAs  <http://www.wikidata.org/entity/Q13904> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#FR21>
+        owl:sameAs  <http://www.wikidata.org/entity/Q14103> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#FR223>
+        owl:sameAs  <http://www.wikidata.org/entity/Q12770> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#FR252>
+        owl:sameAs  <http://www.wikidata.org/entity/Q12589> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#FR3>
+        owl:sameAs  <http://www.wikidata.org/entity/Q16987> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#FR30>
+        owl:sameAs  <http://www.wikidata.org/entity/Q16987> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#FR412>
+        owl:sameAs  <http://www.wikidata.org/entity/Q12631> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#FR43>
+        owl:sameAs  <http://www.wikidata.org/entity/Q16394> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#FR434>
+        owl:sameAs  <http://www.wikidata.org/entity/Q12782> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#FR52>
+        owl:sameAs  <http://www.wikidata.org/entity/Q12130> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#FR614>
+        owl:sameAs  <http://www.wikidata.org/entity/Q12578> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#FR723>
+        owl:sameAs  <http://www.wikidata.org/entity/Q12572> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#FR724>
+        owl:sameAs  <http://www.wikidata.org/entity/Q12694> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#FR815>
+        owl:sameAs  <http://www.wikidata.org/entity/Q12709> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#FR83>
+        owl:sameAs  <http://www.wikidata.org/entity/Q14112> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#FRA10>
+        owl:sameAs  <http://www.wikidata.org/entity/Q17012> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#FRA2>
+        owl:sameAs  <http://www.wikidata.org/entity/Q17054> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#FRA4>
+        owl:sameAs  <http://www.wikidata.org/entity/Q17070> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#FRA5>
+        owl:sameAs  <http://www.wikidata.org/entity/Q17063> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#IT312>
+        owl:sameAs  <http://www.wikidata.org/entity/Q16289> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ITC13>
+        owl:sameAs  <http://www.wikidata.org/entity/Q15094> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ITC18>
+        owl:sameAs  <http://www.wikidata.org/entity/Q15097> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ITC34>
+        owl:sameAs  <http://www.wikidata.org/entity/Q16188> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ITC43>
+        owl:sameAs  <http://www.wikidata.org/entity/Q16199> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ITC4D>
+        owl:sameAs  <http://www.wikidata.org/entity/Q16210> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ITD2>
+        owl:sameAs  <http://www.wikidata.org/entity/Q16289> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ITD20>
+        owl:sameAs  <http://www.wikidata.org/entity/Q16289> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ITF32>
+        owl:sameAs  <http://www.wikidata.org/entity/Q16134> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ITF47>
+        owl:sameAs  <http://www.wikidata.org/entity/Q16123> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ITF63>
+        owl:sameAs  <http://www.wikidata.org/entity/Q16159> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ITF65>
+        owl:sameAs  <http://www.wikidata.org/entity/Q16253> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ITG14>
+        owl:sameAs  <http://www.wikidata.org/entity/Q16112> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ITG26>
+        owl:sameAs  <http://www.wikidata.org/entity/Q16220> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ITH2>
+        owl:sameAs  <http://www.wikidata.org/entity/Q16289> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ITH20>
+        owl:sameAs  <http://www.wikidata.org/entity/Q16289> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ITH54>
+        owl:sameAs  <http://www.wikidata.org/entity/Q16209> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ITI12>
+        owl:sameAs  <http://www.wikidata.org/entity/Q16202> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ITI18>
+        owl:sameAs  <http://www.wikidata.org/entity/Q16115> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ITI33>
+        owl:sameAs  <http://www.wikidata.org/entity/Q16203> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ITI42>
+        owl:sameAs  <http://www.wikidata.org/entity/Q16267> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#LU>
+        owl:sameAs  <http://www.wikidata.org/entity/Q32> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#PT>
+        owl:sameAs  <http://www.wikidata.org/entity/Q45> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#AT1>
+        owl:sameAs  <http://www.wikidata.org/entity/Q23223> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#AT2>
+        owl:sameAs  <http://www.wikidata.org/entity/Q23231> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#AT3>
+        owl:sameAs  <http://www.wikidata.org/entity/Q23241> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DED14>
+        owl:sameAs  <http://www.wikidata.org/entity/Q20221> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DED18>
+        owl:sameAs  <http://www.wikidata.org/entity/Q20250> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DED1C>
+        owl:sameAs  <http://www.wikidata.org/entity/Q20271> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DED5>
+        owl:sameAs  <http://www.wikidata.org/entity/Q24186> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DK03>
+        owl:sameAs  <http://www.wikidata.org/entity/Q26061> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DK031>
+        owl:sameAs  <http://www.wikidata.org/entity/Q26503> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DK04>
+        owl:sameAs  <http://www.wikidata.org/entity/Q26586> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#NL>
+        owl:sameAs  <http://www.wikidata.org/entity/Q55> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#NO>
+        owl:sameAs  <http://www.wikidata.org/entity/Q20> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#PL213>
+        owl:sameAs  <http://www.wikidata.org/entity/Q31487> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#PT17>
+        owl:sameAs  <http://www.wikidata.org/entity/Q27689> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#UKD4>
+        owl:sameAs  <http://www.wikidata.org/entity/Q23077> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#UKE4>
+        owl:sameAs  <http://www.wikidata.org/entity/Q23083> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#UKG11>
+        owl:sameAs  <http://www.wikidata.org/entity/Q23129> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#UKH3>
+        owl:sameAs  <http://www.wikidata.org/entity/Q23240> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#UKK23>
+        owl:sameAs  <http://www.wikidata.org/entity/Q23157> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#UKK3>
+        owl:sameAs  <http://www.wikidata.org/entity/Q23148> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#UKK30>
+        owl:sameAs  <http://www.wikidata.org/entity/Q23148> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#AT31>
+        owl:sameAs  <http://www.wikidata.org/entity/Q41967> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ES709>
+        owl:sameAs  <http://www.wikidata.org/entity/Q40846> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#FR716>
+        owl:sameAs  <http://www.wikidata.org/entity/Q46130> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#NO012>
+        owl:sameAs  <http://www.wikidata.org/entity/Q50615> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#NO043>
+        owl:sameAs  <http://www.wikidata.org/entity/Q50624> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#NO053>
+        owl:sameAs  <http://www.wikidata.org/entity/Q50627> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#UKF>
+        owl:sameAs  <http://www.wikidata.org/entity/Q47994> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#UKF11>
+        owl:sameAs  <http://www.wikidata.org/entity/Q43475> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#UKK>
+        owl:sameAs  <http://www.wikidata.org/entity/Q48026> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#UKK41>
+        owl:sameAs  <http://www.wikidata.org/entity/Q43382> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#UKM66>
+        owl:sameAs  <http://www.wikidata.org/entity/Q47134> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#CH03>
+        owl:sameAs  <http://www.wikidata.org/entity/Q676537> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ES241>
+        owl:sameAs  <http://www.wikidata.org/entity/Q55182> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ES243>
+        owl:sameAs  <http://www.wikidata.org/entity/Q55180> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ES419>
+        owl:sameAs  <http://www.wikidata.org/entity/Q71113> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ES424>
+        owl:sameAs  <http://www.wikidata.org/entity/Q54925> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#PL33>
+        owl:sameAs  <http://www.wikidata.org/entity/Q54183> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#BE231>
+        owl:sameAs  <http://www.wikidata.org/entity/Q90921> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#BE235>
+        owl:sameAs  <http://www.wikidata.org/entity/Q90932> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#BE236>
+        owl:sameAs  <http://www.wikidata.org/entity/Q90954> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#BE254>
+        owl:sameAs  <http://www.wikidata.org/entity/Q91388> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#BE255>
+        owl:sameAs  <http://www.wikidata.org/entity/Q91427> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#BE257>
+        owl:sameAs  <http://www.wikidata.org/entity/Q91445> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#FI>
+        owl:sameAs  <http://www.wikidata.org/entity/Q33> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#SI>
+        owl:sameAs  <http://www.wikidata.org/entity/Q215> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#UKJ31>
+        owl:sameAs  <http://www.wikidata.org/entity/Q72259> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#UKM6>
+        owl:sameAs  <http://www.wikidata.org/entity/Q80967> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#UKM64>
+        owl:sameAs  <http://www.wikidata.org/entity/Q80967> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#BE221>
+        owl:sameAs  <http://www.wikidata.org/entity/Q93515> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#BE242>
+        owl:sameAs  <http://www.wikidata.org/entity/Q93392> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#BE334>
+        owl:sameAs  <http://www.wikidata.org/entity/Q93970> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#BE343>
+        owl:sameAs  <http://www.wikidata.org/entity/Q93905> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#BE345>
+        owl:sameAs  <http://www.wikidata.org/entity/Q93860> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ES706>
+        owl:sameAs  <http://www.wikidata.org/entity/Q105967> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#SE110>
+        owl:sameAs  <http://www.wikidata.org/entity/Q104231> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#SE213>
+        owl:sameAs  <http://www.wikidata.org/entity/Q103707> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#SE214>
+        owl:sameAs  <http://www.wikidata.org/entity/Q103738> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#SE231>
+        owl:sameAs  <http://www.wikidata.org/entity/Q103691> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#LT>
+        owl:sameAs  <http://www.wikidata.org/entity/Q37> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#UKE11>
+        owl:sameAs  <http://www.wikidata.org/entity/Q128147> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#UKG23>
+        owl:sameAs  <http://www.wikidata.org/entity/Q134902> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#UKG39>
+        owl:sameAs  <http://www.wikidata.org/entity/Q126269> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#UKL24>
+        owl:sameAs  <http://www.wikidata.org/entity/Q156150> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#EL13>
+        owl:sameAs  <http://www.wikidata.org/entity/Q165408> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#EL22>
+        owl:sameAs  <http://www.wikidata.org/entity/Q170295> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#IE021>
+        owl:sameAs  <http://www.wikidata.org/entity/Q173500> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#UKG38>
+        owl:sameAs  <http://www.wikidata.org/entity/Q178356> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#UKI32>
+        owl:sameAs  <http://www.wikidata.org/entity/Q179351> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#CZ031>
+        owl:sameAs  <http://www.wikidata.org/entity/Q188373> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#CZ041>
+        owl:sameAs  <http://www.wikidata.org/entity/Q191091> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#CZ042>
+        owl:sameAs  <http://www.wikidata.org/entity/Q192702> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#CZ051>
+        owl:sameAs  <http://www.wikidata.org/entity/Q193266> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#CZ052>
+        owl:sameAs  <http://www.wikidata.org/entity/Q193295> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#EL24>
+        owl:sameAs  <http://www.wikidata.org/entity/Q199580> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#EL122>
+        owl:sameAs  <http://www.wikidata.org/entity/Q210176> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#EL134>
+        owl:sameAs  <http://www.wikidata.org/entity/Q211314> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ES13>
+        owl:sameAs  <http://www.wikidata.org/entity/Q3946> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#IS>
+        owl:sameAs  <http://www.wikidata.org/entity/Q189> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#LV005>
+        owl:sameAs  <http://www.wikidata.org/entity/Q208113> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#UKI34>
+        owl:sameAs  <http://www.wikidata.org/entity/Q210563> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#UKI72>
+        owl:sameAs  <http://www.wikidata.org/entity/Q207201> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#UKM36>
+        owl:sameAs  <http://www.wikidata.org/entity/Q207111> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#UKM38>
+        owl:sameAs  <http://www.wikidata.org/entity/Q209142> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DK00D>
+        owl:sameAs  <http://www.wikidata.org/entity/Q271176> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#PL>
+        owl:sameAs  <http://www.wikidata.org/entity/Q36> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE>
+        owl:sameAs  <http://www.wikidata.org/entity/Q183> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE91>
+        owl:sameAs  <http://www.wikidata.org/entity/Q314240> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE93>
+        owl:sameAs  <http://www.wikidata.org/entity/Q314251> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE80A>
+        owl:sameAs  <http://www.wikidata.org/entity/Q385635> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE92>
+        owl:sameAs  <http://www.wikidata.org/entity/Q450622> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#LK>
+        owl:sameAs  <http://www.wikidata.org/entity/Q178283> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#SE>
+        owl:sameAs  <http://www.wikidata.org/entity/Q34> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DEE11>
+        owl:sameAs  <http://www.wikidata.org/entity/Q487070> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DEF0B>
+        owl:sameAs  <http://www.wikidata.org/entity/Q490457> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DEF0C>
+        owl:sameAs  <http://www.wikidata.org/entity/Q501661> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#UKC1>
+        owl:sameAs  <http://www.wikidata.org/entity/Q3982570> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#AT313>
+        owl:sameAs  <http://www.wikidata.org/entity/Q575289> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#AT315>
+        owl:sameAs  <http://www.wikidata.org/entity/Q697691> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DK014>
+        owl:sameAs  <http://www.wikidata.org/entity/Q769680> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#UKE45>
+        owl:sameAs  <http://www.wikidata.org/entity/Q763171> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DK008>
+        owl:sameAs  <http://www.wikidata.org/entity/Q847014> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DK00B>
+        owl:sameAs  <http://www.wikidata.org/entity/Q853028> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#AT334>
+        owl:sameAs  <http://www.wikidata.org/entity/Q874380> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#BG322>
+        owl:sameAs  <http://www.wikidata.org/entity/Q1007272> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE14>
+        owl:sameAs  <http://www.wikidata.org/entity/Q8170> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#UKD63>
+        owl:sameAs  <http://www.wikidata.org/entity/Q1070591> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#UKN01>
+        owl:sameAs  <http://www.wikidata.org/entity/Q1140130> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#EL43>
+        owl:sameAs  <http://www.wikidata.org/entity/Q1267522> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#IE012>
+        owl:sameAs  <http://www.wikidata.org/entity/Q1345331> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#PT115>
+        owl:sameAs  <http://www.wikidata.org/entity/Q1547405> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#PT126>
+        owl:sameAs  <http://www.wikidata.org/entity/Q1547442> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#PT166>
+        owl:sameAs  <http://www.wikidata.org/entity/Q1547442> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#UKD7>
+        owl:sameAs  <http://www.wikidata.org/entity/Q23100> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#UKG36>
+        owl:sameAs  <http://www.wikidata.org/entity/Q1617704> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DED>
+        owl:sameAs  <http://www.wikidata.org/entity/Q1202> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DEE>
+        owl:sameAs  <http://www.wikidata.org/entity/Q1206> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ITH>
+        owl:sameAs  <http://www.wikidata.org/entity/Q579075> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#UKL>
+        owl:sameAs  <http://www.wikidata.org/entity/Q25> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#UKL2>
+        owl:sameAs  <http://www.wikidata.org/entity/Q5329630> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#AT212>
+        owl:sameAs  <http://www.wikidata.org/entity/Q2010004> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#BE2>
+        owl:sameAs  <http://www.wikidata.org/entity/Q9337> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE13>
+        owl:sameAs  <http://www.wikidata.org/entity/Q8167> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE4>
+        owl:sameAs  <http://www.wikidata.org/entity/Q1208> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE72>
+        owl:sameAs  <http://www.wikidata.org/entity/Q7931> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE6>
+        owl:sameAs  <http://www.wikidata.org/entity/Q1055> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#AT322>
+        owl:sameAs  <http://www.wikidata.org/entity/Q2096065> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE73>
+        owl:sameAs  <http://www.wikidata.org/entity/Q7928> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE11>
+        owl:sameAs  <http://www.wikidata.org/entity/Q8172> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#UKN>
+        owl:sameAs  <http://www.wikidata.org/entity/Q26> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE7>
+        owl:sameAs  <http://www.wikidata.org/entity/Q1199> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#UKC11>
+        owl:sameAs  <http://www.wikidata.org/entity/Q2594690> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE12>
+        owl:sameAs  <http://www.wikidata.org/entity/Q8165> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#EL5>
+        owl:sameAs  <http://www.wikidata.org/entity/Q3563983> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#IS002>
+        owl:sameAs  <http://www.wikidata.org/entity/Q13423484> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#PT16J>
+        owl:sameAs  <http://www.wikidata.org/entity/Q17989476> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#BE22>
+        owl:sameAs  <http://www.wikidata.org/entity/Q1095> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#BE23>
+        owl:sameAs  <http://www.wikidata.org/entity/Q1114> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#BE3>
+        owl:sameAs  <http://www.wikidata.org/entity/Q231> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#BE32>
+        owl:sameAs  <http://www.wikidata.org/entity/Q1129> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#CH0>
+        owl:sameAs  <http://www.wikidata.org/entity/Q39> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE129>
+        owl:sameAs  <http://www.wikidata.org/entity/Q3046> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE131>
+        owl:sameAs  <http://www.wikidata.org/entity/Q2833> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE144>
+        owl:sameAs  <http://www.wikidata.org/entity/Q3012> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE211>
+        owl:sameAs  <http://www.wikidata.org/entity/Q3004> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE212>
+        owl:sameAs  <http://www.wikidata.org/entity/Q1726> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE254>
+        owl:sameAs  <http://www.wikidata.org/entity/Q2090> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE402>
+        owl:sameAs  <http://www.wikidata.org/entity/Q3214> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE406>
+        owl:sameAs  <http://www.wikidata.org/entity/Q6173> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE409>
+        owl:sameAs  <http://www.wikidata.org/entity/Q6181> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE40I>
+        owl:sameAs  <http://www.wikidata.org/entity/Q6109> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE413>
+        owl:sameAs  <http://www.wikidata.org/entity/Q6181> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE418>
+        owl:sameAs  <http://www.wikidata.org/entity/Q6109> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE422>
+        owl:sameAs  <http://www.wikidata.org/entity/Q3214> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE424>
+        owl:sameAs  <http://www.wikidata.org/entity/Q6173> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE711>
+        owl:sameAs  <http://www.wikidata.org/entity/Q2973> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE713>
+        owl:sameAs  <http://www.wikidata.org/entity/Q3042> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE731>
+        owl:sameAs  <http://www.wikidata.org/entity/Q2865> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE8>
+        owl:sameAs  <http://www.wikidata.org/entity/Q1196> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE80>
+        owl:sameAs  <http://www.wikidata.org/entity/Q1196> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE915>
+        owl:sameAs  <http://www.wikidata.org/entity/Q6022> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE918>
+        owl:sameAs  <http://www.wikidata.org/entity/Q6018> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE91A>
+        owl:sameAs  <http://www.wikidata.org/entity/Q6045> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE91B>
+        owl:sameAs  <http://www.wikidata.org/entity/Q6041> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE921>
+        owl:sameAs  <http://www.wikidata.org/entity/Q1715> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE926>
+        owl:sameAs  <http://www.wikidata.org/entity/Q5973> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE933>
+        owl:sameAs  <http://www.wikidata.org/entity/Q5907> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE936>
+        owl:sameAs  <http://www.wikidata.org/entity/Q5926> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE93A>
+        owl:sameAs  <http://www.wikidata.org/entity/Q5915> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE945>
+        owl:sameAs  <http://www.wikidata.org/entity/Q3857> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE948>
+        owl:sameAs  <http://www.wikidata.org/entity/Q5945> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE94F>
+        owl:sameAs  <http://www.wikidata.org/entity/Q5941> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE94G>
+        owl:sameAs  <http://www.wikidata.org/entity/Q5948> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DEA>
+        owl:sameAs  <http://www.wikidata.org/entity/Q1198> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DEA13>
+        owl:sameAs  <http://www.wikidata.org/entity/Q2066> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DEA14>
+        owl:sameAs  <http://www.wikidata.org/entity/Q2805> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DEA19>
+        owl:sameAs  <http://www.wikidata.org/entity/Q2942> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DEA1D>
+        owl:sameAs  <http://www.wikidata.org/entity/Q6253> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DEA22>
+        owl:sameAs  <http://www.wikidata.org/entity/Q586> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DEA23>
+        owl:sameAs  <http://www.wikidata.org/entity/Q365> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DEA2A>
+        owl:sameAs  <http://www.wikidata.org/entity/Q6298> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DEA2B>
+        owl:sameAs  <http://www.wikidata.org/entity/Q6295> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DEA31>
+        owl:sameAs  <http://www.wikidata.org/entity/Q3069> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DEA33>
+        owl:sameAs  <http://www.wikidata.org/entity/Q2742> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DEA36>
+        owl:sameAs  <http://www.wikidata.org/entity/Q6214> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DEA38>
+        owl:sameAs  <http://www.wikidata.org/entity/Q2839> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DEA44>
+        owl:sameAs  <http://www.wikidata.org/entity/Q6228> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DEA57>
+        owl:sameAs  <http://www.wikidata.org/entity/Q5946> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DEA58>
+        owl:sameAs  <http://www.wikidata.org/entity/Q5937> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DEA59>
+        owl:sameAs  <http://www.wikidata.org/entity/Q5953> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DEA5B>
+        owl:sameAs  <http://www.wikidata.org/entity/Q5965> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DEC>
+        owl:sameAs  <http://www.wikidata.org/entity/Q1201> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DEC0>
+        owl:sameAs  <http://www.wikidata.org/entity/Q1201> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DED12>
+        owl:sameAs  <http://www.wikidata.org/entity/Q3952> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DEE02>
+        owl:sameAs  <http://www.wikidata.org/entity/Q2814> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DEE04>
+        owl:sameAs  <http://www.wikidata.org/entity/Q6061> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DEE21>
+        owl:sameAs  <http://www.wikidata.org/entity/Q2814> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DEE3B>
+        owl:sameAs  <http://www.wikidata.org/entity/Q6061> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DEF03>
+        owl:sameAs  <http://www.wikidata.org/entity/Q2843> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DEF09>
+        owl:sameAs  <http://www.wikidata.org/entity/Q3006> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DEF0E>
+        owl:sameAs  <http://www.wikidata.org/entity/Q3011> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DEG01>
+        owl:sameAs  <http://www.wikidata.org/entity/Q1729> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ES52>
+        owl:sameAs  <http://www.wikidata.org/entity/Q5720> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ES7>
+        owl:sameAs  <http://www.wikidata.org/entity/Q5813> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ES70>
+        owl:sameAs  <http://www.wikidata.org/entity/Q5813> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#FI196>
+        owl:sameAs  <http://www.wikidata.org/entity/Q5709> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#FI1C1>
+        owl:sameAs  <http://www.wikidata.org/entity/Q5712> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#FI1C4>
+        owl:sameAs  <http://www.wikidata.org/entity/Q5698> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#FI1D7>
+        owl:sameAs  <http://www.wikidata.org/entity/Q5700> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#FI2>
+        owl:sameAs  <http://www.wikidata.org/entity/Q5689> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#FI20>
+        owl:sameAs  <http://www.wikidata.org/entity/Q5689> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#FI200>
+        owl:sameAs  <http://www.wikidata.org/entity/Q5689> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#FR241>
+        owl:sameAs  <http://www.wikidata.org/entity/Q3286> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#FR522>
+        owl:sameAs  <http://www.wikidata.org/entity/Q3389> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#FR531>
+        owl:sameAs  <http://www.wikidata.org/entity/Q3266> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#FR532>
+        owl:sameAs  <http://www.wikidata.org/entity/Q3278> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#FR611>
+        owl:sameAs  <http://www.wikidata.org/entity/Q3357> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#IT>
+        owl:sameAs  <http://www.wikidata.org/entity/Q38> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ITC4>
+        owl:sameAs  <http://www.wikidata.org/entity/Q1210> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ITF4>
+        owl:sameAs  <http://www.wikidata.org/entity/Q1447> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ITG1>
+        owl:sameAs  <http://www.wikidata.org/entity/Q1460> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ITH4>
+        owl:sameAs  <http://www.wikidata.org/entity/Q1250> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ITI2>
+        owl:sameAs  <http://www.wikidata.org/entity/Q1280> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#NL41>
+        owl:sameAs  <http://www.wikidata.org/entity/Q1101> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#NO011>
+        owl:sameAs  <http://www.wikidata.org/entity/Q585> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#PL127>
+        owl:sameAs  <http://www.wikidata.org/entity/Q270> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#UKM34>
+        owl:sameAs  <http://www.wikidata.org/entity/Q4093> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#CH011>
+        owl:sameAs  <http://www.wikidata.org/entity/Q12771> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#CH025>
+        owl:sameAs  <http://www.wikidata.org/entity/Q12755> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#CH040>
+        owl:sameAs  <http://www.wikidata.org/entity/Q11943> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#CH051>
+        owl:sameAs  <http://www.wikidata.org/entity/Q11922> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#CH062>
+        owl:sameAs  <http://www.wikidata.org/entity/Q12404> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE115>
+        owl:sameAs  <http://www.wikidata.org/entity/Q8541> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE118>
+        owl:sameAs  <http://www.wikidata.org/entity/Q7166> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE119>
+        owl:sameAs  <http://www.wikidata.org/entity/Q8518> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE127>
+        owl:sameAs  <http://www.wikidata.org/entity/Q8174> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE12B>
+        owl:sameAs  <http://www.wikidata.org/entity/Q8184> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE137>
+        owl:sameAs  <http://www.wikidata.org/entity/Q8208> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE142>
+        owl:sameAs  <http://www.wikidata.org/entity/Q8214> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE147>
+        owl:sameAs  <http://www.wikidata.org/entity/Q8228> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE214>
+        owl:sameAs  <http://www.wikidata.org/entity/Q10533> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE216>
+        owl:sameAs  <http://www.wikidata.org/entity/Q10522> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE218>
+        owl:sameAs  <http://www.wikidata.org/entity/Q10541> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE21A>
+        owl:sameAs  <http://www.wikidata.org/entity/Q10539> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE21I>
+        owl:sameAs  <http://www.wikidata.org/entity/Q10493> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE21N>
+        owl:sameAs  <http://www.wikidata.org/entity/Q10516> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE225>
+        owl:sameAs  <http://www.wikidata.org/entity/Q10487> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE228>
+        owl:sameAs  <http://www.wikidata.org/entity/Q10489> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE236>
+        owl:sameAs  <http://www.wikidata.org/entity/Q10427> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE237>
+        owl:sameAs  <http://www.wikidata.org/entity/Q10420> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE239>
+        owl:sameAs  <http://www.wikidata.org/entity/Q10423> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE24>
+        owl:sameAs  <http://www.wikidata.org/entity/Q10554> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE245>
+        owl:sameAs  <http://www.wikidata.org/entity/Q10444> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE248>
+        owl:sameAs  <http://www.wikidata.org/entity/Q10445> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE24A>
+        owl:sameAs  <http://www.wikidata.org/entity/Q10434> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE25C>
+        owl:sameAs  <http://www.wikidata.org/entity/Q10453> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE71A>
+        owl:sameAs  <http://www.wikidata.org/entity/Q7909> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE723>
+        owl:sameAs  <http://www.wikidata.org/entity/Q7906> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE724>
+        owl:sameAs  <http://www.wikidata.org/entity/Q7902> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DEA3>
+        owl:sameAs  <http://www.wikidata.org/entity/Q7920> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DEB16>
+        owl:sameAs  <http://www.wikidata.org/entity/Q8590> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DEB33>
+        owl:sameAs  <http://www.wikidata.org/entity/Q7052> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DEB3F>
+        owl:sameAs  <http://www.wikidata.org/entity/Q8559> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DEB3H>
+        owl:sameAs  <http://www.wikidata.org/entity/Q8551> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DEB3J>
+        owl:sameAs  <http://www.wikidata.org/entity/Q8569> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DEC05>
+        owl:sameAs  <http://www.wikidata.org/entity/Q6793> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DEG07>
+        owl:sameAs  <http://www.wikidata.org/entity/Q7858> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DEG09>
+        owl:sameAs  <http://www.wikidata.org/entity/Q7864> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DEG0B>
+        owl:sameAs  <http://www.wikidata.org/entity/Q7871> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DEG0D>
+        owl:sameAs  <http://www.wikidata.org/entity/Q7865> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DEG0F>
+        owl:sameAs  <http://www.wikidata.org/entity/Q7878> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DEG0G>
+        owl:sameAs  <http://www.wikidata.org/entity/Q7879> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DEG0L>
+        owl:sameAs  <http://www.wikidata.org/entity/Q7887> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DEG0N>
+        owl:sameAs  <http://www.wikidata.org/entity/Q7070> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#EL12>
+        owl:sameAs  <http://www.wikidata.org/entity/Q17152> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#FR106>
+        owl:sameAs  <http://www.wikidata.org/entity/Q12761> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#FR22>
+        owl:sameAs  <http://www.wikidata.org/entity/Q13950> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#FR24>
+        owl:sameAs  <http://www.wikidata.org/entity/Q13947> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#FR243>
+        owl:sameAs  <http://www.wikidata.org/entity/Q12553> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#FR411>
+        owl:sameAs  <http://www.wikidata.org/entity/Q12626> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#FR433>
+        owl:sameAs  <http://www.wikidata.org/entity/Q12730> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#FR512>
+        owl:sameAs  <http://www.wikidata.org/entity/Q12584> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#FR523>
+        owl:sameAs  <http://www.wikidata.org/entity/Q12549> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#FR524>
+        owl:sameAs  <http://www.wikidata.org/entity/Q12642> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#FR612>
+        owl:sameAs  <http://www.wikidata.org/entity/Q12526> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#FR627>
+        owl:sameAs  <http://www.wikidata.org/entity/Q12772> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#FR628>
+        owl:sameAs  <http://www.wikidata.org/entity/Q12779> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#FR633>
+        owl:sameAs  <http://www.wikidata.org/entity/Q12808> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#FR826>
+        owl:sameAs  <http://www.wikidata.org/entity/Q12792> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ITC17>
+        owl:sameAs  <http://www.wikidata.org/entity/Q15099> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ITC32>
+        owl:sameAs  <http://www.wikidata.org/entity/Q16274> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ITC33>
+        owl:sameAs  <http://www.wikidata.org/entity/Q16183> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ITC42>
+        owl:sameAs  <http://www.wikidata.org/entity/Q16161> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ITC48>
+        owl:sameAs  <http://www.wikidata.org/entity/Q16231> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ITF14>
+        owl:sameAs  <http://www.wikidata.org/entity/Q16160> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ITF31>
+        owl:sameAs  <http://www.wikidata.org/entity/Q16153> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ITF51>
+        owl:sameAs  <http://www.wikidata.org/entity/Q16249> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ITF52>
+        owl:sameAs  <http://www.wikidata.org/entity/Q16206> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ITF62>
+        owl:sameAs  <http://www.wikidata.org/entity/Q16165> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ITG27>
+        owl:sameAs  <http://www.wikidata.org/entity/Q16149> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ITG28>
+        owl:sameAs  <http://www.wikidata.org/entity/Q16225> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ITG2B>
+        owl:sameAs  <http://www.wikidata.org/entity/Q16207> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ITH36>
+        owl:sameAs  <http://www.wikidata.org/entity/Q16226> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ITH37>
+        owl:sameAs  <http://www.wikidata.org/entity/Q16270> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ITH41>
+        owl:sameAs  <http://www.wikidata.org/entity/Q16247> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ITH53>
+        owl:sameAs  <http://www.wikidata.org/entity/Q16254> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ITH56>
+        owl:sameAs  <http://www.wikidata.org/entity/Q16168> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ITH57>
+        owl:sameAs  <http://www.wikidata.org/entity/Q16252> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ITI11>
+        owl:sameAs  <http://www.wikidata.org/entity/Q16205> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ITI13>
+        owl:sameAs  <http://www.wikidata.org/entity/Q16245> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ITI34>
+        owl:sameAs  <http://www.wikidata.org/entity/Q16117> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ITI35>
+        owl:sameAs  <http://www.wikidata.org/entity/Q16167> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ITI41>
+        owl:sameAs  <http://www.wikidata.org/entity/Q16318> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ITI44>
+        owl:sameAs  <http://www.wikidata.org/entity/Q16196> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DED1A>
+        owl:sameAs  <http://www.wikidata.org/entity/Q20266> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DED2>
+        owl:sameAs  <http://www.wikidata.org/entity/Q24221> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DED2A>
+        owl:sameAs  <http://www.wikidata.org/entity/Q20274> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DED34>
+        owl:sameAs  <http://www.wikidata.org/entity/Q20242> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DK02>
+        owl:sameAs  <http://www.wikidata.org/entity/Q26589> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DK05>
+        owl:sameAs  <http://www.wikidata.org/entity/Q26067> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#UKC21>
+        owl:sameAs  <http://www.wikidata.org/entity/Q23079> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#UKG22>
+        owl:sameAs  <http://www.wikidata.org/entity/Q23103> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#UKG3>
+        owl:sameAs  <http://www.wikidata.org/entity/Q23124> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#UKJ13>
+        owl:sameAs  <http://www.wikidata.org/entity/Q23229> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#UKJ14>
+        owl:sameAs  <http://www.wikidata.org/entity/Q23169> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#UKJ4>
+        owl:sameAs  <http://www.wikidata.org/entity/Q23298> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#UKK11>
+        owl:sameAs  <http://www.wikidata.org/entity/Q23154> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#UKM25>
+        owl:sameAs  <http://www.wikidata.org/entity/Q23436> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#AT11>
+        owl:sameAs  <http://www.wikidata.org/entity/Q43210> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#AT21>
+        owl:sameAs  <http://www.wikidata.org/entity/Q37985> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#CH01>
+        owl:sameAs  <http://www.wikidata.org/entity/Q27714> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#NO022>
+        owl:sameAs  <http://www.wikidata.org/entity/Q50617> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#NO062>
+        owl:sameAs  <http://www.wikidata.org/entity/Q50629> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#UKC>
+        owl:sameAs  <http://www.wikidata.org/entity/Q47983> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#UKD>
+        owl:sameAs  <http://www.wikidata.org/entity/Q47967> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#UKG>
+        owl:sameAs  <http://www.wikidata.org/entity/Q48038> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ES415>
+        owl:sameAs  <http://www.wikidata.org/entity/Q71080> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ES418>
+        owl:sameAs  <http://www.wikidata.org/entity/Q71097> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#BE234>
+        owl:sameAs  <http://www.wikidata.org/entity/Q90948> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#BE241>
+        owl:sameAs  <http://www.wikidata.org/entity/Q93368> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#BE251>
+        owl:sameAs  <http://www.wikidata.org/entity/Q91045> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#BE256>
+        owl:sameAs  <http://www.wikidata.org/entity/Q91439> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#BE327>
+        owl:sameAs  <http://www.wikidata.org/entity/Q94139> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#BE341>
+        owl:sameAs  <http://www.wikidata.org/entity/Q93816> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#BE344>
+        owl:sameAs  <http://www.wikidata.org/entity/Q93873> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DEE32>
+        owl:sameAs  <http://www.wikidata.org/entity/Q114225> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DEE3A>
+        owl:sameAs  <http://www.wikidata.org/entity/Q114127> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ES615>
+        owl:sameAs  <http://www.wikidata.org/entity/Q95015> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ES617>
+        owl:sameAs  <http://www.wikidata.org/entity/Q95028> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#SE124>
+        owl:sameAs  <http://www.wikidata.org/entity/Q104257> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#SE211>
+        owl:sameAs  <http://www.wikidata.org/entity/Q103672> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#SE221>
+        owl:sameAs  <http://www.wikidata.org/entity/Q102377> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#SE224>
+        owl:sameAs  <http://www.wikidata.org/entity/Q103659> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#SE313>
+        owl:sameAs  <http://www.wikidata.org/entity/Q103699> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#SE331>
+        owl:sameAs  <http://www.wikidata.org/entity/Q104877> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DEE24>
+        owl:sameAs  <http://www.wikidata.org/entity/Q115352> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DEE1>
+        owl:sameAs  <http://www.wikidata.org/entity/Q165861> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#CZ053>
+        owl:sameAs  <http://www.wikidata.org/entity/Q193317> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#CZ063>
+        owl:sameAs  <http://www.wikidata.org/entity/Q190930> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#CZ072>
+        owl:sameAs  <http://www.wikidata.org/entity/Q192536> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#CZ080>
+        owl:sameAs  <http://www.wikidata.org/entity/Q190550> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#EL112>
+        owl:sameAs  <http://www.wikidata.org/entity/Q208303> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#EL121>
+        owl:sameAs  <http://www.wikidata.org/entity/Q207840> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#EL212>
+        owl:sameAs  <http://www.wikidata.org/entity/Q207552> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ES707>
+        owl:sameAs  <http://www.wikidata.org/entity/Q201689> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#UKH21>
+        owl:sameAs  <http://www.wikidata.org/entity/Q203889> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#UKI1>
+        owl:sameAs  <http://www.wikidata.org/entity/Q859427> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#UKI73>
+        owl:sameAs  <http://www.wikidata.org/entity/Q207218> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE94>
+        owl:sameAs  <http://www.wikidata.org/entity/Q445936> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#PT186>
+        owl:sameAs  <http://www.wikidata.org/entity/Q443376> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#CY>
+        owl:sameAs  <http://www.wikidata.org/entity/Q229> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#EL124>
+        owl:sameAs  <http://www.wikidata.org/entity/Q649484> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#PT181>
+        owl:sameAs  <http://www.wikidata.org/entity/Q644592> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#PT16I>
+        owl:sameAs  <http://www.wikidata.org/entity/Q747780> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#PT128>
+        owl:sameAs  <http://www.wikidata.org/entity/Q814838> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#PT129>
+        owl:sameAs  <http://www.wikidata.org/entity/Q814840> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#PT168>
+        owl:sameAs  <http://www.wikidata.org/entity/Q814838> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#PT169>
+        owl:sameAs  <http://www.wikidata.org/entity/Q814840> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DK002>
+        owl:sameAs  <http://www.wikidata.org/entity/Q849727> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#EL233>
+        owl:sameAs  <http://www.wikidata.org/entity/Q1063649> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#PT112>
+        owl:sameAs  <http://www.wikidata.org/entity/Q1149837> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#UKC13>
+        owl:sameAs  <http://www.wikidata.org/entity/Q1171024> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#UKD1>
+        owl:sameAs  <http://www.wikidata.org/entity/Q23066> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#PT111>
+        owl:sameAs  <http://www.wikidata.org/entity/Q1248507> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#UKG21>
+        owl:sameAs  <http://www.wikidata.org/entity/Q1425298> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#PT114>
+        owl:sameAs  <http://www.wikidata.org/entity/Q1510035> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#UKD5>
+        owl:sameAs  <http://www.wikidata.org/entity/Q23100> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#AT323>
+        owl:sameAs  <http://www.wikidata.org/entity/Q2215914> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#PT11A>
+        owl:sameAs  <http://www.wikidata.org/entity/Q2652989> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#UKE41>
+        owl:sameAs  <http://www.wikidata.org/entity/Q2834810> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#PT1>
+        owl:sameAs  <http://www.wikidata.org/entity/Q2915956> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#UKL1>
+        owl:sameAs  <http://www.wikidata.org/entity/Q3094812> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DEF>
+        owl:sameAs  <http://www.wikidata.org/entity/Q1194> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#BE1>
+        owl:sameAs  <http://www.wikidata.org/entity/Q240> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE42>
+        owl:sameAs  <http://www.wikidata.org/entity/Q4956655> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#IE011>
+        owl:sameAs  <http://www.wikidata.org/entity/Q4944607> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#CZ07>
+        owl:sameAs  <http://www.wikidata.org/entity/Q5061457> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#CZ05>
+        owl:sameAs  <http://www.wikidata.org/entity/Q7458003> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#UKI>
+        owl:sameAs  <http://www.wikidata.org/entity/Q23306> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#IE013>
+        owl:sameAs  <http://www.wikidata.org/entity/Q7986331> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DEE22>
+        owl:sameAs  <http://www.wikidata.org/entity/Q14920405> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DEG>
+        owl:sameAs  <http://www.wikidata.org/entity/Q1205> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#PT16H>
+        owl:sameAs  <http://www.wikidata.org/entity/Q17989472> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#PT11E>
+        owl:sameAs  <http://www.wikidata.org/entity/Q18388655> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#BE25>
+        owl:sameAs  <http://www.wikidata.org/entity/Q1113> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#BE33>
+        owl:sameAs  <http://www.wikidata.org/entity/Q1127> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#BE35>
+        owl:sameAs  <http://www.wikidata.org/entity/Q1125> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE1>
+        owl:sameAs  <http://www.wikidata.org/entity/Q985> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE117>
+        owl:sameAs  <http://www.wikidata.org/entity/Q715> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE40>
+        owl:sameAs  <http://www.wikidata.org/entity/Q1208> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE404>
+        owl:sameAs  <http://www.wikidata.org/entity/Q1711> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE423>
+        owl:sameAs  <http://www.wikidata.org/entity/Q1711> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DEA11>
+        owl:sameAs  <http://www.wikidata.org/entity/Q1718> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DEA52>
+        owl:sameAs  <http://www.wikidata.org/entity/Q1295> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DEB>
+        owl:sameAs  <http://www.wikidata.org/entity/Q1200> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DED21>
+        owl:sameAs  <http://www.wikidata.org/entity/Q1731> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DEE03>
+        owl:sameAs  <http://www.wikidata.org/entity/Q1733> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DEE31>
+        owl:sameAs  <http://www.wikidata.org/entity/Q1733> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DEF02>
+        owl:sameAs  <http://www.wikidata.org/entity/Q1707> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#FR61>
+        owl:sameAs  <http://www.wikidata.org/entity/Q1179> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#FR71>
+        owl:sameAs  <http://www.wikidata.org/entity/Q463> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#HR0>
+        owl:sameAs  <http://www.wikidata.org/entity/Q224> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ITC2>
+        owl:sameAs  <http://www.wikidata.org/entity/Q1222> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ITC20>
+        owl:sameAs  <http://www.wikidata.org/entity/Q1222> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ITF1>
+        owl:sameAs  <http://www.wikidata.org/entity/Q1284> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ITG2>
+        owl:sameAs  <http://www.wikidata.org/entity/Q1462> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ITH3>
+        owl:sameAs  <http://www.wikidata.org/entity/Q1243> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ITH5>
+        owl:sameAs  <http://www.wikidata.org/entity/Q1263> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#NL13>
+        owl:sameAs  <http://www.wikidata.org/entity/Q772> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#NL21>
+        owl:sameAs  <http://www.wikidata.org/entity/Q773> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#NL22>
+        owl:sameAs  <http://www.wikidata.org/entity/Q775> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#NL34>
+        owl:sameAs  <http://www.wikidata.org/entity/Q705> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#NL42>
+        owl:sameAs  <http://www.wikidata.org/entity/Q1093> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#NO0>
+        owl:sameAs  <http://www.wikidata.org/entity/Q20> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#PL514>
+        owl:sameAs  <http://www.wikidata.org/entity/Q1799> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE125>
+        owl:sameAs  <http://www.wikidata.org/entity/Q2966> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE12A>
+        owl:sameAs  <http://www.wikidata.org/entity/Q8186> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE134>
+        owl:sameAs  <http://www.wikidata.org/entity/Q8191> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE136>
+        owl:sameAs  <http://www.wikidata.org/entity/Q8203> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE141>
+        owl:sameAs  <http://www.wikidata.org/entity/Q8217> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE21B>
+        owl:sameAs  <http://www.wikidata.org/entity/Q10497> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE21E>
+        owl:sameAs  <http://www.wikidata.org/entity/Q10507> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE21H>
+        owl:sameAs  <http://www.wikidata.org/entity/Q10544> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE21M>
+        owl:sameAs  <http://www.wikidata.org/entity/Q10528> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE223>
+        owl:sameAs  <http://www.wikidata.org/entity/Q7027> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE224>
+        owl:sameAs  <http://www.wikidata.org/entity/Q10485> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE22C>
+        owl:sameAs  <http://www.wikidata.org/entity/Q10480> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE235>
+        owl:sameAs  <http://www.wikidata.org/entity/Q10424> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE25>
+        owl:sameAs  <http://www.wikidata.org/entity/Q10551> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE253>
+        owl:sameAs  <http://www.wikidata.org/entity/Q3075> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE256>
+        owl:sameAs  <http://www.wikidata.org/entity/Q10454> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE265>
+        owl:sameAs  <http://www.wikidata.org/entity/Q10466> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE268>
+        owl:sameAs  <http://www.wikidata.org/entity/Q10459> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE26B>
+        owl:sameAs  <http://www.wikidata.org/entity/Q10461> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE271>
+        owl:sameAs  <http://www.wikidata.org/entity/Q2749> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE27C>
+        owl:sameAs  <http://www.wikidata.org/entity/Q10408> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE40G>
+        owl:sameAs  <http://www.wikidata.org/entity/Q6165> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE429>
+        owl:sameAs  <http://www.wikidata.org/entity/Q6165> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE717>
+        owl:sameAs  <http://www.wikidata.org/entity/Q7914> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE719>
+        owl:sameAs  <http://www.wikidata.org/entity/Q7911> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE721>
+        owl:sameAs  <http://www.wikidata.org/entity/Q7904> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE737>
+        owl:sameAs  <http://www.wikidata.org/entity/Q7896> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE803>
+        owl:sameAs  <http://www.wikidata.org/entity/Q2861> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE807>
+        owl:sameAs  <http://www.wikidata.org/entity/Q9627> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE80L>
+        owl:sameAs  <http://www.wikidata.org/entity/Q2909> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE914>
+        owl:sameAs  <http://www.wikidata.org/entity/Q6053> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE922>
+        owl:sameAs  <http://www.wikidata.org/entity/Q5956> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE925>
+        owl:sameAs  <http://www.wikidata.org/entity/Q5978> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE939>
+        owl:sameAs  <http://www.wikidata.org/entity/Q5906> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE94H>
+        owl:sameAs  <http://www.wikidata.org/entity/Q5931> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DEA15>
+        owl:sameAs  <http://www.wikidata.org/entity/Q2758> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DEA16>
+        owl:sameAs  <http://www.wikidata.org/entity/Q2899> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DEA1F>
+        owl:sameAs  <http://www.wikidata.org/entity/Q6245> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DEA26>
+        owl:sameAs  <http://www.wikidata.org/entity/Q6275> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DEA29>
+        owl:sameAs  <http://www.wikidata.org/entity/Q6264> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DEA34>
+        owl:sameAs  <http://www.wikidata.org/entity/Q6191> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DEA42>
+        owl:sameAs  <http://www.wikidata.org/entity/Q6218> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DEA53>
+        owl:sameAs  <http://www.wikidata.org/entity/Q2871> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DEB11>
+        owl:sameAs  <http://www.wikidata.org/entity/Q3104> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DEB13>
+        owl:sameAs  <http://www.wikidata.org/entity/Q8608> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DEB15>
+        owl:sameAs  <http://www.wikidata.org/entity/Q8575> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DEB18>
+        owl:sameAs  <http://www.wikidata.org/entity/Q8606> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DEB19>
+        owl:sameAs  <http://www.wikidata.org/entity/Q8574> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DEB24>
+        owl:sameAs  <http://www.wikidata.org/entity/Q8583> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DEB25>
+        owl:sameAs  <http://www.wikidata.org/entity/Q8579> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DEB3D>
+        owl:sameAs  <http://www.wikidata.org/entity/Q8564> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DEC01>
+        owl:sameAs  <http://www.wikidata.org/entity/Q6805> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DEC04>
+        owl:sameAs  <http://www.wikidata.org/entity/Q6794> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DED2F>
+        owl:sameAs  <http://www.wikidata.org/entity/Q6323> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DED43>
+        owl:sameAs  <http://www.wikidata.org/entity/Q6328> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DEE0D>
+        owl:sameAs  <http://www.wikidata.org/entity/Q6057> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DEE37>
+        owl:sameAs  <http://www.wikidata.org/entity/Q6057> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DEF01>
+        owl:sameAs  <http://www.wikidata.org/entity/Q3798> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DEF0F>
+        owl:sameAs  <http://www.wikidata.org/entity/Q3003> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DEG05>
+        owl:sameAs  <http://www.wikidata.org/entity/Q3955> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DEG0I>
+        owl:sameAs  <http://www.wikidata.org/entity/Q7882> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DEG0K>
+        owl:sameAs  <http://www.wikidata.org/entity/Q7883> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ES12>
+        owl:sameAs  <http://www.wikidata.org/entity/Q3934> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ES120>
+        owl:sameAs  <http://www.wikidata.org/entity/Q3934> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ES21>
+        owl:sameAs  <http://www.wikidata.org/entity/Q3995> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ES41>
+        owl:sameAs  <http://www.wikidata.org/entity/Q5739> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ES532>
+        owl:sameAs  <http://www.wikidata.org/entity/Q8828> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ES61>
+        owl:sameAs  <http://www.wikidata.org/entity/Q5783> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ES64>
+        owl:sameAs  <http://www.wikidata.org/entity/Q5831> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ES640>
+        owl:sameAs  <http://www.wikidata.org/entity/Q5831> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#FI197>
+        owl:sameAs  <http://www.wikidata.org/entity/Q5701> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#FI1B>
+        owl:sameAs  <http://www.wikidata.org/entity/Q5711> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#FI1B1>
+        owl:sameAs  <http://www.wikidata.org/entity/Q5711> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#FI1D4>
+        owl:sameAs  <http://www.wikidata.org/entity/Q5694> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#FR211>
+        owl:sameAs  <http://www.wikidata.org/entity/Q3164> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#FR511>
+        owl:sameAs  <http://www.wikidata.org/entity/Q3068> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#FR521>
+        owl:sameAs  <http://www.wikidata.org/entity/Q3349> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#FR632>
+        owl:sameAs  <http://www.wikidata.org/entity/Q3353> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#FR712>
+        owl:sameAs  <http://www.wikidata.org/entity/Q3148> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#FR713>
+        owl:sameAs  <http://www.wikidata.org/entity/Q3364> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#FR831>
+        owl:sameAs  <http://www.wikidata.org/entity/Q3336> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#UKG33>
+        owl:sameAs  <http://www.wikidata.org/entity/Q6225> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#UKH23>
+        owl:sameAs  <http://www.wikidata.org/entity/Q3410> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#CH022>
+        owl:sameAs  <http://www.wikidata.org/entity/Q12640> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#CH024>
+        owl:sameAs  <http://www.wikidata.org/entity/Q12738> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#CH052>
+        owl:sameAs  <http://www.wikidata.org/entity/Q12697> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#CH055>
+        owl:sameAs  <http://www.wikidata.org/entity/Q12746> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DEB37>
+        owl:sameAs  <http://www.wikidata.org/entity/Q14849> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DEB3A>
+        owl:sameAs  <http://www.wikidata.org/entity/Q16017> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DED16>
+        owl:sameAs  <http://www.wikidata.org/entity/Q20236> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DED19>
+        owl:sameAs  <http://www.wikidata.org/entity/Q20253> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DED23>
+        owl:sameAs  <http://www.wikidata.org/entity/Q14904> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DED28>
+        owl:sameAs  <http://www.wikidata.org/entity/Q20245> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DEG04>
+        owl:sameAs  <http://www.wikidata.org/entity/Q14891> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#FR103>
+        owl:sameAs  <http://www.wikidata.org/entity/Q12820> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#FR214>
+        owl:sameAs  <http://www.wikidata.org/entity/Q12607> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#FR222>
+        owl:sameAs  <http://www.wikidata.org/entity/Q12675> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#FR232>
+        owl:sameAs  <http://www.wikidata.org/entity/Q12758> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#FR253>
+        owl:sameAs  <http://www.wikidata.org/entity/Q12679> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#FR263>
+        owl:sameAs  <http://www.wikidata.org/entity/Q12736> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#FR301>
+        owl:sameAs  <http://www.wikidata.org/entity/Q12661> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#FR413>
+        owl:sameAs  <http://www.wikidata.org/entity/Q12652> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#FR422>
+        owl:sameAs  <http://www.wikidata.org/entity/Q12722> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#FR51>
+        owl:sameAs  <http://www.wikidata.org/entity/Q16994> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#FR513>
+        owl:sameAs  <http://www.wikidata.org/entity/Q12620> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#FR53>
+        owl:sameAs  <http://www.wikidata.org/entity/Q17009> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#FR625>
+        owl:sameAs  <http://www.wikidata.org/entity/Q12576> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#FR714>
+        owl:sameAs  <http://www.wikidata.org/entity/Q12559> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#FR813>
+        owl:sameAs  <http://www.wikidata.org/entity/Q12545> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#FR82>
+        owl:sameAs  <http://www.wikidata.org/entity/Q15104> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#FRA50>
+        owl:sameAs  <http://www.wikidata.org/entity/Q17063> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ITC11>
+        owl:sameAs  <http://www.wikidata.org/entity/Q16287> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ITC15>
+        owl:sameAs  <http://www.wikidata.org/entity/Q16216> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ITC46>
+        owl:sameAs  <http://www.wikidata.org/entity/Q16137> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ITF13>
+        owl:sameAs  <http://www.wikidata.org/entity/Q16242> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ITF22>
+        owl:sameAs  <http://www.wikidata.org/entity/Q16151> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ITG12>
+        owl:sameAs  <http://www.wikidata.org/entity/Q16227> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ITG15>
+        owl:sameAs  <http://www.wikidata.org/entity/Q16150> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ITG18>
+        owl:sameAs  <http://www.wikidata.org/entity/Q16251> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ITG2A>
+        owl:sameAs  <http://www.wikidata.org/entity/Q16223> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ITG2C>
+        owl:sameAs  <http://www.wikidata.org/entity/Q16152> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ITH31>
+        owl:sameAs  <http://www.wikidata.org/entity/Q16314> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ITH33>
+        owl:sameAs  <http://www.wikidata.org/entity/Q16126> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ITH42>
+        owl:sameAs  <http://www.wikidata.org/entity/Q16294> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ITH44>
+        owl:sameAs  <http://www.wikidata.org/entity/Q16293> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ITH58>
+        owl:sameAs  <http://www.wikidata.org/entity/Q16180> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ITH59>
+        owl:sameAs  <http://www.wikidata.org/entity/Q16268> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ITI19>
+        owl:sameAs  <http://www.wikidata.org/entity/Q16275> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ITI32>
+        owl:sameAs  <http://www.wikidata.org/entity/Q16114> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#UKC14>
+        owl:sameAs  <http://www.wikidata.org/entity/Q23082> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#UKD6>
+        owl:sameAs  <http://www.wikidata.org/entity/Q23064> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#UKE12>
+        owl:sameAs  <http://www.wikidata.org/entity/Q23088> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#UKE3>
+        owl:sameAs  <http://www.wikidata.org/entity/Q23095> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#UKG12>
+        owl:sameAs  <http://www.wikidata.org/entity/Q23135> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#UKG13>
+        owl:sameAs  <http://www.wikidata.org/entity/Q23140> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#UKH14>
+        owl:sameAs  <http://www.wikidata.org/entity/Q23111> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#UKJ24>
+        owl:sameAs  <http://www.wikidata.org/entity/Q23287> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#UKK13>
+        owl:sameAs  <http://www.wikidata.org/entity/Q23165> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#UKK22>
+        owl:sameAs  <http://www.wikidata.org/entity/Q23159> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#UKL18>
+        owl:sameAs  <http://www.wikidata.org/entity/Q23051> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#CH05>
+        owl:sameAs  <http://www.wikidata.org/entity/Q31003> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE501>
+        owl:sameAs  <http://www.wikidata.org/entity/Q24879> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#PT11>
+        owl:sameAs  <http://www.wikidata.org/entity/Q27662> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#UKI62>
+        owl:sameAs  <http://www.wikidata.org/entity/Q26888> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#AT22>
+        owl:sameAs  <http://www.wikidata.org/entity/Q41358> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#CH06>
+        owl:sameAs  <http://www.wikidata.org/entity/Q30978> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ES242>
+        owl:sameAs  <http://www.wikidata.org/entity/Q54955> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ES417>
+        owl:sameAs  <http://www.wikidata.org/entity/Q55276> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ES425>
+        owl:sameAs  <http://www.wikidata.org/entity/Q54929> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#NO031>
+        owl:sameAs  <http://www.wikidata.org/entity/Q50614> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#NO041>
+        owl:sameAs  <http://www.wikidata.org/entity/Q50621> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#UKE32>
+        owl:sameAs  <http://www.wikidata.org/entity/Q42448> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#UKF14>
+        owl:sameAs  <http://www.wikidata.org/entity/Q41262> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#UKJ>
+        owl:sameAs  <http://www.wikidata.org/entity/Q48015> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#BE211>
+        owl:sameAs  <http://www.wikidata.org/entity/Q90895> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#BE222>
+        owl:sameAs  <http://www.wikidata.org/entity/Q93577> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#BE232>
+        owl:sameAs  <http://www.wikidata.org/entity/Q90960> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#BE233>
+        owl:sameAs  <http://www.wikidata.org/entity/Q90942> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#BE253>
+        owl:sameAs  <http://www.wikidata.org/entity/Q91450> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#BE322>
+        owl:sameAs  <http://www.wikidata.org/entity/Q94077> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#BE324>
+        owl:sameAs  <http://www.wikidata.org/entity/Q94095> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#BE325>
+        owl:sameAs  <http://www.wikidata.org/entity/Q94110> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#BE326>
+        owl:sameAs  <http://www.wikidata.org/entity/Q94122> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#BE342>
+        owl:sameAs  <http://www.wikidata.org/entity/Q93925> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#BE353>
+        owl:sameAs  <http://www.wikidata.org/entity/Q93769> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ES111>
+        owl:sameAs  <http://www.wikidata.org/entity/Q82119> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ES113>
+        owl:sameAs  <http://www.wikidata.org/entity/Q95038> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ES213>
+        owl:sameAs  <http://www.wikidata.org/entity/Q93366> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ES611>
+        owl:sameAs  <http://www.wikidata.org/entity/Q81802> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ES614>
+        owl:sameAs  <http://www.wikidata.org/entity/Q82142> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ES618>
+        owl:sameAs  <http://www.wikidata.org/entity/Q95088> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DEE12>
+        owl:sameAs  <http://www.wikidata.org/entity/Q114369> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DEE39>
+        owl:sameAs  <http://www.wikidata.org/entity/Q114625> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ES514>
+        owl:sameAs  <http://www.wikidata.org/entity/Q98392> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#SE311>
+        owl:sameAs  <http://www.wikidata.org/entity/Q106789> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#SE312>
+        owl:sameAs  <http://www.wikidata.org/entity/Q103732> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#SE322>
+        owl:sameAs  <http://www.wikidata.org/entity/Q103679> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#SE332>
+        owl:sameAs  <http://www.wikidata.org/entity/Q103686> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#UKI71>
+        owl:sameAs  <http://www.wikidata.org/entity/Q151048> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#EL11>
+        owl:sameAs  <http://www.wikidata.org/entity/Q171314> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#CZ020>
+        owl:sameAs  <http://www.wikidata.org/entity/Q188399> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#EL213>
+        owl:sameAs  <http://www.wikidata.org/entity/Q212921> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#IS001>
+        owl:sameAs  <http://www.wikidata.org/entity/Q203304> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#UKH1>
+        owl:sameAs  <http://www.wikidata.org/entity/Q580631> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#UKI45>
+        owl:sameAs  <http://www.wikidata.org/entity/Q202059> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#UKM28>
+        owl:sameAs  <http://www.wikidata.org/entity/Q204940> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#UKD61>
+        owl:sameAs  <http://www.wikidata.org/entity/Q215733> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#UKM26>
+        owl:sameAs  <http://www.wikidata.org/entity/Q216802> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DK004>
+        owl:sameAs  <http://www.wikidata.org/entity/Q283305> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DEE2>
+        owl:sameAs  <http://www.wikidata.org/entity/Q316455> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DEB3>
+        owl:sameAs  <http://www.wikidata.org/entity/Q517363> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ITG>
+        owl:sameAs  <http://www.wikidata.org/entity/Q525358> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE80F>
+        owl:sameAs  <http://www.wikidata.org/entity/Q559583> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DED2C>
+        owl:sameAs  <http://www.wikidata.org/entity/Q571947> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#AT221>
+        owl:sameAs  <http://www.wikidata.org/entity/Q672475> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ES11>
+        owl:sameAs  <http://www.wikidata.org/entity/Q3908> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#UKD32>
+        owl:sameAs  <http://www.wikidata.org/entity/Q684307> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DEE25>
+        owl:sameAs  <http://www.wikidata.org/entity/Q702558> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#UKE42>
+        owl:sameAs  <http://www.wikidata.org/entity/Q774015> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#UKJ41>
+        owl:sameAs  <http://www.wikidata.org/entity/Q797782> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DK003>
+        owl:sameAs  <http://www.wikidata.org/entity/Q866838> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DK00A>
+        owl:sameAs  <http://www.wikidata.org/entity/Q866856> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE924>
+        owl:sameAs  <http://www.wikidata.org/entity/Q895926> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#UKD62>
+        owl:sameAs  <http://www.wikidata.org/entity/Q1070590> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ITI>
+        owl:sameAs  <http://www.wikidata.org/entity/Q1127320> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#PT133>
+        owl:sameAs  <http://www.wikidata.org/entity/Q1503171> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#PT172>
+        owl:sameAs  <http://www.wikidata.org/entity/Q1503171> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#PT124>
+        owl:sameAs  <http://www.wikidata.org/entity/Q1548070> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#PT164>
+        owl:sameAs  <http://www.wikidata.org/entity/Q1548070> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#PT18>
+        owl:sameAs  <http://www.wikidata.org/entity/Q4716163> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#IE022>
+        owl:sameAs  <http://www.wikidata.org/entity/Q6840712> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#IE023>
+        owl:sameAs  <http://www.wikidata.org/entity/Q6840838> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#IE024>
+        owl:sameAs  <http://www.wikidata.org/entity/Q7565274> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#PT11B>
+        owl:sameAs  <http://www.wikidata.org/entity/Q9608393> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#PT16E>
+        owl:sameAs  <http://www.wikidata.org/entity/Q10358780> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#CZ03>
+        owl:sameAs  <http://www.wikidata.org/entity/Q12039505> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#PT11C>
+        owl:sameAs  <http://www.wikidata.org/entity/Q18355583> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#AT13>
+        owl:sameAs  <http://www.wikidata.org/entity/Q1741> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#AT130>
+        owl:sameAs  <http://www.wikidata.org/entity/Q1741> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#BE34>
+        owl:sameAs  <http://www.wikidata.org/entity/Q1126> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE242>
+        owl:sameAs  <http://www.wikidata.org/entity/Q3923> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE252>
+        owl:sameAs  <http://www.wikidata.org/entity/Q3126> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE401>
+        owl:sameAs  <http://www.wikidata.org/entity/Q3931> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE421>
+        owl:sameAs  <http://www.wikidata.org/entity/Q3931> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE714>
+        owl:sameAs  <http://www.wikidata.org/entity/Q1721> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE804>
+        owl:sameAs  <http://www.wikidata.org/entity/Q1709> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE805>
+        owl:sameAs  <http://www.wikidata.org/entity/Q4065> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE942>
+        owl:sameAs  <http://www.wikidata.org/entity/Q4174> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DEA12>
+        owl:sameAs  <http://www.wikidata.org/entity/Q2100> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DEA1A>
+        owl:sameAs  <http://www.wikidata.org/entity/Q2107> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DEA55>
+        owl:sameAs  <http://www.wikidata.org/entity/Q2904> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DEB34>
+        owl:sameAs  <http://www.wikidata.org/entity/Q2910> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DEB39>
+        owl:sameAs  <http://www.wikidata.org/entity/Q3852> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DED13>
+        owl:sameAs  <http://www.wikidata.org/entity/Q3778> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DED41>
+        owl:sameAs  <http://www.wikidata.org/entity/Q2795> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DED51>
+        owl:sameAs  <http://www.wikidata.org/entity/Q2079> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DEE0>
+        owl:sameAs  <http://www.wikidata.org/entity/Q1206> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DEF0>
+        owl:sameAs  <http://www.wikidata.org/entity/Q1194> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DEG0>
+        owl:sameAs  <http://www.wikidata.org/entity/Q1205> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DEG03>
+        owl:sameAs  <http://www.wikidata.org/entity/Q3150> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ES130>
+        owl:sameAs  <http://www.wikidata.org/entity/Q3946> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ES24>
+        owl:sameAs  <http://www.wikidata.org/entity/Q4040> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ES62>
+        owl:sameAs  <http://www.wikidata.org/entity/Q5772> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ES620>
+        owl:sameAs  <http://www.wikidata.org/entity/Q5772> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#FI1C5>
+        owl:sameAs  <http://www.wikidata.org/entity/Q5691> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#FI1D3>
+        owl:sameAs  <http://www.wikidata.org/entity/Q5703> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#FR212>
+        owl:sameAs  <http://www.wikidata.org/entity/Q3194> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#FR221>
+        owl:sameAs  <http://www.wikidata.org/entity/Q3093> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#FR251>
+        owl:sameAs  <http://www.wikidata.org/entity/Q3249> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#FR41>
+        owl:sameAs  <http://www.wikidata.org/entity/Q1137> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#FR414>
+        owl:sameAs  <http://www.wikidata.org/entity/Q3105> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#FR42>
+        owl:sameAs  <http://www.wikidata.org/entity/Q1142> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#IE>
+        owl:sameAs  <http://www.wikidata.org/entity/Q27> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#IS0>
+        owl:sameAs  <http://www.wikidata.org/entity/Q189> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#IS00>
+        owl:sameAs  <http://www.wikidata.org/entity/Q189> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#IT31>
+        owl:sameAs  <http://www.wikidata.org/entity/Q1237> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ITC1>
+        owl:sameAs  <http://www.wikidata.org/entity/Q1216> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ITE14>
+        owl:sameAs  <http://www.wikidata.org/entity/Q2044> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ITF2>
+        owl:sameAs  <http://www.wikidata.org/entity/Q1443> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ITF5>
+        owl:sameAs  <http://www.wikidata.org/entity/Q1452> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ITF6>
+        owl:sameAs  <http://www.wikidata.org/entity/Q1458> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ITI1>
+        owl:sameAs  <http://www.wikidata.org/entity/Q1273> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ITI4>
+        owl:sameAs  <http://www.wikidata.org/entity/Q1282> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#LU0>
+        owl:sameAs  <http://www.wikidata.org/entity/Q32> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#LU00>
+        owl:sameAs  <http://www.wikidata.org/entity/Q32> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#LU000>
+        owl:sameAs  <http://www.wikidata.org/entity/Q32> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#NL11>
+        owl:sameAs  <http://www.wikidata.org/entity/Q752> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#NL32>
+        owl:sameAs  <http://www.wikidata.org/entity/Q701> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#CH053>
+        owl:sameAs  <http://www.wikidata.org/entity/Q12079> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#CH056>
+        owl:sameAs  <http://www.wikidata.org/entity/Q11925> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#CH057>
+        owl:sameAs  <http://www.wikidata.org/entity/Q12713> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#CH063>
+        owl:sameAs  <http://www.wikidata.org/entity/Q12433> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#CH066>
+        owl:sameAs  <http://www.wikidata.org/entity/Q11933> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE114>
+        owl:sameAs  <http://www.wikidata.org/entity/Q8525> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE11B>
+        owl:sameAs  <http://www.wikidata.org/entity/Q8517> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE123>
+        owl:sameAs  <http://www.wikidata.org/entity/Q8178> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE124>
+        owl:sameAs  <http://www.wikidata.org/entity/Q8182> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE132>
+        owl:sameAs  <http://www.wikidata.org/entity/Q8195> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE143>
+        owl:sameAs  <http://www.wikidata.org/entity/Q8233> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE149>
+        owl:sameAs  <http://www.wikidata.org/entity/Q8230> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE21>
+        owl:sameAs  <http://www.wikidata.org/entity/Q10562> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE217>
+        owl:sameAs  <http://www.wikidata.org/entity/Q10500> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE21F>
+        owl:sameAs  <http://www.wikidata.org/entity/Q10523> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE21G>
+        owl:sameAs  <http://www.wikidata.org/entity/Q10537> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE21K>
+        owl:sameAs  <http://www.wikidata.org/entity/Q10526> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE21L>
+        owl:sameAs  <http://www.wikidata.org/entity/Q10504> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE22>
+        owl:sameAs  <http://www.wikidata.org/entity/Q10559> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE226>
+        owl:sameAs  <http://www.wikidata.org/entity/Q10474> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE227>
+        owl:sameAs  <http://www.wikidata.org/entity/Q10475> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE23>
+        owl:sameAs  <http://www.wikidata.org/entity/Q10555> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE233>
+        owl:sameAs  <http://www.wikidata.org/entity/Q14803> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE23A>
+        owl:sameAs  <http://www.wikidata.org/entity/Q10419> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE249>
+        owl:sameAs  <http://www.wikidata.org/entity/Q10431> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE257>
+        owl:sameAs  <http://www.wikidata.org/entity/Q10447> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE266>
+        owl:sameAs  <http://www.wikidata.org/entity/Q10465> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE269>
+        owl:sameAs  <http://www.wikidata.org/entity/Q10472> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE274>
+        owl:sameAs  <http://www.wikidata.org/entity/Q14825> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE279>
+        owl:sameAs  <http://www.wikidata.org/entity/Q10410> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE27D>
+        owl:sameAs  <http://www.wikidata.org/entity/Q10418> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE40B>
+        owl:sameAs  <http://www.wikidata.org/entity/Q6156> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE40E>
+        owl:sameAs  <http://www.wikidata.org/entity/Q6142> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE40F>
+        owl:sameAs  <http://www.wikidata.org/entity/Q6132> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE417>
+        owl:sameAs  <http://www.wikidata.org/entity/Q6132> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE427>
+        owl:sameAs  <http://www.wikidata.org/entity/Q6156> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE428>
+        owl:sameAs  <http://www.wikidata.org/entity/Q6142> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE716>
+        owl:sameAs  <http://www.wikidata.org/entity/Q7916> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE71B>
+        owl:sameAs  <http://www.wikidata.org/entity/Q7919> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE71C>
+        owl:sameAs  <http://www.wikidata.org/entity/Q7912> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE71D>
+        owl:sameAs  <http://www.wikidata.org/entity/Q7907> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE732>
+        owl:sameAs  <http://www.wikidata.org/entity/Q7899> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE733>
+        owl:sameAs  <http://www.wikidata.org/entity/Q7898> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE934>
+        owl:sameAs  <http://www.wikidata.org/entity/Q5913> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE946>
+        owl:sameAs  <http://www.wikidata.org/entity/Q5947> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE947>
+        owl:sameAs  <http://www.wikidata.org/entity/Q5929> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DEA2D>
+        owl:sameAs  <http://www.wikidata.org/entity/Q6272> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DEA35>
+        owl:sameAs  <http://www.wikidata.org/entity/Q6210> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DEA37>
+        owl:sameAs  <http://www.wikidata.org/entity/Q6187> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DEA43>
+        owl:sameAs  <http://www.wikidata.org/entity/Q6234> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DEB17>
+        owl:sameAs  <http://www.wikidata.org/entity/Q8593> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DEB1A>
+        owl:sameAs  <http://www.wikidata.org/entity/Q8601> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DEB31>
+        owl:sameAs  <http://www.wikidata.org/entity/Q6905> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DEB3C>
+        owl:sameAs  <http://www.wikidata.org/entity/Q8557> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DEB3E>
+        owl:sameAs  <http://www.wikidata.org/entity/Q8543> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DEB3I>
+        owl:sameAs  <http://www.wikidata.org/entity/Q8554> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DEC02>
+        owl:sameAs  <http://www.wikidata.org/entity/Q6802> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DED44>
+        owl:sameAs  <http://www.wikidata.org/entity/Q6337> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DEE06>
+        owl:sameAs  <http://www.wikidata.org/entity/Q6068> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DEE08>
+        owl:sameAs  <http://www.wikidata.org/entity/Q6102> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DEE35>
+        owl:sameAs  <http://www.wikidata.org/entity/Q6068> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DEG0A>
+        owl:sameAs  <http://www.wikidata.org/entity/Q7862> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DEG0E>
+        owl:sameAs  <http://www.wikidata.org/entity/Q7872> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DEG0J>
+        owl:sameAs  <http://www.wikidata.org/entity/Q7884> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DEG0P>
+        owl:sameAs  <http://www.wikidata.org/entity/Q7866> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#FR1>
+        owl:sameAs  <http://www.wikidata.org/entity/Q13917> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#FR10>
+        owl:sameAs  <http://www.wikidata.org/entity/Q13917> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#FR105>
+        owl:sameAs  <http://www.wikidata.org/entity/Q12543> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#FR107>
+        owl:sameAs  <http://www.wikidata.org/entity/Q12788> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#FR108>
+        owl:sameAs  <http://www.wikidata.org/entity/Q12784> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#FR245>
+        owl:sameAs  <http://www.wikidata.org/entity/Q12564> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#FR246>
+        owl:sameAs  <http://www.wikidata.org/entity/Q12574> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#FR264>
+        owl:sameAs  <http://www.wikidata.org/entity/Q12816> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#FR302>
+        owl:sameAs  <http://www.wikidata.org/entity/Q12689> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#FR421>
+        owl:sameAs  <http://www.wikidata.org/entity/Q12717> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#FR515>
+        owl:sameAs  <http://www.wikidata.org/entity/Q12798> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#FR533>
+        owl:sameAs  <http://www.wikidata.org/entity/Q12765> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#FR613>
+        owl:sameAs  <http://www.wikidata.org/entity/Q12563> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#FR626>
+        owl:sameAs  <http://www.wikidata.org/entity/Q12700> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#FR717>
+        owl:sameAs  <http://www.wikidata.org/entity/Q12745> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#FR718>
+        owl:sameAs  <http://www.wikidata.org/entity/Q12751> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#FR825>
+        owl:sameAs  <http://www.wikidata.org/entity/Q12789> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#IT205>
+        owl:sameAs  <http://www.wikidata.org/entity/Q15121> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ITC12>
+        owl:sameAs  <http://www.wikidata.org/entity/Q15096> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ITC45>
+        owl:sameAs  <http://www.wikidata.org/entity/Q15121> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ITC4C>
+        owl:sameAs  <http://www.wikidata.org/entity/Q18288155> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ITI43>
+        owl:sameAs  <http://www.wikidata.org/entity/Q15119> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#UKJ34>
+        owl:sameAs  <http://www.wikidata.org/entity/Q9679> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DED27>
+        owl:sameAs  <http://www.wikidata.org/entity/Q20262> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DED32>
+        owl:sameAs  <http://www.wikidata.org/entity/Q20230> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DED33>
+        owl:sameAs  <http://www.wikidata.org/entity/Q20233> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DED36>
+        owl:sameAs  <http://www.wikidata.org/entity/Q20269> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DK01>
+        owl:sameAs  <http://www.wikidata.org/entity/Q26073> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#FR23>
+        owl:sameAs  <http://www.wikidata.org/entity/Q16961> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#FR62>
+        owl:sameAs  <http://www.wikidata.org/entity/Q16393> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#FR94>
+        owl:sameAs  <http://www.wikidata.org/entity/Q17070> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#FR940>
+        owl:sameAs  <http://www.wikidata.org/entity/Q17070> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#FRA40>
+        owl:sameAs  <http://www.wikidata.org/entity/Q17070> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ITC14>
+        owl:sameAs  <http://www.wikidata.org/entity/Q16312> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ITC31>
+        owl:sameAs  <http://www.wikidata.org/entity/Q16186> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ITC47>
+        owl:sameAs  <http://www.wikidata.org/entity/Q16144> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ITC49>
+        owl:sameAs  <http://www.wikidata.org/entity/Q16201> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ITF12>
+        owl:sameAs  <http://www.wikidata.org/entity/Q16284> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ITF34>
+        owl:sameAs  <http://www.wikidata.org/entity/Q16120> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ITF43>
+        owl:sameAs  <http://www.wikidata.org/entity/Q16283> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ITF45>
+        owl:sameAs  <http://www.wikidata.org/entity/Q16197> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ITF64>
+        owl:sameAs  <http://www.wikidata.org/entity/Q16315> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ITG16>
+        owl:sameAs  <http://www.wikidata.org/entity/Q16166> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ITG29>
+        owl:sameAs  <http://www.wikidata.org/entity/Q16224> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ITH32>
+        owl:sameAs  <http://www.wikidata.org/entity/Q16316> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ITH34>
+        owl:sameAs  <http://www.wikidata.org/entity/Q16292> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ITH52>
+        owl:sameAs  <http://www.wikidata.org/entity/Q16228> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ITH55>
+        owl:sameAs  <http://www.wikidata.org/entity/Q16139> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ITI21>
+        owl:sameAs  <http://www.wikidata.org/entity/Q16240> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ITI22>
+        owl:sameAs  <http://www.wikidata.org/entity/Q16286> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ITI31>
+        owl:sameAs  <http://www.wikidata.org/entity/Q16241> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ITI45>
+        owl:sameAs  <http://www.wikidata.org/entity/Q16181> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#PT15>
+        owl:sameAs  <http://www.wikidata.org/entity/Q26831> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#PT150>
+        owl:sameAs  <http://www.wikidata.org/entity/Q26831> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#PT16>
+        owl:sameAs  <http://www.wikidata.org/entity/Q27569> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#PT3>
+        owl:sameAs  <http://www.wikidata.org/entity/Q26253> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#PT30>
+        owl:sameAs  <http://www.wikidata.org/entity/Q26253> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#PT300>
+        owl:sameAs  <http://www.wikidata.org/entity/Q26253> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#UKD3>
+        owl:sameAs  <http://www.wikidata.org/entity/Q23099> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#UKD72>
+        owl:sameAs  <http://www.wikidata.org/entity/Q24826> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#UKE2>
+        owl:sameAs  <http://www.wikidata.org/entity/Q23086> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#UKF3>
+        owl:sameAs  <http://www.wikidata.org/entity/Q23090> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#UKF30>
+        owl:sameAs  <http://www.wikidata.org/entity/Q23090> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#UKG24>
+        owl:sameAs  <http://www.wikidata.org/entity/Q23105> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#UKH13>
+        owl:sameAs  <http://www.wikidata.org/entity/Q23109> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#UKK15>
+        owl:sameAs  <http://www.wikidata.org/entity/Q21694746> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#AT33>
+        owl:sameAs  <http://www.wikidata.org/entity/Q42880> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#AT34>
+        owl:sameAs  <http://www.wikidata.org/entity/Q38981> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#TR31>
+        owl:sameAs  <http://www.wikidata.org/entity/Q35997> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ES411>
+        owl:sameAs  <http://www.wikidata.org/entity/Q55288> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ES412>
+        owl:sameAs  <http://www.wikidata.org/entity/Q55271> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ES414>
+        owl:sameAs  <http://www.wikidata.org/entity/Q55269> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ES416>
+        owl:sameAs  <http://www.wikidata.org/entity/Q55283> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ES522>
+        owl:sameAs  <http://www.wikidata.org/entity/Q54942> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ES533>
+        owl:sameAs  <http://www.wikidata.org/entity/Q52636> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#NO032>
+        owl:sameAs  <http://www.wikidata.org/entity/Q50618> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#NO042>
+        owl:sameAs  <http://www.wikidata.org/entity/Q50623> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#NO051>
+        owl:sameAs  <http://www.wikidata.org/entity/Q50625> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#NO052>
+        owl:sameAs  <http://www.wikidata.org/entity/Q50626> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#NO061>
+        owl:sameAs  <http://www.wikidata.org/entity/Q50628> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#NO071>
+        owl:sameAs  <http://www.wikidata.org/entity/Q50630> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#UKE>
+        owl:sameAs  <http://www.wikidata.org/entity/Q48063> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#TRB21>
+        owl:sameAs  <http://www.wikidata.org/entity/Q80550> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#UKJ32>
+        owl:sameAs  <http://www.wikidata.org/entity/Q79848> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#BE258>
+        owl:sameAs  <http://www.wikidata.org/entity/Q91411> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#BE310>
+        owl:sameAs  <http://www.wikidata.org/entity/Q93707> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#BE321>
+        owl:sameAs  <http://www.wikidata.org/entity/Q94069> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#BE323>
+        owl:sameAs  <http://www.wikidata.org/entity/Q94087> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#BE331>
+        owl:sameAs  <http://www.wikidata.org/entity/Q94019> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#BE332>
+        owl:sameAs  <http://www.wikidata.org/entity/Q94000> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#BE335>
+        owl:sameAs  <http://www.wikidata.org/entity/Q93989> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#BE336>
+        owl:sameAs  <http://www.wikidata.org/entity/Q93989> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DEE26>
+        owl:sameAs  <http://www.wikidata.org/entity/Q81415> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ES112>
+        owl:sameAs  <http://www.wikidata.org/entity/Q95027> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ES211>
+        owl:sameAs  <http://www.wikidata.org/entity/Q81801> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ES431>
+        owl:sameAs  <http://www.wikidata.org/entity/Q81803> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ES432>
+        owl:sameAs  <http://www.wikidata.org/entity/Q81977> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ES511>
+        owl:sameAs  <http://www.wikidata.org/entity/Q81949> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ES613>
+        owl:sameAs  <http://www.wikidata.org/entity/Q81972> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ES702>
+        owl:sameAs  <http://www.wikidata.org/entity/Q99976> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#SE232>
+        owl:sameAs  <http://www.wikidata.org/entity/Q103093> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#UKF21>
+        owl:sameAs  <http://www.wikidata.org/entity/Q83065> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#UKM65>
+        owl:sameAs  <http://www.wikidata.org/entity/Q100166> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DEE15>
+        owl:sameAs  <http://www.wikidata.org/entity/Q114216> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DEE23>
+        owl:sameAs  <http://www.wikidata.org/entity/Q113961> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#SE121>
+        owl:sameAs  <http://www.wikidata.org/entity/Q104926> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#SE122>
+        owl:sameAs  <http://www.wikidata.org/entity/Q106915> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#SE123>
+        owl:sameAs  <http://www.wikidata.org/entity/Q104940> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#SE212>
+        owl:sameAs  <http://www.wikidata.org/entity/Q104746> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE80H>
+        owl:sameAs  <http://www.wikidata.org/entity/Q164867> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DK009>
+        owl:sameAs  <http://www.wikidata.org/entity/Q164071> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ES705>
+        owl:sameAs  <http://www.wikidata.org/entity/Q178925> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ES708>
+        owl:sameAs  <http://www.wikidata.org/entity/Q182432> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#CZ071>
+        owl:sameAs  <http://www.wikidata.org/entity/Q193307> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ES704>
+        owl:sameAs  <http://www.wikidata.org/entity/Q192534> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#RO414>
+        owl:sameAs  <http://www.wikidata.org/entity/Q188945> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#UKI42>
+        owl:sameAs  <http://www.wikidata.org/entity/Q208152> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#EL126>
+        owl:sameAs  <http://www.wikidata.org/entity/Q211319> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#GR411>
+        owl:sameAs  <http://www.wikidata.org/entity/Q214219> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#PT132>
+        owl:sameAs  <http://www.wikidata.org/entity/Q241731> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#PT171>
+        owl:sameAs  <http://www.wikidata.org/entity/Q241731> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#PT16G>
+        owl:sameAs  <http://www.wikidata.org/entity/Q265402> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE80G>
+        owl:sameAs  <http://www.wikidata.org/entity/Q430923> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#MK>
+        owl:sameAs  <http://www.wikidata.org/entity/Q221> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DEE3>
+        owl:sameAs  <http://www.wikidata.org/entity/Q450521> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE808>
+        owl:sameAs  <http://www.wikidata.org/entity/Q559530> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE809>
+        owl:sameAs  <http://www.wikidata.org/entity/Q559600> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE80B>
+        owl:sameAs  <http://www.wikidata.org/entity/Q559552> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DEB2>
+        owl:sameAs  <http://www.wikidata.org/entity/Q573203> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#PT187>
+        owl:sameAs  <http://www.wikidata.org/entity/Q616008> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#AT125>
+        owl:sameAs  <http://www.wikidata.org/entity/Q701613> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#AT311>
+        owl:sameAs  <http://www.wikidata.org/entity/Q700460> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DK00E>
+        owl:sameAs  <http://www.wikidata.org/entity/Q756891> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#AT335>
+        owl:sameAs  <http://www.wikidata.org/entity/Q874361> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DK00C>
+        owl:sameAs  <http://www.wikidata.org/entity/Q866739> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DK00F>
+        owl:sameAs  <http://www.wikidata.org/entity/Q866849> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#UKD41>
+        owl:sameAs  <http://www.wikidata.org/entity/Q880782> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ES703>
+        owl:sameAs  <http://www.wikidata.org/entity/Q1036287> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#PL214>
+        owl:sameAs  <http://www.wikidata.org/entity/Q1164890> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#UKK42>
+        owl:sameAs  <http://www.wikidata.org/entity/Q1136118> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#PT125>
+        owl:sameAs  <http://www.wikidata.org/entity/Q1269630> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#PT165>
+        owl:sameAs  <http://www.wikidata.org/entity/Q1269630> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#PT116>
+        owl:sameAs  <http://www.wikidata.org/entity/Q1345149> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#PT185>
+        owl:sameAs  <http://www.wikidata.org/entity/Q1501301> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#UKH32>
+        owl:sameAs  <http://www.wikidata.org/entity/Q1549155> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#PT170>
+        owl:sameAs  <http://www.wikidata.org/entity/Q2392329> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#CZ04>
+        owl:sameAs  <http://www.wikidata.org/entity/Q7458002> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#IE025>
+        owl:sameAs  <http://www.wikidata.org/entity/Q7565299> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#EL214>
+        owl:sameAs  <http://www.wikidata.org/entity/Q7780449> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#UKD74>
+        owl:sameAs  <http://www.wikidata.org/entity/Q11365639> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#PT16F>
+        owl:sameAs  <http://www.wikidata.org/entity/Q22162581> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#FR101>
+        owl:sameAs  <http://www.wikidata.org/entity/Q90> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#IE0>
+        owl:sameAs  <http://www.wikidata.org/entity/Q27> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#BE21>
+        owl:sameAs  <http://www.wikidata.org/entity/Q1116> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#BE31>
+        owl:sameAs  <http://www.wikidata.org/entity/Q1122> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#CH012>
+        owl:sameAs  <http://www.wikidata.org/entity/Q834> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#CZ01>
+        owl:sameAs  <http://www.wikidata.org/entity/Q1085> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#CZ010>
+        owl:sameAs  <http://www.wikidata.org/entity/Q1085> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE121>
+        owl:sameAs  <http://www.wikidata.org/entity/Q4100> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE122>
+        owl:sameAs  <http://www.wikidata.org/entity/Q1040> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE221>
+        owl:sameAs  <http://www.wikidata.org/entity/Q3974> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE244>
+        owl:sameAs  <http://www.wikidata.org/entity/Q6938> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE262>
+        owl:sameAs  <http://www.wikidata.org/entity/Q4126> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE263>
+        owl:sameAs  <http://www.wikidata.org/entity/Q2999> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE273>
+        owl:sameAs  <http://www.wikidata.org/entity/Q3994> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE405>
+        owl:sameAs  <http://www.wikidata.org/entity/Q6115> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE407>
+        owl:sameAs  <http://www.wikidata.org/entity/Q6152> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE408>
+        owl:sameAs  <http://www.wikidata.org/entity/Q6139> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE40A>
+        owl:sameAs  <http://www.wikidata.org/entity/Q6119> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE40C>
+        owl:sameAs  <http://www.wikidata.org/entity/Q6178> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE40D>
+        owl:sameAs  <http://www.wikidata.org/entity/Q6125> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE412>
+        owl:sameAs  <http://www.wikidata.org/entity/Q6115> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE414>
+        owl:sameAs  <http://www.wikidata.org/entity/Q6119> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE415>
+        owl:sameAs  <http://www.wikidata.org/entity/Q6178> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE416>
+        owl:sameAs  <http://www.wikidata.org/entity/Q6125> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE425>
+        owl:sameAs  <http://www.wikidata.org/entity/Q6152> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE426>
+        owl:sameAs  <http://www.wikidata.org/entity/Q6139> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE60>
+        owl:sameAs  <http://www.wikidata.org/entity/Q1055> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE600>
+        owl:sameAs  <http://www.wikidata.org/entity/Q1055> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE712>
+        owl:sameAs  <http://www.wikidata.org/entity/Q1794> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE806>
+        owl:sameAs  <http://www.wikidata.org/entity/Q7030> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE80N>
+        owl:sameAs  <http://www.wikidata.org/entity/Q2917> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE80O>
+        owl:sameAs  <http://www.wikidata.org/entity/Q2905> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE912>
+        owl:sameAs  <http://www.wikidata.org/entity/Q3200> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE913>
+        owl:sameAs  <http://www.wikidata.org/entity/Q3014> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE917>
+        owl:sameAs  <http://www.wikidata.org/entity/Q6047> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE919>
+        owl:sameAs  <http://www.wikidata.org/entity/Q6037> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE928>
+        owl:sameAs  <http://www.wikidata.org/entity/Q5966> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE931>
+        owl:sameAs  <http://www.wikidata.org/entity/Q5919> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE935>
+        owl:sameAs  <http://www.wikidata.org/entity/Q5910> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE938>
+        owl:sameAs  <http://www.wikidata.org/entity/Q5922> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE941>
+        owl:sameAs  <http://www.wikidata.org/entity/Q3907> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE94D>
+        owl:sameAs  <http://www.wikidata.org/entity/Q5952> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE94E>
+        owl:sameAs  <http://www.wikidata.org/entity/Q5940> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DEA17>
+        owl:sameAs  <http://www.wikidata.org/entity/Q2838> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DEA18>
+        owl:sameAs  <http://www.wikidata.org/entity/Q3097> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DEA1C>
+        owl:sameAs  <http://www.wikidata.org/entity/Q6257> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DEA1E>
+        owl:sameAs  <http://www.wikidata.org/entity/Q6249> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DEA24>
+        owl:sameAs  <http://www.wikidata.org/entity/Q2938> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DEA2C>
+        owl:sameAs  <http://www.wikidata.org/entity/Q6287> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DEA45>
+        owl:sameAs  <http://www.wikidata.org/entity/Q6230> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DEA47>
+        owl:sameAs  <http://www.wikidata.org/entity/Q6224> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DEA51>
+        owl:sameAs  <http://www.wikidata.org/entity/Q2103> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DEA54>
+        owl:sameAs  <http://www.wikidata.org/entity/Q2880> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DEA5A>
+        owl:sameAs  <http://www.wikidata.org/entity/Q5982> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DEB35>
+        owl:sameAs  <http://www.wikidata.org/entity/Q1720> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DEB36>
+        owl:sameAs  <http://www.wikidata.org/entity/Q4149> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DEB38>
+        owl:sameAs  <http://www.wikidata.org/entity/Q6829> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DEC06>
+        owl:sameAs  <http://www.wikidata.org/entity/Q6789> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DED2D>
+        owl:sameAs  <http://www.wikidata.org/entity/Q4077> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DED2E>
+        owl:sameAs  <http://www.wikidata.org/entity/Q6313> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DED42>
+        owl:sameAs  <http://www.wikidata.org/entity/Q6339> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DED53>
+        owl:sameAs  <http://www.wikidata.org/entity/Q6301> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DEE01>
+        owl:sameAs  <http://www.wikidata.org/entity/Q3828> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DEE07>
+        owl:sameAs  <http://www.wikidata.org/entity/Q6064> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DEE09>
+        owl:sameAs  <http://www.wikidata.org/entity/Q6087> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DEE0B>
+        owl:sameAs  <http://www.wikidata.org/entity/Q6098> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DEE0C>
+        owl:sameAs  <http://www.wikidata.org/entity/Q6081> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DEE0E>
+        owl:sameAs  <http://www.wikidata.org/entity/Q6075> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DEE16>
+        owl:sameAs  <http://www.wikidata.org/entity/Q6075> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DEF05>
+        owl:sameAs  <http://www.wikidata.org/entity/Q2947> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DEF07>
+        owl:sameAs  <http://www.wikidata.org/entity/Q2937> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DEF08>
+        owl:sameAs  <http://www.wikidata.org/entity/Q2975> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DEG02>
+        owl:sameAs  <http://www.wikidata.org/entity/Q3750> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ES22>
+        owl:sameAs  <http://www.wikidata.org/entity/Q4018> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ES220>
+        owl:sameAs  <http://www.wikidata.org/entity/Q4018> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ES42>
+        owl:sameAs  <http://www.wikidata.org/entity/Q5748> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ES43>
+        owl:sameAs  <http://www.wikidata.org/entity/Q5777> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ES53>
+        owl:sameAs  <http://www.wikidata.org/entity/Q5765> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ES63>
+        owl:sameAs  <http://www.wikidata.org/entity/Q5823> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ES630>
+        owl:sameAs  <http://www.wikidata.org/entity/Q5823> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#FI194>
+        owl:sameAs  <http://www.wikidata.org/entity/Q5692> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#FI1C2>
+        owl:sameAs  <http://www.wikidata.org/entity/Q5695> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#FI1C3>
+        owl:sameAs  <http://www.wikidata.org/entity/Q5708> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#FI1D1>
+        owl:sameAs  <http://www.wikidata.org/entity/Q5693> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#FI1D5>
+        owl:sameAs  <http://www.wikidata.org/entity/Q5696> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#FR104>
+        owl:sameAs  <http://www.wikidata.org/entity/Q3368> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#FR621>
+        owl:sameAs  <http://www.wikidata.org/entity/Q3184> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#FR63>
+        owl:sameAs  <http://www.wikidata.org/entity/Q1190> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#FR631>
+        owl:sameAs  <http://www.wikidata.org/entity/Q3326> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#FR72>
+        owl:sameAs  <http://www.wikidata.org/entity/Q1152> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#FR721>
+        owl:sameAs  <http://www.wikidata.org/entity/Q3113> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#FR722>
+        owl:sameAs  <http://www.wikidata.org/entity/Q3259> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#FR822>
+        owl:sameAs  <http://www.wikidata.org/entity/Q3125> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#FR823>
+        owl:sameAs  <http://www.wikidata.org/entity/Q3139> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#FR824>
+        owl:sameAs  <http://www.wikidata.org/entity/Q3240> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#FR832>
+        owl:sameAs  <http://www.wikidata.org/entity/Q3334> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ITI3>
+        owl:sameAs  <http://www.wikidata.org/entity/Q1279> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#NL12>
+        owl:sameAs  <http://www.wikidata.org/entity/Q770> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#NL31>
+        owl:sameAs  <http://www.wikidata.org/entity/Q776> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#NL33>
+        owl:sameAs  <http://www.wikidata.org/entity/Q694> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#NO034>
+        owl:sameAs  <http://www.wikidata.org/entity/Q2254> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#SOF46>
+        owl:sameAs  <http://www.wikidata.org/entity/Q472> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#CH013>
+        owl:sameAs  <http://www.wikidata.org/entity/Q11917> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#CH021>
+        owl:sameAs  <http://www.wikidata.org/entity/Q11911> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#CH023>
+        owl:sameAs  <http://www.wikidata.org/entity/Q11929> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#CH031>
+        owl:sameAs  <http://www.wikidata.org/entity/Q12172> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#CH032>
+        owl:sameAs  <http://www.wikidata.org/entity/Q12146> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE112>
+        owl:sameAs  <http://www.wikidata.org/entity/Q8536> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE113>
+        owl:sameAs  <http://www.wikidata.org/entity/Q8533> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE11C>
+        owl:sameAs  <http://www.wikidata.org/entity/Q8523> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE128>
+        owl:sameAs  <http://www.wikidata.org/entity/Q8177> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE139>
+        owl:sameAs  <http://www.wikidata.org/entity/Q8198> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE148>
+        owl:sameAs  <http://www.wikidata.org/entity/Q8225> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE215>
+        owl:sameAs  <http://www.wikidata.org/entity/Q10530> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE219>
+        owl:sameAs  <http://www.wikidata.org/entity/Q10491> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE238>
+        owl:sameAs  <http://www.wikidata.org/entity/Q10429> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE243>
+        owl:sameAs  <http://www.wikidata.org/entity/Q14821> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE247>
+        owl:sameAs  <http://www.wikidata.org/entity/Q10440> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE24B>
+        owl:sameAs  <http://www.wikidata.org/entity/Q10436> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE24C>
+        owl:sameAs  <http://www.wikidata.org/entity/Q10442> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE251>
+        owl:sameAs  <http://www.wikidata.org/entity/Q14859> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE255>
+        owl:sameAs  <http://www.wikidata.org/entity/Q14889> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE259>
+        owl:sameAs  <http://www.wikidata.org/entity/Q10449> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE25B>
+        owl:sameAs  <http://www.wikidata.org/entity/Q10451> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE267>
+        owl:sameAs  <http://www.wikidata.org/entity/Q10462> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE26C>
+        owl:sameAs  <http://www.wikidata.org/entity/Q10458> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE27>
+        owl:sameAs  <http://www.wikidata.org/entity/Q10557> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE278>
+        owl:sameAs  <http://www.wikidata.org/entity/Q10412> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE27B>
+        owl:sameAs  <http://www.wikidata.org/entity/Q10405> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE27E>
+        owl:sameAs  <http://www.wikidata.org/entity/Q10402> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE71>
+        owl:sameAs  <http://www.wikidata.org/entity/Q7932> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE715>
+        owl:sameAs  <http://www.wikidata.org/entity/Q7917> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE718>
+        owl:sameAs  <http://www.wikidata.org/entity/Q7908> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE734>
+        owl:sameAs  <http://www.wikidata.org/entity/Q7890> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE736>
+        owl:sameAs  <http://www.wikidata.org/entity/Q7893> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DEA1>
+        owl:sameAs  <http://www.wikidata.org/entity/Q7926> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DEA2>
+        owl:sameAs  <http://www.wikidata.org/entity/Q7927> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DEA4>
+        owl:sameAs  <http://www.wikidata.org/entity/Q7923> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DEA5>
+        owl:sameAs  <http://www.wikidata.org/entity/Q7924> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DEB14>
+        owl:sameAs  <http://www.wikidata.org/entity/Q8572> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DEB1B>
+        owl:sameAs  <http://www.wikidata.org/entity/Q8602> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DEB22>
+        owl:sameAs  <http://www.wikidata.org/entity/Q8585> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DEB3B>
+        owl:sameAs  <http://www.wikidata.org/entity/Q8566> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DEB3K>
+        owl:sameAs  <http://www.wikidata.org/entity/Q8552> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DEG06>
+        owl:sameAs  <http://www.wikidata.org/entity/Q7861> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#FR102>
+        owl:sameAs  <http://www.wikidata.org/entity/Q12753> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#FR213>
+        owl:sameAs  <http://www.wikidata.org/entity/Q12594> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#FR244>
+        owl:sameAs  <http://www.wikidata.org/entity/Q12556> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#FR25>
+        owl:sameAs  <http://www.wikidata.org/entity/Q16954> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#FR262>
+        owl:sameAs  <http://www.wikidata.org/entity/Q12657> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#FR514>
+        owl:sameAs  <http://www.wikidata.org/entity/Q12740> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#FR534>
+        owl:sameAs  <http://www.wikidata.org/entity/Q12804> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#FR615>
+        owl:sameAs  <http://www.wikidata.org/entity/Q12703> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#FR623>
+        owl:sameAs  <http://www.wikidata.org/entity/Q12538> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#FR624>
+        owl:sameAs  <http://www.wikidata.org/entity/Q12517> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#FR715>
+        owl:sameAs  <http://www.wikidata.org/entity/Q12569> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#FR81>
+        owl:sameAs  <http://www.wikidata.org/entity/Q17005> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#FR812>
+        owl:sameAs  <http://www.wikidata.org/entity/Q12515> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#FR814>
+        owl:sameAs  <http://www.wikidata.org/entity/Q12580> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#FR92>
+        owl:sameAs  <http://www.wikidata.org/entity/Q17054> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#FR920>
+        owl:sameAs  <http://www.wikidata.org/entity/Q17054> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#FRA20>
+        owl:sameAs  <http://www.wikidata.org/entity/Q17054> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#IT311>
+        owl:sameAs  <http://www.wikidata.org/entity/Q15124> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ITC16>
+        owl:sameAs  <http://www.wikidata.org/entity/Q15091> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ITC41>
+        owl:sameAs  <http://www.wikidata.org/entity/Q16299> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ITC44>
+        owl:sameAs  <http://www.wikidata.org/entity/Q16282> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ITC4A>
+        owl:sameAs  <http://www.wikidata.org/entity/Q16163> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ITC4B>
+        owl:sameAs  <http://www.wikidata.org/entity/Q16204> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ITD1>
+        owl:sameAs  <http://www.wikidata.org/entity/Q15124> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ITD10>
+        owl:sameAs  <http://www.wikidata.org/entity/Q15124> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ITF11>
+        owl:sameAs  <http://www.wikidata.org/entity/Q16189> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ITF21>
+        owl:sameAs  <http://www.wikidata.org/entity/Q16187> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ITF35>
+        owl:sameAs  <http://www.wikidata.org/entity/Q16271> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ITF44>
+        owl:sameAs  <http://www.wikidata.org/entity/Q16148> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ITF46>
+        owl:sameAs  <http://www.wikidata.org/entity/Q15129> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ITF48>
+        owl:sameAs  <http://www.wikidata.org/entity/Q16124> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ITF61>
+        owl:sameAs  <http://www.wikidata.org/entity/Q16162> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ITG11>
+        owl:sameAs  <http://www.wikidata.org/entity/Q16288> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ITG13>
+        owl:sameAs  <http://www.wikidata.org/entity/Q16208> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ITG17>
+        owl:sameAs  <http://www.wikidata.org/entity/Q16154> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ITG19>
+        owl:sameAs  <http://www.wikidata.org/entity/Q16277> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ITG25>
+        owl:sameAs  <http://www.wikidata.org/entity/Q16272> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ITH1>
+        owl:sameAs  <http://www.wikidata.org/entity/Q15124> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ITH10>
+        owl:sameAs  <http://www.wikidata.org/entity/Q15124> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ITH35>
+        owl:sameAs  <http://www.wikidata.org/entity/Q16310> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ITH43>
+        owl:sameAs  <http://www.wikidata.org/entity/Q16184> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ITH51>
+        owl:sameAs  <http://www.wikidata.org/entity/Q16243> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ITI14>
+        owl:sameAs  <http://www.wikidata.org/entity/Q16172> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ITI15>
+        owl:sameAs  <http://www.wikidata.org/entity/Q16250> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ITI16>
+        owl:sameAs  <http://www.wikidata.org/entity/Q16200> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ITI17>
+        owl:sameAs  <http://www.wikidata.org/entity/Q16244> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ITI1A>
+        owl:sameAs  <http://www.wikidata.org/entity/Q16185> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#UKD33>
+        owl:sameAs  <http://www.wikidata.org/entity/Q18125> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DED15>
+        owl:sameAs  <http://www.wikidata.org/entity/Q20227> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DED1B>
+        owl:sameAs  <http://www.wikidata.org/entity/Q20223> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DED26>
+        owl:sameAs  <http://www.wikidata.org/entity/Q20259> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DED29>
+        owl:sameAs  <http://www.wikidata.org/entity/Q20264> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DED2B>
+        owl:sameAs  <http://www.wikidata.org/entity/Q20239> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DED35>
+        owl:sameAs  <http://www.wikidata.org/entity/Q20256> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DED4>
+        owl:sameAs  <http://www.wikidata.org/entity/Q24198> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#PT2>
+        owl:sameAs  <http://www.wikidata.org/entity/Q25263> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#PT20>
+        owl:sameAs  <http://www.wikidata.org/entity/Q25263> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#PT200>
+        owl:sameAs  <http://www.wikidata.org/entity/Q25263> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#UKH12>
+        owl:sameAs  <http://www.wikidata.org/entity/Q23112> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#UKJ11>
+        owl:sameAs  <http://www.wikidata.org/entity/Q23220> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#UKJ22>
+        owl:sameAs  <http://www.wikidata.org/entity/Q23293> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#UKK43>
+        owl:sameAs  <http://www.wikidata.org/entity/Q23156> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#AT12>
+        owl:sameAs  <http://www.wikidata.org/entity/Q42497> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#AT32>
+        owl:sameAs  <http://www.wikidata.org/entity/Q43325> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#CZ032>
+        owl:sameAs  <http://www.wikidata.org/entity/Q46070> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#NO021>
+        owl:sameAs  <http://www.wikidata.org/entity/Q50616> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#NO033>
+        owl:sameAs  <http://www.wikidata.org/entity/Q50619> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#NO072>
+        owl:sameAs  <http://www.wikidata.org/entity/Q50631> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#NO073>
+        owl:sameAs  <http://www.wikidata.org/entity/Q50632> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#UKE21>
+        owl:sameAs  <http://www.wikidata.org/entity/Q42462> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#UKH>
+        owl:sameAs  <http://www.wikidata.org/entity/Q48006> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE301>
+        owl:sameAs  <http://www.wikidata.org/entity/Q56036> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE302>
+        owl:sameAs  <http://www.wikidata.org/entity/Q56037> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ES421>
+        owl:sameAs  <http://www.wikidata.org/entity/Q54889> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ES422>
+        owl:sameAs  <http://www.wikidata.org/entity/Q54932> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ES423>
+        owl:sameAs  <http://www.wikidata.org/entity/Q54888> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ES521>
+        owl:sameAs  <http://www.wikidata.org/entity/Q54936> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ES523>
+        owl:sameAs  <http://www.wikidata.org/entity/Q54939> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#BE100>
+        owl:sameAs  <http://www.wikidata.org/entity/Q90870> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#BE212>
+        owl:sameAs  <http://www.wikidata.org/entity/Q90905> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#BE213>
+        owl:sameAs  <http://www.wikidata.org/entity/Q90911> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ES413>
+        owl:sameAs  <http://www.wikidata.org/entity/Q71140> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ES612>
+        owl:sameAs  <http://www.wikidata.org/entity/Q81978> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#BE223>
+        owl:sameAs  <http://www.wikidata.org/entity/Q93549> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#BE252>
+        owl:sameAs  <http://www.wikidata.org/entity/Q91402> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#BE351>
+        owl:sameAs  <http://www.wikidata.org/entity/Q93740> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#BE352>
+        owl:sameAs  <http://www.wikidata.org/entity/Q93782> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DEE13>
+        owl:sameAs  <http://www.wikidata.org/entity/Q114157> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DEE14>
+        owl:sameAs  <http://www.wikidata.org/entity/Q114614> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DEE27>
+        owl:sameAs  <http://www.wikidata.org/entity/Q114207> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DEE34>
+        owl:sameAs  <http://www.wikidata.org/entity/Q114247> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DEE38>
+        owl:sameAs  <http://www.wikidata.org/entity/Q114539> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ES114>
+        owl:sameAs  <http://www.wikidata.org/entity/Q95086> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ES212>
+        owl:sameAs  <http://www.wikidata.org/entity/Q95010> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ES616>
+        owl:sameAs  <http://www.wikidata.org/entity/Q95025> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ES701>
+        owl:sameAs  <http://www.wikidata.org/entity/Q95080> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#SE125>
+        owl:sameAs  <http://www.wikidata.org/entity/Q105075> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#SE321>
+        owl:sameAs  <http://www.wikidata.org/entity/Q104891> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE80C>
+        owl:sameAs  <http://www.wikidata.org/entity/Q164955> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#EL21>
+        owl:sameAs  <http://www.wikidata.org/entity/Q180484> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#UKD42>
+        owl:sameAs  <http://www.wikidata.org/entity/Q170377> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#UKH11>
+        owl:sameAs  <http://www.wikidata.org/entity/Q172438> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#CZ064>
+        owl:sameAs  <http://www.wikidata.org/entity/Q192697> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DK006>
+        owl:sameAs  <http://www.wikidata.org/entity/Q183315> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#EL131>
+        owl:sameAs  <http://www.wikidata.org/entity/Q209385> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#EL133>
+        owl:sameAs  <http://www.wikidata.org/entity/Q211732> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#UKH31>
+        owl:sameAs  <http://www.wikidata.org/entity/Q203995> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#UKI54>
+        owl:sameAs  <http://www.wikidata.org/entity/Q210531> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#UKI61>
+        owl:sameAs  <http://www.wikidata.org/entity/Q208201> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#UKM24>
+        owl:sameAs  <http://www.wikidata.org/entity/Q211113> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#UKM37>
+        owl:sameAs  <http://www.wikidata.org/entity/Q209131> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#AT124>
+        owl:sameAs  <http://www.wikidata.org/entity/Q225400> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#UKG37>
+        owl:sameAs  <http://www.wikidata.org/entity/Q285964> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#NL112>
+        owl:sameAs  <http://www.wikidata.org/entity/Q322986> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#PT118>
+        owl:sameAs  <http://www.wikidata.org/entity/Q443584> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE80D>
+        owl:sameAs  <http://www.wikidata.org/entity/Q559510> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE80I>
+        owl:sameAs  <http://www.wikidata.org/entity/Q559492> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#PT119>
+        owl:sameAs  <http://www.wikidata.org/entity/Q634735> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DEB1>
+        owl:sameAs  <http://www.wikidata.org/entity/Q641003> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DEE36>
+        owl:sameAs  <http://www.wikidata.org/entity/Q696771> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#PT184>
+        owl:sameAs  <http://www.wikidata.org/entity/Q804036> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DEE33>
+        owl:sameAs  <http://www.wikidata.org/entity/Q836670> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DK005>
+        owl:sameAs  <http://www.wikidata.org/entity/Q866823> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#UKH24>
+        owl:sameAs  <http://www.wikidata.org/entity/Q894077> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#PT127>
+        owl:sameAs  <http://www.wikidata.org/entity/Q920673> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#PT167>
+        owl:sameAs  <http://www.wikidata.org/entity/Q920673> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#UKH25>
+        owl:sameAs  <http://www.wikidata.org/entity/Q1053723> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#PT11D>
+        owl:sameAs  <http://www.wikidata.org/entity/Q1252756> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#UKC23>
+        owl:sameAs  <http://www.wikidata.org/entity/Q1280897> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#UKD73>
+        owl:sameAs  <http://www.wikidata.org/entity/Q1546645> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#UKG32>
+        owl:sameAs  <http://www.wikidata.org/entity/Q1925858> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ITF>
+        owl:sameAs  <http://www.wikidata.org/entity/Q2250397> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ITC>
+        owl:sameAs  <http://www.wikidata.org/entity/Q2725942> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE41>
+        owl:sameAs  <http://www.wikidata.org/entity/Q4956654> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#CZ06>
+        owl:sameAs  <http://www.wikidata.org/entity/Q6192497> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#PT131>
+        owl:sameAs  <http://www.wikidata.org/entity/Q10340327> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#PT16B>
+        owl:sameAs  <http://www.wikidata.org/entity/Q10340327> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#FR7>
+        owl:sameAs  <http://www.wikidata.org/entity/Q18338206> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#PT16D>
+        owl:sameAs  <http://www.wikidata.org/entity/Q18393915> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#BG413>
+        owl:sameAs  <http://www.wikidata.org/entity/Q804311> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#BG415>
+        owl:sameAs  <http://www.wikidata.org/entity/Q1112985> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#BG315>
+        owl:sameAs  <http://www.wikidata.org/entity/Q6587068> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#BG312>
+        owl:sameAs  <http://www.wikidata.org/entity/Q2012057> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#BG414>
+        owl:sameAs  <http://www.wikidata.org/entity/Q2012234> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#BG314>
+        owl:sameAs  <http://www.wikidata.org/entity/Q2012242> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#BG421>
+        owl:sameAs  <http://www.wikidata.org/entity/Q187874> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#BG324>
+        owl:sameAs  <http://www.wikidata.org/entity/Q2790675> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#BG323>
+        owl:sameAs  <http://www.wikidata.org/entity/Q1251933> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#BG333>
+        owl:sameAs  <http://www.wikidata.org/entity/Q184981> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#BG325>
+        owl:sameAs  <http://www.wikidata.org/entity/Q2012423> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#BG342>
+        owl:sameAs  <http://www.wikidata.org/entity/Q113120> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#BG424>
+        owl:sameAs  <http://www.wikidata.org/entity/Q2012430> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#BG412>
+        owl:sameAs  <http://www.wikidata.org/entity/Q202904> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#BG344>
+        owl:sameAs  <http://www.wikidata.org/entity/Q2012583> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#TR332>
+        owl:sameAs  <http://www.wikidata.org/entity/Q45220> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#UKJ23>
+        owl:sameAs  <http://www.wikidata.org/entity/Q23276> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#HU101>
+        owl:sameAs  <http://www.wikidata.org/entity/Q1781> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#NL324>
+        owl:sameAs  <http://www.wikidata.org/entity/Q9920> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#UKF22>
+        owl:sameAs  <http://www.wikidata.org/entity/Q23107> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#EL144>
+        owl:sameAs  <http://www.wikidata.org/entity/Q216482> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#BG41>
+        owl:sameAs  <http://www.wikidata.org/entity/Q28842871> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#BG42>
+        owl:sameAs  <http://www.wikidata.org/entity/Q28842876> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#BG34>
+        owl:sameAs  <http://www.wikidata.org/entity/Q25252925> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#BG33>
+        owl:sameAs  <http://www.wikidata.org/entity/Q25129591> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#BG32>
+        owl:sameAs  <http://www.wikidata.org/entity/Q28842990> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#BG31>
+        owl:sameAs  <http://www.wikidata.org/entity/Q24521488> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#FI181>
+        owl:sameAs  <http://www.wikidata.org/entity/Q5711> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#SK022>
+        owl:sameAs  <http://www.wikidata.org/entity/Q183139> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#SK032>
+        owl:sameAs  <http://www.wikidata.org/entity/Q183640> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#SK042>
+        owl:sameAs  <http://www.wikidata.org/entity/Q186295> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#SK031>
+        owl:sameAs  <http://www.wikidata.org/entity/Q184228> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#SK023>
+        owl:sameAs  <http://www.wikidata.org/entity/Q184548> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#AT121>
+        owl:sameAs  <http://www.wikidata.org/entity/Q694449> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#SK010>
+        owl:sameAs  <http://www.wikidata.org/entity/Q183498> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#SK021>
+        owl:sameAs  <http://www.wikidata.org/entity/Q181342> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#SK041>
+        owl:sameAs  <http://www.wikidata.org/entity/Q189001> .

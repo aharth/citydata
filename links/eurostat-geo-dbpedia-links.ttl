@@ -1,0 +1,770 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#AT>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Austria> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#AT1>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/OstÃ¶sterreich> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#AT12>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/NiederÃ¶sterreich> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#AT13>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Wien> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#AT2>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/SÃ¼dÃ¶sterreich> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#AT21>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/KÃ¤rnten> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#AT22>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Steiermark> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#AT3>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/WestÃ¶sterreich> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#AT31>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/OberÃ¶sterreich> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#AT32>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Salzburg> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#AT33>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Tirol> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#AT34>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Vorarlberg> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#BE>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Belgium> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#BG>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Bulgaria> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#BG31>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Severozapaden> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#BG33>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Severoiztochen> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#BG34>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Yugoiztochen> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#BG41>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Yugozapaden> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#CH>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Switzerland> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#CH0>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Schweiz/Suisse/Svizzera> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#CH03>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Nordwestschweiz> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#CH04>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/ZÃ¼rich> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#CH05>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Ostschweiz> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#CH06>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Zentralschweiz> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#CH07>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Ticino> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#CY>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Cyprus> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#CY0>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Kypros> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#CY00>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Kypros> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#CZ01>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Praha> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#CZ03>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/JihozÃ¡pad> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#CZ04>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/SeverozÃ¡pad> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#CZ05>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/SeverovÃ½chod> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#CZ06>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/JihovÃ½chod> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#CZ08>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Moravskoslezsko> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE1>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Baden-WÃ¼rttemberg> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE11>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Stuttgart> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE12>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Karlsruhe> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE13>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Freiburg> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE14>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/TÃ¼bingen> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE2>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Bayern> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE21>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Oberbayern> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE22>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Niederbayern> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE23>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Oberpfalz> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE24>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Oberfranken> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE25>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Mittelfranken> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE26>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Unterfranken> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE27>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Schwaben> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE3>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Berlin> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE30>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Berlin> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE4>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Brandenburg> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE40>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Brandenburg> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE5>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Bremen> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE50>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Bremen> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE6>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Hamburg> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE60>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Hamburg> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE7>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Hessen> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE71>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Darmstadt> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE72>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Giessen> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE73>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Kassel> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE8>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Mecklenburg-Vorpommern> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE80>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Mecklenburg-Vorpommern> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE9>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Niedersachsen> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE91>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Braunschweig> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE92>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Hannover> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE93>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/LÃ¼neburg> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DE94>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Weser-Ems> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DEA>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Nordrhein-Westfalen> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DEA1>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/DÃ¼sseldorf> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DEA2>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/KÃ¶ln> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DEA3>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/MÃ¼nster> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DEA4>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Detmold> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DEA5>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Arnsberg> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DEB>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Rheinland-Pfalz> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DEB1>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Koblenz> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DEB2>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Trier> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DEB3>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Rheinhessen-Pfalz> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DEC>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Saarland> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DEC0>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Saarland> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DED>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Sachsen> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DED2>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Dresden> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DED4>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Chemnitz> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DED5>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Leipzig> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DEE>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Sachsen-Anhalt> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DEE0>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Sachsen-Anhalt> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DEF>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Schleswig-Holstein> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DEF0>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Schleswig-Holstein> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DEG>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/ThÃ¼ringen> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DEG0>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/ThÃ¼ringen> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DK>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Denmark> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DK0>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Danmark> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DK01>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Hovedstaden> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DK02>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/SjÃ¦lland> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DK03>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Syddanmark> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DK04>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Midtjylland> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#DK05>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Nordjylland> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#EE>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Estonia> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#EE0>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Eesti> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#EE00>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Eesti> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#EL>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Greece> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#EL3>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Attiki> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#EL30>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Attiki> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#EL43>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Kriti> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#EL54>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Ipeiros> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#EL61>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Thessalia> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#EL65>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Peloponnisos> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ES>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Spain> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ES11>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Galicia> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ES13>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Cantabria> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ES24>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/AragÃ³n> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ES43>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Extremadura> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ES51>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/CataluÃ±a> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ES61>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/AndalucÃ­a> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#FI>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Finland> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#FI1>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Manner-Suomi> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#FI19>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/LÃ¤nsi-Suomi> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#FI1B>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Helsinki-Uusimaa> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#FI1C>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/EtelÃ¤-Suomi> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#FI2>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Åland> .
+    
+<http://estatwrap.ontologycentral.com/dic/geo#FI20>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Åland> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#FR>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/France> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#FR21>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Champagne-Ardenne> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#FR22>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Picardie> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#FR23>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Haute-Normandie> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#FR25>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Basse-Normandie> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#FR26>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Bourgogne> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#FR41>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Lorraine> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#FR42>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Alsace> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#FR43>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Franche-ComtÃ©> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#FR52>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Bretagne> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#FR53>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Poitou-Charentes> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#FR61>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Aquitaine> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#FR62>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Midi-PyrÃ©nÃ©es> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#FR63>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Limousin> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#FR71>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/RhÃ´ne-Alpes> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#FR72>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Auvergne> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#FR8>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/MÃ©diterranÃ©e> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#FR81>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Languedoc-Roussillon> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#FR83>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Corse> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#FRA1>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Guadeloupe> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#FRA2>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Martinique> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#FRA3>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Guyane> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#FRA5>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Mayotte> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#HR>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Croatia> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#HR0>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Hrvatska> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#HU>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Hungary> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#IE>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Ireland> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#IS>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Iceland> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#IT>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Italy> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ITC>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Nord-Ovest> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ITC1>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Piemonte> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ITC3>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Liguria> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ITC4>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Lombardia> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ITF>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Sud> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ITF1>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Abruzzo> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ITF2>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Molise> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ITF3>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Campania> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ITF4>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Puglia> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ITF5>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Basilicata> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ITF6>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Calabria> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ITG>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Isole> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ITG1>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Sicilia> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ITG2>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Sardegna> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ITH>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Nord-Est> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ITH3>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Veneto> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ITH5>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Emilia-Romagna> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ITI1>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Toscana> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ITI2>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Umbria> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ITI3>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Marche> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#ITI4>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Lazio> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#LT>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Lithuania> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#LT0>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Lietuva> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#LT00>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Lietuva> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#LU>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Luxembourg> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#LU0>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Luxembourg> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#LU00>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Luxembourg> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#LV>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Latvia> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#LV0>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Latvija> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#LV00>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Latvija> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#MT>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Malta> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#MT0>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Malta> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#MT00>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Malta> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#NL>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Netherlands> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#NL1>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Noord-Nederland> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#NL11>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Groningen> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#NL13>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Drenthe> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#NL2>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Oost-Nederland> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#NL21>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Overijssel> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#NL22>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Gelderland> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#NL23>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Flevoland> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#NL3>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/West-Nederland> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#NL31>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Utrecht> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#NL32>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Noord-Holland> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#NL33>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Zuid-Holland> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#NL34>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Zeeland> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#NL4>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Zuid-Nederland> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#NL41>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Noord-Brabant> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#NO>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Norway> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#NO0>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Norge> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#NO03>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/SÃ¸r-Ãstlandet> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#NO05>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Vestlandet> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#NO06>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/TrÃ¸ndelag> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#NO07>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Nord-Norge> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#PL>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Poland> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#PL11>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/LÃ³dzkie> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#PL12>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Mazowieckie> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#PL21>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Malopolskie> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#PL22>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Slaskie> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#PL31>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Lubelskie> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#PL32>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Podkarpackie> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#PL33>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Swietokrzyskie> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#PL34>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Podlaskie> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#PL41>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Wielkopolskie> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#PL42>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Zachodniopomorskie> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#PL43>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Lubuskie> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#PL51>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Dolnoslaskie> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#PL52>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Opolskie> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#PL61>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Kujawsko-Pomorskie> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#PL62>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Warminsko-Mazurskie> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#PL63>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Pomorskie> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#PT>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Portugal> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#PT1>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Continente> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#PT11>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Norte> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#PT15>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Algarve> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#PT18>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Alentejo> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#RO>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Romania> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#RO11>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Nord-Vest> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#RO12>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Centru> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#RO21>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Nord-Est> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#RO22>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Sud-Est> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#RO42>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Vest> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#SE>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Sweden> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#SE11>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Stockholm> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#SE22>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Sydsverige> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#SE23>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/VÃ¤stsverige> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#SI>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Slovenia> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#SI0>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Slovenija> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#SK>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Slovakia> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#SK0>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Slovensko> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#TR>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Turkey> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#TR1>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Istanbul> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#TR10>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Istanbul> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#TR3>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Ege> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#TR31>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Izmir> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#TR51>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Ankara> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#TR6>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Akdeniz> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#UKD1>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Cumbria> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#UKD4>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Lancashire> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#UKD6>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Cheshire> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#UKD7>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Merseyside> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#UKF3>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Lincolnshire> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#UKH3>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Essex> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#UKI>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/London> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#UKJ4>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Kent> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#UKK4>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Devon> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#UKL>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Wales> .
+
+<http://estatwrap.ontologycentral.com/dic/geo#UKM>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Scotland> .
+

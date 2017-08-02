@@ -1,0 +1,17 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix : <canon#> .
+
+#
+: a owl:Ontology ; rdfs:comment "To relate URIs to their canonical form, similar to owl:sameAs, owl:equivalentProperty or owl:equivalentClass, but without the symmetric property." ; foaf:maker <http://harth.org/andreas/foaf#ah> .
+
+#
+:canonical a rdf:Property ; rdfs:label "canonical URI" ; rdfs:comment "relate a URI (subject position) to its canonical URI (object position)" .
+
+#
+:canonicalProperty a rdf:Property ; rdfs:domain rdf:Property ; rdfs:range rdf:Property ; rdfs:label "canonical property URI" ; rdfs:comment "relate a property URI (subject position) to its canonicial URI (object position)" .
+
+#
+:canonicalClass a rdf:Property ; rdfs:domain rdfs:Class ; rdfs:range rdfs:Class ; rdfs:label "canonical class URI" ; rdfs:comment "relate the class URI (in subject position) to its canonicial URI (in object position)" .

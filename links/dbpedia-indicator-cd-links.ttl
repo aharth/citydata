@@ -1,0 +1,846 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix cd: <http://citydata.wu.ac.at/ns#> .
+
+<http://dbpedia.org/ontology/PopulatedPlace/areaTotal>
+    owl:sameAs cd:area .
+
+<http://dbpedia.org/ontology/PopulatedPlace/populationDensity>
+    owl:sameAs cd:populationDensity .
+
+<http://dbpedia.org/ontology/elevation>
+    owl:sameAs cd:elevation .
+
+<http://dbpedia.org/ontology/maximumElevation>
+    owl:sameAs cd:elevationMax .
+
+<http://dbpedia.org/ontology/minimumElevation>
+    owl:sameAs cd:elevationMin .
+
+<http://dbpedia.org/ontology/populationDensity>
+    owl:sameAs cd:populationDensity .
+
+<http://dbpedia.org/ontology/populationTotal>
+    owl:sameAs cd:population .
+
+<http://dbpedia.org/property/aprHighC>
+    owl:sameAs cd:temperature_high_apr .
+
+<http://dbpedia.org/property/aprHumidity>
+    owl:sameAs cd:humidity_apr .
+
+<http://dbpedia.org/property/aprLowC>
+    owl:sameAs cd:temperature_low_apr .
+
+<http://dbpedia.org/property/aprMeanC>
+    owl:sameAs cd:temperature_mean_apr .
+
+<http://dbpedia.org/property/aprPrecipitationDays>
+    owl:sameAs cd:precipitation_days_apr .
+
+<http://dbpedia.org/property/aprPrecipitationMm>
+    owl:sameAs cd:precipitation_mm_apr .
+
+<http://dbpedia.org/property/aprRainDays>
+    owl:sameAs cd:precipitation_days_apr .
+
+<http://dbpedia.org/property/aprRainMm>
+    owl:sameAs cd:precipitation_mm_apr .
+
+<http://dbpedia.org/property/aprRecordHighC>
+    owl:sameAs cd:temperature_record_high_apr .
+
+<http://dbpedia.org/property/aprRecordLowC>
+    owl:sameAs cd:temperature_record_low_apr .
+
+<http://dbpedia.org/property/aprSnowCm>
+    owl:sameAs cd:snow_cm_apr .
+
+<http://dbpedia.org/property/aprSnowDays>
+    owl:sameAs cd:snow_days_apr .
+
+<http://dbpedia.org/property/aprSun>
+    owl:sameAs cd:sun_apr .
+
+<http://dbpedia.org/property/aprilHighC>
+    owl:sameAs cd:temperature_high_apr .
+
+<http://dbpedia.org/property/aprilHumidity>
+    owl:sameAs cd:humidity_apr .
+
+<http://dbpedia.org/property/aprilLowC>
+    owl:sameAs cd:temperature_low_apr .
+
+<http://dbpedia.org/property/aprilMeanC>
+    owl:sameAs cd:temperature_mean_apr .
+
+<http://dbpedia.org/property/aprilPrecipitationDays>
+    owl:sameAs cd:precipitation_days_apr .
+
+<http://dbpedia.org/property/aprilPrecipitationMm>
+    owl:sameAs cd:precipitation_mm_apr .
+
+<http://dbpedia.org/property/aprilRecordHighC>
+    owl:sameAs cd:temperature_record_high_apr .
+
+<http://dbpedia.org/property/aprilRecordLowC>
+    owl:sameAs cd:temperature_record_low_apr .
+
+<http://dbpedia.org/property/areaLandKm>
+    owl:sameAs cd:areaLand .
+
+<http://dbpedia.org/property/areaTotalKm>
+    owl:sameAs cd:area .
+
+<http://dbpedia.org/property/areaTotalLandKm>
+    owl:sameAs cd:areaLand .
+
+<http://dbpedia.org/property/areaTotalWaterKm>
+    owl:sameAs cd:areaWater .
+
+<http://dbpedia.org/property/areaWaterKm>
+    owl:sameAs cd:areaWater .
+
+<http://dbpedia.org/property/augHighC>
+    owl:sameAs cd:temperature_high_aug .
+
+<http://dbpedia.org/property/augHumidity>
+    owl:sameAs cd:humidity_aug .
+
+<http://dbpedia.org/property/augLowC>
+    owl:sameAs cd:temperature_low_aug .
+
+<http://dbpedia.org/property/augMeanC>
+    owl:sameAs cd:temperature_mean_aug .
+
+<http://dbpedia.org/property/augPrecipitationDays>
+    owl:sameAs cd:precipitation_days_aug .
+
+<http://dbpedia.org/property/augPrecipitationMm>
+    owl:sameAs cd:precipitation_mm_aug .
+
+<http://dbpedia.org/property/augRainDays>
+    owl:sameAs cd:precipitation_days_aug .
+
+<http://dbpedia.org/property/augRainMm>
+    owl:sameAs cd:precipitation_mm_aug .
+
+<http://dbpedia.org/property/augRecordHighC>
+    owl:sameAs cd:temperature_record_high_aug .
+
+<http://dbpedia.org/property/augRecordLowC>
+    owl:sameAs cd:temperature_record_low_aug .
+
+<http://dbpedia.org/property/augSnowCm>
+    owl:sameAs cd:snow_cm_aug .
+
+<http://dbpedia.org/property/augSnowDays>
+    owl:sameAs cd:snow_days_aug .
+
+<http://dbpedia.org/property/augSun>
+    owl:sameAs cd:sun_aug .
+
+<http://dbpedia.org/property/augustHighC>
+    owl:sameAs cd:temperature_high_aug .
+
+<http://dbpedia.org/property/augustHumidity>
+    owl:sameAs cd:humidity_aug .
+
+<http://dbpedia.org/property/augustLowC>
+    owl:sameAs cd:temperature_low_aug .
+
+<http://dbpedia.org/property/augustMeanC>
+    owl:sameAs cd:temperature_mean_aug .
+
+<http://dbpedia.org/property/augustPrecipitationDays>
+    owl:sameAs cd:precipitation_days_aug .
+
+<http://dbpedia.org/property/augustPrecipitationMm>
+    owl:sameAs cd:precipitation_mm_aug .
+
+<http://dbpedia.org/property/augustRecordHighC>
+    owl:sameAs cd:temperature_record_high_aug .
+
+<http://dbpedia.org/property/augustRecordLowC>
+    owl:sameAs cd:temperature_record_low_aug .
+
+<http://dbpedia.org/property/decHighC>
+    owl:sameAs cd:temperature_high_dec .
+
+<http://dbpedia.org/property/decHumidity>
+    owl:sameAs cd:humidity_dec .
+
+<http://dbpedia.org/property/decLowC>
+    owl:sameAs cd:temperature_low_dec .
+
+<http://dbpedia.org/property/decMeanC>
+    owl:sameAs cd:temperature_mean_dec .
+
+<http://dbpedia.org/property/decPrecipitationDays>
+    owl:sameAs cd:precipitation_days_dec .
+
+<http://dbpedia.org/property/decPrecipitationMm>
+    owl:sameAs cd:precipitation_mm_dec .
+
+<http://dbpedia.org/property/decRainDays>
+    owl:sameAs cd:precipitation_days_dec .
+
+<http://dbpedia.org/property/decRainMm>
+    owl:sameAs cd:precipitation_mm_dec .
+
+<http://dbpedia.org/property/decRecordHighC>
+    owl:sameAs cd:temperature_record_high_dec .
+
+<http://dbpedia.org/property/decRecordLowC>
+    owl:sameAs cd:temperature_record_low_dec .
+
+<http://dbpedia.org/property/decSnowCm>
+    owl:sameAs cd:snow_cm_dec .
+
+<http://dbpedia.org/property/decSnowDays>
+    owl:sameAs cd:snow_days_dec .
+
+<http://dbpedia.org/property/decSun>
+    owl:sameAs cd:sun_dec .
+
+<http://dbpedia.org/property/decemberHighC>
+    owl:sameAs cd:temperature_high_dec .
+
+<http://dbpedia.org/property/decemberHumidity>
+    owl:sameAs cd:humidity_dec .
+
+<http://dbpedia.org/property/decemberLowC>
+    owl:sameAs cd:temperature_low_dec .
+
+<http://dbpedia.org/property/decemberMeanC>
+    owl:sameAs cd:temperature_mean_dec .
+
+<http://dbpedia.org/property/decemberPrecipitationDays>
+    owl:sameAs cd:precipitation_days_dec .
+
+<http://dbpedia.org/property/decemberPrecipitationMm>
+    owl:sameAs cd:precipitation_mm_dec .
+
+<http://dbpedia.org/property/decemberRecordHighC>
+    owl:sameAs cd:temperature_record_high_dec .
+
+<http://dbpedia.org/property/decemberRecordLowC>
+    owl:sameAs cd:temperature_record_low_dec .
+
+<http://dbpedia.org/property/einwohner>
+    owl:sameAs cd:population .
+
+<http://dbpedia.org/property/elevation>
+    owl:sameAs cd:elevation .
+
+<http://dbpedia.org/property/elevationMax>
+    owl:sameAs cd:elevationMax .
+
+<http://dbpedia.org/property/elevationMin>
+    owl:sameAs cd:elevationMin .
+
+<http://dbpedia.org/property/elevationmax>
+    owl:sameAs cd:elevationMax .
+
+<http://dbpedia.org/property/febHighC>
+    owl:sameAs cd:temperature_high_feb .
+
+<http://dbpedia.org/property/febHumidity>
+    owl:sameAs cd:humidity_feb .
+
+<http://dbpedia.org/property/febLowC>
+    owl:sameAs cd:temperature_low_feb .
+
+<http://dbpedia.org/property/febMeanC>
+    owl:sameAs cd:temperature_mean_feb .
+
+<http://dbpedia.org/property/febPrecipitationDays>
+    owl:sameAs cd:precipitation_days_feb .
+
+<http://dbpedia.org/property/febPrecipitationMm>
+    owl:sameAs cd:precipitation_mm_feb .
+
+<http://dbpedia.org/property/febRainDays>
+    owl:sameAs cd:precipitation_days_feb .
+
+<http://dbpedia.org/property/febRainMm>
+    owl:sameAs cd:precipitation_mm_feb .
+
+<http://dbpedia.org/property/febRecordHighC>
+    owl:sameAs cd:temperature_record_high_feb .
+
+<http://dbpedia.org/property/febRecordLowC>
+    owl:sameAs cd:temperature_record_low_feb .
+
+<http://dbpedia.org/property/febSnowCm>
+    owl:sameAs cd:snow_cm_feb .
+
+<http://dbpedia.org/property/febSnowDays>
+    owl:sameAs cd:snow_days_feb .
+
+<http://dbpedia.org/property/febSun>
+    owl:sameAs cd:sun_feb .
+
+<http://dbpedia.org/property/februaryHighC>
+    owl:sameAs cd:temperature_high_feb .
+
+<http://dbpedia.org/property/februaryHumidity>
+    owl:sameAs cd:humidity_feb .
+
+<http://dbpedia.org/property/februaryLowC>
+    owl:sameAs cd:temperature_low_feb .
+
+<http://dbpedia.org/property/februaryMeanC>
+    owl:sameAs cd:temperature_mean_feb .
+
+<http://dbpedia.org/property/februaryPrecipitationDays>
+    owl:sameAs cd:precipitation_days_feb .
+
+<http://dbpedia.org/property/februaryPrecipitationMm>
+    owl:sameAs cd:precipitation_mm_feb .
+
+<http://dbpedia.org/property/februaryRecordHighC>
+    owl:sameAs cd:temperature_record_high_feb .
+
+<http://dbpedia.org/property/februaryRecordLowC>
+    owl:sameAs cd:temperature_record_low_feb .
+
+<http://dbpedia.org/property/foreigners>
+    owl:sameAs cd:foreigners_as_a_proportion_of_population .
+
+<http://dbpedia.org/property/highestElevation>
+    owl:sameAs cd:elevationMax .
+
+<http://dbpedia.org/property/janHighC>
+    owl:sameAs cd:temperature_high_jan .
+
+<http://dbpedia.org/property/janHumidity>
+    owl:sameAs cd:humidity_jan .
+
+<http://dbpedia.org/property/janLowC>
+    owl:sameAs cd:temperature_low_jan .
+
+<http://dbpedia.org/property/janMeanC>
+    owl:sameAs cd:temperature_mean_jan .
+
+<http://dbpedia.org/property/janPrecipitationDays>
+    owl:sameAs cd:precipitation_days_jan .
+
+<http://dbpedia.org/property/janPrecipitationMm>
+    owl:sameAs cd:precipitation_mm_jan .
+
+<http://dbpedia.org/property/janRainDays>
+    owl:sameAs cd:precipitation_days_jan .
+
+<http://dbpedia.org/property/janRainMm>
+    owl:sameAs cd:precipitation_mm_jan .
+
+<http://dbpedia.org/property/janRecordHighC>
+    owl:sameAs cd:temperature_record_high_jan .
+
+<http://dbpedia.org/property/janRecordLowC>
+    owl:sameAs cd:temperature_record_low_jan .
+
+<http://dbpedia.org/property/janSnowCm>
+    owl:sameAs cd:snow_cm_jan .
+
+<http://dbpedia.org/property/janSnowDays>
+    owl:sameAs cd:snow_days_jan .
+
+<http://dbpedia.org/property/janSun>
+    owl:sameAs cd:sun_jan .
+
+<http://dbpedia.org/property/januaryHighC>
+    owl:sameAs cd:temperature_high_jan .
+
+<http://dbpedia.org/property/januaryHumidity>
+    owl:sameAs cd:humidity_jan .
+
+<http://dbpedia.org/property/januaryLowC>
+    owl:sameAs cd:temperature_low_jan .
+
+<http://dbpedia.org/property/januaryMeanC>
+    owl:sameAs cd:temperature_mean_jan .
+
+<http://dbpedia.org/property/januaryPrecipitationDays>
+    owl:sameAs cd:precipitation_days_jan .
+
+<http://dbpedia.org/property/januaryPrecipitationMm>
+    owl:sameAs cd:precipitation_mm_jan .
+
+<http://dbpedia.org/property/januaryRecordHighC>
+    owl:sameAs cd:temperature_record_high_jan .
+
+<http://dbpedia.org/property/januaryRecordLowC>
+    owl:sameAs cd:temperature_record_low_jan .
+
+<http://dbpedia.org/property/julHighC>
+    owl:sameAs cd:temperature_high_jul .
+
+<http://dbpedia.org/property/julHumidity>
+    owl:sameAs cd:humidity_jul .
+
+<http://dbpedia.org/property/julLowC>
+    owl:sameAs cd:temperature_low_jul .
+
+<http://dbpedia.org/property/julMeanC>
+    owl:sameAs cd:temperature_mean_jul .
+
+<http://dbpedia.org/property/julPrecipitationDays>
+    owl:sameAs cd:precipitation_days_jul .
+
+<http://dbpedia.org/property/julPrecipitationMm>
+    owl:sameAs cd:precipitation_mm_jul .
+
+<http://dbpedia.org/property/julRainDays>
+    owl:sameAs cd:precipitation_days_jul .
+
+<http://dbpedia.org/property/julRainMm>
+    owl:sameAs cd:precipitation_mm_jul .
+
+<http://dbpedia.org/property/julRecordHighC>
+    owl:sameAs cd:temperature_record_high_jul .
+
+<http://dbpedia.org/property/julRecordLowC>
+    owl:sameAs cd:temperature_record_low_jul .
+
+<http://dbpedia.org/property/julSnowCm>
+    owl:sameAs cd:snow_cm_jul .
+
+<http://dbpedia.org/property/julSnowDays>
+    owl:sameAs cd:snow_days_jul .
+
+<http://dbpedia.org/property/julSun>
+    owl:sameAs cd:sun_jul .
+
+<http://dbpedia.org/property/julyHighC>
+    owl:sameAs cd:temperature_high_jul .
+
+<http://dbpedia.org/property/julyHumidity>
+    owl:sameAs cd:humidity_jul .
+
+<http://dbpedia.org/property/julyLowC>
+    owl:sameAs cd:temperature_low_jul .
+
+<http://dbpedia.org/property/julyMeanC>
+    owl:sameAs cd:temperature_mean_jul .
+
+<http://dbpedia.org/property/julyPrecipitationDays>
+    owl:sameAs cd:precipitation_days_jul .
+
+<http://dbpedia.org/property/julyPrecipitationMm>
+    owl:sameAs cd:precipitation_mm_jul .
+
+<http://dbpedia.org/property/julyRecordHighC>
+    owl:sameAs cd:temperature_record_high_jul .
+
+<http://dbpedia.org/property/julyRecordLowC>
+    owl:sameAs cd:temperature_record_low_jul .
+
+<http://dbpedia.org/property/junHighC>
+    owl:sameAs cd:temperature_high_jun .
+
+<http://dbpedia.org/property/junHumidity>
+    owl:sameAs cd:humidity_jun .
+
+<http://dbpedia.org/property/junLowC>
+    owl:sameAs cd:temperature_low_jun .
+
+<http://dbpedia.org/property/junMeanC>
+    owl:sameAs cd:temperature_mean_jun .
+
+<http://dbpedia.org/property/junPrecipitationDays>
+    owl:sameAs cd:precipitation_days_jun .
+
+<http://dbpedia.org/property/junPrecipitationMm>
+    owl:sameAs cd:precipitation_mm_jun .
+
+<http://dbpedia.org/property/junRainDays>
+    owl:sameAs cd:precipitation_days_jun .
+
+<http://dbpedia.org/property/junRainMm>
+    owl:sameAs cd:precipitation_mm_jun .
+
+<http://dbpedia.org/property/junRecordHighC>
+    owl:sameAs cd:temperature_record_high_jun .
+
+<http://dbpedia.org/property/junRecordLowC>
+    owl:sameAs cd:temperature_record_low_jun .
+
+<http://dbpedia.org/property/junSnowCm>
+    owl:sameAs cd:snow_cm_jun .
+
+<http://dbpedia.org/property/junSnowDays>
+    owl:sameAs cd:snow_days_jun .
+
+<http://dbpedia.org/property/junSun>
+    owl:sameAs cd:sun_jun .
+
+<http://dbpedia.org/property/juneHighC>
+    owl:sameAs cd:temperature_high_jun .
+
+<http://dbpedia.org/property/juneHumidity>
+    owl:sameAs cd:humidity_jun .
+
+<http://dbpedia.org/property/juneLowC>
+    owl:sameAs cd:temperature_low_jun .
+
+<http://dbpedia.org/property/juneMeanC>
+    owl:sameAs cd:temperature_mean_jun .
+
+<http://dbpedia.org/property/junePrecipitationDays>
+    owl:sameAs cd:precipitation_days_jun .
+
+<http://dbpedia.org/property/junePrecipitationMm>
+    owl:sameAs cd:precipitation_mm_jun .
+
+<http://dbpedia.org/property/juneRecordHighC>
+    owl:sameAs cd:temperature_record_high_jun .
+
+<http://dbpedia.org/property/juneRecordLowC>
+    owl:sameAs cd:temperature_record_low_jun .
+
+<http://dbpedia.org/property/lowestElevation>
+    owl:sameAs cd:elevationMin .
+
+<http://dbpedia.org/property/marHighC>
+    owl:sameAs cd:temperature_high_mar .
+
+<http://dbpedia.org/property/marHumidity>
+    owl:sameAs cd:humidity_mar .
+
+<http://dbpedia.org/property/marLowC>
+    owl:sameAs cd:temperature_low_mar .
+
+<http://dbpedia.org/property/marMeanC>
+    owl:sameAs cd:temperature_mean_mar .
+
+<http://dbpedia.org/property/marPrecipitationDays>
+    owl:sameAs cd:precipitation_days_mar .
+
+<http://dbpedia.org/property/marPrecipitationMm>
+    owl:sameAs cd:precipitation_mm_mar .
+
+<http://dbpedia.org/property/marRainDays>
+    owl:sameAs cd:precipitation_days_mar .
+
+<http://dbpedia.org/property/marRainMm>
+    owl:sameAs cd:precipitation_mm_mar .
+
+<http://dbpedia.org/property/marRecordHighC>
+    owl:sameAs cd:temperature_record_high_mar .
+
+<http://dbpedia.org/property/marRecordLowC>
+    owl:sameAs cd:temperature_record_low_mar .
+
+<http://dbpedia.org/property/marSnowCm>
+    owl:sameAs cd:snow_cm_mar .
+
+<http://dbpedia.org/property/marSnowDays>
+    owl:sameAs cd:snow_days_mar .
+
+<http://dbpedia.org/property/marSun>
+    owl:sameAs cd:sun_mar .
+
+<http://dbpedia.org/property/marchHighC>
+    owl:sameAs cd:temperature_high_mar .
+
+<http://dbpedia.org/property/marchHumidity>
+    owl:sameAs cd:humidity_mar .
+
+<http://dbpedia.org/property/marchLowC>
+    owl:sameAs cd:temperature_low_mar .
+
+<http://dbpedia.org/property/marchMeanC>
+    owl:sameAs cd:temperature_mean_mar .
+
+<http://dbpedia.org/property/marchPrecipitationDays>
+    owl:sameAs cd:precipitation_days_mar .
+
+<http://dbpedia.org/property/marchPrecipitationMm>
+    owl:sameAs cd:precipitation_mm_mar .
+
+<http://dbpedia.org/property/marchRecordHighC>
+    owl:sameAs cd:temperature_record_high_mar .
+
+<http://dbpedia.org/property/marchRecordLowC>
+    owl:sameAs cd:temperature_record_low_mar .
+
+<http://dbpedia.org/property/mayHighC>
+    owl:sameAs cd:temperature_high_may .
+
+<http://dbpedia.org/property/mayHumidity>
+    owl:sameAs cd:humidity_may .
+
+<http://dbpedia.org/property/mayLowC>
+    owl:sameAs cd:temperature_low_may .
+
+<http://dbpedia.org/property/mayMeanC>
+    owl:sameAs cd:temperature_mean_may .
+
+<http://dbpedia.org/property/mayPrecipitationDays>
+    owl:sameAs cd:precipitation_days_may .
+
+<http://dbpedia.org/property/mayPrecipitationMm>
+    owl:sameAs cd:precipitation_mm_may .
+
+<http://dbpedia.org/property/mayRainDays>
+    owl:sameAs cd:precipitation_days_may .
+
+<http://dbpedia.org/property/mayRainMm>
+    owl:sameAs cd:precipitation_mm_may .
+
+<http://dbpedia.org/property/mayRecordHighC>
+    owl:sameAs cd:temperature_record_high_may .
+
+<http://dbpedia.org/property/mayRecordLowC>
+    owl:sameAs cd:temperature_record_low_may .
+
+<http://dbpedia.org/property/maySnowCm>
+    owl:sameAs cd:snow_cm_may .
+
+<http://dbpedia.org/property/maySnowDays>
+    owl:sameAs cd:snow_days_may .
+
+<http://dbpedia.org/property/maySun>
+    owl:sameAs cd:sun_may .
+
+<http://dbpedia.org/property/novHighC>
+    owl:sameAs cd:temperature_high_nov .
+
+<http://dbpedia.org/property/novHumidity>
+    owl:sameAs cd:humidity_nov .
+
+<http://dbpedia.org/property/novLowC>
+    owl:sameAs cd:temperature_low_nov .
+
+<http://dbpedia.org/property/novMeanC>
+    owl:sameAs cd:temperature_mean_nov .
+
+<http://dbpedia.org/property/novPrecipitationDays>
+    owl:sameAs cd:precipitation_days_nov .
+
+<http://dbpedia.org/property/novPrecipitationMm>
+    owl:sameAs cd:precipitation_mm_nov .
+
+<http://dbpedia.org/property/novRainDays>
+    owl:sameAs cd:precipitation_days_nov .
+
+<http://dbpedia.org/property/novRainMm>
+    owl:sameAs cd:precipitation_mm_nov .
+
+<http://dbpedia.org/property/novRecordHighC>
+    owl:sameAs cd:temperature_record_high_nov .
+
+<http://dbpedia.org/property/novRecordLowC>
+    owl:sameAs cd:temperature_record_low_nov .
+
+<http://dbpedia.org/property/novSnowCm>
+    owl:sameAs cd:snow_cm_nov .
+
+<http://dbpedia.org/property/novSnowDays>
+    owl:sameAs cd:snow_days_nov .
+
+<http://dbpedia.org/property/novSun>
+    owl:sameAs cd:sun_nov .
+
+<http://dbpedia.org/property/novemberHighC>
+    owl:sameAs cd:temperature_high_nov .
+
+<http://dbpedia.org/property/novemberHumidity>
+    owl:sameAs cd:humidity_nov .
+
+<http://dbpedia.org/property/novemberLowC>
+    owl:sameAs cd:temperature_low_nov .
+
+<http://dbpedia.org/property/novemberMeanC>
+    owl:sameAs cd:temperature_mean_nov .
+
+<http://dbpedia.org/property/novemberPrecipitationDays>
+    owl:sameAs cd:precipitation_days_nov .
+
+<http://dbpedia.org/property/novemberPrecipitationMm>
+    owl:sameAs cd:precipitation_mm_nov .
+
+<http://dbpedia.org/property/novemberRecordHighC>
+    owl:sameAs cd:temperature_record_high_nov .
+
+<http://dbpedia.org/property/novemberRecordLowC>
+    owl:sameAs cd:temperature_record_low_nov .
+
+<http://dbpedia.org/property/octHighC>
+    owl:sameAs cd:temperature_high_oct .
+
+<http://dbpedia.org/property/octHumidity>
+    owl:sameAs cd:humidity_oct .
+
+<http://dbpedia.org/property/octLowC>
+    owl:sameAs cd:temperature_low_oct .
+
+<http://dbpedia.org/property/octMeanC>
+    owl:sameAs cd:temperature_mean_oct .
+
+<http://dbpedia.org/property/octPrecipitationDays>
+    owl:sameAs cd:precipitation_days_oct .
+
+<http://dbpedia.org/property/octPrecipitationMm>
+    owl:sameAs cd:precipitation_mm_oct .
+
+<http://dbpedia.org/property/octRainDays>
+    owl:sameAs cd:precipitation_days_oct .
+
+<http://dbpedia.org/property/octRainMm>
+    owl:sameAs cd:precipitation_mm_oct .
+
+<http://dbpedia.org/property/octRecordHighC>
+    owl:sameAs cd:temperature_record_high_oct .
+
+<http://dbpedia.org/property/octRecordLowC>
+    owl:sameAs cd:temperature_record_low_oct .
+
+<http://dbpedia.org/property/octSnowCm>
+    owl:sameAs cd:snow_cm_oct .
+
+<http://dbpedia.org/property/octSnowDays>
+    owl:sameAs cd:snow_days_oct .
+
+<http://dbpedia.org/property/octSun>
+    owl:sameAs cd:sun_oct .
+
+<http://dbpedia.org/property/octoberHighC>
+    owl:sameAs cd:temperature_high_oct .
+
+<http://dbpedia.org/property/octoberHumidity>
+    owl:sameAs cd:humidity_oct .
+
+<http://dbpedia.org/property/octoberLowC>
+    owl:sameAs cd:temperature_low_oct .
+
+<http://dbpedia.org/property/octoberMeanC>
+    owl:sameAs cd:temperature_mean_oct .
+
+<http://dbpedia.org/property/octoberPrecipitationDays>
+    owl:sameAs cd:precipitation_days_oct .
+
+<http://dbpedia.org/property/octoberPrecipitationMm>
+    owl:sameAs cd:precipitation_mm_oct .
+
+<http://dbpedia.org/property/octoberRecordHighC>
+    owl:sameAs cd:temperature_record_high_oct .
+
+<http://dbpedia.org/property/octoberRecordLowC>
+    owl:sameAs cd:temperature_record_low_oct .
+
+<http://dbpedia.org/property/populationCensus>
+    owl:sameAs cd:population .
+
+<http://dbpedia.org/property/populationDensity>
+    owl:sameAs cd:populationDensity .
+
+<http://dbpedia.org/property/populationDensityKm>
+    owl:sameAs cd:populationDensity .
+
+<http://dbpedia.org/property/populationTotal>
+    owl:sameAs cd:population .
+
+<http://dbpedia.org/property/rainfall>
+    owl:sameAs cd:rainfall .
+
+<http://dbpedia.org/property/sepHighC>
+    owl:sameAs cd:temperature_high_sep .
+
+<http://dbpedia.org/property/sepHumidity>
+    owl:sameAs cd:humidity_sep .
+
+<http://dbpedia.org/property/sepLowC>
+    owl:sameAs cd:temperature_low_sep .
+
+<http://dbpedia.org/property/sepMeanC>
+    owl:sameAs cd:temperature_mean_sep .
+
+<http://dbpedia.org/property/sepPrecipitationDays>
+    owl:sameAs cd:precipitation_days_sep .
+
+<http://dbpedia.org/property/sepPrecipitationMm>
+    owl:sameAs cd:precipitation_mm_sep .
+
+<http://dbpedia.org/property/sepRainDays>
+    owl:sameAs cd:precipitation_days_sep .
+
+<http://dbpedia.org/property/sepRainMm>
+    owl:sameAs cd:precipitation_mm_sep .
+
+<http://dbpedia.org/property/sepRecordHighC>
+    owl:sameAs cd:temperature_record_high_sep .
+
+<http://dbpedia.org/property/sepRecordLowC>
+    owl:sameAs cd:temperature_record_low_sep .
+
+<http://dbpedia.org/property/sepSnowCm>
+    owl:sameAs cd:snow_cm_sep .
+
+<http://dbpedia.org/property/sepSnowDays>
+    owl:sameAs cd:snow_days_sep .
+
+<http://dbpedia.org/property/sepSun>
+    owl:sameAs cd:sun_sep .
+
+<http://dbpedia.org/property/septemberHighC>
+    owl:sameAs cd:temperature_high_sep .
+
+<http://dbpedia.org/property/septemberHumidity>
+    owl:sameAs cd:humidity_sep .
+
+<http://dbpedia.org/property/septemberLowC>
+    owl:sameAs cd:temperature_low_sep .
+
+<http://dbpedia.org/property/septemberMeanC>
+    owl:sameAs cd:temperature_mean_sep .
+
+<http://dbpedia.org/property/septemberPrecipitationDays>
+    owl:sameAs cd:precipitation_days_sep .
+
+<http://dbpedia.org/property/septemberPrecipitationMm>
+    owl:sameAs cd:precipitation_mm_sep .
+
+<http://dbpedia.org/property/septemberRecordHighC>
+    owl:sameAs cd:temperature_record_high_sep .
+
+<http://dbpedia.org/property/septemberRecordLowC>
+    owl:sameAs cd:temperature_record_low_sep .
+
+<http://dbpedia.org/property/unemployment>
+    owl:sameAs cd:unemployment_rate .
+
+<http://dbpedia.org/property/yearHighC>
+    owl:sameAs cd:temperature_high_year .
+
+<http://dbpedia.org/property/yearHumidity>
+    owl:sameAs cd:humidity_year .
+
+<http://dbpedia.org/property/yearLowC>
+    owl:sameAs cd:temperature_low_year .
+
+<http://dbpedia.org/property/yearMeanC>
+    owl:sameAs cd:temperature_mean_year .
+
+<http://dbpedia.org/property/yearPrecipitationDays>
+    owl:sameAs cd:precipitation_days_year .
+
+<http://dbpedia.org/property/yearPrecipitationMm>
+    owl:sameAs cd:precipitation_mm_year .
+
+<http://dbpedia.org/property/yearRainDays>
+    owl:sameAs cd:precipitation_days_year .
+
+<http://dbpedia.org/property/yearRainMm>
+    owl:sameAs cd:precipitation_mm_year .
+
+<http://dbpedia.org/property/yearSnowCm>
+    owl:sameAs cd:snow_cm_year .
+
+<http://dbpedia.org/property/yearSnowDays>
+    owl:sameAs cd:snow_days_year .
+
+<http://dbpedia.org/property/yearSun>
+    owl:sameAs cd:sun_year .

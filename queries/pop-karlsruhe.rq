@@ -1,0 +1,18 @@
+PREFIX : <http://ontologycentral.com/2009/01/eurostat/ns#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX qb: <http://purl.org/linked-data/cube#>
+PREFIX sdmx-measure: <http://purl.org/linked-data/sdmx/2009/measure#>
+PREFIX dcterms: <http://purl.org/dc/terms/> 
+
+SELECT ?city ?clabel ?pop
+FROM <http://estatwrap.ontologycentral.com/id/urb_cpop1>
+FROM <http://estatwrap.ontologycentral.com/dic/cities>
+WHERE {
+?x :cities ?city ;
+   :indic_ur <http://estatwrap.ontologycentral.com/dic/indic_ur#DE1001V> ;
+   dcterms:date "2015" ;
+   qb:dataSet <http://estatwrap.ontologycentral.com/id/urb_cpop1#ds> ;
+   sdmx-measure:obsValue ?pop .
+
+?city rdfs:label ?clabel .
+}

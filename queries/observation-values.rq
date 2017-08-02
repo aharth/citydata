@@ -1,0 +1,6 @@
+PREFIX sdmxm: <http://purl.org/linked-data/sdmx/2009/measure#>
+
+SELECT DISTINCT ?obs ?value
+WHERE {
+  ?obs sdmxm:obsValue ?value .
+}

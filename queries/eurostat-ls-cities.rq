@@ -1,0 +1,15 @@
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
+PREFIX ocdp: <http://harth.org/andreas/2017/ocdp/vocabs/ocdp#>
+
+CONSTRUCT {
+ ?x ocdp:country ?nuts .
+}
+FROM <http://eurostat.linked-statistics.org/dic/cities>
+WHERE {
+  ?x a skos:Concept ; skos:notation ?id .
+  BIND( substr(?id, 0, 2) AS ?country)
+  BIND( substr(?id, 2) AS ?code)
+  BIND( iri(concat("http://eurostat.linked-statistics.org/dic/geo#", ?country)) AS ?nuts)
+  FILTER (contains(?code, "C"))
+}

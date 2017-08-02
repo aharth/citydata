@@ -1,0 +1,10 @@
+PREFIX ocdp: <http://harth.org/andreas/2017/ocdp/vocabs/ocdp#>
+PREFIX owl: <http://www.w3.org/2002/07/owl#>
+
+CONSTRUCT {
+ ?y a ocdp:City .
+}
+FROM <eurostat-cities-dbpedia-links.ttl>
+WHERE {
+  ?x owl:sameAs ?y .
+}
