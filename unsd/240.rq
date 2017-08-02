@@ -1,0 +1,20 @@
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#> 
+PREFIX : <http://harth.org/andreas/2017/citydata/cities#>
+PREFIX unsdmethod: <http://harth.org/andreas/2017/citydata/unsd-methodology#>
+
+CONSTRUCT {
+  ?CityURI rdfs:label ?City ;
+  	   :codeOfCity ?Code_of_City ;
+	   :cityType ?City_type ;
+  	   unsdmethod:countryOrAreaOf ?AreaURI .
+
+  ?CityURINoCode rdfs:label ?City ;
+  	   :codeOfCity ?Code_of_City ;
+  	   unsdmethod:countryOrAreaOf ?AreaURI .
+}
+FROM <240.csv>
+WHERE {
+  BIND (URI(CONCAT("http://harth.org/andreas/2017/citydata/cities#", ?Code_of_City, substr(?City_type, 0, 2))) AS ?CityURI)
+  BIND (URI(CONCAT("http://harth.org/andreas/2017/citydata/cities#", ?Code_of_City)) AS ?CityURINoCode)
+  BIND (URI(CONCAT("http://harth.org/andreas/2017/citydata/unsd-methodology#", ?Country_or_Area_Code)) AS ?AreaURI)
+}
