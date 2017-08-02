@@ -1,0 +1,25 @@
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#> 
+PREFIX : <#>
+
+CONSTRUCT {
+  ?Region :regionCode ?Region_Code ;
+          rdfs:label ?Region_Name ;
+	  a :Region .
+
+  ?SubRegion :subRegionCode ?Sub_region_Code ;
+  	     rdfs:label ?Sub_region_Name ;
+	     :subRegionOf ?Region ;
+	     a :SubRegion .
+
+  ?Area :m49 ?M49_Code ;
+  	:countryOrAreaOf ?SubRegion ;
+  	rdfs:label ?Country_or_Area ;
+	:isoAlpha3 ?ISO_alpha3_Code ;
+	a :CountryOrArea .
+}
+FROM <unsd-methodology.csv>
+WHERE {
+  BIND (URI(CONCAT("#region", ?Region_Code)) AS ?Region)
+  BIND (URI(CONCAT("#subregion", ?Sub_region_Code)) AS ?SubRegion)
+  BIND (URI(CONCAT("#area", ?M49_Code)) AS ?Area)
+}
