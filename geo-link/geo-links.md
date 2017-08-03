@@ -21,7 +21,9 @@ UNData defines three levels for statistical city data (https://www.un.org/en/dev
 * Urban agglomeration (ca. 2000)
 * Metropolitan area
 
-However, UNData 240 only has data about City proper and Urban agglomeration.
+Also: https://esa.un.org/unpd/wup/General/DefinitionIssues.aspx
+
+However, UNData 240 (http://data.un.org/Data.aspx?q=city+datamart%5bPOP%5d&d=POP&f=tableCode%3a240) only has data about City proper and Urban agglomeration.
 
 ## Data about Cities
 
