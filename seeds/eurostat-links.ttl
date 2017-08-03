@@ -1,0 +1,29 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix owl: <http://www.w3.org/2002/07/owl#>.
+@prefix dcterms: <http://purl.org/dc/terms/>.
+@prefix qb: <http://purl.org/linked-data/cube#> .
+
+# Links
+
+<> rdfs:seeAlso
+# links from cities to geo
+<../links/eurostat-cities-geo-links.ttl>,
+
+# links from cities to Wikidata
+<../links/eurostat-cities-wikidata-links.ttl> ,
+
+# links of dimension properties (owl:equivalentProperty) to CDP ontology
+<../links/eurostat-dimension-links.ttl> ,
+
+# links from cities to metroreg,
+<../links/eurostat-geo-metroreg-links.ttl> ,
+
+# links from geo to Wikidata
+<../links/eurostat-geo-wikidata-links.ttl> ,
+
+# links from indicators to CDP ontology
+<../links/eurostat-indicator-cd-links.ttl> .
+
+
+

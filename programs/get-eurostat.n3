@@ -1,49 +1,91 @@
 # Linked Data-Fu Program for crawling RDF data cubes from Eurostat (including Urban Audit)
 # Benedikt Kaempgen, Andreas Harth
 
+# prefix declarations
 @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
-
 @prefix http: <http://www.w3.org/2011/http#> .
 @prefix httpm: <http://www.w3.org/2011/http-methods#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
 
-@prefix log: <http://www.w3.org/2000/10/swap/log#> .
+# QB and related
+@prefix qb: <http://purl.org/linked-data/cube#> .
+@prefix sdmx-measure: <http://purl.org/linked-data/sdmx/2009/measure#> .
+@prefix skosclass: <http://ddialliance.org/ontologies/skosclass#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
-# Seed lists
+# datasets in seed list 
 {
   [] http:mthd httpm:GET ;
-     http:requestURI <http://harth.org/andreas/2017/ocdp/seeds/eurostat.ttl> .
+     http:requestURI <http://harth.org/andreas/2017/citydata/seeds/eurostat.ttl> .
 }
 
-# follow rdfs:seeAlso in <http://harth.org/andreas/2017/ocdp/seeds/eurostat.ttl> .
+# additional triples
 {
-  <http://harth.org/andreas/2017/ocdp/seeds/eurostat.ttl> rdfs:seeAlso ?x .
+  [] http:mthd httpm:GET ;
+     http:requestURI <http://harth.org/andreas/2017/citydata/seeds/eurostat-misc.ttl> .
+}
+
+# file with links
+{
+  [] http:mthd http_m:GET ;
+     http:requestURI <http://harth.org/andreas/2017/citydata/seeds/eurostat-links.ttl> .
+}
+
+# follow rdfs:seeAlso from eurostat-links.ttl
+{
+  <http://harth.org/andreas/2017/citydata/seeds/eurostat.ttl> rdfs:seeAlso ?x .
 } => {
   [] http:mthd httpm:GET ;
      http:requestURI ?x .
 } .
 
-# City Data ontology - manually added, does not support Content Negotiation
+# City Data ontology
 {
   [] http:mthd httpm:GET ;
      http:requestURI <http://citydata.wu.ac.at/ontology.ttl> .
 }
 
-# QB-Equations Ontology
+# QB equations ontology
 {
   [] http:mthd httpm:GET ;
      http:requestURI <http://citydata.wu.ac.at/ocdp/qb-equations> .
 }
 
-# Estatwrap QB-Equations
+# Eurostat QB equations
 {
   [] http:mthd httpm:GET ;
      http:requestURI <http://citydata.wu.ac.at/ocdp/eurostat-equations> .
 }
 
-# Global Cube Dataset 
+######### 
+
+# reflexivity of indicators
 {
- [] http:mthd httpm:GET ;
-    http:requestURI <http://harth.org/andreas/2017/ocdp/vocabs/global-cube.ttl> .
-}
+  ?indicator rdf:type <http://citydata.wu.ac.at/ns#Indicator>.
+} => {
+  ?indicator owl:sameAs ?indicator.
+} .
+
+# eq-sym 
+{ ?x owl:sameAs ?y . } => { ?y owl:sameAs ?x . }.
+
+# eq-trans 
+{ ?x owl:sameAs ?y . ?y owl:sameAs ?z . } => { ?x owl:sameAs ?z . }.
+
+#eq-rep-s 
+#{ ?s owl:sameAs ?s0 . ?s ?p ?o . } => { ?s0 ?p ?o . }
+#eq-rep-p 
+#{ ?p owl:sameAs ?p0 . ?s ?p ?o . } => { ?s ?p0 ?o . }
+#eq-rep-o 
+#{ ?o owl:sameAs ?o0 . ?s ?p ?o . } => { ?s ?p ?o0 . }
+#eq-diff1 
+#{ ?x owl:sameAs ?y ; owl:differentFrom ?y . } => { ?x a owl:Nothing . ?y a owl:Nothing . }
+
+# prp-eqp1 
+{ ?p1 owl:equivalentProperty ?p2 . ?x ?p1 ?y . } => { ?x ?p2 ?y . } .
+# prp-eqp2 
+{ ?p1 owl:equivalentProperty ?p2 . ?x ?p2 ?y . } => { ?x ?p1 ?y . } .
+# scm-eqp1 
+{ ?p1 owl:equivalentProperty ?p2 . } => { ?p1 rdfs:subPropertyOf ?p2 . ?p2 rdfs:subPropertyOf ?p1 . } .

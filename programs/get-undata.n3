@@ -1,199 +1,65 @@
-######
-#Linked Data-Fu Program for crawling RDF data cubes from UN-Data
-#Author: Benedikt Kaempgen (kaempgen@fzi.de)
-#Version: 2017-01-15
-######
+# Linked Data-Fu Program for crawling RDF data cubes from UNData
+# Benedikt Kaempgen, Andreas Harth
 
-#Comments are marked with a leading #
-#The whole document has to be valid N3
-
-#Prefix declaration:
-@prefix http: <http://www.w3.org/2011/http#>.
-@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
-@prefix owl: <http://www.w3.org/2002/07/owl#>.
-@prefix log: <http://www.w3.org/2000/10/swap/log#>.
-@prefix http_m: <http://www.w3.org/2011/http-methods#>.
-@prefix ex: <http://example.org/>.
-@prefix geo: <http://www.w3.org/2003/01/geo/wgs84_pos#>.
-@prefix qrl: <http://www.aifb.kit.edu/project/ld-retriever/qrl#>.
-@prefix foaf: <http://xmlns.com/foaf/0.1/>.
-@prefix db: <http://dbpedia.org/resource/>.
-@prefix db-owl: <http://dbpedia.org/ontology/>.
-@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
-@prefix dcterms: <http://purl.org/dc/terms/>.
+# prefix declarations
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix http: <http://www.w3.org/2011/http#> .
+@prefix httpm: <http://www.w3.org/2011/http-methods#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
 
 # QB and related
-@prefix sdmx-measure: <http://purl.org/linked-data/sdmx/2009/measure#> .
 @prefix qb: <http://purl.org/linked-data/cube#> .
+@prefix sdmx-measure: <http://purl.org/linked-data/sdmx/2009/measure#> .
 @prefix skosclass: <http://ddialliance.org/ontologies/skosclass#> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
-@prefix olap4ld: <http://example.org/olap4ld#> .
-@prefix cogs: <http://vocab.deri.ie/cogs#> .
 
-# Domain-specific levels
-@prefix eurostat: <http://ontologycentral.com/2009/01/eurostat/ns#> . 
-@prefix dic-geo: <http://estatwrap.ontologycentral.com/dic/geo#> . 
-@prefix geo-vocab: <http://geovocab.org/spatial#> .
-@prefix ramon: <http://rdfdata.eionet.europa.eu/ramon/ontology/> . 
-
-#######
-#Rules for interaction with APIs
-#######
-
-# First, we add possible datasets
-
-# Seed List 
-
+# datasets in seed list 
 {
-        _:head http:mthd http_m:GET ;
-        http:requestURI <http://harth.org/andreas/2017/ocdp/seeds/undata.ttl> .
+  [] http:mthd httpm:GET ;
+     http:requestURI <http://harth.org/andreas/2017/citydata/seeds/undata.ttl> .
 }
+
+# file with links
+{
+  [] http:mthd httpm:GET ;
+     http:requestURI <http://harth.org/andreas/2017/citydata/seeds/undata-links.ttl> .
+}
+
+# follow rdfs:seeAlso from undata-links.ttl
+{
+  <http://harth.org/andreas/2017/citydata/seeds/undata-links.ttl> rdfs:seeAlso ?link .
+} => {
+  [] http:mthd httpm:GET ;
+     http:requestURI ?link .
+} .
 
 # City Data ontology
-# Manuell hinzugefügt, da kein Content Negotiation
-
 {
-        _:head http:mthd http_m:GET ;
-        http:requestURI <http://citydata.wu.ac.at/ontology.ttl>.
+  [] http:mthd httpm:GET ;
+     http:requestURI <http://citydata.wu.ac.at/ontology.ttl>.
 }
 
-# QB-Equations Ontology
+# QB equations ontology
 {
-        _:head http:mthd http_m:GET ;
-        http:requestURI <http://citydata.wu.ac.at/ocdp/qb-equations>.
+  [] http:mthd httpm:GET ;
+     http:requestURI <http://citydata.wu.ac.at/ocdp/qb-equations>.
 }
 
-# Estatwrap QB-Equations
-{
-        _:head http:mthd http_m:GET ;
-        http:requestURI <http://citydata.wu.ac.at/ocdp/eurostat-equations>.
-}
+######### 
 
-# Links of dimension properties 
+# reflexivity of indicators
 {
-        _:head http:mthd http_m:GET ;
-        http:requestURI <http://kalmar32.fzi.de/triples/dimension-property-links.nt>.
-}
-
-# Links of city estatwrap dbpedia
-{
-        _:head http:mthd http_m:GET ;
-	        http:requestURI <http://harth.org/andreas/2017/ocdp/links-city-estatwrap-dbpedia.nt>.
-}
-
-# Reflexive links of cd indicators and dbpedia cities 
-
-{
-	?dbpediaCity rdf:type <http://dbpedia.org/ontology/City>.
+  ?indicator rdf:type <http://citydata.wu.ac.at/ns#Indicator>.
 } => {
-	?dbpediaCity owl:sameAs ?dbpediaCity.
-}.
+  ?indicator owl:sameAs ?indicator.
+} .
 
-{
-	?indicator rdf:type <http://citydata.wu.ac.at/ns#Indicator>.
-} => {
-	?indicator owl:sameAs ?indicator.
-}.
-
-# Global Cube Dataset 
-{
-        _:head http:mthd http_m:GET ;
-        http:requestURI <http://kalmar32.fzi.de/triples/global-cube.ttl>.
-}
-
-#--
-# Since some Eurostat datasets do not provide indicator dimensions but only titles
-#--
-
-# Economically active population by sex, age and NUTS 2 regions (1 000)
-<http://estatwrap.ontologycentral.com/dsd/lfst_r_lfp2act#dsd> qb:component <http://estatwrap.ontologycentral.com/dic/indic_ur#EC1001VComponent>. 
-
-<http://estatwrap.ontologycentral.com/dic/indic_ur#EC1001VComponent> qb:dimension <http://ontologycentral.com/2009/01/eurostat/ns#indic_ur>.
-<http://estatwrap.ontologycentral.com/dic/indic_ur#EC1001VComponent> qb:componentProperty <http://ontologycentral.com/2009/01/eurostat/ns#indic_ur>.
-
-<http://estatwrap.ontologycentral.com/dic/indic_ur#EC1001VComponent> qb:componentAttachment qb:DataSet.
-
-<http://estatwrap.ontologycentral.com/id/lfst_r_lfp2act#ds> <http://ontologycentral.com/2009/01/eurostat/ns#indic_ur> <http://estatwrap.ontologycentral.com/dic/indic_ur#EC1001V>.
-
-# Eurostat - Unemployment rates by sex, age and NUTS 2 regions (%)
-<http://estatwrap.ontologycentral.com/dsd/lfst_r_lfu3rt#dsd> qb:component <http://estatwrap.ontologycentral.com/dic/indic_ur#EC1020IComponent>.
-
-<http://estatwrap.ontologycentral.com/dic/indic_ur#EC1020IComponent> qb:dimension <http://ontologycentral.com/2009/01/eurostat/ns#indic_ur>.
-<http://estatwrap.ontologycentral.com/dic/indic_ur#EC1020IComponent> qb:componentProperty <http://ontologycentral.com/2009/01/eurostat/ns#indic_ur>.
-
-<http://estatwrap.ontologycentral.com/dic/indic_ur#EC1020IComponent> qb:componentAttachment qb:DataSet.
-
-<http://estatwrap.ontologycentral.com/id/lfst_r_lfu3rt#ds> <http://ontologycentral.com/2009/01/eurostat/ns#indic_ur> <http://estatwrap.ontologycentral.com/dic/indic_ur#EC1020I>.
-
-# Eurostat - Average annual population to calculate regional GDP data (thousand persons) by NUTS 3 regions
-
-<http://estatwrap.ontologycentral.com/dsd/nama_10r_3popgdp#dsd> qb:component <http://estatwrap.ontologycentral.com/dic/indic_ur#PopulationComponent>.
-
-<http://estatwrap.ontologycentral.com/dic/indic_ur#PopulationComponent> qb:dimension <http://ontologycentral.com/2009/01/eurostat/ns#indic_ur>.
-<http://estatwrap.ontologycentral.com/dic/indic_ur#PopulationComponent> qb:componentProperty <http://ontologycentral.com/2009/01/eurostat/ns#indic_ur>.
-
-<http://estatwrap.ontologycentral.com/dic/indic_ur#PopulationComponent> qb:componentAttachment qb:DataSet. 
-
-<http://estatwrap.ontologycentral.com/id/nama_10r_3popgdp#ds> <http://ontologycentral.com/2009/01/eurostat/ns#indic_ur> <http://citydata.wu.ac.at/ns#population>.
-
-# maybe we could do this automatically ...
-
-# Retrieve all same as links
-# Problem: Retrieving all sameAs links results in endless retrieval, probably because of recursive crawling. Instead, we should crawl for specific sameAs links only and also consider other equivalent representations such as skos:exactMatch and owl:equivalentProperty.
-
-#{
-#	?x owl:sameAs ?y. 
-#} => 
-#{	
-#        _:head http:mthd http_m:GET.
-#        _:head http:requestURI ?y.
-#}.
-
-# XXX Push down attachement levels
-
-# Rules for OWL/RDF reasoning? From http://semanticweb.org/OWLLD/
-
-# We only enable those that we expect to be evaluated quickly.
-
-# prp-dom 
-#{ 
-#	?p rdfs:domain ?c . ?x ?p ?y . 
-#} => { 
-#	?x rdf:type ?c . 
-#}.
- 
-# prp-rng 
-# Needs to be formulated this way, since otherwise does not work for literal values
-#{ 
-#	?p rdfs:range ?c . ?x ?p ?y. ?y ?a ?b.
-#} => { 
-#	?y rdf:type ?c. 
-#}. 
-
-#eq-ref
-#{ ?s ?p ?o . } => { ?s owl:sameAs ?s . ?p owl:sameAs ?p . ?o owl:sameAs ?o .}
-
-# dbpedia cities reflexive links
-
-{
-        ?dbpediaCity a <http://dbpedia.org/ontology/City>.
-} => {
-        ?dbpediaCity owl:sameAs ?dbpediaCity.
-}.
-
-# cd indicator reflexive links
-
-{
-        ?indicator a <http://citydata.wu.ac.at/ns#Indicator>.
-} => {
-        ?indicator owl:sameAs ?indicator.
-}.
-
-
-#eq-sym 
+# eq-sym 
 { ?x owl:sameAs ?y . } => { ?y owl:sameAs ?x . }.
 
-#eq-trans 
+# eq-trans 
 { ?x owl:sameAs ?y . ?y owl:sameAs ?z . } => { ?x owl:sameAs ?z . }.
 
 #eq-rep-s 
@@ -205,3 +71,9 @@
 #eq-diff1 
 #{ ?x owl:sameAs ?y ; owl:differentFrom ?y . } => { ?x a owl:Nothing . ?y a owl:Nothing . }
 
+# prp-eqp1 
+{ ?p1 owl:equivalentProperty ?p2 . ?x ?p1 ?y . } => { ?x ?p2 ?y . } .
+# prp-eqp2 
+{ ?p1 owl:equivalentProperty ?p2 . ?x ?p2 ?y . } => { ?x ?p1 ?y . } .
+# scm-eqp1 
+{ ?p1 owl:equivalentProperty ?p2 . } => { ?p1 rdfs:subPropertyOf ?p2 . ?p2 rdfs:subPropertyOf ?p1 . } .

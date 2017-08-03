@@ -1,7 +1,5 @@
-######
 # Linked Data-Fu Program for normalising RDF data cubes
 # Author: Benedikt Kaempgen (kaempgen@fzi.de)
-######
 
 # Prefix declarations
 @prefix http: <http://www.w3.org/2011/http#> .
@@ -46,7 +44,6 @@
 } .
 
 # XXX Slice norm
-
 {
 	?cs qb:dimension ?p .
 } => {	

@@ -1,4 +1,4 @@
-# Linked Data-Fu Program for mapping Eurostat city URIs to DBpedia city URIs
+# Linked Data-Fu Program for mapping UNData city URIs
 # Andreas Harth
 
 @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
