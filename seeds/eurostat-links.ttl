@@ -8,22 +8,22 @@
 
 <> rdfs:seeAlso
 # links from cities to geo
-<../links/eurostat-cities-geo-links.ttl>,
+<../eurostat/cities-geo-hierarchy.ttl>,
 
-# links from cities to Wikidata
-<../links/eurostat-cities-wikidata-links.ttl> ,
+# links from geo to metroreg
+<../eurostat/geo-metroreg-hierarchy.ttl> ,
 
 # links of dimension properties (owl:equivalentProperty) to CDP ontology
-<../links/eurostat-dimension-links.ttl> ,
-
-# links from cities to metroreg,
-<../links/eurostat-geo-metroreg-links.ttl> ,
-
-# links from geo to Wikidata
-<../links/eurostat-geo-wikidata-links.ttl> ,
+<../eurostat/dimension-links.ttl> ,
 
 # links from indicators to CDP ontology
-<../links/eurostat-indicator-cd-links.ttl> .
+<../eurostat/indicator-cd-links.ttl> ,
+
+# links from cities to Wikidata
+<../wikidata/eurostat-cities-links.ttl> ,
+
+# links from geo to Wikidata
+<../wikidata/eurostat-geo-links.rdf> .
 
 
 

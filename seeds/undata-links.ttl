@@ -12,4 +12,4 @@
 # geospatial UNSD data (cities)
 <../unsd/cities.ttl> ,
 # links from wrapper city URIs to UNSD URIs
-<../unsd/undata-cities-proper-links.ttl> .
+<../unsd/cities-proper-links.ttl> .
