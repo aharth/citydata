@@ -7,7 +7,9 @@
 # Links
 
 <> rdfs:seeAlso
-# geospatial data UNSD wrapper
+# geospatial UNSD data (regions)
 <../unsd/unsd-methodology.ttl> ,
+# geospatial UNSD data (cities)
+<../unsd/cities.ttl> ,
 # links from wrapper city URIs to UNSD URIs
-<../unsd/cities.ttl> .
+<../unsd/undata-cities-proper-links.ttl> .
