@@ -60,14 +60,14 @@
 #{ ?x owl:sameAs ?y . } => { ?y owl:sameAs ?x . }.
 
 # eq-trans 
-{ ?x owl:sameAs ?y . ?y owl:sameAs ?z . } => { ?x owl:sameAs ?z . }.
+{ ?x owl:sameAs ?y . ?y owl:sameAs ?z . } => { ?x owl:sameAs ?z . } .
 
 #eq-rep-s 
-{ ?s owl:sameAs ?s0 . ?s ?p ?o . } => { ?s0 ?p ?o . }
+{ ?s owl:sameAs ?s0 . ?s ?p ?o . } => { ?s0 ?p ?o . } .
 #eq-rep-p 
-{ ?p owl:sameAs ?p0 . ?s ?p ?o . } => { ?s ?p0 ?o . }
+{ ?p owl:sameAs ?p0 . ?s ?p ?o . } => { ?s ?p0 ?o . } .
 #eq-rep-o 
-{ ?o owl:sameAs ?o0 . ?s ?p ?o . } => { ?s ?p ?o0 . }
+{ ?o owl:sameAs ?o0 . ?s ?p ?o . } => { ?s ?p ?o0 . } .
 #eq-diff1 
 #{ ?x owl:sameAs ?y ; owl:differentFrom ?y . } => { ?x a owl:Nothing . ?y a owl:Nothing . }
 
