@@ -29,7 +29,7 @@
 
 # file with links
 {
-  [] http:mthd http_m:GET ;
+  [] http:mthd httpm:GET ;
      http:requestURI <http://harth.org/andreas/2017/citydata/seeds/eurostat-links.ttl> .
 }
 
