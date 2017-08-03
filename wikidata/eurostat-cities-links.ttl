@@ -1,0 +1,2220 @@
+@prefix ocdp:  <http://harth.org/andreas/2017/ocdp/vocabs/ocdp#> .
+@prefix owl:  <http://www.w3.org/2002/07/owl#> .
+@prefix rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://www.wikidata.org/entity/Q239>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#BE001C1> .
+
+<http://www.wikidata.org/entity/Q12892>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#BE002C1> .
+
+<http://www.wikidata.org/entity/Q1296>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#BE003C1> .
+
+<http://www.wikidata.org/entity/Q81046>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#BE004C1> .
+
+<http://www.wikidata.org/entity/Q3992>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#BE005C1> .
+
+<http://www.wikidata.org/entity/Q12994>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#BE006C1> .
+
+<http://www.wikidata.org/entity/Q134121>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#BE007C1> .
+
+<http://www.wikidata.org/entity/Q472>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#BG001C1> .
+
+<http://www.wikidata.org/entity/Q459>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#BG002C1> .
+
+<http://www.wikidata.org/entity/Q6506>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#BG003C1> .
+
+<http://www.wikidata.org/entity/Q6509>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#BG004C1> .
+
+<http://www.wikidata.org/entity/Q165420>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#BG005C1> .
+
+<http://www.wikidata.org/entity/Q160173>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#BG006C1> .
+
+<http://www.wikidata.org/entity/Q178531>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#BG007C1> .
+
+<http://www.wikidata.org/entity/Q170415>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#BG008C1> .
+
+<http://www.wikidata.org/entity/Q1085>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#CZ001C1> .
+
+<http://www.wikidata.org/entity/Q14960>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#CZ002C1> .
+
+<http://www.wikidata.org/entity/Q8385>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#CZ003C1> .
+
+<http://www.wikidata.org/entity/Q43453>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#CZ004C1> .
+
+<http://www.wikidata.org/entity/Q156974>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#CZ005C1> .
+
+<http://www.wikidata.org/entity/Q81137>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#CZ006C1> .
+
+<http://www.wikidata.org/entity/Q146351>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#CZ007C1> .
+
+<http://www.wikidata.org/entity/Q16506>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#CZ008C1> .
+
+<http://www.wikidata.org/entity/Q180139>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#CZ009C1> .
+
+<http://www.wikidata.org/entity/Q36989>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#CZ010C1> .
+
+<http://www.wikidata.org/entity/Q171018>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#CZ011C1> .
+
+<http://www.wikidata.org/entity/Q155993>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#CZ012C1> .
+
+<http://www.wikidata.org/entity/Q384544>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#CZ013C1> .
+
+<http://www.wikidata.org/entity/Q183111>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#CZ014C1> .
+
+<http://www.wikidata.org/entity/Q1748>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#DK001C1> .
+
+<http://www.wikidata.org/entity/Q25319>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#DK002C1> .
+
+<http://www.wikidata.org/entity/Q25331>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#DK003C1> .
+
+<http://www.wikidata.org/entity/Q25410>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#DK004C1> .
+
+<http://www.wikidata.org/entity/Q64>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#DE001C1> .
+
+<http://www.wikidata.org/entity/Q1055>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#DE002C1> .
+
+<http://www.wikidata.org/entity/Q1726>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#DE003C1> .
+
+<http://www.wikidata.org/entity/Q365>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#DE004C1> .
+
+<http://www.wikidata.org/entity/Q1794>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#DE005C1> .
+
+<http://www.wikidata.org/entity/Q2066>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#DE006C1> .
+
+<http://www.wikidata.org/entity/Q1022>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#DE007C1> .
+
+<http://www.wikidata.org/entity/Q2079>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#DE008C1> .
+
+<http://www.wikidata.org/entity/Q1731>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#DE009C1> .
+
+<http://www.wikidata.org/entity/Q1295>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#DE010C1> .
+
+<http://www.wikidata.org/entity/Q1718>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#DE011C1> .
+
+<http://www.wikidata.org/entity/Q1209>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#DE012C1> .
+
+<http://www.wikidata.org/entity/Q1715>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#DE013C1> .
+
+<http://www.wikidata.org/entity/Q2090>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#DE014C1> .
+
+<http://www.wikidata.org/entity/Q2103>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#DE015C1> .
+
+<http://www.wikidata.org/entity/Q2107>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#DE016C1> .
+
+<http://www.wikidata.org/entity/Q2112>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#DE017C1> .
+
+<http://www.wikidata.org/entity/Q2814>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#DE018C1> .
+
+<http://www.wikidata.org/entity/Q1733>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#DE019C1> .
+
+<http://www.wikidata.org/entity/Q1721>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#DE020C1> .
+
+<http://www.wikidata.org/entity/Q3033>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#DE021C1> .
+
+<http://www.wikidata.org/entity/Q2899>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#DE022C1> .
+
+<http://www.wikidata.org/entity/Q3132>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#DE023C1> .
+
+<http://www.wikidata.org/entity/Q2973>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#DE025C1> .
+
+<http://www.wikidata.org/entity/Q3138>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#DE026C1> .
+
+<http://www.wikidata.org/entity/Q2833>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#DE027C1> .
+
+<http://www.wikidata.org/entity/Q2978>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#DE028C1> .
+
+<http://www.wikidata.org/entity/Q4024>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#DE029C1> .
+
+<http://www.wikidata.org/entity/Q3955>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#DE030C1> .
+
+<http://www.wikidata.org/entity/Q1709>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#DE031C1> .
+
+<http://www.wikidata.org/entity/Q1729>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#DE032C1> .
+
+<http://www.wikidata.org/entity/Q2749>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#DE033C1> .
+
+<http://www.wikidata.org/entity/Q586>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#DE034C1> .
+
+<http://www.wikidata.org/entity/Q1040>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#DE035C1> .
+
+<http://www.wikidata.org/entity/Q2758>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#DE036C1> .
+
+<http://www.wikidata.org/entity/Q1720>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#DE037C1> .
+
+<http://www.wikidata.org/entity/Q1707>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#DE039C1> .
+
+<http://www.wikidata.org/entity/Q1724>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#DE040C1> .
+
+<http://www.wikidata.org/entity/Q1711>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#DE041C1> .
+
+<http://www.wikidata.org/entity/Q3104>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#DE042C1> .
+
+<http://www.wikidata.org/entity/Q2861>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#DE043C1> .
+
+<http://www.wikidata.org/entity/Q2100>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#DE501C1> .
+
+<http://www.wikidata.org/entity/Q2119>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#DE502C1> .
+
+<http://www.wikidata.org/entity/Q2765>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#DE503C1> .
+
+<http://www.wikidata.org/entity/Q2742>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#DE504C1> .
+
+<http://www.wikidata.org/entity/Q2795>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#DE505C1> .
+
+<http://www.wikidata.org/entity/Q2773>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#DE506C1> .
+
+<http://www.wikidata.org/entity/Q1017>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#DE507C1> .
+
+<http://www.wikidata.org/entity/Q2805>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#DE508C1> .
+
+<http://www.wikidata.org/entity/Q2838>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#DE509C1> .
+
+<http://www.wikidata.org/entity/Q2843>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#DE510C1> .
+
+<http://www.wikidata.org/entity/Q2871>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#DE511C1> .
+
+<http://www.wikidata.org/entity/Q2861>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#DE512C1> .
+
+<http://www.wikidata.org/entity/Q2865>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#DE513C1> .
+
+<http://www.wikidata.org/entity/Q2880>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#DE514C1> .
+
+<http://www.wikidata.org/entity/Q2904>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#DE515C1> .
+
+<http://www.wikidata.org/entity/Q2942>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#DE516C1> .
+
+<http://www.wikidata.org/entity/Q2916>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#DE517C1> .
+
+<http://www.wikidata.org/entity/Q2910>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#DE518C1> .
+
+<http://www.wikidata.org/entity/Q2938>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#DE519C1> .
+
+<http://www.wikidata.org/entity/Q2936>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#DE520C1> .
+
+<http://www.wikidata.org/entity/Q2948>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#DE521C1> .
+
+<http://www.wikidata.org/entity/Q2966>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#DE522C1> .
+
+<http://www.wikidata.org/entity/Q2971>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#DE523C1> .
+
+<http://www.wikidata.org/entity/Q2999>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#DE524C1> .
+
+<http://www.wikidata.org/entity/Q3050>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#DE525C1> .
+
+<http://www.wikidata.org/entity/Q3014>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#DE526C1> .
+
+<http://www.wikidata.org/entity/Q2706>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#DE527C1> .
+
+<http://www.wikidata.org/entity/Q3069>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#DE528C1> .
+
+<http://www.wikidata.org/entity/Q715>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#DE529C1> .
+
+<http://www.wikidata.org/entity/Q3097>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#DE530C1> .
+
+<http://www.wikidata.org/entity/Q3042>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#DE531C1> .
+
+<http://www.wikidata.org/entity/Q3012>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#DE532C1> .
+
+<http://www.wikidata.org/entity/Q3046>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#DE533C1> .
+
+<http://www.wikidata.org/entity/Q3004>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#DE534C1> .
+
+<http://www.wikidata.org/entity/Q3750>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#DE535C1> .
+
+<http://www.wikidata.org/entity/Q3200>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#DE536C1> .
+
+<http://www.wikidata.org/entity/Q3085>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#DE537C1> .
+
+<http://www.wikidata.org/entity/Q3075>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#DE538C1> .
+
+<http://www.wikidata.org/entity/Q3214>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#DE539C1> .
+
+<http://www.wikidata.org/entity/Q3167>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#DE540C1> .
+
+<http://www.wikidata.org/entity/Q3117>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#DE541C1> .
+
+<http://www.wikidata.org/entity/Q3185>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#DE542C1> .
+
+<http://www.wikidata.org/entity/Q3764>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#DE543C1> .
+
+<http://www.wikidata.org/entity/Q3778>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#DE544C1> .
+
+<http://www.wikidata.org/entity/Q3126>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#DE545C1> .
+
+<http://www.wikidata.org/entity/Q2107>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#DE546C1> .
+
+<http://www.wikidata.org/entity/Q3150>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#DE547C1> .
+
+<http://www.wikidata.org/entity/Q1770>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#EE001C1> .
+
+<http://www.wikidata.org/entity/Q13972>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#EE002C1> .
+
+<http://www.wikidata.org/entity/Q1761>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#IE001C1> .
+
+<http://www.wikidata.org/entity/Q36647>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#IE002C1> .
+
+<http://www.wikidata.org/entity/Q133315>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#IE003C1> .
+
+<http://www.wikidata.org/entity/Q129610>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#IE004C1> .
+
+<http://www.wikidata.org/entity/Q183551>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#IE005C1> .
+
+<http://www.wikidata.org/entity/Q25167221>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#EL001C1> .
+
+<http://www.wikidata.org/entity/Q17151>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#EL002C1> .
+
+<http://www.wikidata.org/entity/Q133123>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#EL003C1> .
+
+<http://www.wikidata.org/entity/Q160544>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#EL004C1> .
+
+<http://www.wikidata.org/entity/Q178405>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#EL005C1> .
+
+<http://www.wikidata.org/entity/Q200036>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#EL006C1> .
+
+<http://www.wikidata.org/entity/Q25162198>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#EL007C1> .
+
+<http://www.wikidata.org/entity/Q187352>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#EL008C1> .
+
+<http://www.wikidata.org/entity/Q6350358>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#EL009C1> .
+
+<http://www.wikidata.org/entity/Q58976>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#EL501C1> .
+
+<http://www.wikidata.org/entity/Q2807>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#ES001C1> .
+
+<http://www.wikidata.org/entity/Q1492>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#ES002C1> .
+
+<http://www.wikidata.org/entity/Q8818>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#ES003C1> .
+
+<http://www.wikidata.org/entity/Q8717>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#ES004C1> .
+
+<http://www.wikidata.org/entity/Q10305>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#ES005C1> .
+
+<http://www.wikidata.org/entity/Q8851>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#ES006C1> .
+
+<http://www.wikidata.org/entity/Q12225>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#ES007C1> .
+
+<http://www.wikidata.org/entity/Q11974>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#ES008C1> .
+
+<http://www.wikidata.org/entity/Q8356>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#ES009C1> .
+
+<http://www.wikidata.org/entity/Q8826>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#ES010C1> .
+
+<http://www.wikidata.org/entity/Q14314>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#ES011C1> .
+
+<http://www.wikidata.org/entity/Q14318>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#ES012C1> .
+
+<http://www.wikidata.org/entity/Q14317>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#ES013C1> .
+
+<http://www.wikidata.org/entity/Q10282>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#ES014C1> .
+
+<http://www.wikidata.org/entity/Q12233>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#ES015C1> .
+
+<http://www.wikidata.org/entity/Q5836>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#ES016C1> .
+
+<http://www.wikidata.org/entity/Q15679>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#ES017C1> .
+
+<http://www.wikidata.org/entity/Q14325>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#ES018C1> .
+
+<http://www.wikidata.org/entity/Q8692>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#ES019C1> .
+
+<http://www.wikidata.org/entity/Q5818>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#ES020C1> .
+
+<http://www.wikidata.org/entity/Q11959>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#ES021C1> .
+
+<http://www.wikidata.org/entity/Q8745>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#ES022C1> .
+
+<http://www.wikidata.org/entity/Q12273>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#ES023C1> .
+
+<http://www.wikidata.org/entity/Q23999262>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#ES024C1> .
+
+<http://www.wikidata.org/entity/Q14328>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#ES025C1> .
+
+<http://www.wikidata.org/entity/Q8810>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#ES501C1> .
+
+<http://www.wikidata.org/entity/Q8757>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#ES026C1> .
+
+<http://www.wikidata.org/entity/Q15468>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#ES503C1> .
+
+<http://www.wikidata.org/entity/Q24012719>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#ES504C1> .
+
+<http://www.wikidata.org/entity/Q10509>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#ES505C1> .
+
+<http://www.wikidata.org/entity/Q162615>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#ES506C1> .
+
+<http://www.wikidata.org/entity/Q12258>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#ES507C1> .
+
+<http://www.wikidata.org/entity/Q12303>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#ES508C1> .
+
+<http://www.wikidata.org/entity/Q24012745>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#ES509C1> .
+
+<http://www.wikidata.org/entity/Q10313>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#ES510C1> .
+
+<http://www.wikidata.org/entity/Q46940>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#ES511C1> .
+
+<http://www.wikidata.org/entity/Q13939>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#ES512C1> .
+
+<http://www.wikidata.org/entity/Q6157189>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#ES513C1> .
+
+<http://www.wikidata.org/entity/Q10400>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#ES514C1> .
+
+<http://www.wikidata.org/entity/Q9580>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#ES515C1> .
+
+<http://www.wikidata.org/entity/Q15695>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#ES516C1> .
+
+<http://www.wikidata.org/entity/Q22991401>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#ES517C1> .
+
+<http://www.wikidata.org/entity/Q8802>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#ES518C1> .
+
+<http://www.wikidata.org/entity/Q15095>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#ES519C1> .
+
+<http://www.wikidata.org/entity/Q15092>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#ES520C1> .
+
+<http://www.wikidata.org/entity/Q12246>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#ES521C1> .
+
+<http://www.wikidata.org/entity/Q15682>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#ES522C1> .
+
+<http://www.wikidata.org/entity/Q15699>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#ES523C1> .
+
+<http://www.wikidata.org/entity/Q54898>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#ES524C1> .
+
+<http://www.wikidata.org/entity/Q15088>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#ES525C1> .
+
+<http://www.wikidata.org/entity/Q23993246>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#ES526C1> .
+
+<http://www.wikidata.org/entity/Q15681>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#ES527C1> .
+
+<http://www.wikidata.org/entity/Q15090>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#ES528C1> .
+
+<http://www.wikidata.org/entity/Q99151>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#ES529C1> .
+
+<http://www.wikidata.org/entity/Q24009568>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#ES530C1> .
+
+<http://www.wikidata.org/entity/Q5813711>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#ES531C1> .
+
+<http://www.wikidata.org/entity/Q24021209>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#ES532C1> .
+
+<http://www.wikidata.org/entity/Q484799>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#ES533C1> .
+
+<http://www.wikidata.org/entity/Q24012681>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#ES534C1> .
+
+<http://www.wikidata.org/entity/Q487679>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#ES535C1> .
+
+<http://www.wikidata.org/entity/Q90>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#FR001C1> .
+
+<http://www.wikidata.org/entity/Q456>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#FR003C1> .
+
+<http://www.wikidata.org/entity/Q7880>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#FR004C1> .
+
+<http://www.wikidata.org/entity/Q6602>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#FR006C1> .
+
+<http://www.wikidata.org/entity/Q1479>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#FR007C1> .
+
+<http://www.wikidata.org/entity/Q12191>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#FR008C1> .
+
+<http://www.wikidata.org/entity/Q648>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#FR009C1> .
+
+<http://www.wikidata.org/entity/Q6441>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#FR010C1> .
+
+<http://www.wikidata.org/entity/Q42716>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#FR011C1> .
+
+<http://www.wikidata.org/entity/Q42810>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#FR012C1> .
+
+<http://www.wikidata.org/entity/Q647>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#FR013C1> .
+
+<http://www.wikidata.org/entity/Q41604>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#FR014C1> .
+
+<http://www.wikidata.org/entity/Q30974>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#FR015C1> .
+
+<http://www.wikidata.org/entity/Q40898>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#FR016C1> .
+
+<http://www.wikidata.org/entity/Q22690>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#FR017C1> .
+
+<http://www.wikidata.org/entity/Q41876>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#FR018C1> .
+
+<http://www.wikidata.org/entity/Q34404>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#FR019C1> .
+
+<http://www.wikidata.org/entity/Q7003>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#FR020C1> .
+
+<http://www.wikidata.org/entity/Q6616>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#FR021C1> .
+
+<http://www.wikidata.org/entity/Q3493975>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#FR022C1> .
+
+<http://www.wikidata.org/entity/Q41185>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#FR023C1> .
+
+<http://www.wikidata.org/entity/Q45656>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#FR024C1> .
+
+<http://www.wikidata.org/entity/Q37776>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#FR025C1> .
+
+<http://www.wikidata.org/entity/Q1289>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#FR026C1> .
+
+<http://www.wikidata.org/entity/Q40104>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#FR027C1> .
+
+<http://www.wikidata.org/entity/Q244380>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#FR028C1> .
+
+<http://www.wikidata.org/entity/Q24878662>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#FR029C1> .
+
+<http://www.wikidata.org/entity/Q27729485>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#FR030C1> .
+
+<http://www.wikidata.org/entity/Q44401>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#FR031C1> .
+
+<http://www.wikidata.org/entity/Q575533>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#FR032C1> .
+
+<http://www.wikidata.org/entity/Q3429969>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#FR034C1> .
+
+<http://www.wikidata.org/entity/Q1502700>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#FR035C1> .
+
+<http://www.wikidata.org/entity/Q38380>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#FR036C1> .
+
+<http://www.wikidata.org/entity/Q140147>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#FR037C1> .
+
+<http://www.wikidata.org/entity/Q3377169>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#FR038C1> .
+
+<http://www.wikidata.org/entity/Q6397>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#FR039C1> .
+
+<http://www.wikidata.org/entity/Q79815>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#FR040C1> .
+
+<http://www.wikidata.org/entity/Q207145>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#FR041C1> .
+
+<http://www.wikidata.org/entity/Q513691>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#FR042C1> .
+
+<http://www.wikidata.org/entity/Q2994575>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#FR043C1> .
+
+<http://www.wikidata.org/entity/Q42807>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#FR044C1> .
+
+<http://www.wikidata.org/entity/Q132671>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#FR045C1> .
+
+<http://www.wikidata.org/entity/Q812589>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#FR046C1> .
+
+<http://www.wikidata.org/entity/Q212901>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#FR047C1> .
+
+<http://www.wikidata.org/entity/Q50189>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#FR048C1> .
+
+<http://www.wikidata.org/entity/Q3485928>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#FR049C1> .
+
+<http://www.wikidata.org/entity/Q154715>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#FR050C1> .
+
+<http://www.wikidata.org/entity/Q597018>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#FR051C1> .
+
+<http://www.wikidata.org/entity/Q152027>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#FR052C1> .
+
+<http://www.wikidata.org/entity/Q82185>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#FR053C1> .
+
+<http://www.wikidata.org/entity/Q22640>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#FR055C1> .
+
+<http://www.wikidata.org/entity/Q3279163>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#FR056C1> .
+
+<http://www.wikidata.org/entity/Q2922134>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#FR057C1> .
+
+<http://www.wikidata.org/entity/Q29034762>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#FR058C1> .
+
+<http://www.wikidata.org/entity/Q3562822>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#FR059C1> .
+
+<http://www.wikidata.org/entity/Q130272>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#FR060C1> .
+
+<http://www.wikidata.org/entity/Q3074900>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#FR061C1> .
+
+<http://www.wikidata.org/entity/Q612696>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#FR062C1> .
+
+<http://www.wikidata.org/entity/Q174019>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#FR063C1> .
+
+<http://www.wikidata.org/entity/Q3365097>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#FR064C1> .
+
+<http://www.wikidata.org/entity/Q132404>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#FR065C1> .
+
+<http://www.wikidata.org/entity/Q3440438>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#FR066C1> .
+
+<http://www.wikidata.org/entity/Q342>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#FR067C1> .
+
+<http://www.wikidata.org/entity/Q6593>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#FR068C1> .
+
+<http://www.wikidata.org/entity/Q3416395>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#FR069C1> .
+
+<http://www.wikidata.org/entity/Q3232713>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#FR070C1> .
+
+<http://www.wikidata.org/entity/Q13493441>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#FR071C1> .
+
+<http://www.wikidata.org/entity/Q20493462>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#FR073C1> .
+
+<http://www.wikidata.org/entity/Q180871>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#FR074C1> .
+
+<http://www.wikidata.org/entity/Q171545>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#FR076C1> .
+
+<http://www.wikidata.org/entity/Q26266362>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#FR077C1> .
+
+<http://www.wikidata.org/entity/Q934654>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#FR078C1> .
+
+<http://www.wikidata.org/entity/Q182744>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#FR079C1> .
+
+<http://www.wikidata.org/entity/Q141810>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#FR080C1> .
+
+<http://www.wikidata.org/entity/Q20852843>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#FR081C1> .
+
+<http://www.wikidata.org/entity/Q174257>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#FR082C1> .
+
+<http://www.wikidata.org/entity/Q166997>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#FR083C1> .
+
+<http://www.wikidata.org/entity/Q3048926>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#FR084C1> .
+
+<http://www.wikidata.org/entity/Q3213487>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#FR085C1> .
+
+<http://www.wikidata.org/entity/Q171800>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#FR086C1> .
+
+<http://www.wikidata.org/entity/Q3494138>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#FR087C1> .
+
+<http://www.wikidata.org/entity/Q3463073>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#FR088C1> .
+
+<http://www.wikidata.org/entity/Q3485463>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#FR089C1> .
+
+<http://www.wikidata.org/entity/Q174251>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#FR090C1> .
+
+<http://www.wikidata.org/entity/Q860708>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#FR091C1> .
+
+<http://www.wikidata.org/entity/Q2979797>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#FR092C1> .
+
+<http://www.wikidata.org/entity/Q3074876>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#FR093C1> .
+
+<http://www.wikidata.org/entity/Q247219>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#FR095C1> .
+
+<http://www.wikidata.org/entity/Q132801>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#FR096C1> .
+
+<http://www.wikidata.org/entity/Q16352268>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#FR097C1> .
+
+<http://www.wikidata.org/entity/Q1903049>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#FR099C1> .
+
+<http://www.wikidata.org/entity/Q6582>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#FR101C1> .
+
+<http://www.wikidata.org/entity/Q264075>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#FR102C1> .
+
+<http://www.wikidata.org/entity/Q3070219>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#FR103C1> .
+
+<http://www.wikidata.org/entity/Q3046130>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#FR104C1> .
+
+<http://www.wikidata.org/entity/Q193256>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#FR105C1> .
+
+<http://www.wikidata.org/entity/Q134698>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#FR106C1> .
+
+<http://www.wikidata.org/entity/Q172593>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#FR107C1> .
+
+<http://www.wikidata.org/entity/Q16957938>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#FR108C1> .
+
+<http://www.wikidata.org/entity/Q2897081>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#FR109C1> .
+
+<http://www.wikidata.org/entity/Q6555>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#FR110C1> .
+
+<http://www.wikidata.org/entity/Q3463967>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#FR111C1> .
+
+<http://www.wikidata.org/entity/Q20493330>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#FR113C1> .
+
+<http://www.wikidata.org/entity/Q1221441>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#FR114C1> .
+
+<http://www.wikidata.org/entity/Q3322442>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#FR115C1> .
+
+<http://www.wikidata.org/entity/Q20493370>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#FR116C1> .
+
+<http://www.wikidata.org/entity/Q2843236>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#FR117C1> .
+
+<http://www.wikidata.org/entity/Q239078>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#FR118C1> .
+
+<http://www.wikidata.org/entity/Q17983446>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#FR119C1> .
+
+<http://www.wikidata.org/entity/Q2143601>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#FR120C1> .
+
+<http://www.wikidata.org/entity/Q167152>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#FR121C1> .
+
+<http://www.wikidata.org/entity/Q29334978>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#FR122C1> .
+
+<http://www.wikidata.org/entity/Q188776>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#FR123C1> .
+
+<http://www.wikidata.org/entity/Q3477401>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#FR125C1> .
+
+<http://www.wikidata.org/entity/Q3217602>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#FR126C1> .
+
+<http://www.wikidata.org/entity/Q181285>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#FR127C1> .
+
+<http://www.wikidata.org/entity/Q3459929>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#FR128C1> .
+
+<http://www.wikidata.org/entity/Q6905106>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#FR129C1> .
+
+<http://www.wikidata.org/entity/Q184883>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#FR130C1> .
+
+<http://www.wikidata.org/entity/Q142410>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#FR131C1> .
+
+<http://www.wikidata.org/entity/Q3656415>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#FR132C1> .
+
+<http://www.wikidata.org/entity/Q27429979>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#FR133C1> .
+
+<http://www.wikidata.org/entity/Q3136795>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#FR134C1> .
+
+<http://www.wikidata.org/entity/Q20851972>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#FR135C1> .
+
+<http://www.wikidata.org/entity/Q24937610>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#FR136C1> .
+
+<http://www.wikidata.org/entity/Q2999579>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#FR137C1> .
+
+<http://www.wikidata.org/entity/Q12804>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#FR138C1> .
+
+<http://www.wikidata.org/entity/Q27949738>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#FR140C1> .
+
+<http://www.wikidata.org/entity/Q29320490>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#FR141C1> .
+
+<http://www.wikidata.org/entity/Q21943268>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#FR142C1> .
+
+<http://www.wikidata.org/entity/Q29321128>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#FR201C1> .
+
+<http://www.wikidata.org/entity/Q4017080>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#FR202C1> .
+
+<http://www.wikidata.org/entity/Q23482>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#FR203C1> .
+
+<http://www.wikidata.org/entity/Q173705>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#FR204C1> .
+
+<http://www.wikidata.org/entity/Q33959>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#FR205C1> .
+
+<http://www.wikidata.org/entity/Q15150474>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#FR206C1> .
+
+<http://www.wikidata.org/entity/Q217841>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#FR207C1> .
+
+<http://www.wikidata.org/entity/Q1120196>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#FR208C1> .
+
+<http://www.wikidata.org/entity/Q2994562>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#FR209C1> .
+
+<http://www.wikidata.org/entity/Q220>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#IT001C1> .
+
+<http://www.wikidata.org/entity/Q490>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#IT002C1> .
+
+<http://www.wikidata.org/entity/Q2634>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#IT003C1> .
+
+<http://www.wikidata.org/entity/Q495>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#IT004C1> .
+
+<http://www.wikidata.org/entity/Q2656>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#IT005C1> .
+
+<http://www.wikidata.org/entity/Q1449>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#IT006C1> .
+
+<http://www.wikidata.org/entity/Q2044>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#IT007C1> .
+
+<http://www.wikidata.org/entity/Q3519>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#IT008C1> .
+
+<http://www.wikidata.org/entity/Q1891>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#IT009C1> .
+
+<http://www.wikidata.org/entity/Q1903>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#IT010C1> .
+
+<http://www.wikidata.org/entity/Q641>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#IT011C1> .
+
+<http://www.wikidata.org/entity/Q2028>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#IT012C1> .
+
+<http://www.wikidata.org/entity/Q6231>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#IT013C1> .
+
+<http://www.wikidata.org/entity/Q3376>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#IT014C1> .
+
+<http://www.wikidata.org/entity/Q546>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#IT015C1> .
+
+<http://www.wikidata.org/entity/Q3437>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#IT016C1> .
+
+<http://www.wikidata.org/entity/Q3415>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#IT017C1> .
+
+<http://www.wikidata.org/entity/Q21972235>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#IT018C1> .
+
+<http://www.wikidata.org/entity/Q2704>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#IT019C1> .
+
+<http://www.wikidata.org/entity/Q3743351>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#IT020C1> .
+
+<http://www.wikidata.org/entity/Q2177024>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#IT021C1> .
+
+<http://www.wikidata.org/entity/Q13498>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#IT022C1> .
+
+<http://www.wikidata.org/entity/Q3543>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#IT023C1> .
+
+<http://www.wikidata.org/entity/Q27103943>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#IT024C1> .
+
+<http://www.wikidata.org/entity/Q8471>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#IT025C1> .
+
+<http://www.wikidata.org/entity/Q13629>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#IT026C1> .
+
+<http://www.wikidata.org/entity/Q1897>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#IT027C1> .
+
+<http://www.wikidata.org/entity/Q617>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#IT028C1> .
+
+<http://www.wikidata.org/entity/Q6221>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#IT029C1> .
+
+<http://www.wikidata.org/entity/Q279>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#IT030C1> .
+
+<http://www.wikidata.org/entity/Q13464>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#IT031C1> .
+
+<http://www.wikidata.org/entity/Q1083>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#IT032C1> .
+
+<http://www.wikidata.org/entity/Q13666>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#IT501C1> .
+
+<http://www.wikidata.org/entity/Q13377>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#IT502C1> .
+
+<http://www.wikidata.org/entity/Q2683>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#IT503C1> .
+
+<http://www.wikidata.org/entity/Q6761>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#IT504C1> .
+
+<http://www.wikidata.org/entity/Q13360>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#IT505C1> .
+
+<http://www.wikidata.org/entity/Q13364>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#IT506C1> .
+
+<http://www.wikidata.org/entity/Q13362>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#IT507C1> .
+
+<http://www.wikidata.org/entity/Q13369>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#IT508C1> .
+
+<http://www.wikidata.org/entity/Q13670>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#IT509C1> .
+
+<http://www.wikidata.org/entity/Q6252>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#IT510C1> .
+
+<http://www.wikidata.org/entity/Q628>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#IT511C1> .
+
+<http://www.wikidata.org/entity/Q13367>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#IT512C1> .
+
+<http://www.wikidata.org/entity/Q13410>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#IT513C1> .
+
+<http://www.wikidata.org/entity/Q6537>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#IT514C1> .
+
+<http://www.wikidata.org/entity/Q8621>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#IT515C1> .
+
+<http://www.wikidata.org/entity/Q6046>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#IT516C1> .
+
+<http://www.wikidata.org/entity/Q72125>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#IT517C1> .
+
+<http://www.wikidata.org/entity/Q3856>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#CY001C1> .
+
+<http://www.wikidata.org/entity/Q185632>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#CY501C1> .
+
+<http://www.wikidata.org/entity/Q1773>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#LV001C1> .
+
+<http://www.wikidata.org/entity/Q167668>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#LV002C1> .
+
+<http://www.wikidata.org/entity/Q80021>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#LV501C1> .
+
+<http://www.wikidata.org/entity/Q216>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#LT001C1> .
+
+<http://www.wikidata.org/entity/Q4115712>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#LT002C1> .
+
+<http://www.wikidata.org/entity/Q9352779>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#LT003C1> .
+
+<http://www.wikidata.org/entity/Q776965>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#LT501C1> .
+
+<http://www.wikidata.org/entity/Q134712>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#LT502C1> .
+
+<http://www.wikidata.org/entity/Q1842>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#LU001C1> .
+
+<http://www.wikidata.org/entity/Q1781>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#HU001C1> .
+
+<http://www.wikidata.org/entity/Q102397>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#HU002C1> .
+
+<http://www.wikidata.org/entity/Q171223>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#HU003C1> .
+
+<http://www.wikidata.org/entity/Q45779>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#HU004C1> .
+
+<http://www.wikidata.org/entity/Q79880>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#HU005C1> .
+
+<http://www.wikidata.org/entity/Q81581>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#HU006C1> .
+
+<http://www.wikidata.org/entity/Q134494>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#HU007C1> .
+
+<http://www.wikidata.org/entity/Q171357>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#HU008C1> .
+
+<http://www.wikidata.org/entity/Q130212>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#HU009C1> .
+
+<http://www.wikidata.org/entity/Q1274333>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#MT001C1> .
+
+<http://www.wikidata.org/entity/Q12258712>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#MT002C1> .
+
+<http://www.wikidata.org/entity/Q36600>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#NL001C1> .
+
+<http://www.wikidata.org/entity/Q727>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#NL002C1> .
+
+<http://www.wikidata.org/entity/Q34370>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#NL003C1> .
+
+<http://www.wikidata.org/entity/Q803>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#NL004C1> .
+
+<http://www.wikidata.org/entity/Q9832>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#NL005C1> .
+
+<http://www.wikidata.org/entity/Q9871>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#NL006C1> .
+
+<http://www.wikidata.org/entity/Q749>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#NL007C1> .
+
+<http://www.wikidata.org/entity/Q10002>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#NL008C1> .
+
+<http://www.wikidata.org/entity/Q1310>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#NL009C1> .
+
+<http://www.wikidata.org/entity/Q2735119>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#NL010C1> .
+
+<http://www.wikidata.org/entity/Q83178>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#NL011C1> .
+
+<http://www.wikidata.org/entity/Q40844>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#NL012C1> .
+
+<http://www.wikidata.org/entity/Q47887>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#NL013C1> .
+
+<http://www.wikidata.org/entity/Q3018561>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#NL014C1> .
+
+<http://www.wikidata.org/entity/Q25390>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#NL015C1> .
+
+<http://www.wikidata.org/entity/Q9920>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#NL501C1> .
+
+<http://www.wikidata.org/entity/Q2913563>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#NL502C1> .
+
+<http://www.wikidata.org/entity/Q2766547>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#NL503C1> .
+
+<http://www.wikidata.org/entity/Q992>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#NL504C1> .
+
+<http://www.wikidata.org/entity/Q1309>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#NL505C1> .
+
+<http://www.wikidata.org/entity/Q26421>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#NL506C1> .
+
+<http://www.wikidata.org/entity/Q43631>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#NL507C1> .
+
+<http://www.wikidata.org/entity/Q2625297>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#NL508C1> .
+
+<http://www.wikidata.org/entity/Q26432>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#NL509C1> .
+
+<http://www.wikidata.org/entity/Q6807568>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#NL510C1> .
+
+<http://www.wikidata.org/entity/Q793>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#NL511C1> .
+
+<http://www.wikidata.org/entity/Q26555>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#NL512C1> .
+
+<http://www.wikidata.org/entity/Q26296883>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#NL513C1> .
+
+<http://www.wikidata.org/entity/Q16977290>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#NL514C1> .
+
+<http://www.wikidata.org/entity/Q3322237>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#NL515C1> .
+
+<http://www.wikidata.org/entity/Q9844>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#NL516C1> .
+
+<http://www.wikidata.org/entity/Q417923>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#NL517C1> .
+
+<http://www.wikidata.org/entity/Q204709>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#NL518C1> .
+
+<http://www.wikidata.org/entity/Q988>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#NL519C1> .
+
+<http://www.wikidata.org/entity/Q166065>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#NL520C1> .
+
+<http://www.wikidata.org/entity/Q1741>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#AT001C1> .
+
+<http://www.wikidata.org/entity/Q13298>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#AT002C1> .
+
+<http://www.wikidata.org/entity/Q41329>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#AT003C1> .
+
+<http://www.wikidata.org/entity/Q34713>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#AT004C1> .
+
+<http://www.wikidata.org/entity/Q1735>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#AT005C1> .
+
+<http://www.wikidata.org/entity/Q270>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#PL001C1> .
+
+<http://www.wikidata.org/entity/Q580>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#PL002C1> .
+
+<http://www.wikidata.org/entity/Q31487>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#PL003C1> .
+
+<http://www.wikidata.org/entity/Q1799>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#PL004C1> .
+
+<http://www.wikidata.org/entity/Q268>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#PL005C1> .
+
+<http://www.wikidata.org/entity/Q1792>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#PL006C1> .
+
+<http://www.wikidata.org/entity/Q393>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#PL007C1> .
+
+<http://www.wikidata.org/entity/Q41252>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#PL008C1> .
+
+<http://www.wikidata.org/entity/Q37333>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#PL009C1> .
+
+<http://www.wikidata.org/entity/Q588>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#PL010C1> .
+
+<http://www.wikidata.org/entity/Q761>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#PL011C1> .
+
+<http://www.wikidata.org/entity/Q102317>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#PL012C1> .
+
+<http://www.wikidata.org/entity/Q47554>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#PL013C1> .
+
+<http://www.wikidata.org/entity/Q82765>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#PL014C1> .
+
+<http://www.wikidata.org/entity/Q598>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#PL015C1> .
+
+<http://www.wikidata.org/entity/Q92212>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#PL016C1> .
+
+<http://www.wikidata.org/entity/Q104731>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#PL017C1> .
+
+<http://www.wikidata.org/entity/Q104720>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#PL018C1> .
+
+<http://www.wikidata.org/entity/Q147934>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#PL019C1> .
+
+<http://www.wikidata.org/entity/Q802>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#PL020C1> .
+
+<http://www.wikidata.org/entity/Q236083>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#PL021C1> .
+
+<http://www.wikidata.org/entity/Q52845>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#PL022C1> .
+
+<http://www.wikidata.org/entity/Q393171>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#PL023C1> .
+
+<http://www.wikidata.org/entity/Q103217>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#PL024C1> .
+
+<http://www.wikidata.org/entity/Q104740>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#PL025C1> .
+
+<http://www.wikidata.org/entity/Q104725>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#PL026C1> .
+
+<http://www.wikidata.org/entity/Q52842>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#PL027C1> .
+
+<http://www.wikidata.org/entity/Q62868>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#PL028C1> .
+
+<http://www.wikidata.org/entity/Q385>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#PL501C1> .
+
+<http://www.wikidata.org/entity/Q105060>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#PL502C1> .
+
+<http://www.wikidata.org/entity/Q105084>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#PL503C1> .
+
+<http://www.wikidata.org/entity/Q103892>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#PL504C1> .
+
+<http://www.wikidata.org/entity/Q102350>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#PL505C1> .
+
+<http://www.wikidata.org/entity/Q106583>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#PL506C1> .
+
+<http://www.wikidata.org/entity/Q108679>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#PL507C1> .
+
+<http://www.wikidata.org/entity/Q107094>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#PL508C1> .
+
+<http://www.wikidata.org/entity/Q11977>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#PL509C1> .
+
+<http://www.wikidata.org/entity/Q108672>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#PL510C1> .
+
+<http://www.wikidata.org/entity/Q110732>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#PL511C1> .
+
+<http://www.wikidata.org/entity/Q104712>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#PL512C1> .
+
+<http://www.wikidata.org/entity/Q106681>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#PL513C1> .
+
+<http://www.wikidata.org/entity/Q106281>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#PL514C1> .
+
+<http://www.wikidata.org/entity/Q104302>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#PL515C1> .
+
+<http://www.wikidata.org/entity/Q106274>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#PL516C1> .
+
+<http://www.wikidata.org/entity/Q123511>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#PL517C1> .
+
+<http://www.wikidata.org/entity/Q597>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#PT001C1> .
+
+<http://www.wikidata.org/entity/Q36433>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#PT002C1> .
+
+<http://www.wikidata.org/entity/Q83247>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#PT003C1> .
+
+<http://www.wikidata.org/entity/Q25444>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#PT004C1> .
+
+<http://www.wikidata.org/entity/Q45412>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#PT005C1> .
+
+<http://www.wikidata.org/entity/Q173699>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#PT006C1> .
+
+<http://www.wikidata.org/entity/Q208149>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#PT007C1> .
+
+<http://www.wikidata.org/entity/Q485581>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#PT008C1> .
+
+<http://www.wikidata.org/entity/Q159457>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#PT009C1> .
+
+<http://www.wikidata.org/entity/Q14808749>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#PT501C1> .
+
+<http://www.wikidata.org/entity/Q191135>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#PT502C1> .
+
+<http://www.wikidata.org/entity/Q17390226>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#PT503C1> .
+
+<http://www.wikidata.org/entity/Q1020836>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#PT504C1> .
+
+<http://www.wikidata.org/entity/Q170903>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#PT505C1> .
+
+<http://www.wikidata.org/entity/Q3775726>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#PT506C1> .
+
+<http://www.wikidata.org/entity/Q551658>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#PT507C1> .
+
+<http://www.wikidata.org/entity/Q9656612>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#PT508C1> .
+
+<http://www.wikidata.org/entity/Q213242>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#PT509C1> .
+
+<http://www.wikidata.org/entity/Q21488838>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#PT510C1> .
+
+<http://www.wikidata.org/entity/Q206933>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#PT511C1> .
+
+<http://www.wikidata.org/entity/Q19660>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#RO001C1> .
+
+<http://www.wikidata.org/entity/Q715958>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#RO002C1> .
+
+<http://www.wikidata.org/entity/Q3991460>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#RO003C1> .
+
+<http://www.wikidata.org/entity/Q20849234>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#RO004C1> .
+
+<http://www.wikidata.org/entity/Q1006796>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#RO005C1> .
+
+<http://www.wikidata.org/entity/Q24970442>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#RO006C1> .
+
+<http://www.wikidata.org/entity/Q182679>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#RO007C1> .
+
+<http://www.wikidata.org/entity/Q152473>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#RO008C1> .
+
+<http://www.wikidata.org/entity/Q3573941>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#RO009C1> .
+
+<http://www.wikidata.org/entity/Q1106887>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#RO010C1> .
+
+<http://www.wikidata.org/entity/Q20429820>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#RO011C1> .
+
+<http://www.wikidata.org/entity/Q1014367>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#RO012C1> .
+
+<http://www.wikidata.org/entity/Q202351>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#RO013C1> .
+
+<http://www.wikidata.org/entity/Q17354367>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#RO014C1> .
+
+<http://www.wikidata.org/entity/Q79808>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#RO501C1> .
+
+<http://www.wikidata.org/entity/Q46852>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#RO502C1> .
+
+<http://www.wikidata.org/entity/Q170996>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#RO503C1> .
+
+<http://www.wikidata.org/entity/Q850969>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#RO504C1> .
+
+<http://www.wikidata.org/entity/Q18540349>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#RO505C1> .
+
+<http://www.wikidata.org/entity/Q28230323>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#RO506C1> .
+
+<http://www.wikidata.org/entity/Q12723821>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#RO507C1> .
+
+<http://www.wikidata.org/entity/Q201404>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#RO508C1> .
+
+<http://www.wikidata.org/entity/Q185332>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#RO509C1> .
+
+<http://www.wikidata.org/entity/Q276154>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#RO510C1> .
+
+<http://www.wikidata.org/entity/Q16256482>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#RO511C1> .
+
+<http://www.wikidata.org/entity/Q10860283>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#RO512C1> .
+
+<http://www.wikidata.org/entity/Q18538720>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#RO513C1> .
+
+<http://www.wikidata.org/entity/Q437>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#SI001C1> .
+
+<http://www.wikidata.org/entity/Q1010>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#SI002C1> .
+
+<http://www.wikidata.org/entity/Q1780>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#SK001C1> .
+
+<http://www.wikidata.org/entity/Q25409>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#SK002C1> .
+
+<http://www.wikidata.org/entity/Q144983>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#SK003C1> .
+
+<http://www.wikidata.org/entity/Q26397>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#SK004C1> .
+
+<http://www.wikidata.org/entity/Q26119>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#SK005C1> .
+
+<http://www.wikidata.org/entity/Q25797>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#SK006C1> .
+
+<http://www.wikidata.org/entity/Q26175>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#SK007C1> .
+
+<http://www.wikidata.org/entity/Q145002>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#SK008C1> .
+
+<http://www.wikidata.org/entity/Q1757>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#FI001C1> .
+
+<http://www.wikidata.org/entity/Q40840>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#FI002C1> .
+
+<http://www.wikidata.org/entity/Q38511>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#FI003C1> .
+
+<http://www.wikidata.org/entity/Q47048>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#FI004C1> .
+
+<http://www.wikidata.org/entity/Q1754>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#SE001C1> .
+
+<http://www.wikidata.org/entity/Q25287>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#SE002C1> .
+
+<http://www.wikidata.org/entity/Q2211>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#SE003C1> .
+
+<http://www.wikidata.org/entity/Q25415>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#SE004C1> .
+
+<http://www.wikidata.org/entity/Q25579>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#SE005C1> .
+
+<http://www.wikidata.org/entity/Q25286>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#SE006C1> .
+
+<http://www.wikidata.org/entity/Q2983764>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#SE007C1> .
+
+<http://www.wikidata.org/entity/Q25732>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#SE008C1> .
+
+<http://www.wikidata.org/entity/Q25412>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#SE501C1> .
+
+<http://www.wikidata.org/entity/Q25724>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#SE502C1> .
+
+<http://www.wikidata.org/entity/Q10441278>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#SE503C1> .
+
+<http://www.wikidata.org/entity/Q2167>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#SE504C1> .
+
+<http://www.wikidata.org/entity/Q26040>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#SE505C1> .
+
+<http://www.wikidata.org/entity/Q23311>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#UK001C1> .
+
+<http://www.wikidata.org/entity/Q2256>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#UK002C1> .
+
+<http://www.wikidata.org/entity/Q39121>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#UK003C1> .
+
+<http://www.wikidata.org/entity/Q4093>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#UK004C1> .
+
+<http://www.wikidata.org/entity/Q22905>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#UK005C1> .
+
+<http://www.wikidata.org/entity/Q24826>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#UK006C1> .
+
+<http://www.wikidata.org/entity/Q23436>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#UK007C1> .
+
+<http://www.wikidata.org/entity/Q18125>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#UK008C1> .
+
+<http://www.wikidata.org/entity/Q10690>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#UK009C1> .
+
+<http://www.wikidata.org/entity/Q42448>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#UK010C1> .
+
+<http://www.wikidata.org/entity/Q23154>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#UK011C1> .
+
+<http://www.wikidata.org/entity/Q10686>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#UK012C1> .
+
+<http://www.wikidata.org/entity/Q1425428>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#UK013C1> .
+
+<http://www.wikidata.org/entity/Q83065>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#UK014C1> .
+
+<http://www.wikidata.org/entity/Q163584>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#UK015C1> .
+
+<http://www.wikidata.org/entity/Q36405>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#UK016C1> .
+
+<http://www.wikidata.org/entity/Q350>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#UK017C1> .
+
+<http://www.wikidata.org/entity/Q134672>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#UK018C1> .
+
+<http://www.wikidata.org/entity/Q180057>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#UK019C1> .
+
+<http://www.wikidata.org/entity/Q5597930>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#UK020C1> .
+
+<http://www.wikidata.org/entity/Q7615440>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#UK021C1> .
+
+<http://www.wikidata.org/entity/Q4021029>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#UK022C1> .
+
+<http://www.wikidata.org/entity/Q72259>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#UK023C1> .
+
+<http://www.wikidata.org/entity/Q1646181>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#UK024C1> .
+
+<http://www.wikidata.org/entity/Q6225>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#UK025C1> .
+
+<http://www.wikidata.org/entity/Q128147>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#UK026C1> .
+
+<http://www.wikidata.org/entity/Q134902>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#UK027C1> .
+
+<http://www.wikidata.org/entity/Q126269>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#UK028C1> .
+
+<http://www.wikidata.org/entity/Q41262>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#UK029C1> .
+
+<http://www.wikidata.org/entity/Q8027001>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#UK030C1> .
+
+<http://www.wikidata.org/entity/Q6415763>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#UK501C1> .
+
+<http://www.wikidata.org/entity/Q4851819>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#UK502C1> .
+
+<http://www.wikidata.org/entity/Q216638>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#UK503C1> .
+
+<http://www.wikidata.org/entity/Q213832>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#UK504C1> .
+
+<http://www.wikidata.org/entity/Q7999501>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#UK505C1> .
+
+<http://www.wikidata.org/entity/Q3036242>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#UK506C1> .
+
+<http://www.wikidata.org/entity/Q2123171>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#UK507C1> .
+
+<http://www.wikidata.org/entity/Q20963535>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#UK508C1> .
+
+<http://www.wikidata.org/entity/Q7417060>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#UK509C1> .
+
+<http://www.wikidata.org/entity/Q188304>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#UK510C1> .
+
+<http://www.wikidata.org/entity/Q184579>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#UK511C1> .
+
+<http://www.wikidata.org/entity/Q7963766>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#UK512C1> .
+
+<http://www.wikidata.org/entity/Q3304121>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#UK513C1> .
+
+<http://www.wikidata.org/entity/Q7370452>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#UK514C1> .
+
+<http://www.wikidata.org/entity/Q1022488>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#UK515C1> .
+
+<http://www.wikidata.org/entity/Q30990>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#UK516C1> .
+
+<http://www.wikidata.org/entity/Q23051>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#UK517C1> .
+
+<http://www.wikidata.org/entity/Q43475>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#UK518C1> .
+
+<http://www.wikidata.org/entity/Q22520827>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#UK519C1> .
+
+<http://www.wikidata.org/entity/Q79848>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#UK520C1> .
+
+<http://www.wikidata.org/entity/Q202628>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#UK521C1> .
+
+<http://www.wikidata.org/entity/Q47952>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#UK522C1> .
+
+<http://www.wikidata.org/entity/Q7681170>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#UK523C1> .
+
+<http://www.wikidata.org/entity/Q940877>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#UK524C1> .
+
+<http://www.wikidata.org/entity/Q5256604>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#UK525C1> .
+
+<http://www.wikidata.org/entity/Q7828737>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#UK526C1> .
+
+<http://www.wikidata.org/entity/Q7558097>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#UK527C1> .
+
+<http://www.wikidata.org/entity/Q192240>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#UK528C1> .
+
+<http://www.wikidata.org/entity/Q7057063>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#UK529C1> .
+
+<http://www.wikidata.org/entity/Q5527164>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#UK530C1> .
+
+<http://www.wikidata.org/entity/Q3025751>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#UK531C1> .
+
+<http://www.wikidata.org/entity/Q20825616>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#UK532C1> .
+
+<http://www.wikidata.org/entity/Q42462>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#UK533C1> .
+
+<http://www.wikidata.org/entity/Q9182324>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#UK534C1> .
+
+<http://www.wikidata.org/entity/Q3978805>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#UK535C1> .
+
+<http://www.wikidata.org/entity/Q7020659>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#UK536C1> .
+
+<http://www.wikidata.org/entity/Q1650613>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#UK537C1> .
+
+<http://www.wikidata.org/entity/Q24993792>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#UK538C1> .
+
+<http://www.wikidata.org/entity/Q929574>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#UK539C1> .
+
+<http://www.wikidata.org/entity/Q24660874>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#UK540C1> .
+
+<http://www.wikidata.org/entity/Q23939264>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#UK541C1> .
+
+<http://www.wikidata.org/entity/Q21088802>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#UK542C1> .
+
+<http://www.wikidata.org/entity/Q26677140>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#UK543C1> .
+
+<http://www.wikidata.org/entity/Q210985>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#UK544C1> .
+
+<http://www.wikidata.org/entity/Q172438>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#UK545C1> .
+
+<http://www.wikidata.org/entity/Q575411>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#UK546C1> .
+
+<http://www.wikidata.org/entity/Q7568691>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#UK547C1> .
+
+<http://www.wikidata.org/entity/Q26678062>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#UK548C1> .
+
+<http://www.wikidata.org/entity/Q505704>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#UK549C1> .
+
+<http://www.wikidata.org/entity/Q123709>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#UK550C1> .
+
+<http://www.wikidata.org/entity/Q16838559>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#UK551C1> .
+
+<http://www.wikidata.org/entity/Q237896>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#UK552C1> .
+
+<http://www.wikidata.org/entity/Q3177822>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#UK553C1> .
+
+<http://www.wikidata.org/entity/Q21932507>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#UK554C1> .
+
+<http://www.wikidata.org/entity/Q203349>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#UK555C1> .
+
+<http://www.wikidata.org/entity/Q7243165>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#UK556C1> .
+
+<http://www.wikidata.org/entity/Q4922741>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#UK557C1> .
+
+<http://www.wikidata.org/entity/Q101254>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#UK558C1> .
+
+<http://www.wikidata.org/entity/Q4602291>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#UK559C1> .
+
+<http://www.wikidata.org/entity/Q34217>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#UK560C1> .
+
+<http://www.wikidata.org/entity/Q21883537>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#UK561C1> .
+
+<http://www.wikidata.org/entity/Q184090>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#UK562C1> .
+
+<http://www.wikidata.org/entity/Q6226>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#UK563C1> .
+
+<http://www.wikidata.org/entity/Q49195>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#UK564C1> .
+
+<http://www.wikidata.org/entity/Q24661803>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#UK565C1> .
+
+<http://www.wikidata.org/entity/Q130191>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#UK566C1> .
+
+<http://www.wikidata.org/entity/Q7541490>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#UK567C1> .
+
+<http://www.wikidata.org/entity/Q170263>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#UK568C1> .
+
+<http://www.wikidata.org/entity/Q2676656>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#UK569C1> .
+
+<http://www.wikidata.org/entity/Q5184837>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#UK570C1> .
+
+<http://www.wikidata.org/entity/Q21928112>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#UK571C1> .
+
+<http://www.wikidata.org/entity/Q170497>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#UK572C1> .
+
+<http://www.wikidata.org/entity/Q4953732>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#UK573C1> .
+
+<http://www.wikidata.org/entity/Q1828035>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#UK574C1> .
+
+<http://www.wikidata.org/entity/Q192896>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#UK575C1> .
+
+<http://www.wikidata.org/entity/Q24666334>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#UK576C1> .
+
+<http://www.wikidata.org/entity/Q1435>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#HR001C1> .
+
+<http://www.wikidata.org/entity/Q1647>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#HR002C1> .
+
+<http://www.wikidata.org/entity/Q4686>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#HR003C1> .
+
+<http://www.wikidata.org/entity/Q1640>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#HR004C1> .
+
+<http://www.wikidata.org/entity/Q1663>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#HR005C1> .
+
+<http://www.wikidata.org/entity/Q3640>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#TR001C1> .
+
+<http://www.wikidata.org/entity/Q38545>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#TR002C1> .
+
+<http://www.wikidata.org/entity/Q6487>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#TR003C1> .
+
+<http://www.wikidata.org/entity/Q199723>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#TR004C1> .
+
+<http://www.wikidata.org/entity/Q40738>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#TR005C1> .
+
+<http://www.wikidata.org/entity/Q170967>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#TR006C1> .
+
+<http://www.wikidata.org/entity/Q83387>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#TR007C1> .
+
+<http://www.wikidata.org/entity/Q43387>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#TR008C1> .
+
+<http://www.wikidata.org/entity/Q122803>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#TR009C1> .
+
+<http://www.wikidata.org/entity/Q93338>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#TR010C1> .
+
+<http://www.wikidata.org/entity/Q815399>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#TR011C1> .
+
+<http://www.wikidata.org/entity/Q406>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#TR012C1> .
+
+<http://www.wikidata.org/entity/Q35997>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#TR013C1> .
+
+<http://www.wikidata.org/entity/Q127063>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#TR014C1> .
+
+<http://www.wikidata.org/entity/Q155915>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#TR015C1> .
+
+<http://www.wikidata.org/entity/Q48338>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#TR016C1> .
+
+<http://www.wikidata.org/entity/Q27162>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#TR017C1> .
+
+<http://www.wikidata.org/entity/Q1948486>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#TR018C1> .
+
+<http://www.wikidata.org/entity/Q1409126>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#TR019C1> .
+
+<http://www.wikidata.org/entity/Q147089>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#TR020C1> .
+
+<http://www.wikidata.org/entity/Q206879>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#TR021C1> .
+
+<http://www.wikidata.org/entity/Q160450>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#TR022C1> .
+
+<http://www.wikidata.org/entity/Q185084>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#TR023C1> .
+
+<http://www.wikidata.org/entity/Q45301>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#TR024C1> .
+
+<http://www.wikidata.org/entity/Q83061>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#TR025C1> .
+
+<http://www.wikidata.org/entity/Q187895>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#TR026C1> .
+
+<http://www.wikidata.org/entity/Q585>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#NO001C1> .
+
+<http://www.wikidata.org/entity/Q26793>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#NO002C1> .
+
+<http://www.wikidata.org/entity/Q25804>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#NO003C1> .
+
+<http://www.wikidata.org/entity/Q25416>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#NO004C1> .
+
+<http://www.wikidata.org/entity/Q2415>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#NO005C1> .
+
+<http://www.wikidata.org/entity/Q26087>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#NO006C1> .
+
+<http://www.wikidata.org/entity/Q72>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#CH001C1> .
+
+<http://www.wikidata.org/entity/Q71>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#CH002C1> .
+
+<http://www.wikidata.org/entity/Q70>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#CH004C1> .
+
+<http://www.wikidata.org/entity/Q807>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#CH005C1> .
+
+<http://www.wikidata.org/entity/Q384>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#MK001C1> .
+
+<http://www.wikidata.org/entity/Q1764>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#IS001C1> .
+
+<http://www.wikidata.org/entity/Q1844>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#LI001C1> .
+
+<http://www.wikidata.org/entity/Q19689>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#AL001C1> .
+
+<http://www.wikidata.org/entity/Q11194>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#BA001C1> .
+
+<http://www.wikidata.org/entity/Q23564>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#ME001C1> .
+
+<http://www.wikidata.org/entity/Q3711>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#RS001C1> .
+
+<http://www.wikidata.org/entity/Q11090512>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#XK001C1> .
+
+<http://www.wikidata.org/entity/Q649>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#RU001C1> .
+
+<http://www.wikidata.org/entity/Q3926>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#ZA001C1> .
+
+<http://www.wikidata.org/entity/Q1930>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#CA001C1> .
+
+<http://www.wikidata.org/entity/Q61>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#US001C1> .
+
+<http://www.wikidata.org/entity/Q7460887>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#US002C1> .
+
+<http://www.wikidata.org/entity/Q26699326>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#US003C1> .
+
+<http://www.wikidata.org/entity/Q26492750>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#US004C1> .
+
+<http://www.wikidata.org/entity/Q1207735>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#JP001C1> .
+
+<http://www.wikidata.org/entity/Q3114>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#AU001C1> .
+
+<http://www.wikidata.org/entity/Q3130>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#AU002C1> .
+
+<http://www.wikidata.org/entity/Q23661>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#NZ001C1> .
+
+<http://www.wikidata.org/entity/Q78>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#CH003C1> .
+
+<http://www.wikidata.org/entity/Q9125>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#CH006C1> .
+
+<http://www.wikidata.org/entity/Q25607>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#CH007C1> .
+
+<http://www.wikidata.org/entity/Q4191>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#CH008C1> .
+
+<http://www.wikidata.org/entity/Q7024>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#CH009C1> .
+
+<http://www.wikidata.org/entity/Q1034>
+        owl:sameAs  <http://estatwrap.ontologycentral.com/dic/cities#CH010C1> .

@@ -2,8 +2,7 @@ PREFIX owl: <http://www.w3.org/2002/07/owl#>
 PREFIX ocdp: <http://harth.org/andreas/2017/ocdp/vocabs/ocdp#>
 
 CONSTRUCT {
- ?ecity owl:sameAs ?wcity .
- ?wcity a ocdp:City .
+  ?wcity owl:sameAs ?ecity .
 }
 FROM <eurostat-ls-cities-select-wikidata.csv> 
 WHERE {
