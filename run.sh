@@ -20,8 +20,10 @@ for i in eurostat undata ; do
     JAVA_OPTS="-Xmx64G" ldfu.sh -p http://harth.org/andreas/2017/citydata/programs/map-${i}.n3 -i ${date}/${i}-crawl-clean.nq.gz -o ${date}/${i}.nq -v 2> ${date}/${i}-map.log
     # parse to clean files
     rapper -i nquads ${date}/$i.nq | gzip -c > ${date}/$i.nt.gz &
-    # query for observations in canonical representation
+    # query for observations in materialised data
     JAVA_OPTS="-Xmx64G" ldfu.sh -i ${date}/${i}.nq -q queries/observations.rq ${date}/${i}-obs-mat.csv
+    # query for observations in canonical representation
+    JAVA_OPTS="-Xmx64G" ldfu.sh -i ${date}/${i}.nq -q queries/observations-${i}.rq ${date}/${i}-obs.nt.gz
 done
 
 sleep 10s

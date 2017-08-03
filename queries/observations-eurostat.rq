@@ -1,0 +1,22 @@
+PREFIX dcterms: <http://purl.org/dc/terms/>
+PREFIX sdmxdim: <http://purl.org/linked-data/sdmx/2009/dimension#>
+PREFIX sdmxm: <http://purl.org/linked-data/sdmx/2009/measure#>
+PREFIX cd: <http://citydata.wu.ac.at/ns#>
+PREFIX string: <http://www.w3.org/2000/10/swap/string#>
+
+CONSTRUCT {
+  ?obs sdmxdim:refArea ?city ;
+       cd:hasIndicator ?indicator ;
+       dcterms:date ?year ;
+       sdmxm:obsValue ?value .
+} WHERE {
+  ?obs sdmxdim:refArea ?city ;
+       cd:hasIndicator ?indicator ;
+       dcterms:date ?year ;
+       sdmxm:obsValue ?value .
+
+  # filter citydata URIs for indicator
+  ?indicator string:contains "citydata.wu.ac.at" .
+  # filter estatwrap URIs for city
+  ?city string:contains "estatwrap.ontologycentral.com" .
+}
