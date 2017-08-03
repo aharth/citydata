@@ -24,9 +24,11 @@ sed '1d' eurostat.tsv | sort -u > eurostat.1.tsv
 sed '1d' geonames.tsv | sort -u  > geonames.1.tsv
 
 # match
-python match-sim.py undata.1.tsv geonames.1.tsv | grep -E "sameAs>|label>" > undata-geo-geonames-links.nt
-python match-sim.py eurostat.1.tsv geonames.1.tsv | grep -E "sameAs>|label>" > eurostat-geo-geonames-links.nt
+python match-sim.py undata.1.tsv geonames.1.tsv | grep -E "sameAs>|label>" > undata-cities-links.nt
+python match-sim.py eurostat.1.tsv geonames.1.tsv | grep -E "sameAs>|label>" > eurostat-cities-links.nt
 
 # matches in Turtle
-rapper -i ntriples undata-geo-geonames-links.nt -o turtle > undata-geo-geonames-links.ttl
-rapper -i ntriples eurostat-geo-geonames-links.nt -o turtle > eurostat-geo-geonames-links.ttl
+rapper -i ntriples undata-cities-links.nt -o turtle > undata-cities-links.ttl
+rapper -i ntriples eurostat-cities-links.nt -o turtle > eurostat-cities-links.ttl
+
+rm *.nt
