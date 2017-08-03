@@ -3,6 +3,9 @@
 <http://ontologycentral.com/2009/01/eurostat/ns#age>
     <http://www.w3.org/2002/07/owl#equivalentProperty> <http://purl.org/linked-data/sdmx/2009/dimension#age> .
 
+<http://ontologycentral.com/2009/01/eurostat/ns#metroreg>
+    <http://www.w3.org/2002/07/owl#equivalentProperty> <http://purl.org/linked-data/sdmx/2009/dimension#refArea> .
+
 <http://ontologycentral.com/2009/01/eurostat/ns#cities>
     <http://www.w3.org/2002/07/owl#equivalentProperty> <http://purl.org/linked-data/sdmx/2009/dimension#refArea> .
 

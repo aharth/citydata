@@ -1,0 +1,10 @@
+PREFIX owl: <http://www.w3.org/2002/07/owl#>
+
+CONSTRUCT {
+  ?item owl:sameAs ?geo .
+}
+FROM <wikidata-nuts2.csv>
+WHERE {
+  BIND (iri(concat("http://estatwrap.ontologycentral.com/dic/geo#", ?nuts)) AS ?geo)
+  BIND (iri(?mitem) AS ?item)
+}

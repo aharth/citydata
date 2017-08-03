@@ -1,0 +1,1380 @@
+@prefix geo:  <http://estatwrap.ontologycentral.com/dic/geo#> .
+@prefix cities:  <http://estatwrap.ontologycentral.com/dic/cities#> .
+@prefix spatial:  <http://geovocab.org/spatial#> .
+@prefix rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+cities:BE001C1  spatial:P  geo:BE100 .
+
+cities:BE002C1  spatial:P  geo:BE211 .
+
+cities:BE003C1  spatial:P  geo:BE234 .
+
+cities:BE008C1  spatial:P  geo:BE242 .
+
+cities:BE006C1  spatial:P  geo:BE251 .
+
+cities:BE010C1  spatial:P  geo:BE254 .
+
+cities:BE011C1  spatial:P  geo:BE255 .
+
+cities:BE004C1  spatial:P  geo:BE322 .
+
+cities:BE009C1  spatial:P  geo:BE323 .
+
+cities:BE005C1  spatial:P  geo:BE332 .
+
+cities:BE007C1  spatial:P  geo:BE352 .
+
+cities:BG007C1  spatial:P  geo:BG311 .
+
+cities:BG018C1  spatial:P  geo:BG313 .
+
+cities:BG005C1  spatial:P  geo:BG314 .
+
+cities:BG017C1  spatial:P  geo:BG321 .
+
+cities:BG006C1  spatial:P  geo:BG323 .
+
+cities:BG003C1  spatial:P  geo:BG331 .
+
+cities:BG010C1  spatial:P  geo:BG332 .
+
+cities:BG011C1  spatial:P  geo:BG333 .
+
+cities:BG004C1  spatial:P  geo:BG341 .
+
+cities:BG009C1  spatial:P  geo:BG342 .
+
+cities:BG013C1  spatial:P  geo:BG343 .
+
+cities:BG008C1  spatial:P  geo:BG344 .
+
+cities:BG001C1  spatial:P  geo:BG411 .
+
+cities:BG016C1  spatial:P  geo:BG413 .
+
+cities:BG012C1  spatial:P  geo:BG414 .
+
+cities:BG002C1  spatial:P  geo:BG421 .
+
+cities:BG014C1  spatial:P  geo:BG422 .
+
+cities:BG015C1  spatial:P  geo:BG423 .
+
+cities:CZ001C1  spatial:P  geo:CZ010 .
+
+cities:CZ012C1  spatial:P  geo:CZ020 .
+
+cities:CZ008C1  spatial:P  geo:CZ031 .
+
+cities:CZ004C1  spatial:P  geo:CZ032 .
+
+cities:CZ013C1  spatial:P  geo:CZ041 .
+
+cities:CZ005C1  spatial:P  geo:CZ042 .
+
+cities:CZ007C1  spatial:P  geo:CZ051 .
+
+cities:CZ009C1  spatial:P  geo:CZ052 .
+
+cities:CZ010C1  spatial:P  geo:CZ053 .
+
+cities:CZ014C1  spatial:P  geo:CZ063 .
+
+cities:CZ002C1  spatial:P  geo:CZ064 .
+
+cities:CZ006C1  spatial:P  geo:CZ071 .
+
+cities:CZ011C1  spatial:P  geo:CZ072 .
+
+cities:CZ003C1  spatial:P  geo:CZ080 .
+
+cities:DK001C1  spatial:P  geo:DK011 .
+
+cities:DK003C1  spatial:P  geo:DK031 .
+
+cities:DK002C1  spatial:P  geo:DK042 .
+
+cities:DK004C1  spatial:P  geo:DK050 .
+
+cities:DE007C1  spatial:P  geo:DE111 .
+
+cities:DE068C1  spatial:P  geo:DE112 .
+
+cities:DE046C1  spatial:P  geo:DE113 .
+
+cities:DE049C1  spatial:P  geo:DE115 .
+
+cities:DE529C1  spatial:P  geo:DE117 .
+
+cities:DE035C1  spatial:P  geo:DE122 .
+
+cities:DE522C1  spatial:P  geo:DE125 .
+
+cities:DE502C1  spatial:P  geo:DE126 .
+
+cities:DE533C1  spatial:P  geo:DE129 .
+
+cities:DE027C1  spatial:P  geo:DE131 .
+
+cities:DE073C1  spatial:P  geo:DE134 .
+
+cities:DE051C1  spatial:P  geo:DE136 .
+
+cities:DE054C1  spatial:P  geo:DE138 .
+
+cities:DE537C1  spatial:P  geo:DE141 .
+
+cities:DE050C1  spatial:P  geo:DE142 .
+
+cities:DE532C1  spatial:P  geo:DE144 .
+
+cities:DE072C1  spatial:P  geo:DE147 .
+
+cities:DE534C1  spatial:P  geo:DE211 .
+
+cities:DE003C1  spatial:P  geo:DE212 .
+
+cities:DE069C1  spatial:P  geo:DE213 .
+
+cities:DE067C1  spatial:P  geo:DE221 .
+
+cities:DE081C1  spatial:P  geo:DE222 .
+
+cities:DE028C1  spatial:P  geo:DE232 .
+
+cities:DE062C1  spatial:P  geo:DE241 .
+
+cities:DE059C1  spatial:P  geo:DE242 .
+
+cities:DE545C1  spatial:P  geo:DE252 .
+
+cities:DE538C1  spatial:P  geo:DE253 .
+
+cities:DE014C1  spatial:P  geo:DE254 .
+
+cities:DE061C1  spatial:P  geo:DE261 .
+
+cities:DE077C1  spatial:P  geo:DE262 .
+
+cities:DE524C1  spatial:P  geo:DE263 .
+
+cities:DE033C1  spatial:P  geo:DE271 .
+
+cities:DE066C1  spatial:P  geo:DE273 .
+
+cities:DE076C1  spatial:P  geo:DE279 .
+
+cities:DE001C1  spatial:P  geo:DE300 .
+
+cities:DE056C1  spatial:P  geo:DE401 .
+
+cities:DE539C1  spatial:P  geo:DE402 .
+
+cities:DE029C1  spatial:P  geo:DE403 .
+
+cities:DE041C1  spatial:P  geo:DE404 .
+
+cities:DE012C1  spatial:P  geo:DE501 .
+
+cities:DE527C1  spatial:P  geo:DE502 .
+
+cities:DE002C1  spatial:P  geo:DE600 .
+
+cities:DE025C1  spatial:P  geo:DE711 .
+
+cities:DE005C1  spatial:P  geo:DE712 .
+
+cities:DE531C1  spatial:P  geo:DE713 .
+
+cities:DE020C1  spatial:P  geo:DE714 .
+
+cities:DE047C1  spatial:P  geo:DE719 .
+
+cities:DE057C1  spatial:P  geo:DE721 .
+
+cities:DE079C1  spatial:P  geo:DE722 .
+
+cities:DE053C1  spatial:P  geo:DE724 .
+
+cities:DE513C1  spatial:P  geo:DE731 .
+
+cities:DE065C1  spatial:P  geo:DE732 .
+
+cities:DE078C1  spatial:P  geo:DE801 .
+
+cities:DE064C1  spatial:P  geo:DE802 .
+
+cities:DE043C1  spatial:P  geo:DE803 .
+
+cities:DE031C1  spatial:P  geo:DE804 .
+
+cities:DE071C1  spatial:P  geo:DE805 .
+
+cities:DE506C1  spatial:P  geo:DE911 .
+
+cities:DE536C1  spatial:P  geo:DE912 .
+
+cities:DE526C1  spatial:P  geo:DE913 .
+
+cities:DE021C1  spatial:P  geo:DE915 .
+
+cities:DE542C1  spatial:P  geo:DE925 .
+
+cities:DE013C1  spatial:P  geo:DE929 .
+
+cities:DE060C1  spatial:P  geo:DE931 .
+
+cities:DE058C1  spatial:P  geo:DE935 .
+
+cities:DE520C1  spatial:P  geo:DE943 .
+
+cities:DE517C1  spatial:P  geo:DE944 .
+
+cities:DE048C1  spatial:P  geo:DE945 .
+
+cities:DE011C1  spatial:P  geo:DEA11 .
+
+cities:DE501C1  spatial:P  geo:DEA12 .
+
+cities:DE006C1  spatial:P  geo:DEA13 .
+
+cities:DE508C1  spatial:P  geo:DEA14 .
+
+cities:DE036C1  spatial:P  geo:DEA15 .
+
+cities:DE022C1  spatial:P  geo:DEA16 .
+
+cities:DE509C1  spatial:P  geo:DEA17 .
+
+cities:DE530C1  spatial:P  geo:DEA18 .
+
+cities:DE516C1  spatial:P  geo:DEA19 .
+
+cities:DE546C1  spatial:P  geo:DEA1A .
+
+cities:DE521C1  spatial:P  geo:DEA1D .
+
+cities:DE023C1  spatial:P  geo:DEA1F .
+
+cities:DE034C1  spatial:P  geo:DEA22 .
+
+cities:DE004C1  spatial:P  geo:DEA23 .
+
+cities:DE519C1  spatial:P  geo:DEA24 .
+
+cities:DE541C1  spatial:P  geo:DEA2B .
+
+cities:DE075C1  spatial:P  geo:DEA2C .
+
+cities:DE507C1  spatial:P  geo:DEA2D .
+
+cities:DE528C1  spatial:P  geo:DEA31 .
+
+cities:DE503C1  spatial:P  geo:DEA32 .
+
+cities:DE504C1  spatial:P  geo:DEA33 .
+
+cities:DE525C1  spatial:P  geo:DEA36 .
+
+cities:DE017C1  spatial:P  geo:DEA41 .
+
+cities:DE523C1  spatial:P  geo:DEA47 .
+
+cities:DE015C1  spatial:P  geo:DEA51 .
+
+cities:DE010C1  spatial:P  geo:DEA52 .
+
+cities:DE511C1  spatial:P  geo:DEA53 .
+
+cities:DE514C1  spatial:P  geo:DEA54 .
+
+cities:DE515C1  spatial:P  geo:DEA55 .
+
+cities:DE543C1  spatial:P  geo:DEA56 .
+
+cities:DE045C1  spatial:P  geo:DEA58 .
+
+cities:DE540C1  spatial:P  geo:DEA5A .
+
+cities:DE042C1  spatial:P  geo:DEB11 .
+
+cities:DE026C1  spatial:P  geo:DEB21 .
+
+cities:DE070C1  spatial:P  geo:DEB31 .
+
+cities:DE044C1  spatial:P  geo:DEB32 .
+
+cities:DE518C1  spatial:P  geo:DEB34 .
+
+cities:DE037C1  spatial:P  geo:DEB35 .
+
+cities:DE080C1  spatial:P  geo:DEB38 .
+
+cities:DE040C1  spatial:P  geo:DEC01 .
+
+cities:DE009C1  spatial:P  geo:DED21 .
+
+cities:DE074C1  spatial:P  geo:DED2D .
+
+cities:DE505C1  spatial:P  geo:DED41 .
+
+cities:DE063C1  spatial:P  geo:DED44 .
+
+cities:DE544C1  spatial:P  geo:DED45 .
+
+cities:DE008C1  spatial:P  geo:DED51 .
+
+cities:DE082C1  spatial:P  geo:DEE01 .
+
+cities:DE018C1  spatial:P  geo:DEE02 .
+
+cities:DE019C1  spatial:P  geo:DEE03 .
+
+cities:DE052C1  spatial:P  geo:DEF01 .
+
+cities:DE039C1  spatial:P  geo:DEF02 .
+
+cities:DE510C1  spatial:P  geo:DEF03 .
+
+cities:DE055C1  spatial:P  geo:DEF04 .
+
+cities:DE032C1  spatial:P  geo:DEG01 .
+
+cities:DE535C1  spatial:P  geo:DEG02 .
+
+cities:DE547C1  spatial:P  geo:DEG03 .
+
+cities:DE030C1  spatial:P  geo:DEG05 .
+
+cities:EE001C1  spatial:P  geo:EE001 .
+
+cities:EE003C1  spatial:P  geo:EE007 .
+
+cities:EE002C1  spatial:P  geo:EE008 .
+
+cities:IE004C1  spatial:P  geo:IE013 .
+
+cities:IE001C1  spatial:P  geo:IE021 .
+
+cities:IE003C1  spatial:P  geo:IE023 .
+
+cities:IE005C1  spatial:P  geo:IE024 .
+
+cities:IE002C1  spatial:P  geo:IE025 .
+
+cities:EL008C1  spatial:P  geo:EL115 .
+
+cities:EL002C1  spatial:P  geo:EL122 .
+
+cities:EL005C1  spatial:P  geo:EL142 .
+
+cities:EL006C1  spatial:P  geo:EL143 .
+
+cities:EL007C1  spatial:P  geo:EL213 .
+
+cities:EL003C1  spatial:P  geo:EL232 .
+
+cities:EL009C1  spatial:P  geo:EL255 .
+
+cities:EL001C1  spatial:P  geo:EL300 .
+
+cities:EL004C1  spatial:P  geo:EL431 .
+
+cities:ES011C1  spatial:P  geo:ES111 .
+
+cities:ES031C1  spatial:P  geo:ES112 .
+
+cities:ES529C1  spatial:P  geo:ES113 .
+
+cities:ES022C1  spatial:P  geo:ES114 .
+
+cities:ES013C1  spatial:P  geo:ES120 .
+
+cities:ES015C1  spatial:P  geo:ES130 .
+
+cities:ES012C1  spatial:P  geo:ES211 .
+
+cities:ES070C1  spatial:P  geo:ES212 .
+
+cities:ES019C1  spatial:P  geo:ES213 .
+
+cities:ES014C1  spatial:P  geo:ES220 .
+
+cities:ES018C1  spatial:P  geo:ES230 .
+
+cities:ES005C1  spatial:P  geo:ES243 .
+
+cities:ES001C1  spatial:P  geo:ES300 .
+
+cities:ES515C1  spatial:P  geo:ES412 .
+
+cities:ES057C1  spatial:P  geo:ES413 .
+
+cities:ES041C1  spatial:P  geo:ES414 .
+
+cities:ES516C1  spatial:P  geo:ES415 .
+
+cities:ES009C1  spatial:P  geo:ES418 .
+
+cities:ES059C1  spatial:P  geo:ES419 .
+
+cities:ES519C1  spatial:P  geo:ES421 .
+
+cities:ES053C1  spatial:P  geo:ES422 .
+
+cities:ES048C1  spatial:P  geo:ES424 .
+
+cities:ES016C1  spatial:P  geo:ES425 .
+
+cities:ES017C1  spatial:P  geo:ES431 .
+
+cities:ES034C1  spatial:P  geo:ES432 .
+
+cities:ES002C1  spatial:P  geo:ES511 .
+
+cities:ES033C1  spatial:P  geo:ES512 .
+
+cities:ES528C1  spatial:P  geo:ES513 .
+
+cities:ES028C1  spatial:P  geo:ES514 .
+
+cities:ES021C1  spatial:P  geo:ES521 .
+
+cities:ES520C1  spatial:P  geo:ES522 .
+
+cities:ES003C1  spatial:P  geo:ES523 .
+
+cities:ES010C1  spatial:P  geo:ES532 .
+
+cities:ES514C1  spatial:P  geo:ES611 .
+
+cities:ES032C1  spatial:P  geo:ES612 .
+
+cities:ES020C1  spatial:P  geo:ES613 .
+
+cities:ES501C1  spatial:P  geo:ES614 .
+
+cities:ES521C1  spatial:P  geo:ES615 .
+
+cities:ES527C1  spatial:P  geo:ES616 .
+
+cities:ES006C1  spatial:P  geo:ES617 .
+
+cities:ES004C1  spatial:P  geo:ES618 .
+
+cities:ES007C1  spatial:P  geo:ES620 .
+
+cities:ES045C1  spatial:P  geo:ES630 .
+
+cities:ES055C1  spatial:P  geo:ES640 .
+
+cities:ES008C1  spatial:P  geo:ES705 .
+
+cities:ES072C1  spatial:P  geo:ES708 .
+
+cities:ES025C1  spatial:P  geo:ES709 .
+
+cities:FR001C1  spatial:P  geo:FR101 .
+
+cities:FR210C1  spatial:P  geo:FR102 .
+
+cities:FR211C1  spatial:P  geo:FR103 .
+
+cities:FR213C1  spatial:P  geo:FR104 .
+
+cities:FR222C1  spatial:P  geo:FR108 .
+
+cities:FR505C1  spatial:P  geo:FR211 .
+
+cities:FR051C2  spatial:P  geo:FR212 .
+
+cities:FR104C2  spatial:P  geo:FR213 .
+
+cities:FR079C2  spatial:P  geo:FR221 .
+
+cities:FR074C2  spatial:P  geo:FR222 .
+
+cities:FR014C2  spatial:P  geo:FR223 .
+
+cities:FR086C2  spatial:P  geo:FR231 .
+
+cities:FR215C2  spatial:P  geo:FR232 .
+
+cities:FR065C2  spatial:P  geo:FR241 .
+
+cities:FR060C2  spatial:P  geo:FR242 .
+
+cities:FR090C2  spatial:P  geo:FR243 .
+
+cities:FR035C2  spatial:P  geo:FR244 .
+
+cities:FR019C1  spatial:P  geo:FR246 .
+
+cities:FR023C2  spatial:P  geo:FR251 .
+
+cities:FR069C1  spatial:P  geo:FR252 .
+
+cities:FR020C2  spatial:P  geo:FR261 .
+
+cities:FR059C2  spatial:P  geo:FR263 .
+
+cities:FR209C2  spatial:P  geo:FR301 .
+
+cities:FR057C2  spatial:P  geo:FR302 .
+
+cities:FR016C1  spatial:P  geo:FR411 .
+
+cities:FR017C2  spatial:P  geo:FR413 .
+
+cities:FR006C2  spatial:P  geo:FR421 .
+
+cities:FR506C1  spatial:P  geo:FR422 .
+
+cities:FR050C2  spatial:P  geo:FR431 .
+
+cities:FR076C2  spatial:P  geo:FR434 .
+
+cities:FR052C2  spatial:P  geo:FR511 .
+
+cities:FR036C2  spatial:P  geo:FR512 .
+
+cities:FR038C2  spatial:P  geo:FR514 .
+
+cities:FR066C1  spatial:P  geo:FR521 .
+
+cities:FR067C2  spatial:P  geo:FR522 .
+
+cities:FR013C2  spatial:P  geo:FR523 .
+
+cities:FR049C2  spatial:P  geo:FR524 .
+
+cities:FR056C1  spatial:P  geo:FR531 .
+
+cities:FR053C1  spatial:P  geo:FR532 .
+
+cities:FR061C2  spatial:P  geo:FR533 .
+
+cities:FR021C2  spatial:P  geo:FR534 .
+
+cities:FR007C1  spatial:P  geo:FR612 .
+
+cities:FR045C2  spatial:P  geo:FR615 .
+
+cities:FR004C2  spatial:P  geo:FR623 .
+
+cities:FR073C2  spatial:P  geo:FR626 .
+
+cities:FR096C2  spatial:P  geo:FR627 .
+
+cities:FR093C2  spatial:P  geo:FR631 .
+
+cities:FR024C2  spatial:P  geo:FR633 .
+
+cities:FR214C1  spatial:P  geo:FR713 .
+
+cities:FR026C2  spatial:P  geo:FR714 .
+
+cities:FR077C1  spatial:P  geo:FR715 .
+
+cities:FR003C2  spatial:P  geo:FR716 .
+
+cities:FR058C2  spatial:P  geo:FR717 .
+
+cities:FR047C2  spatial:P  geo:FR718 .
+
+cities:FR022C2  spatial:P  geo:FR724 .
+
+cities:FR044C2  spatial:P  geo:FR812 .
+
+cities:FR063C2  spatial:P  geo:FR813 .
+
+cities:FR043C2  spatial:P  geo:FR815 .
+
+cities:FR205C2  spatial:P  geo:FR823 .
+
+cities:FR201C1  spatial:P  geo:FR824 .
+
+cities:FR099C1  spatial:P  geo:FR825 .
+
+cities:FR039C2  spatial:P  geo:FR826 .
+
+cities:FR027C1  spatial:P  geo:FR831 .
+
+cities:FR030C1  spatial:P  geo:FR920 .
+
+cities:FR028C1  spatial:P  geo:FR940 .
+
+cities:HR002C1  spatial:P  geo:HR031 .
+
+cities:HR005C1  spatial:P  geo:HR035 .
+
+cities:HR001C1  spatial:P  geo:HR041 .
+
+cities:HR003C1  spatial:P  geo:HR04A .
+
+cities:HR004C1  spatial:P  geo:HR04B .
+
+cities:IT004C1  spatial:P  geo:ITC11 .
+
+cities:IT059C1  spatial:P  geo:ITC13 .
+
+cities:IT516C1  spatial:P  geo:ITC15 .
+
+cities:IT045C1  spatial:P  geo:ITC17 .
+
+cities:IT051C1  spatial:P  geo:ITC31 .
+
+cities:IT052C1  spatial:P  geo:ITC32 .
+
+cities:IT006C1  spatial:P  geo:ITC33 .
+
+cities:IT036C1  spatial:P  geo:ITC34 .
+
+cities:IT043C1  spatial:P  geo:ITC41 .
+
+cities:IT040C1  spatial:P  geo:ITC42 .
+
+cities:IT060C1  spatial:P  geo:ITC43 .
+
+cities:IT511C1  spatial:P  geo:ITC46 .
+
+cities:IT029C1  spatial:P  geo:ITC47 .
+
+cities:IT046C1  spatial:P  geo:ITC48 .
+
+cities:IT013C1  spatial:P  geo:ITC4A .
+
+cities:IT002C1  spatial:P  geo:ITC4C .
+
+cities:IT510C1  spatial:P  geo:ITC4D .
+
+cities:IT019C1  spatial:P  geo:ITF13 .
+
+cities:IT020C1  spatial:P  geo:ITF22 .
+
+cities:IT021C1  spatial:P  geo:ITF31 .
+
+cities:IT050C1  spatial:P  geo:ITF32 .
+
+cities:IT003C1  spatial:P  geo:ITF33 .
+
+cities:IT057C1  spatial:P  geo:ITF34 .
+
+cities:IT032C1  spatial:P  geo:ITF35 .
+
+cities:IT022C1  spatial:P  geo:ITF43 .
+
+cities:IT037C1  spatial:P  geo:ITF45 .
+
+cities:IT031C1  spatial:P  geo:ITF46 .
+
+cities:IT008C1  spatial:P  geo:ITF47 .
+
+cities:IT038C1  spatial:P  geo:ITF48 .
+
+cities:IT023C1  spatial:P  geo:ITF51 .
+
+cities:IT054C1  spatial:P  geo:ITF52 .
+
+cities:IT048C1  spatial:P  geo:ITF61 .
+
+cities:IT024C1  spatial:P  geo:ITF63 .
+
+cities:IT025C1  spatial:P  geo:ITF65 .
+
+cities:IT005C1  spatial:P  geo:ITG12 .
+
+cities:IT501C1  spatial:P  geo:ITG13 .
+
+cities:IT010C1  spatial:P  geo:ITG17 .
+
+cities:IT509C1  spatial:P  geo:ITG19 .
+
+cities:IT026C1  spatial:P  geo:ITG25 .
+
+cities:IT027C1  spatial:P  geo:ITG27 .
+
+cities:IT034C1  spatial:P  geo:ITH10 .
+
+cities:IT014C1  spatial:P  geo:ITH20 .
+
+cities:IT012C1  spatial:P  geo:ITH31 .
+
+cities:IT514C1  spatial:P  geo:ITH32 .
+
+cities:IT042C1  spatial:P  geo:ITH34 .
+
+cities:IT011C1  spatial:P  geo:ITH35 .
+
+cities:IT028C1  spatial:P  geo:ITH36 .
+
+cities:IT058C1  spatial:P  geo:ITH41 .
+
+cities:IT035C1  spatial:P  geo:ITH42 .
+
+cities:IT015C1  spatial:P  geo:ITH44 .
+
+cities:IT033C1  spatial:P  geo:ITH51 .
+
+cities:IT503C1  spatial:P  geo:ITH52 .
+
+cities:IT505C1  spatial:P  geo:ITH53 .
+
+cities:IT030C1  spatial:P  geo:ITH54 .
+
+cities:IT009C1  spatial:P  geo:ITH55 .
+
+cities:IT507C1  spatial:P  geo:ITH56 .
+
+cities:IT506C1  spatial:P  geo:ITH57 .
+
+cities:IT512C1  spatial:P  geo:ITH58 .
+
+cities:IT508C1  spatial:P  geo:ITH59 .
+
+cities:IT047C1  spatial:P  geo:ITI11 .
+
+cities:IT055C1  spatial:P  geo:ITI12 .
+
+cities:IT007C1  spatial:P  geo:ITI14 .
+
+cities:IT502C1  spatial:P  geo:ITI15 .
+
+cities:IT504C1  spatial:P  geo:ITI16 .
+
+cities:IT041C1  spatial:P  geo:ITI17 .
+
+cities:IT016C1  spatial:P  geo:ITI21 .
+
+cities:IT515C1  spatial:P  geo:ITI22 .
+
+cities:IT039C1  spatial:P  geo:ITI31 .
+
+cities:IT017C1  spatial:P  geo:ITI32 .
+
+cities:IT001C1  spatial:P  geo:ITI43 .
+
+cities:IT513C1  spatial:P  geo:ITI44 .
+
+cities:CY001C1  spatial:P  geo:CY000 .
+
+cities:LV002C1  spatial:P  geo:LV003 .
+
+cities:LV501C1  spatial:P  geo:LV005 .
+
+cities:LV001C1  spatial:P  geo:LV006 .
+
+cities:LV003C1  spatial:P  geo:LV009 .
+
+cities:LT004C1  spatial:P  geo:LT001 .
+
+cities:LT002C1  spatial:P  geo:LT002 .
+
+cities:LT501C1  spatial:P  geo:LT003 .
+
+cities:LT003C1  spatial:P  geo:LT005 .
+
+cities:LT502C1  spatial:P  geo:LT006 .
+
+cities:LT001C1  spatial:P  geo:LT00A .
+
+cities:LU001C1  spatial:P  geo:LU000 .
+
+cities:HU001C1  spatial:P  geo:HU101 .
+
+cities:HU009C1  spatial:P  geo:HU211 .
+
+cities:HU007C1  spatial:P  geo:HU221 .
+
+cities:HU010C1  spatial:P  geo:HU222 .
+
+cities:HU004C1  spatial:P  geo:HU231 .
+
+cities:HU002C1  spatial:P  geo:HU311 .
+
+cities:HU005C1  spatial:P  geo:HU321 .
+
+cities:HU003C1  spatial:P  geo:HU323 .
+
+cities:HU008C1  spatial:P  geo:HU331 .
+
+cities:HU006C1  spatial:P  geo:HU333 .
+
+cities:MT001C1  spatial:P  geo:MT001 .
+
+cities:NL007C1  spatial:P  geo:NL113 .
+
+cities:NL015C1  spatial:P  geo:NL121 .
+
+cities:NL511C1  spatial:P  geo:NL211 .
+
+cities:NL513C1  spatial:P  geo:NL212 .
+
+cities:NL517C1  spatial:P  geo:NL213 .
+
+cities:NL014C1  spatial:P  geo:NL221 .
+
+cities:NL009C1  spatial:P  geo:NL226 .
+
+cities:NL520C1  spatial:P  geo:NL230 .
+
+cities:NL004C1  spatial:P  geo:NL310 .
+
+cities:NL031C1  spatial:P  geo:NL321 .
+
+cities:NL514C1  spatial:P  geo:NL322 .
+
+cities:NL025C1  spatial:P  geo:NL323 .
+
+cities:NL501C1  spatial:P  geo:NL324 .
+
+cities:NL502C1  spatial:P  geo:NL325 .
+
+cities:NL002C1  spatial:P  geo:NL326 .
+
+cities:NL018C1  spatial:P  geo:NL327 .
+
+cities:NL001C1  spatial:P  geo:NL332 .
+
+cities:NL017C1  spatial:P  geo:NL333 .
+
+cities:NL029C1  spatial:P  geo:NL337 .
+
+cities:NL026C1  spatial:P  geo:NL338 .
+
+cities:NL518C1  spatial:P  geo:NL339 .
+
+cities:NL506C1  spatial:P  geo:NL33A .
+
+cities:NL032C1  spatial:P  geo:NL342 .
+
+cities:NL012C1  spatial:P  geo:NL411 .
+
+cities:NL006C1  spatial:P  geo:NL412 .
+
+cities:NL503C1  spatial:P  geo:NL413 .
+
+cities:NL516C1  spatial:P  geo:NL414 .
+
+cities:NL515C1  spatial:P  geo:NL421 .
+
+cities:NL010C1  spatial:P  geo:NL423 .
+
+cities:AT001C1  spatial:P  geo:AT130 .
+
+cities:AT006C1  spatial:P  geo:AT211 .
+
+cities:AT002C1  spatial:P  geo:AT221 .
+
+cities:AT003C1  spatial:P  geo:AT312 .
+
+cities:AT004C1  spatial:P  geo:AT323 .
+
+cities:AT005C1  spatial:P  geo:AT332 .
+
+cities:PL002C1  spatial:P  geo:PL113 .
+
+cities:PL043C1  spatial:P  geo:PL114 .
+
+cities:PL032C1  spatial:P  geo:PL115 .
+
+cities:PL026C1  spatial:P  geo:PL121 .
+
+cities:PL031C1  spatial:P  geo:PL122 .
+
+cities:PL001C1  spatial:P  geo:PL127 .
+
+cities:PL025C1  spatial:P  geo:PL128 .
+
+cities:PL003C1  spatial:P  geo:PL213 .
+
+cities:PL020C1  spatial:P  geo:PL215 .
+
+cities:PL514C1  spatial:P  geo:PL217 .
+
+cities:PL024C1  spatial:P  geo:PL224 .
+
+cities:PL506C1  spatial:P  geo:PL225 .
+
+cities:PL023C1  spatial:P  geo:PL227 .
+
+cities:PL505C1  spatial:P  geo:PL228 .
+
+cities:PL503C1  spatial:P  geo:PL229 .
+
+cities:PL010C1  spatial:P  geo:PL22A .
+
+cities:PL502C1  spatial:P  geo:PL22B .
+
+cities:PL509C1  spatial:P  geo:PL22C .
+
+cities:PL041C1  spatial:P  geo:PL312 .
+
+cities:PL009C1  spatial:P  geo:PL314 .
+
+cities:PL040C1  spatial:P  geo:PL324 .
+
+cities:PL015C1  spatial:P  geo:PL325 .
+
+cities:PL045C1  spatial:P  geo:PL326 .
+
+cities:PL012C1  spatial:P  geo:PL331 .
+
+cities:PL011C1  spatial:P  geo:PL343 .
+
+cities:PL047C1  spatial:P  geo:PL344 .
+
+cities:PL021C1  spatial:P  geo:PL345 .
+
+cities:PL034C1  spatial:P  geo:PL411 .
+
+cities:PL022C1  spatial:P  geo:PL414 .
+
+cities:PL005C1  spatial:P  geo:PL415 .
+
+cities:PL027C1  spatial:P  geo:PL416 .
+
+cities:PL048C1  spatial:P  geo:PL417 .
+
+cities:PL028C1  spatial:P  geo:PL422 .
+
+cities:PL038C1  spatial:P  geo:PL423 .
+
+cities:PL007C1  spatial:P  geo:PL424 .
+
+cities:PL017C1  spatial:P  geo:PL431 .
+
+cities:PL018C1  spatial:P  geo:PL432 .
+
+cities:PL004C1  spatial:P  geo:PL514 .
+
+cities:PL019C1  spatial:P  geo:PL515 .
+
+cities:PL033C1  spatial:P  geo:PL516 .
+
+cities:PL049C1  spatial:P  geo:PL517 .
+
+cities:PL016C1  spatial:P  geo:PL522 .
+
+cities:PL008C1  spatial:P  geo:PL613 .
+
+cities:PL517C1  spatial:P  geo:PL614 .
+
+cities:PL035C1  spatial:P  geo:PL615 .
+
+cities:PL512C1  spatial:P  geo:PL621 .
+
+cities:PL014C1  spatial:P  geo:PL622 .
+
+cities:PL052C1  spatial:P  geo:PL623 .
+
+cities:PL029C1  spatial:P  geo:PL631 .
+
+cities:PL006C1  spatial:P  geo:PL633 .
+
+cities:PL051C1  spatial:P  geo:PL635 .
+
+cities:PT016C1  spatial:P  geo:PT111 .
+
+cities:PT003C1  spatial:P  geo:PT112 .
+
+cities:PT505C1  spatial:P  geo:PT113 .
+
+cities:PT002C1  spatial:P  geo:PT114 .
+
+cities:PT017C1  spatial:P  geo:PT115 .
+
+cities:PT009C1  spatial:P  geo:PT150 .
+
+cities:PT008C1  spatial:P  geo:PT161 .
+
+cities:PT005C1  spatial:P  geo:PT162 .
+
+cities:PT014C1  spatial:P  geo:PT165 .
+
+cities:PT001C1  spatial:P  geo:PT171 .
+
+cities:PT006C1  spatial:P  geo:PT172 .
+
+cities:PT007C1  spatial:P  geo:PT200 .
+
+cities:PT004C1  spatial:P  geo:PT300 .
+
+cities:RO006C1  spatial:P  geo:RO111 .
+
+cities:RO022C1  spatial:P  geo:RO112 .
+
+cities:RO002C1  spatial:P  geo:RO113 .
+
+cities:RO507C1  spatial:P  geo:RO114 .
+
+cities:RO509C1  spatial:P  geo:RO115 .
+
+cities:RO014C1  spatial:P  geo:RO121 .
+
+cities:RO504C1  spatial:P  geo:RO122 .
+
+cities:RO010C1  spatial:P  geo:RO125 .
+
+cities:RO009C1  spatial:P  geo:RO126 .
+
+cities:RO007C1  spatial:P  geo:RO211 .
+
+cities:RO510C1  spatial:P  geo:RO212 .
+
+cities:RO502C1  spatial:P  geo:RO213 .
+
+cities:RO011C1  spatial:P  geo:RO214 .
+
+cities:RO512C1  spatial:P  geo:RO215 .
+
+cities:RO020C1  spatial:P  geo:RO216 .
+
+cities:RO005C1  spatial:P  geo:RO221 .
+
+cities:RO508C1  spatial:P  geo:RO222 .
+
+cities:RO501C1  spatial:P  geo:RO223 .
+
+cities:RO503C1  spatial:P  geo:RO224 .
+
+cities:RO017C1  spatial:P  geo:RO225 .
+
+cities:RO015C1  spatial:P  geo:RO226 .
+
+cities:RO506C1  spatial:P  geo:RO311 .
+
+cities:RO012C1  spatial:P  geo:RO312 .
+
+cities:RO018C1  spatial:P  geo:RO313 .
+
+cities:RO013C1  spatial:P  geo:RO314 .
+
+cities:RO505C1  spatial:P  geo:RO316 .
+
+cities:RO001C1  spatial:P  geo:RO321 .
+
+cities:RO004C1  spatial:P  geo:RO411 .
+
+cities:RO016C1  spatial:P  geo:RO412 .
+
+cities:RO513C1  spatial:P  geo:RO413 .
+
+cities:RO019C1  spatial:P  geo:RO414 .
+
+cities:RO511C1  spatial:P  geo:RO415 .
+
+cities:RO008C1  spatial:P  geo:RO421 .
+
+cities:RO003C1  spatial:P  geo:RO424 .
+
+cities:SI002C1  spatial:P  geo:SI012 .
+
+cities:SI001C1  spatial:P  geo:SI021 .
+
+cities:SK001C1  spatial:P  geo:SK010 .
+
+cities:SK007C1  spatial:P  geo:SK021 .
+
+cities:SK008C1  spatial:P  geo:SK022 .
+
+cities:SK004C1  spatial:P  geo:SK023 .
+
+cities:SK006C1  spatial:P  geo:SK031 .
+
+cities:SK003C1  spatial:P  geo:SK032 .
+
+cities:SK005C1  spatial:P  geo:SK041 .
+
+cities:SK002C1  spatial:P  geo:SK042 .
+
+cities:FI009C1  spatial:P  geo:FI193 .
+
+cities:FI002C1  spatial:P  geo:FI197 .
+
+cities:FI001C2  spatial:P  geo:FI1B1 .
+
+cities:FI003C1  spatial:P  geo:FI1C1 .
+
+cities:FI007C1  spatial:P  geo:FI1C3 .
+
+cities:FI008C2  spatial:P  geo:FI1D2 .
+
+cities:FI004C3  spatial:P  geo:FI1D6 .
+
+cities:SE001C1  spatial:P  geo:SE110 .
+
+cities:SE006C1  spatial:P  geo:SE121 .
+
+cities:SE007C1  spatial:P  geo:SE123 .
+
+cities:SE008C1  spatial:P  geo:SE124 .
+
+cities:SE501C1  spatial:P  geo:SE125 .
+
+cities:SE004C1  spatial:P  geo:SE211 .
+
+cities:SE003C1  spatial:P  geo:SE224 .
+
+cities:SE002C1  spatial:P  geo:SE232 .
+
+cities:SE005C1  spatial:P  geo:SE331 .
+
+cities:UK536C1  spatial:P  geo:UKC11 .
+
+cities:UK559C1  spatial:P  geo:UKC12 .
+
+cities:UK044C1  spatial:P  geo:UKC13 .
+
+cities:UK529C1  spatial:P  geo:UKC22 .
+
+cities:UK510C1  spatial:P  geo:UKC23 .
+
+cities:UK575C1  spatial:P  geo:UKD12 .
+
+cities:UK008C1  spatial:P  geo:UKD31 .
+
+cities:UK521C1  spatial:P  geo:UKD32 .
+
+cities:UK557C1  spatial:P  geo:UKD41 .
+
+cities:UK553C1  spatial:P  geo:UKD42 .
+
+cities:UK562C1  spatial:P  geo:UKD43 .
+
+cities:UK531C1  spatial:P  geo:UKD61 .
+
+cities:UK568C2  spatial:P  geo:UKD63 .
+
+cities:UK537C1  spatial:P  geo:UKD71 .
+
+cities:UK006C1  spatial:P  geo:UKD72 .
+
+cities:UK508C1  spatial:P  geo:UKD73 .
+
+cities:UK030C1  spatial:P  geo:UKD74 .
+
+cities:UK026C1  spatial:P  geo:UKE11 .
+
+cities:UK543C1  spatial:P  geo:UKE13 .
+
+cities:UK533C1  spatial:P  geo:UKE21 .
+
+cities:UK514C1  spatial:P  geo:UKE31 .
+
+cities:UK010C1  spatial:P  geo:UKE32 .
+
+cities:UK005C1  spatial:P  geo:UKE41 .
+
+cities:UK003C1  spatial:P  geo:UKE42 .
+
+cities:UK501C1  spatial:P  geo:UKE44 .
+
+cities:UK503C1  spatial:P  geo:UKE45 .
+
+cities:UK518C1  spatial:P  geo:UKF11 .
+
+cities:UK047C1  spatial:P  geo:UKF12 .
+
+cities:UK029C1  spatial:P  geo:UKF14 .
+
+cities:UK046C1  spatial:P  geo:UKF15 .
+
+cities:UK014C1  spatial:P  geo:UKF21 .
+
+cities:UK528C1  spatial:P  geo:UKF24 .
+
+cities:UK019C1  spatial:P  geo:UKF30 .
+
+cities:UK024C1  spatial:P  geo:UKG12 .
+
+cities:UK564C1  spatial:P  geo:UKG13 .
+
+cities:UK542C1  spatial:P  geo:UKG21 .
+
+cities:UK027C1  spatial:P  geo:UKG23 .
+
+cities:UK565C1  spatial:P  geo:UKG24 .
+
+cities:UK002C1  spatial:P  geo:UKG31 .
+
+cities:UK527C1  spatial:P  geo:UKG32 .
+
+cities:UK025C1  spatial:P  geo:UKG33 .
+
+cities:UK504C1  spatial:P  geo:UKG36 .
+
+cities:UK509C1  spatial:P  geo:UKG37 .
+
+cities:UK512C1  spatial:P  geo:UKG38 .
+
+cities:UK028C1  spatial:P  geo:UKG39 .
+
+cities:UK545C1  spatial:P  geo:UKH11 .
+
+cities:UK017C1  spatial:P  geo:UKH12 .
+
+cities:UK566C1  spatial:P  geo:UKH13 .
+
+cities:UK569C1  spatial:P  geo:UKH14 .
+
+cities:UK532C1  spatial:P  geo:UKH21 .
+
+cities:UK556C1  spatial:P  geo:UKH23 .
+
+cities:UK549C1  spatial:P  geo:UKH24 .
+
+cities:UK541C1  spatial:P  geo:UKH31 .
+
+cities:UK032C1  spatial:P  geo:UKH32 .
+
+cities:UK538C1  spatial:P  geo:UKH33 .
+
+cities:UK101C1  spatial:P  geo:UKI11 .
+
+cities:UK112C1  spatial:P  geo:UKI12 .
+
+cities:UK102C1  spatial:P  geo:UKI21 .
+
+cities:UK106C1  spatial:P  geo:UKI22 .
+
+cities:UK103C1  spatial:P  geo:UKI23 .
+
+cities:UK552C1  spatial:P  geo:UKJ11 .
+
+cities:UK525C1  spatial:P  geo:UKJ12 .
+
+cities:UK540C1  spatial:P  geo:UKJ13 .
+
+cities:UK560C1  spatial:P  geo:UKJ14 .
+
+cities:UK515C1  spatial:P  geo:UKJ21 .
+
+cities:UK055C1  spatial:P  geo:UKJ22 .
+
+cities:UK033C1  spatial:P  geo:UKJ23 .
+
+cities:UK576C1  spatial:P  geo:UKJ24 .
+
+cities:UK023C1  spatial:P  geo:UKJ31 .
+
+cities:UK520C1  spatial:P  geo:UKJ32 .
+
+cities:UK548C1  spatial:P  geo:UKJ33 .
+
+cities:UK513C1  spatial:P  geo:UKJ41 .
+
+cities:UK554C1  spatial:P  geo:UKJ42 .
+
+cities:UK011C1  spatial:P  geo:UKK11 .
+
+cities:UK031C1  spatial:P  geo:UKK12 .
+
+cities:UK571C1  spatial:P  geo:UKK13 .
+
+cities:UK535C1  spatial:P  geo:UKK14 .
+
+cities:UK539C1  spatial:P  geo:UKK21 .
+
+cities:UK516C1  spatial:P  geo:UKK41 .
+
+cities:UK561C1  spatial:P  geo:UKK42 .
+
+cities:UK018C1  spatial:P  geo:UKK43 .
+
+cities:UK517C1  spatial:P  geo:UKL18 .
+
+cities:UK558C1  spatial:P  geo:UKL21 .
+
+cities:UK009C1  spatial:P  geo:UKL22 .
+
+cities:UK022C1  spatial:P  geo:UKL23 .
+
+cities:UK550C1  spatial:P  geo:UKM21 .
+
+cities:UK007C1  spatial:P  geo:UKM25 .
+
+cities:UK551C1  spatial:P  geo:UKM26 .
+
+cities:UK004C1  spatial:P  geo:UKM34 .
+
+cities:UK502C1  spatial:P  geo:UKM36 .
+
+cities:UK016C1  spatial:P  geo:UKM50 .
+
+cities:UK012C1  spatial:P  geo:UKN01 .
+
+cities:UK574C1  spatial:P  geo:UKN02 .
+
+cities:UK015C1  spatial:P  geo:UKN04 .
+
+cities:IS001C1  spatial:P  geo:IS001 .
+
+cities:CH005C1  spatial:P  geo:CH011 .
+
+cities:CH002C1  spatial:P  geo:CH013 .
+
+cities:CH004C1  spatial:P  geo:CH021 .
+
+cities:CH003C1  spatial:P  geo:CH031 .
+
+cities:CH001C1  spatial:P  geo:CH040 .
+
+cities:CH007C1  spatial:P  geo:CH055 .
+
+cities:CH008C1  spatial:P  geo:CH061 .
+
+cities:CH009C1  spatial:P  geo:CH070 .
+
+cities:TR012C1  spatial:P  geo:TR100 .
+
+cities:TR008C1  spatial:P  geo:TR212 .
+
+cities:TR004C1  spatial:P  geo:TR221 .
+
+cities:TR013C1  spatial:P  geo:TR310 .
+
+cities:TR006C1  spatial:P  geo:TR322 .
+
+cities:TR020C1  spatial:P  geo:TR331 .
+
+cities:TR005C1  spatial:P  geo:TR411 .
+
+cities:TR017C1  spatial:P  geo:TR421 .
+
+cities:TR001C1  spatial:P  geo:TR510 .
+
+cities:TR018C1  spatial:P  geo:TR521 .
+
+cities:TR003C1  spatial:P  geo:TR611 .
+
+cities:TR002C1  spatial:P  geo:TR621 .
+
+cities:TR011C1  spatial:P  geo:TR631 .
+
+cities:TR021C1  spatial:P  geo:TR714 .
+
+cities:TR016C1  spatial:P  geo:TR721 .
+
+cities:TR026C1  spatial:P  geo:TR811 .
+
+cities:TR015C1  spatial:P  geo:TR821 .
+
+cities:TR022C1  spatial:P  geo:TR831 .
+
+cities:TR024C1  spatial:P  geo:TR901 .
+
+cities:TR009C1  spatial:P  geo:TRA11 .
+
+cities:TR014C1  spatial:P  geo:TRA22 .
+
+cities:TR019C1  spatial:P  geo:TRB11 .
+
+cities:TR025C1  spatial:P  geo:TRB21 .
+
+cities:TR010C1  spatial:P  geo:TRC11 .
+
+cities:TR007C1  spatial:P  geo:TRC22 .
+
+cities:TR023C1  spatial:P  geo:TRC34 .

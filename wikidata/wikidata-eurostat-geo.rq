@@ -1,0 +1,18 @@
+PREFIX owl: <http://www.w3.org/2002/07/owl#>
+
+# get sameAs from geo to Wikidata (but only the Wikidata resource with the lowest URI)
+
+CONSTRUCT {
+  ?item owl:sameAs ?geo .
+}
+WHERE {
+  BIND (iri(concat("http://estatwrap.ontologycentral.com/dic/geo#", ?nuts)) AS ?geo)
+  BIND (iri(?mitem) AS ?item)
+  {
+    SELECT ?nuts (min(?item) as ?mitem)
+    WHERE {
+      ?item wdt:P605 ?nuts .
+    }
+    GROUP BY ?nuts
+  }
+}
