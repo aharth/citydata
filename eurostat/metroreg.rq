@@ -5,7 +5,7 @@ PREFIX spatial: <http://geovocab.org/spatial#>
 CONSTRUCT {
   ?geo spatial:P ?metroreg .
 }
-FROM <metro1.csv>
+FROM <metroreg1.csv>
 WHERE {
   BIND (iri(concat("http://estatwrap.ontologycentral.com/dic/metroreg#", ?MetroID)) AS ?metroreg)
   BIND (iri(concat("http://estatwrap.ontologycentral.com/dic/geo#", ?NUTS3ID)) AS ?geo)

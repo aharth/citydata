@@ -1,2 +1,2 @@
-tarql.sh city.rq > city-geo-hierarchy.ttl
-tarql.sh metro.rq > metro-geo-hierarchy.ttl
+tarql.sh cities.rq > cities-geo-hierarchy.ttl
+tarql.sh metroreg.rq > metroreg-geo-hierarchy.ttl

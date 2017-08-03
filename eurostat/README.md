@@ -1,5 +1,4 @@
 # Eurostat
 
 Create hierarchical structure for geospatial data in Eurostat.
-
-Map geo to cities and metroreg.
+Done via mapping cities and metroreg to geo using "Ttypologies and local information corresponding to NUTS3.xls"
