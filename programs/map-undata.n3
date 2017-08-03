@@ -14,5 +14,41 @@
 
 @prefix cd: <http://citydata.wu.ac.at/ns#> .
 
-# nop
-_:p rdfs:label "nop" .
+######### 
+
+# Map ref area to sameAs identifier (in one direction only)
+{
+  ?x sdmxdim:refArea ?area .
+  ?area owl:sameAs ?area1 .
+} => {
+  ?x sdmxdim:refArea ?area1 .
+} .
+
+# reflexivity of indicators
+#{
+#  ?indicator rdf:type <http://citydata.wu.ac.at/ns#Indicator>.
+#} => {
+#  ?indicator owl:sameAs ?indicator.
+#} .
+
+# eq-sym 
+#{ ?x owl:sameAs ?y . } => { ?y owl:sameAs ?x . }.
+
+# eq-trans 
+#{ ?x owl:sameAs ?y . ?y owl:sameAs ?z . } => { ?x owl:sameAs ?z . } .
+
+#eq-rep-s 
+#{ ?s owl:sameAs ?s0 . ?s ?p ?o . } => { ?s0 ?p ?o . } .
+#eq-rep-p 
+#{ ?p owl:sameAs ?p0 . ?s ?p ?o . } => { ?s ?p0 ?o . } .
+#eq-rep-o 
+#{ ?o owl:sameAs ?o0 . ?s ?p ?o . } => { ?s ?p ?o0 . } .
+#eq-diff1 
+#{ ?x owl:sameAs ?y ; owl:differentFrom ?y . } => { ?x a owl:Nothing . ?y a owl:Nothing . }
+
+# prp-eqp1 
+#{ ?p1 owl:equivalentProperty ?p2 . ?x ?p1 ?y . } => { ?x ?p2 ?y . } .
+# prp-eqp2 
+#{ ?p1 owl:equivalentProperty ?p2 . ?x ?p2 ?y . } => { ?x ?p1 ?y . } .
+# scm-eqp1 
+#{ ?p1 owl:equivalentProperty ?p2 . } => { ?p1 rdfs:subPropertyOf ?p2 . ?p2 rdfs:subPropertyOf ?p1 . } .
