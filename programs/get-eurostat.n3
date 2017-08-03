@@ -35,7 +35,7 @@
 
 # follow rdfs:seeAlso from eurostat-links.ttl
 {
-  <http://harth.org/andreas/2017/citydata/seeds/eurostat.ttl> rdfs:seeAlso ?x .
+  <http://harth.org/andreas/2017/citydata/seeds/eurostat-links.ttl> rdfs:seeAlso ?x .
 } => {
   [] http:mthd httpm:GET ;
      http:requestURI ?x .
