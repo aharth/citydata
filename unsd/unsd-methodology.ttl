@@ -2,214 +2,11 @@
 @prefix : <unsd-methodology#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 
-:area004
-    :countryOrAreaOf :subregion034 ;
-    :isoAlpha3 "AFG" ;
-    :m49 "004" ;
-    a :CountryOrArea ;
-    rdfs:label "Afghanistan" .
-
-:area008
-    :countryOrAreaOf :subregion039 ;
-    :isoAlpha3 "ALB" ;
-    :m49 "008" ;
-    a :CountryOrArea ;
-    rdfs:label "Albania" .
-
-:area010
+:area10
     :isoAlpha3 "ATA" ;
-    :m49 "010" ;
+    :m49 "10" ;
     a :CountryOrArea ;
     rdfs:label "Antarctica" .
-
-:area012
-    :countryOrAreaOf :subregion015 ;
-    :isoAlpha3 "DZA" ;
-    :m49 "012" ;
-    a :CountryOrArea ;
-    rdfs:label "Algeria" .
-
-:area016
-    :countryOrAreaOf :subregion061 ;
-    :isoAlpha3 "ASM" ;
-    :m49 "016" ;
-    a :CountryOrArea ;
-    rdfs:label "American Samoa" .
-
-:area020
-    :countryOrAreaOf :subregion039 ;
-    :isoAlpha3 "AND" ;
-    :m49 "020" ;
-    a :CountryOrArea ;
-    rdfs:label "Andorra" .
-
-:area024
-    :countryOrAreaOf :subregion202 ;
-    :isoAlpha3 "AGO" ;
-    :m49 "024" ;
-    a :CountryOrArea ;
-    rdfs:label "Angola" .
-
-:area028
-    :countryOrAreaOf :subregion419 ;
-    :isoAlpha3 "ATG" ;
-    :m49 "028" ;
-    a :CountryOrArea ;
-    rdfs:label "Antigua and Barbuda" .
-
-:area031
-    :countryOrAreaOf :subregion145 ;
-    :isoAlpha3 "AZE" ;
-    :m49 "031" ;
-    a :CountryOrArea ;
-    rdfs:label "Azerbaijan" .
-
-:area032
-    :countryOrAreaOf :subregion419 ;
-    :isoAlpha3 "ARG" ;
-    :m49 "032" ;
-    a :CountryOrArea ;
-    rdfs:label "Argentina" .
-
-:area036
-    :countryOrAreaOf :subregion053 ;
-    :isoAlpha3 "AUS" ;
-    :m49 "036" ;
-    a :CountryOrArea ;
-    rdfs:label "Australia" .
-
-:area040
-    :countryOrAreaOf :subregion155 ;
-    :isoAlpha3 "AUT" ;
-    :m49 "040" ;
-    a :CountryOrArea ;
-    rdfs:label "Austria" .
-
-:area044
-    :countryOrAreaOf :subregion419 ;
-    :isoAlpha3 "BHS" ;
-    :m49 "044" ;
-    a :CountryOrArea ;
-    rdfs:label "Bahamas" .
-
-:area048
-    :countryOrAreaOf :subregion145 ;
-    :isoAlpha3 "BHR" ;
-    :m49 "048" ;
-    a :CountryOrArea ;
-    rdfs:label "Bahrain" .
-
-:area050
-    :countryOrAreaOf :subregion034 ;
-    :isoAlpha3 "BGD" ;
-    :m49 "050" ;
-    a :CountryOrArea ;
-    rdfs:label "Bangladesh" .
-
-:area051
-    :countryOrAreaOf :subregion145 ;
-    :isoAlpha3 "ARM" ;
-    :m49 "051" ;
-    a :CountryOrArea ;
-    rdfs:label "Armenia" .
-
-:area052
-    :countryOrAreaOf :subregion419 ;
-    :isoAlpha3 "BRB" ;
-    :m49 "052" ;
-    a :CountryOrArea ;
-    rdfs:label "Barbados" .
-
-:area056
-    :countryOrAreaOf :subregion155 ;
-    :isoAlpha3 "BEL" ;
-    :m49 "056" ;
-    a :CountryOrArea ;
-    rdfs:label "Belgium" .
-
-:area060
-    :countryOrAreaOf :subregion021 ;
-    :isoAlpha3 "BMU" ;
-    :m49 "060" ;
-    a :CountryOrArea ;
-    rdfs:label "Bermuda" .
-
-:area064
-    :countryOrAreaOf :subregion034 ;
-    :isoAlpha3 "BTN" ;
-    :m49 "064" ;
-    a :CountryOrArea ;
-    rdfs:label "Bhutan" .
-
-:area068
-    :countryOrAreaOf :subregion419 ;
-    :isoAlpha3 "BOL" ;
-    :m49 "068" ;
-    a :CountryOrArea ;
-    rdfs:label "Bolivia (Plurinational State of)" .
-
-:area070
-    :countryOrAreaOf :subregion039 ;
-    :isoAlpha3 "BIH" ;
-    :m49 "070" ;
-    a :CountryOrArea ;
-    rdfs:label "Bosnia and Herzegovina" .
-
-:area072
-    :countryOrAreaOf :subregion202 ;
-    :isoAlpha3 "BWA" ;
-    :m49 "072" ;
-    a :CountryOrArea ;
-    rdfs:label "Botswana" .
-
-:area074
-    :countryOrAreaOf :subregion419 ;
-    :isoAlpha3 "BVT" ;
-    :m49 "074" ;
-    a :CountryOrArea ;
-    rdfs:label "Bouvet Island" .
-
-:area076
-    :countryOrAreaOf :subregion419 ;
-    :isoAlpha3 "BRA" ;
-    :m49 "076" ;
-    a :CountryOrArea ;
-    rdfs:label "Brazil" .
-
-:area084
-    :countryOrAreaOf :subregion419 ;
-    :isoAlpha3 "BLZ" ;
-    :m49 "084" ;
-    a :CountryOrArea ;
-    rdfs:label "Belize" .
-
-:area086
-    :countryOrAreaOf :subregion202 ;
-    :isoAlpha3 "IOT" ;
-    :m49 "086" ;
-    a :CountryOrArea ;
-    rdfs:label "British Indian Ocean Territory" .
-
-:area090
-    :countryOrAreaOf :subregion054 ;
-    :isoAlpha3 "SLB" ;
-    :m49 "090" ;
-    a :CountryOrArea ;
-    rdfs:label "Solomon Islands" .
-
-:area092
-    :countryOrAreaOf :subregion419 ;
-    :isoAlpha3 "VGB" ;
-    :m49 "092" ;
-    a :CountryOrArea ;
-    rdfs:label "British Virgin Islands" .
-
-:area096
-    :countryOrAreaOf :subregion035 ;
-    :isoAlpha3 "BRN" ;
-    :m49 "096" ;
-    a :CountryOrArea ;
-    rdfs:label "Brunei Darussalam" .
 
 :area100
     :countryOrAreaOf :subregion151 ;
@@ -219,7 +16,7 @@
     rdfs:label "Bulgaria" .
 
 :area104
-    :countryOrAreaOf :subregion035 ;
+    :countryOrAreaOf :subregion35 ;
     :isoAlpha3 "MMR" ;
     :m49 "104" ;
     a :CountryOrArea ;
@@ -240,11 +37,18 @@
     rdfs:label "Belarus" .
 
 :area116
-    :countryOrAreaOf :subregion035 ;
+    :countryOrAreaOf :subregion35 ;
     :isoAlpha3 "KHM" ;
     :m49 "116" ;
     a :CountryOrArea ;
     rdfs:label "Cambodia" .
+
+:area12
+    :countryOrAreaOf :subregion15 ;
+    :isoAlpha3 "DZA" ;
+    :m49 "12" ;
+    a :CountryOrArea ;
+    rdfs:label "Algeria" .
 
 :area120
     :countryOrAreaOf :subregion202 ;
@@ -254,7 +58,7 @@
     rdfs:label "Cameroon" .
 
 :area124
-    :countryOrAreaOf :subregion021 ;
+    :countryOrAreaOf :subregion21 ;
     :isoAlpha3 "CAN" ;
     :m49 "124" ;
     a :CountryOrArea ;
@@ -282,7 +86,7 @@
     rdfs:label "Central African Republic" .
 
 :area144
-    :countryOrAreaOf :subregion034 ;
+    :countryOrAreaOf :subregion34 ;
     :isoAlpha3 "LKA" ;
     :m49 "144" ;
     a :CountryOrArea ;
@@ -303,21 +107,28 @@
     rdfs:label "Chile" .
 
 :area156
-    :countryOrAreaOf :subregion030 ;
+    :countryOrAreaOf :subregion30 ;
     :isoAlpha3 "CHN" ;
     :m49 "156" ;
     a :CountryOrArea ;
     rdfs:label "China" .
 
+:area16
+    :countryOrAreaOf :subregion61 ;
+    :isoAlpha3 "ASM" ;
+    :m49 "16" ;
+    a :CountryOrArea ;
+    rdfs:label "American Samoa" .
+
 :area162
-    :countryOrAreaOf :subregion053 ;
+    :countryOrAreaOf :subregion53 ;
     :isoAlpha3 "CXR" ;
     :m49 "162" ;
     a :CountryOrArea ;
     rdfs:label "Christmas Island" .
 
 :area166
-    :countryOrAreaOf :subregion053 ;
+    :countryOrAreaOf :subregion53 ;
     :isoAlpha3 "CCK" ;
     :m49 "166" ;
     a :CountryOrArea ;
@@ -359,7 +170,7 @@
     rdfs:label "Democratic Republic of the Congo" .
 
 :area184
-    :countryOrAreaOf :subregion061 ;
+    :countryOrAreaOf :subregion61 ;
     :isoAlpha3 "COK" ;
     :m49 "184" ;
     a :CountryOrArea ;
@@ -373,7 +184,7 @@
     rdfs:label "Costa Rica" .
 
 :area191
-    :countryOrAreaOf :subregion039 ;
+    :countryOrAreaOf :subregion39 ;
     :isoAlpha3 "HRV" ;
     :m49 "191" ;
     a :CountryOrArea ;
@@ -392,6 +203,13 @@
     :m49 "196" ;
     a :CountryOrArea ;
     rdfs:label "Cyprus" .
+
+:area20
+    :countryOrAreaOf :subregion39 ;
+    :isoAlpha3 "AND" ;
+    :m49 "20" ;
+    a :CountryOrArea ;
+    rdfs:label "Andorra" .
 
 :area203
     :countryOrAreaOf :subregion151 ;
@@ -491,8 +309,15 @@
     a :CountryOrArea ;
     rdfs:label "South Georgia and the South Sandwich Islands" .
 
+:area24
+    :countryOrAreaOf :subregion202 ;
+    :isoAlpha3 "AGO" ;
+    :m49 "24" ;
+    a :CountryOrArea ;
+    rdfs:label "Angola" .
+
 :area242
-    :countryOrAreaOf :subregion054 ;
+    :countryOrAreaOf :subregion54 ;
     :isoAlpha3 "FJI" ;
     :m49 "242" ;
     a :CountryOrArea ;
@@ -527,7 +352,7 @@
     rdfs:label "French Guiana" .
 
 :area258
-    :countryOrAreaOf :subregion061 ;
+    :countryOrAreaOf :subregion61 ;
     :isoAlpha3 "PYF" ;
     :m49 "258" ;
     a :CountryOrArea ;
@@ -582,6 +407,13 @@
     a :CountryOrArea ;
     rdfs:label "Germany" .
 
+:area28
+    :countryOrAreaOf :subregion419 ;
+    :isoAlpha3 "ATG" ;
+    :m49 "28" ;
+    a :CountryOrArea ;
+    rdfs:label "Antigua and Barbuda" .
+
 :area288
     :countryOrAreaOf :subregion202 ;
     :isoAlpha3 "GHA" ;
@@ -590,28 +422,28 @@
     rdfs:label "Ghana" .
 
 :area292
-    :countryOrAreaOf :subregion039 ;
+    :countryOrAreaOf :subregion39 ;
     :isoAlpha3 "GIB" ;
     :m49 "292" ;
     a :CountryOrArea ;
     rdfs:label "Gibraltar" .
 
 :area296
-    :countryOrAreaOf :subregion057 ;
+    :countryOrAreaOf :subregion57 ;
     :isoAlpha3 "KIR" ;
     :m49 "296" ;
     a :CountryOrArea ;
     rdfs:label "Kiribati" .
 
 :area300
-    :countryOrAreaOf :subregion039 ;
+    :countryOrAreaOf :subregion39 ;
     :isoAlpha3 "GRC" ;
     :m49 "300" ;
     a :CountryOrArea ;
     rdfs:label "Greece" .
 
 :area304
-    :countryOrAreaOf :subregion021 ;
+    :countryOrAreaOf :subregion21 ;
     :isoAlpha3 "GRL" ;
     :m49 "304" ;
     a :CountryOrArea ;
@@ -624,6 +456,13 @@
     a :CountryOrArea ;
     rdfs:label "Grenada" .
 
+:area31
+    :countryOrAreaOf :subregion145 ;
+    :isoAlpha3 "AZE" ;
+    :m49 "31" ;
+    a :CountryOrArea ;
+    rdfs:label "Azerbaijan" .
+
 :area312
     :countryOrAreaOf :subregion419 ;
     :isoAlpha3 "GLP" ;
@@ -632,11 +471,18 @@
     rdfs:label "Guadeloupe" .
 
 :area316
-    :countryOrAreaOf :subregion057 ;
+    :countryOrAreaOf :subregion57 ;
     :isoAlpha3 "GUM" ;
     :m49 "316" ;
     a :CountryOrArea ;
     rdfs:label "Guam" .
+
+:area32
+    :countryOrAreaOf :subregion419 ;
+    :isoAlpha3 "ARG" ;
+    :m49 "32" ;
+    a :CountryOrArea ;
+    rdfs:label "Argentina" .
 
 :area320
     :countryOrAreaOf :subregion419 ;
@@ -667,14 +513,14 @@
     rdfs:label "Haiti" .
 
 :area334
-    :countryOrAreaOf :subregion053 ;
+    :countryOrAreaOf :subregion53 ;
     :isoAlpha3 "HMD" ;
     :m49 "334" ;
     a :CountryOrArea ;
     rdfs:label "Heard Island and McDonald Islands" .
 
 :area336
-    :countryOrAreaOf :subregion039 ;
+    :countryOrAreaOf :subregion39 ;
     :isoAlpha3 "VAT" ;
     :m49 "336" ;
     a :CountryOrArea ;
@@ -688,7 +534,7 @@
     rdfs:label "Honduras" .
 
 :area344
-    :countryOrAreaOf :subregion030 ;
+    :countryOrAreaOf :subregion30 ;
     :isoAlpha3 "HKG" ;
     :m49 "344" ;
     a :CountryOrArea ;
@@ -709,21 +555,28 @@
     rdfs:label "Iceland" .
 
 :area356
-    :countryOrAreaOf :subregion034 ;
+    :countryOrAreaOf :subregion34 ;
     :isoAlpha3 "IND" ;
     :m49 "356" ;
     a :CountryOrArea ;
     rdfs:label "India" .
 
+:area36
+    :countryOrAreaOf :subregion53 ;
+    :isoAlpha3 "AUS" ;
+    :m49 "36" ;
+    a :CountryOrArea ;
+    rdfs:label "Australia" .
+
 :area360
-    :countryOrAreaOf :subregion035 ;
+    :countryOrAreaOf :subregion35 ;
     :isoAlpha3 "IDN" ;
     :m49 "360" ;
     a :CountryOrArea ;
     rdfs:label "Indonesia" .
 
 :area364
-    :countryOrAreaOf :subregion034 ;
+    :countryOrAreaOf :subregion34 ;
     :isoAlpha3 "IRN" ;
     :m49 "364" ;
     a :CountryOrArea ;
@@ -751,7 +604,7 @@
     rdfs:label "Israel" .
 
 :area380
-    :countryOrAreaOf :subregion039 ;
+    :countryOrAreaOf :subregion39 ;
     :isoAlpha3 "ITA" ;
     :m49 "380" ;
     a :CountryOrArea ;
@@ -772,7 +625,7 @@
     rdfs:label "Jamaica" .
 
 :area392
-    :countryOrAreaOf :subregion030 ;
+    :countryOrAreaOf :subregion30 ;
     :isoAlpha3 "JPN" ;
     :m49 "392" ;
     a :CountryOrArea ;
@@ -784,6 +637,20 @@
     :m49 "398" ;
     a :CountryOrArea ;
     rdfs:label "Kazakhstan" .
+
+:area4
+    :countryOrAreaOf :subregion34 ;
+    :isoAlpha3 "AFG" ;
+    :m49 "4" ;
+    a :CountryOrArea ;
+    rdfs:label "Afghanistan" .
+
+:area40
+    :countryOrAreaOf :subregion155 ;
+    :isoAlpha3 "AUT" ;
+    :m49 "40" ;
+    a :CountryOrArea ;
+    rdfs:label "Austria" .
 
 :area400
     :countryOrAreaOf :subregion145 ;
@@ -800,14 +667,14 @@
     rdfs:label "Kenya" .
 
 :area408
-    :countryOrAreaOf :subregion030 ;
+    :countryOrAreaOf :subregion30 ;
     :isoAlpha3 "PRK" ;
     :m49 "408" ;
     a :CountryOrArea ;
     rdfs:label "Democratic People's Republic of Korea" .
 
 :area410
-    :countryOrAreaOf :subregion030 ;
+    :countryOrAreaOf :subregion30 ;
     :isoAlpha3 "KOR" ;
     :m49 "410" ;
     a :CountryOrArea ;
@@ -828,7 +695,7 @@
     rdfs:label "Kyrgyzstan" .
 
 :area418
-    :countryOrAreaOf :subregion035 ;
+    :countryOrAreaOf :subregion35 ;
     :isoAlpha3 "LAO" ;
     :m49 "418" ;
     a :CountryOrArea ;
@@ -863,7 +730,7 @@
     rdfs:label "Liberia" .
 
 :area434
-    :countryOrAreaOf :subregion015 ;
+    :countryOrAreaOf :subregion15 ;
     :isoAlpha3 "LBY" ;
     :m49 "434" ;
     a :CountryOrArea ;
@@ -875,6 +742,13 @@
     :m49 "438" ;
     a :CountryOrArea ;
     rdfs:label "Liechtenstein" .
+
+:area44
+    :countryOrAreaOf :subregion419 ;
+    :isoAlpha3 "BHS" ;
+    :m49 "44" ;
+    a :CountryOrArea ;
+    rdfs:label "Bahamas" .
 
 :area440
     :countryOrAreaOf :subregion154 ;
@@ -891,7 +765,7 @@
     rdfs:label "Luxembourg" .
 
 :area446
-    :countryOrAreaOf :subregion030 ;
+    :countryOrAreaOf :subregion30 ;
     :isoAlpha3 "MAC" ;
     :m49 "446" ;
     a :CountryOrArea ;
@@ -912,14 +786,14 @@
     rdfs:label "Malawi" .
 
 :area458
-    :countryOrAreaOf :subregion035 ;
+    :countryOrAreaOf :subregion35 ;
     :isoAlpha3 "MYS" ;
     :m49 "458" ;
     a :CountryOrArea ;
     rdfs:label "Malaysia" .
 
 :area462
-    :countryOrAreaOf :subregion034 ;
+    :countryOrAreaOf :subregion34 ;
     :isoAlpha3 "MDV" ;
     :m49 "462" ;
     a :CountryOrArea ;
@@ -933,7 +807,7 @@
     rdfs:label "Mali" .
 
 :area470
-    :countryOrAreaOf :subregion039 ;
+    :countryOrAreaOf :subregion39 ;
     :isoAlpha3 "MLT" ;
     :m49 "470" ;
     a :CountryOrArea ;
@@ -952,6 +826,13 @@
     :m49 "478" ;
     a :CountryOrArea ;
     rdfs:label "Mauritania" .
+
+:area48
+    :countryOrAreaOf :subregion145 ;
+    :isoAlpha3 "BHR" ;
+    :m49 "48" ;
+    a :CountryOrArea ;
+    rdfs:label "Bahrain" .
 
 :area480
     :countryOrAreaOf :subregion202 ;
@@ -975,7 +856,7 @@
     rdfs:label "Monaco" .
 
 :area496
-    :countryOrAreaOf :subregion030 ;
+    :countryOrAreaOf :subregion30 ;
     :isoAlpha3 "MNG" ;
     :m49 "496" ;
     a :CountryOrArea ;
@@ -989,11 +870,18 @@
     rdfs:label "Republic of Moldova" .
 
 :area499
-    :countryOrAreaOf :subregion039 ;
+    :countryOrAreaOf :subregion39 ;
     :isoAlpha3 "MNE" ;
     :m49 "499" ;
     a :CountryOrArea ;
     rdfs:label "Montenegro" .
+
+:area50
+    :countryOrAreaOf :subregion34 ;
+    :isoAlpha3 "BGD" ;
+    :m49 "50" ;
+    a :CountryOrArea ;
+    rdfs:label "Bangladesh" .
 
 :area500
     :countryOrAreaOf :subregion419 ;
@@ -1003,7 +891,7 @@
     rdfs:label "Montserrat" .
 
 :area504
-    :countryOrAreaOf :subregion015 ;
+    :countryOrAreaOf :subregion15 ;
     :isoAlpha3 "MAR" ;
     :m49 "504" ;
     a :CountryOrArea ;
@@ -1015,6 +903,13 @@
     :m49 "508" ;
     a :CountryOrArea ;
     rdfs:label "Mozambique" .
+
+:area51
+    :countryOrAreaOf :subregion145 ;
+    :isoAlpha3 "ARM" ;
+    :m49 "51" ;
+    a :CountryOrArea ;
+    rdfs:label "Armenia" .
 
 :area512
     :countryOrAreaOf :subregion145 ;
@@ -1030,15 +925,22 @@
     a :CountryOrArea ;
     rdfs:label "Namibia" .
 
+:area52
+    :countryOrAreaOf :subregion419 ;
+    :isoAlpha3 "BRB" ;
+    :m49 "52" ;
+    a :CountryOrArea ;
+    rdfs:label "Barbados" .
+
 :area520
-    :countryOrAreaOf :subregion057 ;
+    :countryOrAreaOf :subregion57 ;
     :isoAlpha3 "NRU" ;
     :m49 "520" ;
     a :CountryOrArea ;
     rdfs:label "Nauru" .
 
 :area524
-    :countryOrAreaOf :subregion034 ;
+    :countryOrAreaOf :subregion34 ;
     :isoAlpha3 "NPL" ;
     :m49 "524" ;
     a :CountryOrArea ;
@@ -1080,21 +982,21 @@
     rdfs:label "Bonaire, Sint Eustatius and Saba" .
 
 :area540
-    :countryOrAreaOf :subregion054 ;
+    :countryOrAreaOf :subregion54 ;
     :isoAlpha3 "NCL" ;
     :m49 "540" ;
     a :CountryOrArea ;
     rdfs:label "New Caledonia" .
 
 :area548
-    :countryOrAreaOf :subregion054 ;
+    :countryOrAreaOf :subregion54 ;
     :isoAlpha3 "VUT" ;
     :m49 "548" ;
     a :CountryOrArea ;
     rdfs:label "Vanuatu" .
 
 :area554
-    :countryOrAreaOf :subregion053 ;
+    :countryOrAreaOf :subregion53 ;
     :isoAlpha3 "NZL" ;
     :m49 "554" ;
     a :CountryOrArea ;
@@ -1106,6 +1008,13 @@
     :m49 "558" ;
     a :CountryOrArea ;
     rdfs:label "Nicaragua" .
+
+:area56
+    :countryOrAreaOf :subregion155 ;
+    :isoAlpha3 "BEL" ;
+    :m49 "56" ;
+    a :CountryOrArea ;
+    rdfs:label "Belgium" .
 
 :area562
     :countryOrAreaOf :subregion202 ;
@@ -1122,14 +1031,14 @@
     rdfs:label "Nigeria" .
 
 :area570
-    :countryOrAreaOf :subregion061 ;
+    :countryOrAreaOf :subregion61 ;
     :isoAlpha3 "NIU" ;
     :m49 "570" ;
     a :CountryOrArea ;
     rdfs:label "Niue" .
 
 :area574
-    :countryOrAreaOf :subregion053 ;
+    :countryOrAreaOf :subregion53 ;
     :isoAlpha3 "NFK" ;
     :m49 "574" ;
     a :CountryOrArea ;
@@ -1143,42 +1052,42 @@
     rdfs:label "Norway" .
 
 :area580
-    :countryOrAreaOf :subregion057 ;
+    :countryOrAreaOf :subregion57 ;
     :isoAlpha3 "MNP" ;
     :m49 "580" ;
     a :CountryOrArea ;
     rdfs:label "Northern Mariana Islands" .
 
 :area581
-    :countryOrAreaOf :subregion057 ;
+    :countryOrAreaOf :subregion57 ;
     :isoAlpha3 "UMI" ;
     :m49 "581" ;
     a :CountryOrArea ;
     rdfs:label "United States Minor Outlying Islands" .
 
 :area583
-    :countryOrAreaOf :subregion057 ;
+    :countryOrAreaOf :subregion57 ;
     :isoAlpha3 "FSM" ;
     :m49 "583" ;
     a :CountryOrArea ;
     rdfs:label "Micronesia (Federated States of)" .
 
 :area584
-    :countryOrAreaOf :subregion057 ;
+    :countryOrAreaOf :subregion57 ;
     :isoAlpha3 "MHL" ;
     :m49 "584" ;
     a :CountryOrArea ;
     rdfs:label "Marshall Islands" .
 
 :area585
-    :countryOrAreaOf :subregion057 ;
+    :countryOrAreaOf :subregion57 ;
     :isoAlpha3 "PLW" ;
     :m49 "585" ;
     a :CountryOrArea ;
     rdfs:label "Palau" .
 
 :area586
-    :countryOrAreaOf :subregion034 ;
+    :countryOrAreaOf :subregion34 ;
     :isoAlpha3 "PAK" ;
     :m49 "586" ;
     a :CountryOrArea ;
@@ -1192,11 +1101,18 @@
     rdfs:label "Panama" .
 
 :area598
-    :countryOrAreaOf :subregion054 ;
+    :countryOrAreaOf :subregion54 ;
     :isoAlpha3 "PNG" ;
     :m49 "598" ;
     a :CountryOrArea ;
     rdfs:label "Papua New Guinea" .
+
+:area60
+    :countryOrAreaOf :subregion21 ;
+    :isoAlpha3 "BMU" ;
+    :m49 "60" ;
+    a :CountryOrArea ;
+    rdfs:label "Bermuda" .
 
 :area600
     :countryOrAreaOf :subregion419 ;
@@ -1213,14 +1129,14 @@
     rdfs:label "Peru" .
 
 :area608
-    :countryOrAreaOf :subregion035 ;
+    :countryOrAreaOf :subregion35 ;
     :isoAlpha3 "PHL" ;
     :m49 "608" ;
     a :CountryOrArea ;
     rdfs:label "Philippines" .
 
 :area612
-    :countryOrAreaOf :subregion061 ;
+    :countryOrAreaOf :subregion61 ;
     :isoAlpha3 "PCN" ;
     :m49 "612" ;
     a :CountryOrArea ;
@@ -1234,7 +1150,7 @@
     rdfs:label "Poland" .
 
 :area620
-    :countryOrAreaOf :subregion039 ;
+    :countryOrAreaOf :subregion39 ;
     :isoAlpha3 "PRT" ;
     :m49 "620" ;
     a :CountryOrArea ;
@@ -1248,7 +1164,7 @@
     rdfs:label "Guinea-Bissau" .
 
 :area626
-    :countryOrAreaOf :subregion035 ;
+    :countryOrAreaOf :subregion35 ;
     :isoAlpha3 "TLS" ;
     :m49 "626" ;
     a :CountryOrArea ;
@@ -1274,6 +1190,13 @@
     :m49 "638" ;
     a :CountryOrArea ;
     rdfs:label "Réunion" .
+
+:area64
+    :countryOrAreaOf :subregion34 ;
+    :isoAlpha3 "BTN" ;
+    :m49 "64" ;
+    a :CountryOrArea ;
+    rdfs:label "Bhutan" .
 
 :area642
     :countryOrAreaOf :subregion151 ;
@@ -1339,7 +1262,7 @@
     rdfs:label "Saint Martin (French Part)" .
 
 :area666
-    :countryOrAreaOf :subregion021 ;
+    :countryOrAreaOf :subregion21 ;
     :isoAlpha3 "SPM" ;
     :m49 "666" ;
     a :CountryOrArea ;
@@ -1353,7 +1276,7 @@
     rdfs:label "Saint Vincent and the Grenadines" .
 
 :area674
-    :countryOrAreaOf :subregion039 ;
+    :countryOrAreaOf :subregion39 ;
     :isoAlpha3 "SMR" ;
     :m49 "674" ;
     a :CountryOrArea ;
@@ -1365,6 +1288,13 @@
     :m49 "678" ;
     a :CountryOrArea ;
     rdfs:label "Sao Tome and Principe" .
+
+:area68
+    :countryOrAreaOf :subregion419 ;
+    :isoAlpha3 "BOL" ;
+    :m49 "68" ;
+    a :CountryOrArea ;
+    rdfs:label "Bolivia (Plurinational State of)" .
 
 :area680
     :countryOrAreaOf :subregion154 ;
@@ -1387,7 +1317,7 @@
     rdfs:label "Senegal" .
 
 :area688
-    :countryOrAreaOf :subregion039 ;
+    :countryOrAreaOf :subregion39 ;
     :isoAlpha3 "SRB" ;
     :m49 "688" ;
     a :CountryOrArea ;
@@ -1407,8 +1337,15 @@
     a :CountryOrArea ;
     rdfs:label "Sierra Leone" .
 
+:area70
+    :countryOrAreaOf :subregion39 ;
+    :isoAlpha3 "BIH" ;
+    :m49 "70" ;
+    a :CountryOrArea ;
+    rdfs:label "Bosnia and Herzegovina" .
+
 :area702
-    :countryOrAreaOf :subregion035 ;
+    :countryOrAreaOf :subregion35 ;
     :isoAlpha3 "SGP" ;
     :m49 "702" ;
     a :CountryOrArea ;
@@ -1422,14 +1359,14 @@
     rdfs:label "Slovakia" .
 
 :area704
-    :countryOrAreaOf :subregion035 ;
+    :countryOrAreaOf :subregion35 ;
     :isoAlpha3 "VNM" ;
     :m49 "704" ;
     a :CountryOrArea ;
     rdfs:label "Viet Nam" .
 
 :area705
-    :countryOrAreaOf :subregion039 ;
+    :countryOrAreaOf :subregion39 ;
     :isoAlpha3 "SVN" ;
     :m49 "705" ;
     a :CountryOrArea ;
@@ -1456,8 +1393,15 @@
     a :CountryOrArea ;
     rdfs:label "Zimbabwe" .
 
+:area72
+    :countryOrAreaOf :subregion202 ;
+    :isoAlpha3 "BWA" ;
+    :m49 "72" ;
+    a :CountryOrArea ;
+    rdfs:label "Botswana" .
+
 :area724
-    :countryOrAreaOf :subregion039 ;
+    :countryOrAreaOf :subregion39 ;
     :isoAlpha3 "ESP" ;
     :m49 "724" ;
     a :CountryOrArea ;
@@ -1471,18 +1415,25 @@
     rdfs:label "South Sudan" .
 
 :area729
-    :countryOrAreaOf :subregion015 ;
+    :countryOrAreaOf :subregion15 ;
     :isoAlpha3 "SDN" ;
     :m49 "729" ;
     a :CountryOrArea ;
     rdfs:label "Sudan" .
 
 :area732
-    :countryOrAreaOf :subregion015 ;
+    :countryOrAreaOf :subregion15 ;
     :isoAlpha3 "ESH" ;
     :m49 "732" ;
     a :CountryOrArea ;
     rdfs:label "Western Sahara" .
+
+:area74
+    :countryOrAreaOf :subregion419 ;
+    :isoAlpha3 "BVT" ;
+    :m49 "74" ;
+    a :CountryOrArea ;
+    rdfs:label "Bouvet Island" .
 
 :area740
     :countryOrAreaOf :subregion419 ;
@@ -1519,6 +1470,13 @@
     a :CountryOrArea ;
     rdfs:label "Switzerland" .
 
+:area76
+    :countryOrAreaOf :subregion419 ;
+    :isoAlpha3 "BRA" ;
+    :m49 "76" ;
+    a :CountryOrArea ;
+    rdfs:label "Brazil" .
+
 :area760
     :countryOrAreaOf :subregion145 ;
     :isoAlpha3 "SYR" ;
@@ -1534,7 +1492,7 @@
     rdfs:label "Tajikistan" .
 
 :area764
-    :countryOrAreaOf :subregion035 ;
+    :countryOrAreaOf :subregion35 ;
     :isoAlpha3 "THA" ;
     :m49 "764" ;
     a :CountryOrArea ;
@@ -1548,14 +1506,14 @@
     rdfs:label "Togo" .
 
 :area772
-    :countryOrAreaOf :subregion061 ;
+    :countryOrAreaOf :subregion61 ;
     :isoAlpha3 "TKL" ;
     :m49 "772" ;
     a :CountryOrArea ;
     rdfs:label "Tokelau" .
 
 :area776
-    :countryOrAreaOf :subregion061 ;
+    :countryOrAreaOf :subregion61 ;
     :isoAlpha3 "TON" ;
     :m49 "776" ;
     a :CountryOrArea ;
@@ -1576,7 +1534,7 @@
     rdfs:label "United Arab Emirates" .
 
 :area788
-    :countryOrAreaOf :subregion015 ;
+    :countryOrAreaOf :subregion15 ;
     :isoAlpha3 "TUN" ;
     :m49 "788" ;
     a :CountryOrArea ;
@@ -1604,11 +1562,18 @@
     rdfs:label "Turks and Caicos Islands" .
 
 :area798
-    :countryOrAreaOf :subregion061 ;
+    :countryOrAreaOf :subregion61 ;
     :isoAlpha3 "TUV" ;
     :m49 "798" ;
     a :CountryOrArea ;
     rdfs:label "Tuvalu" .
+
+:area8
+    :countryOrAreaOf :subregion39 ;
+    :isoAlpha3 "ALB" ;
+    :m49 "8" ;
+    a :CountryOrArea ;
+    rdfs:label "Albania" .
 
 :area800
     :countryOrAreaOf :subregion202 ;
@@ -1625,14 +1590,14 @@
     rdfs:label "Ukraine" .
 
 :area807
-    :countryOrAreaOf :subregion039 ;
+    :countryOrAreaOf :subregion39 ;
     :isoAlpha3 "MKD" ;
     :m49 "807" ;
     a :CountryOrArea ;
     rdfs:label "The former Yugoslav Republic of Macedonia" .
 
 :area818
-    :countryOrAreaOf :subregion015 ;
+    :countryOrAreaOf :subregion15 ;
     :isoAlpha3 "EGY" ;
     :m49 "818" ;
     a :CountryOrArea ;
@@ -1673,8 +1638,15 @@
     a :CountryOrArea ;
     rdfs:label "United Republic of Tanzania" .
 
+:area84
+    :countryOrAreaOf :subregion419 ;
+    :isoAlpha3 "BLZ" ;
+    :m49 "84" ;
+    a :CountryOrArea ;
+    rdfs:label "Belize" .
+
 :area840
-    :countryOrAreaOf :subregion021 ;
+    :countryOrAreaOf :subregion21 ;
     :isoAlpha3 "USA" ;
     :m49 "840" ;
     a :CountryOrArea ;
@@ -1701,6 +1673,13 @@
     a :CountryOrArea ;
     rdfs:label "Uruguay" .
 
+:area86
+    :countryOrAreaOf :subregion202 ;
+    :isoAlpha3 "IOT" ;
+    :m49 "86" ;
+    a :CountryOrArea ;
+    rdfs:label "British Indian Ocean Territory" .
+
 :area860
     :countryOrAreaOf :subregion143 ;
     :isoAlpha3 "UZB" ;
@@ -1716,14 +1695,14 @@
     rdfs:label "Venezuela (Bolivarian Republic of)" .
 
 :area876
-    :countryOrAreaOf :subregion061 ;
+    :countryOrAreaOf :subregion61 ;
     :isoAlpha3 "WLF" ;
     :m49 "876" ;
     a :CountryOrArea ;
     rdfs:label "Wallis and Futuna Islands" .
 
 :area882
-    :countryOrAreaOf :subregion061 ;
+    :countryOrAreaOf :subregion61 ;
     :isoAlpha3 "WSM" ;
     :m49 "882" ;
     a :CountryOrArea ;
@@ -1743,20 +1722,26 @@
     a :CountryOrArea ;
     rdfs:label "Zambia" .
 
-:region002
-    :regionCode "002" ;
-    a :Region ;
-    rdfs:label "Africa" .
+:area90
+    :countryOrAreaOf :subregion54 ;
+    :isoAlpha3 "SLB" ;
+    :m49 "90" ;
+    a :CountryOrArea ;
+    rdfs:label "Solomon Islands" .
 
-:region009
-    :regionCode "009" ;
-    a :Region ;
-    rdfs:label "Oceania" .
+:area92
+    :countryOrAreaOf :subregion419 ;
+    :isoAlpha3 "VGB" ;
+    :m49 "92" ;
+    a :CountryOrArea ;
+    rdfs:label "British Virgin Islands" .
 
-:region019
-    :regionCode "019" ;
-    a :Region ;
-    rdfs:label "Americas" .
+:area96
+    :countryOrAreaOf :subregion35 ;
+    :isoAlpha3 "BRN" ;
+    :m49 "96" ;
+    a :CountryOrArea ;
+    rdfs:label "Brunei Darussalam" .
 
 :region142
     :regionCode "142" ;
@@ -1768,65 +1753,20 @@
     a :Region ;
     rdfs:label "Europe" .
 
-:subregion015
-    :subRegionCode "015" ;
-    :subRegionOf :region002 ;
-    a :SubRegion ;
-    rdfs:label "Northern Africa" .
+:region19
+    :regionCode "19" ;
+    a :Region ;
+    rdfs:label "Americas" .
 
-:subregion021
-    :subRegionCode "021" ;
-    :subRegionOf :region019 ;
-    a :SubRegion ;
-    rdfs:label "Northern America" .
+:region2
+    :regionCode "2" ;
+    a :Region ;
+    rdfs:label "Africa" .
 
-:subregion030
-    :subRegionCode "030" ;
-    :subRegionOf :region142 ;
-    a :SubRegion ;
-    rdfs:label "Eastern Asia" .
-
-:subregion034
-    :subRegionCode "034" ;
-    :subRegionOf :region142 ;
-    a :SubRegion ;
-    rdfs:label "Southern Asia" .
-
-:subregion035
-    :subRegionCode "035" ;
-    :subRegionOf :region142 ;
-    a :SubRegion ;
-    rdfs:label "South-eastern Asia" .
-
-:subregion039
-    :subRegionCode "039" ;
-    :subRegionOf :region150 ;
-    a :SubRegion ;
-    rdfs:label "Southern Europe" .
-
-:subregion053
-    :subRegionCode "053" ;
-    :subRegionOf :region009 ;
-    a :SubRegion ;
-    rdfs:label "Australia and New Zealand" .
-
-:subregion054
-    :subRegionCode "054" ;
-    :subRegionOf :region009 ;
-    a :SubRegion ;
-    rdfs:label "Melanesia" .
-
-:subregion057
-    :subRegionCode "057" ;
-    :subRegionOf :region009 ;
-    a :SubRegion ;
-    rdfs:label "Micronesia" .
-
-:subregion061
-    :subRegionCode "061" ;
-    :subRegionOf :region009 ;
-    a :SubRegion ;
-    rdfs:label "Polynesia" .
+:region9
+    :regionCode "9" ;
+    a :Region ;
+    rdfs:label "Oceania" .
 
 :subregion143
     :subRegionCode "143" ;
@@ -1839,6 +1779,12 @@
     :subRegionOf :region142 ;
     a :SubRegion ;
     rdfs:label "Western Asia" .
+
+:subregion15
+    :subRegionCode "15" ;
+    :subRegionOf :region2 ;
+    a :SubRegion ;
+    rdfs:label "Northern Africa" .
 
 :subregion151
     :subRegionCode "151" ;
@@ -1860,13 +1806,67 @@
 
 :subregion202
     :subRegionCode "202" ;
-    :subRegionOf :region002 ;
+    :subRegionOf :region2 ;
     a :SubRegion ;
     rdfs:label "Sub-Saharan Africa" .
 
+:subregion21
+    :subRegionCode "21" ;
+    :subRegionOf :region19 ;
+    a :SubRegion ;
+    rdfs:label "Northern America" .
+
+:subregion30
+    :subRegionCode "30" ;
+    :subRegionOf :region142 ;
+    a :SubRegion ;
+    rdfs:label "Eastern Asia" .
+
+:subregion34
+    :subRegionCode "34" ;
+    :subRegionOf :region142 ;
+    a :SubRegion ;
+    rdfs:label "Southern Asia" .
+
+:subregion35
+    :subRegionCode "35" ;
+    :subRegionOf :region142 ;
+    a :SubRegion ;
+    rdfs:label "South-eastern Asia" .
+
+:subregion39
+    :subRegionCode "39" ;
+    :subRegionOf :region150 ;
+    a :SubRegion ;
+    rdfs:label "Southern Europe" .
+
 :subregion419
     :subRegionCode "419" ;
-    :subRegionOf :region019 ;
+    :subRegionOf :region19 ;
     a :SubRegion ;
     rdfs:label "Latin America and the Caribbean" .
+
+:subregion53
+    :subRegionCode "53" ;
+    :subRegionOf :region9 ;
+    a :SubRegion ;
+    rdfs:label "Australia and New Zealand" .
+
+:subregion54
+    :subRegionCode "54" ;
+    :subRegionOf :region9 ;
+    a :SubRegion ;
+    rdfs:label "Melanesia" .
+
+:subregion57
+    :subRegionCode "57" ;
+    :subRegionOf :region9 ;
+    a :SubRegion ;
+    rdfs:label "Micronesia" .
+
+:subregion61
+    :subRegionCode "61" ;
+    :subRegionOf :region9 ;
+    a :SubRegion ;
+    rdfs:label "Polynesia" .
 

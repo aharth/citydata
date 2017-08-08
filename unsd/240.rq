@@ -16,5 +16,5 @@ FROM <240.csv>
 WHERE {
   BIND (URI(CONCAT("http://harth.org/andreas/2017/citydata/unsd/cities#", ?Code_of_City, substr(?City_type, 0, 2))) AS ?CityURI)
   BIND (URI(CONCAT("http://harth.org/andreas/2017/citydata/unsd/cities#", ?Code_of_City)) AS ?CityURINoCode)
-  BIND (URI(CONCAT("http://harth.org/andreas/2017/citydata/unsd/unsd-methodology#", ?Country_or_Area_Code)) AS ?AreaURI)
+  BIND (URI(CONCAT("http://harth.org/andreas/2017/citydata/unsd/unsd-methodology#area", ?Country_or_Area_Code)) AS ?AreaURI)
 }

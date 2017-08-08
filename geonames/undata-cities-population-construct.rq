@@ -4,16 +4,25 @@ PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
 PREFIX sdmxdim: <http://purl.org/linked-data/sdmx/2009/dimension#>
 PREFIX ocdp: <http://harth.org/andreas/2017/ocdp/vocabs/ocdp#>
 PREFIX dcterms: <http://purl.org/dc/terms/>
+PREFIX unsdmethod: <http://harth.org/andreas/2017/citydata/unsd/unsd-methodology#>
 
 CONSTRUCT {
    ?city rdfs:label ?citylabel .
    ?city ocdp:population _:bn .
+   ?city odcp:country ?country .
+   ?country rdfs:label ?countrylabel .
+   ?country odcp:isoAlpha3 ?iso3 .
+
    _:bn rdf:value ?population ; dcterms:date ?year .
 }
 WHERE {
   ?x sdmxdim:refArea ?city ;
-     <http://citydata.wu.ac.at/ns#refAreaName> ?citylabel ;
      <http://citydata.wu.ac.at/ns#hasIndicator> <http://citydata.wu.ac.at/ns#population> ;
      <http://purl.org/linked-data/sdmx/2009/measure#obsValue> ?population ;
      <http://purl.org/dc/terms/date> ?year .
+
+  ?city rdfs:label ?citylabel ;
+        unsdmethod:countryOrAreaOf ?country .
+
+  ?country unsdmethod:isoAlpha3 ?iso3 ; rdfs:label ?countrylabel .
 }
