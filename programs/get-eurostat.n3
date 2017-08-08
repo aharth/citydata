@@ -15,6 +15,9 @@
 @prefix skosclass: <http://ddialliance.org/ontologies/skosclass#> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
+# eurostat related
+@prefix ramon: <http://rdfdata.eionet.europa.eu/ramon/ontology/> .
+
 # datasets in seed list 
 {
   [] http:mthd httpm:GET ;
@@ -58,3 +61,11 @@
   [] http:mthd httpm:GET ;
      http:requestURI <http://citydata.wu.ac.at/ocdp/eurostat-equations> .
 }
+
+# follow ramon links to ec.europa.eu
+{
+  ?x ramon:partOf ?y .
+} => {
+  [] http:mthd httpm:GET ;
+     http:requestURI ?y .
+} .

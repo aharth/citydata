@@ -9,11 +9,13 @@ PREFIX unsdmethod: <http://harth.org/andreas/2017/citydata/unsd/unsd-methodology
 CONSTRUCT {
    ?city rdfs:label ?citylabel .
    ?city ocdp:population _:bn .
+
+   _:bn rdf:value ?population ;
+   	dcterms:date ?year .
+
    ?city odcp:country ?country .
    ?country rdfs:label ?countrylabel .
    ?country odcp:isoAlpha3 ?iso3 .
-
-   _:bn rdf:value ?population ; dcterms:date ?year .
 }
 WHERE {
   ?x sdmxdim:refArea ?city ;
@@ -24,5 +26,6 @@ WHERE {
   ?city rdfs:label ?citylabel ;
         unsdmethod:countryOrAreaOf ?country .
 
-  ?country unsdmethod:isoAlpha3 ?iso3 ; rdfs:label ?countrylabel .
+  ?country rdfs:label ?countrylabel ;
+  	   unsdmethod:isoAlpha3 ?iso3 .
 }
