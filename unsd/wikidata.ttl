@@ -1,0 +1,1523 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix : <http://harth.org/andreas/2017/ocdp/vocabs/ocdp#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix unsd: <http://harth.org/andreas/2017/citydata/unsd-methodology#> .
+
+unsd:area004
+    unsd:m49 "004" ;
+    :isoAlpha2 "AF" ;
+    :isoAlpha3 "AFG" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q889> .
+
+unsd:area008
+    unsd:m49 "008" ;
+    :isoAlpha2 "AL" ;
+    :isoAlpha3 "ALB" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q222> .
+
+unsd:area010
+    unsd:m49 "010" ;
+    :isoAlpha2 "AQ" ;
+    :isoAlpha3 "ATA" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q21590062> .
+
+unsd:area012
+    unsd:m49 "012" ;
+    :isoAlpha2 "DZ" ;
+    :isoAlpha3 "DZA" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q262> .
+
+unsd:area016
+    unsd:m49 "016" ;
+    :isoAlpha2 "AS" ;
+    :isoAlpha3 "ASM" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q16641> .
+
+unsd:area020
+    unsd:m49 "020" ;
+    :isoAlpha2 "AD" ;
+    :isoAlpha3 "AND" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q228> .
+
+unsd:area024
+    unsd:m49 "024" ;
+    :isoAlpha2 "AO" ;
+    :isoAlpha3 "AGO" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q916> .
+
+unsd:area028
+    unsd:m49 "028" ;
+    :isoAlpha2 "AG" ;
+    :isoAlpha3 "ATG" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q781> .
+
+unsd:area031
+    unsd:m49 "031" ;
+    :isoAlpha2 "AZ" ;
+    :isoAlpha3 "AZE" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q227> .
+
+unsd:area032
+    unsd:m49 "032" ;
+    :isoAlpha2 "AR" ;
+    :isoAlpha3 "ARG" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q414> .
+
+unsd:area036
+    unsd:m49 "036" ;
+    :isoAlpha2 "AU" ;
+    :isoAlpha3 "AUS" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q408> .
+
+unsd:area040
+    unsd:m49 "040" ;
+    :isoAlpha2 "AT" ;
+    :isoAlpha3 "AUT" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q40> .
+
+unsd:area044
+    unsd:m49 "044" ;
+    :isoAlpha2 "BS" ;
+    :isoAlpha3 "BHS" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q778> .
+
+unsd:area048
+    unsd:m49 "048" ;
+    :isoAlpha2 "BH" ;
+    :isoAlpha3 "BHR" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q398> .
+
+unsd:area050
+    unsd:m49 "050" ;
+    :isoAlpha2 "BD" ;
+    :isoAlpha3 "BGD" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q902> .
+
+unsd:area051
+    unsd:m49 "051" ;
+    :isoAlpha2 "AM" ;
+    :isoAlpha3 "ARM" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q399> .
+
+unsd:area052
+    unsd:m49 "052" ;
+    :isoAlpha2 "BB" ;
+    :isoAlpha3 "BRB" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q244> .
+
+unsd:area056
+    unsd:m49 "056" ;
+    :isoAlpha2 "BE" ;
+    :isoAlpha3 "BEL" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q31> .
+
+unsd:area060
+    unsd:m49 "060" ;
+    :isoAlpha2 "BM" ;
+    :isoAlpha3 "BMU" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q23635> .
+
+unsd:area064
+    unsd:m49 "064" ;
+    :isoAlpha2 "BT" ;
+    :isoAlpha3 "BTN" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q917> .
+
+unsd:area068
+    unsd:m49 "068" ;
+    :isoAlpha2 "BO" ;
+    :isoAlpha3 "BOL" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q750> .
+
+unsd:area070
+    unsd:m49 "070" ;
+    :isoAlpha2 "BA" ;
+    :isoAlpha3 "BIH" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q225> .
+
+unsd:area072
+    unsd:m49 "072" ;
+    :isoAlpha2 "BW" ;
+    :isoAlpha3 "BWA" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q963> .
+
+unsd:area074
+    unsd:m49 "074" ;
+    :isoAlpha2 "BV" ;
+    :isoAlpha3 "BVT" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q23408> .
+
+unsd:area076
+    unsd:m49 "076" ;
+    :isoAlpha2 "BR" ;
+    :isoAlpha3 "BRA" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q155> .
+
+unsd:area080
+    unsd:m49 "080" ;
+    :isoAlpha2 "BQ" ;
+    :isoAlpha3 "ATB" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q165783> .
+
+unsd:area084
+    unsd:m49 "084" ;
+    :isoAlpha2 "BZ" ;
+    :isoAlpha3 "BLZ" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q242> .
+
+unsd:area086
+    unsd:m49 "086" ;
+    :isoAlpha2 "IO" ;
+    :isoAlpha3 "IOT" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q43448> .
+
+unsd:area090
+    unsd:m49 "090" ;
+    :isoAlpha2 "SB" ;
+    :isoAlpha3 "SLB" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q685> .
+
+unsd:area092
+    unsd:m49 "092" ;
+    :isoAlpha2 "VG" ;
+    :isoAlpha3 "VGB" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q25305> .
+
+unsd:area096
+    unsd:m49 "096" ;
+    :isoAlpha2 "BN" ;
+    :isoAlpha3 "BRN" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q921> .
+
+unsd:area100
+    unsd:m49 "100" ;
+    :isoAlpha2 "BG" ;
+    :isoAlpha3 "BGR" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q219> .
+
+unsd:area104
+    unsd:m49 "104" ;
+    :isoAlpha2 "MM" ;
+    :isoAlpha3 "MMR" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q836> .
+
+unsd:area108
+    unsd:m49 "108" ;
+    :isoAlpha2 "BI" ;
+    :isoAlpha3 "BDI" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q967> .
+
+unsd:area112
+    unsd:m49 "112" ;
+    :isoAlpha2 "BY" ;
+    :isoAlpha3 "BLR", "BYS" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q184>, <http://www.wikidata.org/entity/Q2895> .
+
+unsd:area116
+    unsd:m49 "116" ;
+    :isoAlpha2 "KH" ;
+    :isoAlpha3 "KHM" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q424> .
+
+unsd:area120
+    unsd:m49 "120" ;
+    :isoAlpha2 "CM" ;
+    :isoAlpha3 "CMR" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q1009> .
+
+unsd:area124
+    unsd:m49 "124" ;
+    :isoAlpha2 "CA" ;
+    :isoAlpha3 "CAN" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q16> .
+
+unsd:area132
+    unsd:m49 "132" ;
+    :isoAlpha2 "CV" ;
+    :isoAlpha3 "CPV" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q1011> .
+
+unsd:area136
+    unsd:m49 "136" ;
+    :isoAlpha2 "KY" ;
+    :isoAlpha3 "CYM" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q5785> .
+
+unsd:area140
+    unsd:m49 "140" ;
+    :isoAlpha2 "CF" ;
+    :isoAlpha3 "CAF" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q929> .
+
+unsd:area144
+    unsd:m49 "144" ;
+    :isoAlpha2 "LK" ;
+    :isoAlpha3 "LKA" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q854> .
+
+unsd:area148
+    unsd:m49 "148" ;
+    :isoAlpha2 "TD" ;
+    :isoAlpha3 "TCD" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q657> .
+
+unsd:area152
+    unsd:m49 "152" ;
+    :isoAlpha2 "CL" ;
+    :isoAlpha3 "CHL" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q298> .
+
+unsd:area156
+    unsd:m49 "156" ;
+    :isoAlpha2 "CN" ;
+    :isoAlpha3 "CHN" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q148> .
+
+unsd:area158
+    unsd:m49 "158" ;
+    :isoAlpha2 "TW" ;
+    :isoAlpha3 "TWN" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q865> .
+
+unsd:area162
+    unsd:m49 "162" ;
+    :isoAlpha2 "CX" ;
+    :isoAlpha3 "CXR" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q31063> .
+
+unsd:area166
+    unsd:m49 "166" ;
+    :isoAlpha2 "CC" ;
+    :isoAlpha3 "CCK" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q36004> .
+
+unsd:area170
+    unsd:m49 "170" ;
+    :isoAlpha2 "CO" ;
+    :isoAlpha3 "COL" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q739> .
+
+unsd:area174
+    unsd:m49 "174" ;
+    :isoAlpha2 "KM" ;
+    :isoAlpha3 "COM" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q970> .
+
+unsd:area175
+    unsd:m49 "175" ;
+    :isoAlpha2 "YT" ;
+    :isoAlpha3 "MYT" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q17063> .
+
+unsd:area178
+    unsd:m49 "178" ;
+    :isoAlpha2 "CG" ;
+    :isoAlpha3 "COG" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q971> .
+
+unsd:area180
+    unsd:m49 "180" ;
+    :isoAlpha2 "CD" ;
+    :isoAlpha3 "COD" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q974> .
+
+unsd:area184
+    unsd:m49 "184" ;
+    :isoAlpha2 "CK" ;
+    :isoAlpha3 "COK" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q26988> .
+
+unsd:area188
+    unsd:m49 "188" ;
+    :isoAlpha2 "CR" ;
+    :isoAlpha3 "CRI" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q800> .
+
+unsd:area191
+    unsd:m49 "191" ;
+    :isoAlpha2 "HR" ;
+    :isoAlpha3 "HRV" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q224> .
+
+unsd:area192
+    unsd:m49 "192" ;
+    :isoAlpha2 "CU" ;
+    :isoAlpha3 "CUB" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q241> .
+
+unsd:area196
+    unsd:m49 "196" ;
+    :isoAlpha2 "CY" ;
+    :isoAlpha3 "CYP" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q229> .
+
+unsd:area203
+    unsd:m49 "203" ;
+    :isoAlpha2 "CZ" ;
+    :isoAlpha3 "CZE" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q213> .
+
+unsd:area204
+    unsd:m49 "204" ;
+    :isoAlpha2 "BJ" ;
+    :isoAlpha3 "BEN" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q962> .
+
+unsd:area208
+    unsd:m49 "208" ;
+    :isoAlpha2 "DK" ;
+    :isoAlpha3 "DNK" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q35> .
+
+unsd:area212
+    unsd:m49 "212" ;
+    :isoAlpha2 "DM" ;
+    :isoAlpha3 "DMA" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q784> .
+
+unsd:area214
+    unsd:m49 "214" ;
+    :isoAlpha2 "DO" ;
+    :isoAlpha3 "DOM" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q786> .
+
+unsd:area218
+    unsd:m49 "218" ;
+    :isoAlpha2 "EC" ;
+    :isoAlpha3 "ECU" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q736> .
+
+unsd:area222
+    unsd:m49 "222" ;
+    :isoAlpha2 "SV" ;
+    :isoAlpha3 "SLV" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q792> .
+
+unsd:area226
+    unsd:m49 "226" ;
+    :isoAlpha2 "GQ" ;
+    :isoAlpha3 "GNQ" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q983> .
+
+unsd:area231
+    unsd:m49 "231" ;
+    :isoAlpha2 "ET" ;
+    :isoAlpha3 "ETH" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q115> .
+
+unsd:area232
+    unsd:m49 "232" ;
+    :isoAlpha2 "ER" ;
+    :isoAlpha3 "ERI" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q986> .
+
+unsd:area233
+    unsd:m49 "233" ;
+    :isoAlpha2 "EE" ;
+    :isoAlpha3 "EST" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q191> .
+
+unsd:area234
+    unsd:m49 "234" ;
+    :isoAlpha2 "FO" ;
+    :isoAlpha3 "FRO" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q4628> .
+
+unsd:area238
+    unsd:m49 "238" ;
+    :isoAlpha2 "FK" ;
+    :isoAlpha3 "FLK" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q9648> .
+
+unsd:area239
+    unsd:m49 "239" ;
+    :isoAlpha2 "GS" ;
+    :isoAlpha3 "SGS" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q35086> .
+
+unsd:area242
+    unsd:m49 "242" ;
+    :isoAlpha2 "FJ" ;
+    :isoAlpha3 "FJI" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q712> .
+
+unsd:area246
+    unsd:m49 "246" ;
+    :isoAlpha2 "FI" ;
+    :isoAlpha3 "FIN" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q33> .
+
+unsd:area248
+    unsd:m49 "248" ;
+    :isoAlpha2 "AX" ;
+    :isoAlpha3 "ALA" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q5689> .
+
+unsd:area250
+    unsd:m49 "250" ;
+    :isoAlpha2 "FR" ;
+    :isoAlpha3 "FRA" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q142> .
+
+unsd:area254
+    unsd:m49 "254" ;
+    :isoAlpha2 "GF" ;
+    :isoAlpha3 "GUF" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q3769> .
+
+unsd:area258
+    unsd:m49 "258" ;
+    :isoAlpha2 "PF" ;
+    :isoAlpha3 "PYF" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q30971> .
+
+unsd:area260
+    unsd:m49 "260" ;
+    :isoAlpha2 "TF" ;
+    :isoAlpha3 "ATF" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q129003> .
+
+unsd:area262
+    unsd:m49 "262" ;
+    :isoAlpha2 "DJ" ;
+    :isoAlpha3 "DJI" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q977> .
+
+unsd:area266
+    unsd:m49 "266" ;
+    :isoAlpha2 "GA" ;
+    :isoAlpha3 "GAB" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q1000> .
+
+unsd:area268
+    unsd:m49 "268" ;
+    :isoAlpha2 "GE" ;
+    :isoAlpha3 "GEO" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q230> .
+
+unsd:area270
+    unsd:m49 "270" ;
+    :isoAlpha2 "GM" ;
+    :isoAlpha3 "GMB" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q1005> .
+
+unsd:area275
+    unsd:m49 "275" ;
+    :isoAlpha2 "PS" ;
+    :isoAlpha3 "PSE" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q407199> .
+
+unsd:area276
+    unsd:m49 "276" ;
+    :isoAlpha2 "DE" ;
+    :isoAlpha3 "DEU" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q183> .
+
+unsd:area278
+    unsd:m49 "278" ;
+    :isoAlpha2 "DD" ;
+    :isoAlpha3 "DDR" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q16957> .
+
+unsd:area288
+    unsd:m49 "288" ;
+    :isoAlpha2 "GH" ;
+    :isoAlpha3 "GHA" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q117> .
+
+unsd:area292
+    unsd:m49 "292" ;
+    :isoAlpha2 "GI" ;
+    :isoAlpha3 "GIB" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q1410> .
+
+unsd:area296
+    unsd:m49 "296" ;
+    :isoAlpha2 "KI" ;
+    :isoAlpha3 "KIR" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q710> .
+
+unsd:area300
+    unsd:m49 "300" ;
+    :isoAlpha2 "GR" ;
+    :isoAlpha3 "GRC" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q41> .
+
+unsd:area304
+    unsd:m49 "304" ;
+    :isoAlpha2 "GL" ;
+    :isoAlpha3 "GRL" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q223> .
+
+unsd:area308
+    unsd:m49 "308" ;
+    :isoAlpha2 "GD" ;
+    :isoAlpha3 "GRD" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q769> .
+
+unsd:area312
+    unsd:m49 "312" ;
+    :isoAlpha2 "GP" ;
+    :isoAlpha3 "GLP" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q17012> .
+
+unsd:area316
+    unsd:m49 "316" ;
+    :isoAlpha2 "GU" ;
+    :isoAlpha3 "GUM" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q16635> .
+
+unsd:area320
+    unsd:m49 "320" ;
+    :isoAlpha2 "GT" ;
+    :isoAlpha3 "GTM" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q774> .
+
+unsd:area324
+    unsd:m49 "324" ;
+    :isoAlpha2 "GN" ;
+    :isoAlpha3 "GIN" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q1006> .
+
+unsd:area328
+    unsd:m49 "328" ;
+    :isoAlpha2 "GY" ;
+    :isoAlpha3 "GUY" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q734> .
+
+unsd:area332
+    unsd:m49 "332" ;
+    :isoAlpha2 "HT" ;
+    :isoAlpha3 "HTI" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q790> .
+
+unsd:area334
+    unsd:m49 "334" ;
+    :isoAlpha2 "HM" ;
+    :isoAlpha3 "HMD" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q131198> .
+
+unsd:area336
+    unsd:m49 "336" ;
+    :isoAlpha2 "VA" ;
+    :isoAlpha3 "VAT" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q237> .
+
+unsd:area340
+    unsd:m49 "340" ;
+    :isoAlpha2 "HN" ;
+    :isoAlpha3 "HND" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q783> .
+
+unsd:area344
+    unsd:m49 "344" ;
+    :isoAlpha2 "HK" ;
+    :isoAlpha3 "HKG" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q8646> .
+
+unsd:area348
+    unsd:m49 "348" ;
+    :isoAlpha2 "HU" ;
+    :isoAlpha3 "HUN" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q28> .
+
+unsd:area352
+    unsd:m49 "352" ;
+    :isoAlpha2 "IS" ;
+    :isoAlpha3 "ISL" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q189> .
+
+unsd:area356
+    unsd:m49 "356" ;
+    :isoAlpha2 "IN" ;
+    :isoAlpha3 "IND" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q668> .
+
+unsd:area360
+    unsd:m49 "360" ;
+    :isoAlpha2 "ID" ;
+    :isoAlpha3 "IDN" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q252> .
+
+unsd:area364
+    unsd:m49 "364" ;
+    :isoAlpha2 "IR" ;
+    :isoAlpha3 "IRN" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q794> .
+
+unsd:area368
+    unsd:m49 "368" ;
+    :isoAlpha2 "IQ" ;
+    :isoAlpha3 "IRQ" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q796> .
+
+unsd:area372
+    unsd:m49 "372" ;
+    :isoAlpha2 "IE" ;
+    :isoAlpha3 "IRL" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q27> .
+
+unsd:area376
+    unsd:m49 "376" ;
+    :isoAlpha2 "IL" ;
+    :isoAlpha3 "ISR" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q801> .
+
+unsd:area380
+    unsd:m49 "380" ;
+    :isoAlpha2 "IT" ;
+    :isoAlpha3 "ITA" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q38> .
+
+unsd:area384
+    unsd:m49 "384" ;
+    :isoAlpha2 "CI" ;
+    :isoAlpha3 "CIV" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q1008> .
+
+unsd:area388
+    unsd:m49 "388" ;
+    :isoAlpha2 "JM" ;
+    :isoAlpha3 "JAM" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q766> .
+
+unsd:area392
+    unsd:m49 "392" ;
+    :isoAlpha2 "JP" ;
+    :isoAlpha3 "JPN" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q17> .
+
+unsd:area398
+    unsd:m49 "398" ;
+    :isoAlpha2 "KZ" ;
+    :isoAlpha3 "KAZ" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q232> .
+
+unsd:area400
+    unsd:m49 "400" ;
+    :isoAlpha2 "JO" ;
+    :isoAlpha3 "JOR" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q810> .
+
+unsd:area404
+    unsd:m49 "404" ;
+    :isoAlpha2 "KE" ;
+    :isoAlpha3 "KEN" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q114> .
+
+unsd:area408
+    unsd:m49 "408" ;
+    :isoAlpha2 "KP" ;
+    :isoAlpha3 "PRK" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q423> .
+
+unsd:area410
+    unsd:m49 "410" ;
+    :isoAlpha2 "KR" ;
+    :isoAlpha3 "KOR" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q884> .
+
+unsd:area414
+    unsd:m49 "414" ;
+    :isoAlpha2 "KW" ;
+    :isoAlpha3 "KWT" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q817> .
+
+unsd:area417
+    unsd:m49 "417" ;
+    :isoAlpha2 "KG" ;
+    :isoAlpha3 "KGZ" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q813> .
+
+unsd:area418
+    unsd:m49 "418" ;
+    :isoAlpha2 "LA" ;
+    :isoAlpha3 "LAO" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q819> .
+
+unsd:area422
+    unsd:m49 "422" ;
+    :isoAlpha2 "LB" ;
+    :isoAlpha3 "LBN" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q822> .
+
+unsd:area426
+    unsd:m49 "426" ;
+    :isoAlpha2 "LS" ;
+    :isoAlpha3 "LSO" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q1013> .
+
+unsd:area428
+    unsd:m49 "428" ;
+    :isoAlpha2 "LV" ;
+    :isoAlpha3 "LVA" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q211> .
+
+unsd:area430
+    unsd:m49 "430" ;
+    :isoAlpha2 "LR" ;
+    :isoAlpha3 "LBR" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q1014> .
+
+unsd:area434
+    unsd:m49 "434" ;
+    :isoAlpha2 "LY" ;
+    :isoAlpha3 "LBY" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q1016> .
+
+unsd:area438
+    unsd:m49 "438" ;
+    :isoAlpha2 "LI" ;
+    :isoAlpha3 "LIE" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q347> .
+
+unsd:area440
+    unsd:m49 "440" ;
+    :isoAlpha2 "LT" ;
+    :isoAlpha3 "LTU" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q37> .
+
+unsd:area442
+    unsd:m49 "442" ;
+    :isoAlpha2 "LU" ;
+    :isoAlpha3 "LUX" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q32> .
+
+unsd:area446
+    unsd:m49 "446" ;
+    :isoAlpha2 "MO" ;
+    :isoAlpha3 "MAC" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q14773> .
+
+unsd:area450
+    unsd:m49 "450" ;
+    :isoAlpha2 "MG" ;
+    :isoAlpha3 "MDG" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q1019> .
+
+unsd:area454
+    unsd:m49 "454" ;
+    :isoAlpha2 "MW" ;
+    :isoAlpha3 "MWI" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q1020> .
+
+unsd:area458
+    unsd:m49 "458" ;
+    :isoAlpha2 "MY" ;
+    :isoAlpha3 "MYS" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q833> .
+
+unsd:area462
+    unsd:m49 "462" ;
+    :isoAlpha2 "MV" ;
+    :isoAlpha3 "MDV" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q826> .
+
+unsd:area466
+    unsd:m49 "466" ;
+    :isoAlpha2 "ML" ;
+    :isoAlpha3 "MLI" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q912> .
+
+unsd:area470
+    unsd:m49 "470" ;
+    :isoAlpha2 "MT" ;
+    :isoAlpha3 "MLT" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q233> .
+
+unsd:area474
+    unsd:m49 "474" ;
+    :isoAlpha2 "MQ" ;
+    :isoAlpha3 "MTQ" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q17054> .
+
+unsd:area478
+    unsd:m49 "478" ;
+    :isoAlpha2 "MR" ;
+    :isoAlpha3 "MRT" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q1025> .
+
+unsd:area480
+    unsd:m49 "480" ;
+    :isoAlpha2 "MU" ;
+    :isoAlpha3 "MUS" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q1027> .
+
+unsd:area484
+    unsd:m49 "484" ;
+    :isoAlpha2 "MX" ;
+    :isoAlpha3 "MEX" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q96> .
+
+unsd:area492
+    unsd:m49 "492" ;
+    :isoAlpha2 "MC" ;
+    :isoAlpha3 "MCO" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q235> .
+
+unsd:area496
+    unsd:m49 "496" ;
+    :isoAlpha2 "MN" ;
+    :isoAlpha3 "MNG" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q711> .
+
+unsd:area498
+    unsd:m49 "498" ;
+    :isoAlpha2 "MD" ;
+    :isoAlpha3 "MDA" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q217> .
+
+unsd:area499
+    unsd:m49 "499" ;
+    :isoAlpha2 "ME" ;
+    :isoAlpha3 "MNE" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q236> .
+
+unsd:area500
+    unsd:m49 "500" ;
+    :isoAlpha2 "MS" ;
+    :isoAlpha3 "MSR" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q13353> .
+
+unsd:area504
+    unsd:m49 "504" ;
+    :isoAlpha2 "MA" ;
+    :isoAlpha3 "MAR" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q1028> .
+
+unsd:area508
+    unsd:m49 "508" ;
+    :isoAlpha2 "MZ" ;
+    :isoAlpha3 "MOZ" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q1029> .
+
+unsd:area512
+    unsd:m49 "512" ;
+    :isoAlpha2 "OM" ;
+    :isoAlpha3 "OMN" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q842> .
+
+unsd:area516
+    unsd:m49 "516" ;
+    :isoAlpha2 "NA" ;
+    :isoAlpha3 "NAM" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q1030> .
+
+unsd:area520
+    unsd:m49 "520" ;
+    :isoAlpha2 "NR" ;
+    :isoAlpha3 "NRU" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q697> .
+
+unsd:area524
+    unsd:m49 "524" ;
+    :isoAlpha2 "NP" ;
+    :isoAlpha3 "NPL" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q837> .
+
+unsd:area528
+    unsd:m49 "528" ;
+    :isoAlpha2 "NL" ;
+    :isoAlpha3 "NLD" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q29999>, <http://www.wikidata.org/entity/Q55> .
+
+unsd:area531
+    unsd:m49 "531" ;
+    :isoAlpha2 "CW" ;
+    :isoAlpha3 "CUW" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q25279> .
+
+unsd:area533
+    unsd:m49 "533" ;
+    :isoAlpha2 "AW" ;
+    :isoAlpha3 "ABW" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q21203> .
+
+unsd:area534
+    unsd:m49 "534" ;
+    :isoAlpha2 "SX" ;
+    :isoAlpha3 "SXM" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q26273> .
+
+unsd:area535
+    unsd:m49 "535" ;
+    :isoAlpha2 "BQ" ;
+    :isoAlpha3 "BES" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q27561> .
+
+unsd:area540
+    unsd:m49 "540" ;
+    :isoAlpha2 "NC" ;
+    :isoAlpha3 "NCL" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q33788> .
+
+unsd:area548
+    unsd:m49 "548" ;
+    :isoAlpha2 "VU" ;
+    :isoAlpha3 "VUT" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q686> .
+
+unsd:area554
+    unsd:m49 "554" ;
+    :isoAlpha2 "NZ" ;
+    :isoAlpha3 "NZL" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q664> .
+
+unsd:area558
+    unsd:m49 "558" ;
+    :isoAlpha2 "NI" ;
+    :isoAlpha3 "NIC" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q811> .
+
+unsd:area562
+    unsd:m49 "562" ;
+    :isoAlpha2 "NE" ;
+    :isoAlpha3 "NER" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q1032> .
+
+unsd:area566
+    unsd:m49 "566" ;
+    :isoAlpha2 "NG" ;
+    :isoAlpha3 "NGA" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q1033> .
+
+unsd:area570
+    unsd:m49 "570" ;
+    :isoAlpha2 "NU" ;
+    :isoAlpha3 "NIU" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q34020> .
+
+unsd:area574
+    unsd:m49 "574" ;
+    :isoAlpha2 "NF" ;
+    :isoAlpha3 "NFK" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q31057> .
+
+unsd:area578
+    unsd:m49 "578" ;
+    :isoAlpha2 "NO" ;
+    :isoAlpha3 "NOR" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q20> .
+
+unsd:area580
+    unsd:m49 "580" ;
+    :isoAlpha2 "MP" ;
+    :isoAlpha3 "MNP" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q16644> .
+
+unsd:area581
+    unsd:m49 "581" ;
+    :isoAlpha2 "UM" ;
+    :isoAlpha3 "UMI" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q16645> .
+
+unsd:area583
+    unsd:m49 "583" ;
+    :isoAlpha2 "FM" ;
+    :isoAlpha3 "FSM" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q702> .
+
+unsd:area584
+    unsd:m49 "584" ;
+    :isoAlpha2 "MH" ;
+    :isoAlpha3 "MHL" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q709> .
+
+unsd:area585
+    unsd:m49 "585" ;
+    :isoAlpha2 "PW" ;
+    :isoAlpha3 "PLW" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q695> .
+
+unsd:area586
+    unsd:m49 "586" ;
+    :isoAlpha2 "PK" ;
+    :isoAlpha3 "PAK" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q843> .
+
+unsd:area591
+    unsd:m49 "591" ;
+    :isoAlpha2 "PA" ;
+    :isoAlpha3 "PAN" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q804> .
+
+unsd:area598
+    unsd:m49 "598" ;
+    :isoAlpha2 "PG" ;
+    :isoAlpha3 "PNG" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q691> .
+
+unsd:area600
+    unsd:m49 "600" ;
+    :isoAlpha2 "PY" ;
+    :isoAlpha3 "PRY" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q733> .
+
+unsd:area604
+    unsd:m49 "604" ;
+    :isoAlpha2 "PE" ;
+    :isoAlpha3 "PER" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q419> .
+
+unsd:area608
+    unsd:m49 "608" ;
+    :isoAlpha2 "PH" ;
+    :isoAlpha3 "PHL" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q928> .
+
+unsd:area612
+    unsd:m49 "612" ;
+    :isoAlpha2 "PN" ;
+    :isoAlpha3 "PCN" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q35672> .
+
+unsd:area616
+    unsd:m49 "616" ;
+    :isoAlpha2 "PL" ;
+    :isoAlpha3 "POL" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q36> .
+
+unsd:area620
+    unsd:m49 "620" ;
+    :isoAlpha2 "PT" ;
+    :isoAlpha3 "PRT" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q45> .
+
+unsd:area624
+    unsd:m49 "624" ;
+    :isoAlpha2 "GW" ;
+    :isoAlpha3 "GNB" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q1007> .
+
+unsd:area626
+    unsd:m49 "626" ;
+    :isoAlpha2 "TL" ;
+    :isoAlpha3 "TLS" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q574> .
+
+unsd:area630
+    unsd:m49 "630" ;
+    :isoAlpha2 "PR" ;
+    :isoAlpha3 "PRI" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q1183> .
+
+unsd:area634
+    unsd:m49 "634" ;
+    :isoAlpha2 "QA" ;
+    :isoAlpha3 "QAT" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q846> .
+
+unsd:area638
+    unsd:m49 "638" ;
+    :isoAlpha2 "RE" ;
+    :isoAlpha3 "REU" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q17070> .
+
+unsd:area642
+    unsd:m49 "642" ;
+    :isoAlpha2 "RO" ;
+    :isoAlpha3 "ROU" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q218> .
+
+unsd:area643
+    unsd:m49 "643" ;
+    :isoAlpha2 "RU" ;
+    :isoAlpha3 "RUS" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q159> .
+
+unsd:area646
+    unsd:m49 "646" ;
+    :isoAlpha2 "RW" ;
+    :isoAlpha3 "RWA" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q1037> .
+
+unsd:area652
+    unsd:m49 "652" ;
+    :isoAlpha2 "BL" ;
+    :isoAlpha3 "BLM" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q25362> .
+
+unsd:area654
+    unsd:m49 "654" ;
+    :isoAlpha2 "SH" ;
+    :isoAlpha3 "SHN" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q192184> .
+
+unsd:area659
+    unsd:m49 "659" ;
+    :isoAlpha2 "KN" ;
+    :isoAlpha3 "KNA" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q763> .
+
+unsd:area660
+    unsd:m49 "660" ;
+    :isoAlpha2 "AI" ;
+    :isoAlpha3 "AIA" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q25228> .
+
+unsd:area662
+    unsd:m49 "662" ;
+    :isoAlpha2 "LC" ;
+    :isoAlpha3 "LCA" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q760> .
+
+unsd:area663
+    unsd:m49 "663" ;
+    :isoAlpha2 "MF" ;
+    :isoAlpha3 "MAF" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q126125> .
+
+unsd:area666
+    unsd:m49 "666" ;
+    :isoAlpha2 "PM" ;
+    :isoAlpha3 "SPM" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q34617> .
+
+unsd:area670
+    unsd:m49 "670" ;
+    :isoAlpha2 "VC" ;
+    :isoAlpha3 "VCT" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q757> .
+
+unsd:area674
+    unsd:m49 "674" ;
+    :isoAlpha2 "SM" ;
+    :isoAlpha3 "SMR" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q238> .
+
+unsd:area678
+    unsd:m49 "678" ;
+    :isoAlpha2 "ST" ;
+    :isoAlpha3 "STP" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q1039> .
+
+unsd:area682
+    unsd:m49 "682" ;
+    :isoAlpha2 "SA" ;
+    :isoAlpha3 "SAU" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q851> .
+
+unsd:area686
+    unsd:m49 "686" ;
+    :isoAlpha2 "SN" ;
+    :isoAlpha3 "SEN" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q1041> .
+
+unsd:area688
+    unsd:m49 "688" ;
+    :isoAlpha2 "RS" ;
+    :isoAlpha3 "SRB" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q403> .
+
+unsd:area690
+    unsd:m49 "690" ;
+    :isoAlpha2 "SC" ;
+    :isoAlpha3 "SYC" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q1042> .
+
+unsd:area694
+    unsd:m49 "694" ;
+    :isoAlpha2 "SL" ;
+    :isoAlpha3 "SLE" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q1044> .
+
+unsd:area702
+    unsd:m49 "702" ;
+    :isoAlpha2 "SG" ;
+    :isoAlpha3 "SGP" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q334> .
+
+unsd:area703
+    unsd:m49 "703" ;
+    :isoAlpha2 "SK" ;
+    :isoAlpha3 "SVK" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q214> .
+
+unsd:area704
+    unsd:m49 "704" ;
+    :isoAlpha2 "VN" ;
+    :isoAlpha3 "VNM" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q881> .
+
+unsd:area705
+    unsd:m49 "705" ;
+    :isoAlpha2 "SI" ;
+    :isoAlpha3 "SVN" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q215> .
+
+unsd:area706
+    unsd:m49 "706" ;
+    :isoAlpha2 "SO" ;
+    :isoAlpha3 "SOM" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q1045> .
+
+unsd:area710
+    unsd:m49 "710" ;
+    :isoAlpha2 "ZA" ;
+    :isoAlpha3 "ZAF" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q258> .
+
+unsd:area716
+    unsd:m49 "716" ;
+    :isoAlpha2 "ZW" ;
+    :isoAlpha3 "ZWE" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q954> .
+
+unsd:area724
+    unsd:m49 "724" ;
+    :isoAlpha2 "ES" ;
+    :isoAlpha3 "ESP" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q29> .
+
+unsd:area728
+    unsd:m49 "728" ;
+    :isoAlpha2 "SS" ;
+    :isoAlpha3 "SSD" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q958> .
+
+unsd:area729
+    unsd:m49 "729" ;
+    :isoAlpha2 "SD" ;
+    :isoAlpha3 "SDN" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q1049> .
+
+unsd:area732
+    unsd:m49 "732" ;
+    :isoAlpha2 "EH" ;
+    :isoAlpha3 "ESH" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q6250> .
+
+unsd:area740
+    unsd:m49 "740" ;
+    :isoAlpha2 "SR" ;
+    :isoAlpha3 "SUR" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q730> .
+
+unsd:area744
+    unsd:m49 "744" ;
+    :isoAlpha2 "SJ" ;
+    :isoAlpha3 "SJM" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q842829> .
+
+unsd:area748
+    unsd:m49 "748" ;
+    :isoAlpha2 "SZ" ;
+    :isoAlpha3 "SWZ" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q1050> .
+
+unsd:area752
+    unsd:m49 "752" ;
+    :isoAlpha2 "SE" ;
+    :isoAlpha3 "SWE" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q34> .
+
+unsd:area756
+    unsd:m49 "756" ;
+    :isoAlpha2 "CH" ;
+    :isoAlpha3 "CHE" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q39> .
+
+unsd:area760
+    unsd:m49 "760" ;
+    :isoAlpha2 "SY" ;
+    :isoAlpha3 "SYR" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q858> .
+
+unsd:area762
+    unsd:m49 "762" ;
+    :isoAlpha2 "TJ" ;
+    :isoAlpha3 "TJK" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q863> .
+
+unsd:area764
+    unsd:m49 "764" ;
+    :isoAlpha2 "TH" ;
+    :isoAlpha3 "THA" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q869> .
+
+unsd:area768
+    unsd:m49 "768" ;
+    :isoAlpha2 "TG" ;
+    :isoAlpha3 "TGO" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q945> .
+
+unsd:area772
+    unsd:m49 "772" ;
+    :isoAlpha2 "TK" ;
+    :isoAlpha3 "TKL" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q36823> .
+
+unsd:area776
+    unsd:m49 "776" ;
+    :isoAlpha2 "TO" ;
+    :isoAlpha3 "TON" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q678> .
+
+unsd:area780
+    unsd:m49 "780" ;
+    :isoAlpha2 "TT" ;
+    :isoAlpha3 "TTO" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q754> .
+
+unsd:area784
+    unsd:m49 "784" ;
+    :isoAlpha2 "AE" ;
+    :isoAlpha3 "ARE" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q878> .
+
+unsd:area788
+    unsd:m49 "788" ;
+    :isoAlpha2 "TN" ;
+    :isoAlpha3 "TUN" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q948> .
+
+unsd:area792
+    unsd:m49 "792" ;
+    :isoAlpha2 "TR" ;
+    :isoAlpha3 "TUR" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q43> .
+
+unsd:area795
+    unsd:m49 "795" ;
+    :isoAlpha2 "TM" ;
+    :isoAlpha3 "TKM" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q874> .
+
+unsd:area796
+    unsd:m49 "796" ;
+    :isoAlpha2 "TC" ;
+    :isoAlpha3 "TCA" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q18221> .
+
+unsd:area798
+    unsd:m49 "798" ;
+    :isoAlpha2 "TV" ;
+    :isoAlpha3 "TUV" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q672> .
+
+unsd:area800
+    unsd:m49 "800" ;
+    :isoAlpha2 "UG" ;
+    :isoAlpha3 "UGA" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q1036> .
+
+unsd:area804
+    unsd:m49 "804" ;
+    :isoAlpha2 "UA" ;
+    :isoAlpha3 "UKR" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q212> .
+
+unsd:area807
+    unsd:m49 "807" ;
+    :isoAlpha2 "MK" ;
+    :isoAlpha3 "MKD" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q221> .
+
+unsd:area818
+    unsd:m49 "818" ;
+    :isoAlpha2 "EG" ;
+    :isoAlpha3 "EGY" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q79> .
+
+unsd:area826
+    unsd:m49 "826" ;
+    :isoAlpha2 "GB" ;
+    :isoAlpha3 "GBR" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q145> .
+
+unsd:area831
+    unsd:m49 "831" ;
+    :isoAlpha2 "GG" ;
+    :isoAlpha3 "GGY" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q25230> .
+
+unsd:area832
+    unsd:m49 "832" ;
+    :isoAlpha2 "JE" ;
+    :isoAlpha3 "JEY" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q785> .
+
+unsd:area833
+    unsd:m49 "833" ;
+    :isoAlpha2 "IM" ;
+    :isoAlpha3 "IMN" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q9676> .
+
+unsd:area834
+    unsd:m49 "834" ;
+    :isoAlpha2 "TZ" ;
+    :isoAlpha3 "TZA" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q924> .
+
+unsd:area840
+    unsd:m49 "840" ;
+    :isoAlpha2 "US" ;
+    :isoAlpha3 "USA" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q30> .
+
+unsd:area850
+    unsd:m49 "850" ;
+    :isoAlpha2 "VI" ;
+    :isoAlpha3 "VIR" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q11703> .
+
+unsd:area854
+    unsd:m49 "854" ;
+    :isoAlpha2 "BF" ;
+    :isoAlpha3 "BFA" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q965> .
+
+unsd:area858
+    unsd:m49 "858" ;
+    :isoAlpha2 "UY" ;
+    :isoAlpha3 "URY" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q77> .
+
+unsd:area860
+    unsd:m49 "860" ;
+    :isoAlpha2 "UZ" ;
+    :isoAlpha3 "UZB" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q265> .
+
+unsd:area862
+    unsd:m49 "862" ;
+    :isoAlpha2 "VE" ;
+    :isoAlpha3 "VEN" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q717> .
+
+unsd:area876
+    unsd:m49 "876" ;
+    :isoAlpha2 "WF" ;
+    :isoAlpha3 "WLF" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q35555> .
+
+unsd:area882
+    unsd:m49 "882" ;
+    :isoAlpha2 "WS" ;
+    :isoAlpha3 "WSM" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q683> .
+
+unsd:area887
+    unsd:m49 "887" ;
+    :isoAlpha2 "YE" ;
+    :isoAlpha3 "YEM" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q805> .
+
+unsd:area890
+    unsd:m49 "890" ;
+    :isoAlpha2 "YU" ;
+    :isoAlpha3 "YUG" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q83286> .
+
+unsd:area891
+    unsd:m49 "891" ;
+    :isoAlpha2 "CS", "YU" ;
+    :isoAlpha3 "SCG", "YUG" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q37024>, <http://www.wikidata.org/entity/Q838261> .
+
+unsd:area894
+    unsd:m49 "894" ;
+    :isoAlpha2 "ZM" ;
+    :isoAlpha3 "ZMB" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q953> .
+
