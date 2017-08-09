@@ -6,7 +6,7 @@ PREFIX ocdp: <http://harth.org/andreas/2017/ocdp/vocabs/ocdp#>
 PREFIX estat: <http://ontologycentral.com/2009/01/eurostat/ns#>
 PREFIX dcterms: <http://purl.org/dc/terms/>
 PREFIX ramon: <http://rdfdata.eionet.europa.eu/ramon/ontology/>
-PREFIX eea: http://rdfdata.eionet.europa.eu/eea/ontology/>
+PREFIX eea: <http://rdfdata.eionet.europa.eu/eea/ontology/>
      
 CONSTRUCT {
    ?city rdfs:label ?citylabel .
@@ -17,7 +17,7 @@ CONSTRUCT {
 
    ?city ocdp:country ?country .
    ?country rdfs:label ?countrylabel .
-   ?country odcp:isoAlpha3 ?iso3 .
+   ?country ocdp:isoAlpha3 ?iso3 .
 }
 WHERE {
   ?x estat:cities ?city ;

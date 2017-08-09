@@ -13,9 +13,16 @@ CONSTRUCT {
    _:bn rdf:value ?population .
    # assume the population values are up to date
    _:bn dcterms:date "2017" .
+
+   ?city ocdp:country ?country .
+   ?country rdfs:label ?countrylabel .
+   ?country ocdp:isoAlpha2 ?iso2 .
 }
 WHERE {
   ?city gn:population ?population .
   ?city gn:officialName ?olabel .
   ?city gn:alternateName ?alabel .
+  ?city gn:parentCountry ?country .
+  ?country gn:officialName ?countrylabel .
+  ?country gn:countryCode ?iso2 .
 }

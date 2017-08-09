@@ -13,9 +13,9 @@ CONSTRUCT {
    _:bn rdf:value ?population ;
    	dcterms:date ?year .
 
-   ?city odcp:country ?country .
+   ?city ocdp:country ?country .
    ?country rdfs:label ?countrylabel .
-   ?country odcp:isoAlpha3 ?iso3 .
+   ?country ocdp:isoAlpha3 ?iso3 .
 }
 WHERE {
   ?x sdmxdim:refArea ?city ;

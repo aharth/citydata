@@ -1,0 +1,9 @@
+PREFIX ocdp: <http://harth.org/andreas/2017/ocdp/vocabs/ocdp#>
+PREFIX unsd: <http://harth.org/andreas/2017/citydata/unsd-methodology#>
+
+CONSTRUCT {
+  ?uri owl:sameAs ?item ; ocdp:isoAlpha2 ?iso2 ; ocdp:isoAlpha3 ?iso3 ; unsd:m49 ?num .
+} WHERE {
+  ?item wdt:P297 ?iso2 ; wdt:P298 ?iso3 ; wdt:P299 ?num .
+  BIND (URI(CONCAT("http://harth.org/andreas/2017/citydata/unsd-methodology#area", ?num)) AS ?uri)
+}

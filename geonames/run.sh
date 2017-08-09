@@ -1,8 +1,12 @@
+DATE=2017-08-08
+
+set -x
+
 # get undata population
-ldfu.sh -i ../2017-07-31/undata.nq.gz -q undata-cities-population-construct.rq undata-cities-population-construct.nt.gz
+ldfu.sh -i ../${DATE}/undata.nq.gz -q undata-cities-population-construct.rq undata-cities-population-construct.nt.gz
 
 # get eurostat population
-ldfu.sh -i ../2017-07-31/eurostat.nt.gz -q eurostat-cities-population-construct.rq eurostat-cities-population-construct.nt.gz
+ldfu.sh -i ../${DATE}/eurostat.nt.gz -q eurostat-cities-population-construct.rq eurostat-cities-population-construct.nt.gz
 
 # get geonames population
 JAVA_OPTS="-Xmx192G -Xms64G" ldfu.sh -i all-geonames-rdf.nq.gz -q geonames-population-construct.rq geonames-population-construct.nt.gz
