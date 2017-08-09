@@ -15,15 +15,15 @@ for i in eurostat undata ; do
     # parse to clean files
     rapper -i nquads ${date}/$i-crawl.nq -o nquads 2> ${date}/${i}-parse.log | gzip -c > ${date}/$i-crawl-clean.nq.gz
     # query observation values
-    JAVA_OPTS="-Xmx64G" ldfu.sh -i ${date}/${i}-crawl-clean.nq.gz -q queries/observation-values.rq ${date}/${i}-obs-crawl.csv
+    JAVA_OPTS="-Xmx64G" ldfu.sh -i ${date}/${i}-crawl-clean.nq.gz -q queries/observations-value.rq ${date}/${i}-obs-crawl.csv
     # map crawl to canonical representation
     JAVA_OPTS="-Xmx64G" ldfu.sh -p http://harth.org/andreas/2017/citydata/programs/map-${i}.n3 -i ${date}/${i}-crawl-clean.nq.gz -o ${date}/${i}.nq -v 2> ${date}/${i}-map.log
     # parse to clean files
     rapper -i nquads ${date}/$i.nq | gzip -c > ${date}/$i.nt.gz &
     # query for observations in materialised data
     JAVA_OPTS="-Xmx64G" ldfu.sh -i ${date}/${i}.nq -q queries/observations.rq ${date}/${i}-obs-mat.csv
-    # query for observations in canonical representation
-    JAVA_OPTS="-Xmx64G" ldfu.sh -i ${date}/${i}.nq -q queries/observations-${i}.rq ${date}/${i}-obs.nt.gz
+    # generate global cube (observations in canonical representation)
+    JAVA_OPTS="-Xmx64G" ldfu.sh -i ${date}/${i}.nq -q queries/observations-${i}-construct.rq ${date}/global-cube-${i}.nt.gz
 done
 
 sleep 10s
