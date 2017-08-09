@@ -33,6 +33,7 @@ ftarget = csv.reader(ftarget, delimiter='\t')
 namesfrom = {}
 yearsfrom = {}
 popsfrom = {}
+areasfrom = {}
 
 for row in ffrom:
     uri = row[0]
@@ -50,9 +51,16 @@ for row in ffrom:
         if debug:
             print "no pop for " , uri
 
+    if row[4] != '':
+        area = row[4]
+    else:
+        if debug:
+            print "no area for " , uri
+
     namesfrom[uri] = name
     yearsfrom[uri] = year
     popsfrom[uri] = pop
+    areasfrom[uri] = area
 
 #print names
 #print years
@@ -65,6 +73,7 @@ ifrom = len(popsfrom.keys())
 namestarget = {}
 yearstarget = {}
 popstarget = {}
+areastarget = {}
 
 for row in ftarget:
     uri = row[0]
@@ -82,9 +91,16 @@ for row in ftarget:
         if debug:
             print "no pop for " , uri
 
+    if row[4] != '':
+        area = row[4]
+    else:
+        if debug:
+            print "no area for " , uri
+
     namestarget[uri] = name
     yearstarget[uri] = year
     popstarget[uri] = pop
+    areastarget[uri] = area
 
 #print names
 #print years
@@ -117,16 +133,19 @@ for idfrom in keysfrom:
 # threshold (+- 5 %)
 threshold = 0.05
 
-# first generate candidates based on population
+# first generate candidates based on area and population
 for idfrom in keysfrom:
     pop = popsfrom[idfrom]
-    for idtarget in keystarget:
-#        if pop == popstarget[idtarget]:
-        if pop*(1-threshold) < popstarget[idtarget] and pop*(1+threshold) > popstarget[idtarget]:
-            # print "Match", idfrom, idtarget
+    area = areasfrom[idfrom]
 
-            # append to the list of identifiers
-            candidates[idfrom].append(idtarget)
+    for idtarget in keystarget:
+        # only consider cities in same country
+        if area == areastarget[idtarget]:
+            if pop*(1-threshold) < popstarget[idtarget] and pop*(1+threshold) > popstarget[idtarget]:
+                # print "Match", idfrom, idtarget
+
+                # append to the list of identifiers
+                candidates[idfrom].append(idtarget)
 
 #            if idfrom != idtarget:
 #                print "Clash", idfrom, idtarget

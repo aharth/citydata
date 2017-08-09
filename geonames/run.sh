@@ -9,7 +9,7 @@ ldfu.sh -i ../${DATE}/undata.nq.gz -q undata-cities-population-construct.rq unda
 ldfu.sh -i ../${DATE}/eurostat.nt.gz -q eurostat-cities-population-construct.rq eurostat-cities-population-construct.nt.gz
 
 # get geonames population
-JAVA_OPTS="-Xmx192G -Xms64G" ldfu.sh -i all-geonames-rdf.nq.gz -q geonames-population-construct.rq geonames-population-construct.nt.gz
+JAVA_OPTS="-Xmx192G -Xms64G" ldfu.sh -i all-geonames-rdf.nq.gz -i http://harth.org/andreas/2017/citydata/unsd/wikidata.ttl -q geonames-population-construct.rq geonames-population-construct.nt.gz
 
 # geonames only english labels
 zcat geonames-population-construct.nt.gz | grep -e "@en" > gn-labels.nt

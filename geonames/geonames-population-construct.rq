@@ -16,7 +16,7 @@ CONSTRUCT {
 
    ?city ocdp:country ?country .
    ?country rdfs:label ?countrylabel .
-   ?country ocdp:isoAlpha2 ?iso2 .
+   ?country ocdp:isoAlpha3 ?iso3 .
 }
 WHERE {
   ?city gn:population ?population .
@@ -25,4 +25,6 @@ WHERE {
   ?city gn:parentCountry ?country .
   ?country gn:officialName ?countrylabel .
   ?country gn:countryCode ?iso2 .
+
+  ?wcountry ocdp:isoAlpha2 ?iso2 ; ocdp:isoAlpha3 ?iso3 .
 }
