@@ -12,7 +12,7 @@ CONSTRUCT {
   	   :codeOfCity ?Code_of_City ;
   	   unsdmethod:countryOrAreaOf ?AreaURI .
 }
-FROM <240.csv>
+FROM <240.1.csv>
 WHERE {
   BIND (URI(CONCAT("http://harth.org/andreas/2017/citydata/unsd/cities#", ?Code_of_City, substr(?City_type, 0, 2))) AS ?CityURI)
   BIND (URI(CONCAT("http://harth.org/andreas/2017/citydata/unsd/cities#", ?Code_of_City)) AS ?CityURINoCode)

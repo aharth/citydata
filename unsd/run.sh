@@ -6,6 +6,9 @@ tarql.sh unsd-methodology.rq > tmp.ttl
 rapper -i turtle tmp.ttl -o turtle  | sed -e "s/file:\/\/.*/unsd-methodology#> ./" > unsd-methodology.ttl
 rm tmp.ttl
 
+# add leading zeros to m49 country codes
+python 240-zeros.py
+
 tarql.sh 240.rq > tmp.ttl
 cwm -n3 tmp.ttl | sed -e "s/http:\/\/harth.org\/andreas\/2017\/citydata\/unsd\///" > cities.ttl
 rm tmp.ttl
