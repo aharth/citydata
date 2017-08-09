@@ -17,3 +17,7 @@ rm tmp.ttl
 rm tmp.nt
 
 sparql "https://query.wikidata.org/sparql" wikidata.rq wikidata.rdf
+cwm --rdf wikidata.rdf > wikidata.1.rdf
+rapper wikidata.1.rdf -o turtle > wikidata.ttl
+rm wikidata.rdf
+rm wikidata.1.rdf
