@@ -1,0 +1,10 @@
+PREFIX owl: <http://www.w3.org/2002/07/owl#>
+PREFIX ocdp: <http://harth.org/andreas/2017/ocdp/vocabs/ocdp#>
+prefix ramon: <http://rdfdata.eionet.europa.eu/ramon/ontology/>
+
+CONSTRUCT { ?y owl:sameAs ?x, ?wikidata . }
+WHERE {
+  ?x ocdp:isoAlpha2 ?iso2 .
+  ?x owl:sameAs ?wikidata .
+  ?y <http://rdfdata.eionet.europa.eu/ramon/ontology/code> ?iso2 .
+}

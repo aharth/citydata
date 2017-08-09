@@ -19,8 +19,8 @@ rapper -i ntriples tmp.nt -o turtle | sed -e "s/http:\/\/harth.org\/andreas\/201
 rm tmp.ttl
 rm tmp.nt
 
-sparql "https://query.wikidata.org/sparql" wikidata.rq wikidata.rdf
-cwm --rdf wikidata.rdf > wikidata.1.rdf
-rapper wikidata.1.rdf -o turtle > wikidata.ttl
-rm wikidata.rdf
-rm wikidata.1.rdf
+sparql "https://query.wikidata.org/sparql" countrycodes.rq countrycodes.rdf
+cwm --rdf countrycodes.rdf > countrycodes.1.rdf
+rapper countrycodes.1.rdf -o turtle > countrycodes.ttl
+rm countrycodes.rdf
+rm countrycodes.1.rdf

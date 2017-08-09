@@ -8,7 +8,7 @@ The directory eurostat/ contains material for constructing hierarchies within Eu
 
 ## UNSD
 
-The directory unsd/ contains material for linking URIs (from UNWrapper to UNSD geodata) and constructing hierarchies within UNSFD geodata.
+The directory unsd/ contains material for linking URIs (from UNWrapper to UNSD geodata) and constructing hierarchies within UNSD geodata.
 
 ## Wikidata
 

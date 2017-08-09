@@ -1,0 +1,830 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://gadm.geovocab.org/id/0/1>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area533>, <http://www.wikidata.org/entity/Q21203> .
+
+<http://gadm.geovocab.org/id/0/10>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area032>, <http://www.wikidata.org/entity/Q414> .
+
+<http://gadm.geovocab.org/id/0/100>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area191>, <http://www.wikidata.org/entity/Q224> .
+
+<http://gadm.geovocab.org/id/0/101>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area332>, <http://www.wikidata.org/entity/Q790> .
+
+<http://gadm.geovocab.org/id/0/102>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area348>, <http://www.wikidata.org/entity/Q28> .
+
+<http://gadm.geovocab.org/id/0/103>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area360>, <http://www.wikidata.org/entity/Q252> .
+
+<http://gadm.geovocab.org/id/0/104>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area833>, <http://www.wikidata.org/entity/Q9676> .
+
+<http://gadm.geovocab.org/id/0/105>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area356>, <http://www.wikidata.org/entity/Q668> .
+
+<http://gadm.geovocab.org/id/0/106>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area086>, <http://www.wikidata.org/entity/Q43448> .
+
+<http://gadm.geovocab.org/id/0/107>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area372>, <http://www.wikidata.org/entity/Q27> .
+
+<http://gadm.geovocab.org/id/0/108>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area364>, <http://www.wikidata.org/entity/Q794> .
+
+<http://gadm.geovocab.org/id/0/109>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area368>, <http://www.wikidata.org/entity/Q796> .
+
+<http://gadm.geovocab.org/id/0/11>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area051>, <http://www.wikidata.org/entity/Q399> .
+
+<http://gadm.geovocab.org/id/0/110>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area352>, <http://www.wikidata.org/entity/Q189> .
+
+<http://gadm.geovocab.org/id/0/111>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area376>, <http://www.wikidata.org/entity/Q801> .
+
+<http://gadm.geovocab.org/id/0/112>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area380>, <http://www.wikidata.org/entity/Q38> .
+
+<http://gadm.geovocab.org/id/0/113>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area388>, <http://www.wikidata.org/entity/Q766> .
+
+<http://gadm.geovocab.org/id/0/114>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area832>, <http://www.wikidata.org/entity/Q785> .
+
+<http://gadm.geovocab.org/id/0/115>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area400>, <http://www.wikidata.org/entity/Q810> .
+
+<http://gadm.geovocab.org/id/0/116>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area392>, <http://www.wikidata.org/entity/Q17> .
+
+<http://gadm.geovocab.org/id/0/118>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area398>, <http://www.wikidata.org/entity/Q232> .
+
+<http://gadm.geovocab.org/id/0/119>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area404>, <http://www.wikidata.org/entity/Q114> .
+
+<http://gadm.geovocab.org/id/0/12>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area016>, <http://www.wikidata.org/entity/Q16641> .
+
+<http://gadm.geovocab.org/id/0/120>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area417>, <http://www.wikidata.org/entity/Q813> .
+
+<http://gadm.geovocab.org/id/0/121>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area116>, <http://www.wikidata.org/entity/Q424> .
+
+<http://gadm.geovocab.org/id/0/122>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area296>, <http://www.wikidata.org/entity/Q710> .
+
+<http://gadm.geovocab.org/id/0/123>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area659>, <http://www.wikidata.org/entity/Q763> .
+
+<http://gadm.geovocab.org/id/0/124>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area410>, <http://www.wikidata.org/entity/Q884> .
+
+<http://gadm.geovocab.org/id/0/125>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area414>, <http://www.wikidata.org/entity/Q817> .
+
+<http://gadm.geovocab.org/id/0/126>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area418>, <http://www.wikidata.org/entity/Q819> .
+
+<http://gadm.geovocab.org/id/0/127>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area422>, <http://www.wikidata.org/entity/Q822> .
+
+<http://gadm.geovocab.org/id/0/128>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area430>, <http://www.wikidata.org/entity/Q1014> .
+
+<http://gadm.geovocab.org/id/0/129>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area434>, <http://www.wikidata.org/entity/Q1016> .
+
+<http://gadm.geovocab.org/id/0/13>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area010>, <http://www.wikidata.org/entity/Q21590062> .
+
+<http://gadm.geovocab.org/id/0/130>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area662>, <http://www.wikidata.org/entity/Q760> .
+
+<http://gadm.geovocab.org/id/0/131>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area438>, <http://www.wikidata.org/entity/Q347> .
+
+<http://gadm.geovocab.org/id/0/132>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area144>, <http://www.wikidata.org/entity/Q854> .
+
+<http://gadm.geovocab.org/id/0/133>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area426>, <http://www.wikidata.org/entity/Q1013> .
+
+<http://gadm.geovocab.org/id/0/134>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area440>, <http://www.wikidata.org/entity/Q37> .
+
+<http://gadm.geovocab.org/id/0/135>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area442>, <http://www.wikidata.org/entity/Q32> .
+
+<http://gadm.geovocab.org/id/0/136>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area428>, <http://www.wikidata.org/entity/Q211> .
+
+<http://gadm.geovocab.org/id/0/137>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area446>, <http://www.wikidata.org/entity/Q14773> .
+
+<http://gadm.geovocab.org/id/0/138>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area504>, <http://www.wikidata.org/entity/Q1028> .
+
+<http://gadm.geovocab.org/id/0/139>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area492>, <http://www.wikidata.org/entity/Q235> .
+
+<http://gadm.geovocab.org/id/0/14>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area260>, <http://www.wikidata.org/entity/Q129003> .
+
+<http://gadm.geovocab.org/id/0/140>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area498>, <http://www.wikidata.org/entity/Q217> .
+
+<http://gadm.geovocab.org/id/0/141>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area450>, <http://www.wikidata.org/entity/Q1019> .
+
+<http://gadm.geovocab.org/id/0/142>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area462>, <http://www.wikidata.org/entity/Q826> .
+
+<http://gadm.geovocab.org/id/0/143>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area484>, <http://www.wikidata.org/entity/Q96> .
+
+<http://gadm.geovocab.org/id/0/144>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area584>, <http://www.wikidata.org/entity/Q709> .
+
+<http://gadm.geovocab.org/id/0/145>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area807>, <http://www.wikidata.org/entity/Q221> .
+
+<http://gadm.geovocab.org/id/0/146>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area466>, <http://www.wikidata.org/entity/Q912> .
+
+<http://gadm.geovocab.org/id/0/147>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area470>, <http://www.wikidata.org/entity/Q233> .
+
+<http://gadm.geovocab.org/id/0/148>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area104>, <http://www.wikidata.org/entity/Q836> .
+
+<http://gadm.geovocab.org/id/0/149>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area499>, <http://www.wikidata.org/entity/Q236> .
+
+<http://gadm.geovocab.org/id/0/15>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area028>, <http://www.wikidata.org/entity/Q781> .
+
+<http://gadm.geovocab.org/id/0/150>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area496>, <http://www.wikidata.org/entity/Q711> .
+
+<http://gadm.geovocab.org/id/0/151>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area580>, <http://www.wikidata.org/entity/Q16644> .
+
+<http://gadm.geovocab.org/id/0/152>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area508>, <http://www.wikidata.org/entity/Q1029> .
+
+<http://gadm.geovocab.org/id/0/153>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area478>, <http://www.wikidata.org/entity/Q1025> .
+
+<http://gadm.geovocab.org/id/0/154>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area500>, <http://www.wikidata.org/entity/Q13353> .
+
+<http://gadm.geovocab.org/id/0/155>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area474>, <http://www.wikidata.org/entity/Q17054> .
+
+<http://gadm.geovocab.org/id/0/156>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area480>, <http://www.wikidata.org/entity/Q1027> .
+
+<http://gadm.geovocab.org/id/0/157>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area454>, <http://www.wikidata.org/entity/Q1020> .
+
+<http://gadm.geovocab.org/id/0/158>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area458>, <http://www.wikidata.org/entity/Q833> .
+
+<http://gadm.geovocab.org/id/0/159>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area175>, <http://www.wikidata.org/entity/Q17063> .
+
+<http://gadm.geovocab.org/id/0/16>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area036>, <http://www.wikidata.org/entity/Q408> .
+
+<http://gadm.geovocab.org/id/0/160>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area516>, <http://www.wikidata.org/entity/Q1030> .
+
+<http://gadm.geovocab.org/id/0/161>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area540>, <http://www.wikidata.org/entity/Q33788> .
+
+<http://gadm.geovocab.org/id/0/162>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area562>, <http://www.wikidata.org/entity/Q1032> .
+
+<http://gadm.geovocab.org/id/0/163>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area574>, <http://www.wikidata.org/entity/Q31057> .
+
+<http://gadm.geovocab.org/id/0/164>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area566>, <http://www.wikidata.org/entity/Q1033> .
+
+<http://gadm.geovocab.org/id/0/165>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area558>, <http://www.wikidata.org/entity/Q811> .
+
+<http://gadm.geovocab.org/id/0/166>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area570>, <http://www.wikidata.org/entity/Q34020> .
+
+<http://gadm.geovocab.org/id/0/167>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area528>, <http://www.wikidata.org/entity/Q29999>, <http://www.wikidata.org/entity/Q55> .
+
+<http://gadm.geovocab.org/id/0/168>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area578>, <http://www.wikidata.org/entity/Q20> .
+
+<http://gadm.geovocab.org/id/0/169>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area524>, <http://www.wikidata.org/entity/Q837> .
+
+<http://gadm.geovocab.org/id/0/17>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area040>, <http://www.wikidata.org/entity/Q40> .
+
+<http://gadm.geovocab.org/id/0/170>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area520>, <http://www.wikidata.org/entity/Q697> .
+
+<http://gadm.geovocab.org/id/0/171>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area554>, <http://www.wikidata.org/entity/Q664> .
+
+<http://gadm.geovocab.org/id/0/172>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area512>, <http://www.wikidata.org/entity/Q842> .
+
+<http://gadm.geovocab.org/id/0/173>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area586>, <http://www.wikidata.org/entity/Q843> .
+
+<http://gadm.geovocab.org/id/0/174>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area591>, <http://www.wikidata.org/entity/Q804> .
+
+<http://gadm.geovocab.org/id/0/175>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area612>, <http://www.wikidata.org/entity/Q35672> .
+
+<http://gadm.geovocab.org/id/0/176>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area604>, <http://www.wikidata.org/entity/Q419> .
+
+<http://gadm.geovocab.org/id/0/177>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area608>, <http://www.wikidata.org/entity/Q928> .
+
+<http://gadm.geovocab.org/id/0/178>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area585>, <http://www.wikidata.org/entity/Q695> .
+
+<http://gadm.geovocab.org/id/0/179>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area598>, <http://www.wikidata.org/entity/Q691> .
+
+<http://gadm.geovocab.org/id/0/18>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area031>, <http://www.wikidata.org/entity/Q227> .
+
+<http://gadm.geovocab.org/id/0/180>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area616>, <http://www.wikidata.org/entity/Q36> .
+
+<http://gadm.geovocab.org/id/0/181>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area630>, <http://www.wikidata.org/entity/Q1183> .
+
+<http://gadm.geovocab.org/id/0/182>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area408>, <http://www.wikidata.org/entity/Q423> .
+
+<http://gadm.geovocab.org/id/0/183>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area620>, <http://www.wikidata.org/entity/Q45> .
+
+<http://gadm.geovocab.org/id/0/184>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area600>, <http://www.wikidata.org/entity/Q733> .
+
+<http://gadm.geovocab.org/id/0/185>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area275>, <http://www.wikidata.org/entity/Q407199> .
+
+<http://gadm.geovocab.org/id/0/186>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area258>, <http://www.wikidata.org/entity/Q30971> .
+
+<http://gadm.geovocab.org/id/0/187>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area634>, <http://www.wikidata.org/entity/Q846> .
+
+<http://gadm.geovocab.org/id/0/188>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area638>, <http://www.wikidata.org/entity/Q17070> .
+
+<http://gadm.geovocab.org/id/0/189>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area642>, <http://www.wikidata.org/entity/Q218> .
+
+<http://gadm.geovocab.org/id/0/19>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area108>, <http://www.wikidata.org/entity/Q967> .
+
+<http://gadm.geovocab.org/id/0/190>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area643>, <http://www.wikidata.org/entity/Q159> .
+
+<http://gadm.geovocab.org/id/0/191>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area646>, <http://www.wikidata.org/entity/Q1037> .
+
+<http://gadm.geovocab.org/id/0/192>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area682>, <http://www.wikidata.org/entity/Q851> .
+
+<http://gadm.geovocab.org/id/0/193>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area729>, <http://www.wikidata.org/entity/Q1049> .
+
+<http://gadm.geovocab.org/id/0/194>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area686>, <http://www.wikidata.org/entity/Q1041> .
+
+<http://gadm.geovocab.org/id/0/195>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area702>, <http://www.wikidata.org/entity/Q334> .
+
+<http://gadm.geovocab.org/id/0/196>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area239>, <http://www.wikidata.org/entity/Q35086> .
+
+<http://gadm.geovocab.org/id/0/197>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area654>, <http://www.wikidata.org/entity/Q192184> .
+
+<http://gadm.geovocab.org/id/0/198>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area744>, <http://www.wikidata.org/entity/Q842829> .
+
+<http://gadm.geovocab.org/id/0/199>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area090>, <http://www.wikidata.org/entity/Q685> .
+
+<http://gadm.geovocab.org/id/0/2>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area004>, <http://www.wikidata.org/entity/Q889> .
+
+<http://gadm.geovocab.org/id/0/20>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area056>, <http://www.wikidata.org/entity/Q31> .
+
+<http://gadm.geovocab.org/id/0/200>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area694>, <http://www.wikidata.org/entity/Q1044> .
+
+<http://gadm.geovocab.org/id/0/201>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area222>, <http://www.wikidata.org/entity/Q792> .
+
+<http://gadm.geovocab.org/id/0/202>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area674>, <http://www.wikidata.org/entity/Q238> .
+
+<http://gadm.geovocab.org/id/0/203>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area706>, <http://www.wikidata.org/entity/Q1045> .
+
+<http://gadm.geovocab.org/id/0/205>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area666>, <http://www.wikidata.org/entity/Q34617> .
+
+<http://gadm.geovocab.org/id/0/206>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area688>, <http://www.wikidata.org/entity/Q403> .
+
+<http://gadm.geovocab.org/id/0/207>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area678>, <http://www.wikidata.org/entity/Q1039> .
+
+<http://gadm.geovocab.org/id/0/208>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area740>, <http://www.wikidata.org/entity/Q730> .
+
+<http://gadm.geovocab.org/id/0/209>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area703>, <http://www.wikidata.org/entity/Q214> .
+
+<http://gadm.geovocab.org/id/0/21>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area204>, <http://www.wikidata.org/entity/Q962> .
+
+<http://gadm.geovocab.org/id/0/210>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area705>, <http://www.wikidata.org/entity/Q215> .
+
+<http://gadm.geovocab.org/id/0/211>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area752>, <http://www.wikidata.org/entity/Q34> .
+
+<http://gadm.geovocab.org/id/0/212>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area748>, <http://www.wikidata.org/entity/Q1050> .
+
+<http://gadm.geovocab.org/id/0/213>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area690>, <http://www.wikidata.org/entity/Q1042> .
+
+<http://gadm.geovocab.org/id/0/214>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area760>, <http://www.wikidata.org/entity/Q858> .
+
+<http://gadm.geovocab.org/id/0/215>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area796>, <http://www.wikidata.org/entity/Q18221> .
+
+<http://gadm.geovocab.org/id/0/216>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area148>, <http://www.wikidata.org/entity/Q657> .
+
+<http://gadm.geovocab.org/id/0/217>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area768>, <http://www.wikidata.org/entity/Q945> .
+
+<http://gadm.geovocab.org/id/0/218>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area764>, <http://www.wikidata.org/entity/Q869> .
+
+<http://gadm.geovocab.org/id/0/219>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area762>, <http://www.wikidata.org/entity/Q863> .
+
+<http://gadm.geovocab.org/id/0/22>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area854>, <http://www.wikidata.org/entity/Q965> .
+
+<http://gadm.geovocab.org/id/0/220>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area772>, <http://www.wikidata.org/entity/Q36823> .
+
+<http://gadm.geovocab.org/id/0/221>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area795>, <http://www.wikidata.org/entity/Q874> .
+
+<http://gadm.geovocab.org/id/0/222>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area626>, <http://www.wikidata.org/entity/Q574> .
+
+<http://gadm.geovocab.org/id/0/223>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area776>, <http://www.wikidata.org/entity/Q678> .
+
+<http://gadm.geovocab.org/id/0/224>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area780>, <http://www.wikidata.org/entity/Q754> .
+
+<http://gadm.geovocab.org/id/0/225>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area788>, <http://www.wikidata.org/entity/Q948> .
+
+<http://gadm.geovocab.org/id/0/226>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area792>, <http://www.wikidata.org/entity/Q43> .
+
+<http://gadm.geovocab.org/id/0/227>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area798>, <http://www.wikidata.org/entity/Q672> .
+
+<http://gadm.geovocab.org/id/0/228>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area158>, <http://www.wikidata.org/entity/Q865> .
+
+<http://gadm.geovocab.org/id/0/229>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area834>, <http://www.wikidata.org/entity/Q924> .
+
+<http://gadm.geovocab.org/id/0/23>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area050>, <http://www.wikidata.org/entity/Q902> .
+
+<http://gadm.geovocab.org/id/0/230>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area800>, <http://www.wikidata.org/entity/Q1036> .
+
+<http://gadm.geovocab.org/id/0/231>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area804>, <http://www.wikidata.org/entity/Q212> .
+
+<http://gadm.geovocab.org/id/0/232>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area581>, <http://www.wikidata.org/entity/Q16645> .
+
+<http://gadm.geovocab.org/id/0/233>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area858>, <http://www.wikidata.org/entity/Q77> .
+
+<http://gadm.geovocab.org/id/0/234>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area840>, <http://www.wikidata.org/entity/Q30> .
+
+<http://gadm.geovocab.org/id/0/235>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area860>, <http://www.wikidata.org/entity/Q265> .
+
+<http://gadm.geovocab.org/id/0/236>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area336>, <http://www.wikidata.org/entity/Q237> .
+
+<http://gadm.geovocab.org/id/0/237>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area670>, <http://www.wikidata.org/entity/Q757> .
+
+<http://gadm.geovocab.org/id/0/238>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area862>, <http://www.wikidata.org/entity/Q717> .
+
+<http://gadm.geovocab.org/id/0/239>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area092>, <http://www.wikidata.org/entity/Q25305> .
+
+<http://gadm.geovocab.org/id/0/24>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area100>, <http://www.wikidata.org/entity/Q219> .
+
+<http://gadm.geovocab.org/id/0/240>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area850>, <http://www.wikidata.org/entity/Q11703> .
+
+<http://gadm.geovocab.org/id/0/241>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area704>, <http://www.wikidata.org/entity/Q881> .
+
+<http://gadm.geovocab.org/id/0/242>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area548>, <http://www.wikidata.org/entity/Q686> .
+
+<http://gadm.geovocab.org/id/0/243>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area876>, <http://www.wikidata.org/entity/Q35555> .
+
+<http://gadm.geovocab.org/id/0/244>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area882>, <http://www.wikidata.org/entity/Q683> .
+
+<http://gadm.geovocab.org/id/0/245>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area887>, <http://www.wikidata.org/entity/Q805> .
+
+<http://gadm.geovocab.org/id/0/246>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area710>, <http://www.wikidata.org/entity/Q258> .
+
+<http://gadm.geovocab.org/id/0/247>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area894>, <http://www.wikidata.org/entity/Q953> .
+
+<http://gadm.geovocab.org/id/0/248>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area716>, <http://www.wikidata.org/entity/Q954> .
+
+<http://gadm.geovocab.org/id/0/25>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area048>, <http://www.wikidata.org/entity/Q398> .
+
+<http://gadm.geovocab.org/id/0/26>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area044>, <http://www.wikidata.org/entity/Q778> .
+
+<http://gadm.geovocab.org/id/0/27>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area070>, <http://www.wikidata.org/entity/Q225> .
+
+<http://gadm.geovocab.org/id/0/28>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area112>, <http://www.wikidata.org/entity/Q184>, <http://www.wikidata.org/entity/Q2895> .
+
+<http://gadm.geovocab.org/id/0/29>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area084>, <http://www.wikidata.org/entity/Q242> .
+
+<http://gadm.geovocab.org/id/0/3>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area024>, <http://www.wikidata.org/entity/Q916> .
+
+<http://gadm.geovocab.org/id/0/30>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area060>, <http://www.wikidata.org/entity/Q23635> .
+
+<http://gadm.geovocab.org/id/0/31>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area068>, <http://www.wikidata.org/entity/Q750> .
+
+<http://gadm.geovocab.org/id/0/32>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area076>, <http://www.wikidata.org/entity/Q155> .
+
+<http://gadm.geovocab.org/id/0/33>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area052>, <http://www.wikidata.org/entity/Q244> .
+
+<http://gadm.geovocab.org/id/0/34>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area096>, <http://www.wikidata.org/entity/Q921> .
+
+<http://gadm.geovocab.org/id/0/35>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area064>, <http://www.wikidata.org/entity/Q917> .
+
+<http://gadm.geovocab.org/id/0/36>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area074>, <http://www.wikidata.org/entity/Q23408> .
+
+<http://gadm.geovocab.org/id/0/37>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area072>, <http://www.wikidata.org/entity/Q963> .
+
+<http://gadm.geovocab.org/id/0/4>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area660>, <http://www.wikidata.org/entity/Q25228> .
+
+<http://gadm.geovocab.org/id/0/40>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area140>, <http://www.wikidata.org/entity/Q929> .
+
+<http://gadm.geovocab.org/id/0/41>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area124>, <http://www.wikidata.org/entity/Q16> .
+
+<http://gadm.geovocab.org/id/0/42>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area166>, <http://www.wikidata.org/entity/Q36004> .
+
+<http://gadm.geovocab.org/id/0/43>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area756>, <http://www.wikidata.org/entity/Q39> .
+
+<http://gadm.geovocab.org/id/0/44>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area152>, <http://www.wikidata.org/entity/Q298> .
+
+<http://gadm.geovocab.org/id/0/45>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area156>, <http://www.wikidata.org/entity/Q148> .
+
+<http://gadm.geovocab.org/id/0/46>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area384>, <http://www.wikidata.org/entity/Q1008> .
+
+<http://gadm.geovocab.org/id/0/47>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area120>, <http://www.wikidata.org/entity/Q1009> .
+
+<http://gadm.geovocab.org/id/0/48>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area180>, <http://www.wikidata.org/entity/Q974> .
+
+<http://gadm.geovocab.org/id/0/49>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area178>, <http://www.wikidata.org/entity/Q971> .
+
+<http://gadm.geovocab.org/id/0/5>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area248>, <http://www.wikidata.org/entity/Q5689> .
+
+<http://gadm.geovocab.org/id/0/50>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area184>, <http://www.wikidata.org/entity/Q26988> .
+
+<http://gadm.geovocab.org/id/0/51>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area170>, <http://www.wikidata.org/entity/Q739> .
+
+<http://gadm.geovocab.org/id/0/52>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area174>, <http://www.wikidata.org/entity/Q970> .
+
+<http://gadm.geovocab.org/id/0/53>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area132>, <http://www.wikidata.org/entity/Q1011> .
+
+<http://gadm.geovocab.org/id/0/54>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area188>, <http://www.wikidata.org/entity/Q800> .
+
+<http://gadm.geovocab.org/id/0/55>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area192>, <http://www.wikidata.org/entity/Q241> .
+
+<http://gadm.geovocab.org/id/0/56>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area162>, <http://www.wikidata.org/entity/Q31063> .
+
+<http://gadm.geovocab.org/id/0/57>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area136>, <http://www.wikidata.org/entity/Q5785> .
+
+<http://gadm.geovocab.org/id/0/58>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area196>, <http://www.wikidata.org/entity/Q229> .
+
+<http://gadm.geovocab.org/id/0/59>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area203>, <http://www.wikidata.org/entity/Q213> .
+
+<http://gadm.geovocab.org/id/0/6>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area008>, <http://www.wikidata.org/entity/Q222> .
+
+<http://gadm.geovocab.org/id/0/60>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area276>, <http://www.wikidata.org/entity/Q183> .
+
+<http://gadm.geovocab.org/id/0/61>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area262>, <http://www.wikidata.org/entity/Q977> .
+
+<http://gadm.geovocab.org/id/0/62>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area212>, <http://www.wikidata.org/entity/Q784> .
+
+<http://gadm.geovocab.org/id/0/63>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area208>, <http://www.wikidata.org/entity/Q35> .
+
+<http://gadm.geovocab.org/id/0/64>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area214>, <http://www.wikidata.org/entity/Q786> .
+
+<http://gadm.geovocab.org/id/0/65>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area012>, <http://www.wikidata.org/entity/Q262> .
+
+<http://gadm.geovocab.org/id/0/66>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area218>, <http://www.wikidata.org/entity/Q736> .
+
+<http://gadm.geovocab.org/id/0/67>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area818>, <http://www.wikidata.org/entity/Q79> .
+
+<http://gadm.geovocab.org/id/0/68>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area232>, <http://www.wikidata.org/entity/Q986> .
+
+<http://gadm.geovocab.org/id/0/69>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area732>, <http://www.wikidata.org/entity/Q6250> .
+
+<http://gadm.geovocab.org/id/0/7>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area020>, <http://www.wikidata.org/entity/Q228> .
+
+<http://gadm.geovocab.org/id/0/70>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area724>, <http://www.wikidata.org/entity/Q29> .
+
+<http://gadm.geovocab.org/id/0/71>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area233>, <http://www.wikidata.org/entity/Q191> .
+
+<http://gadm.geovocab.org/id/0/72>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area231>, <http://www.wikidata.org/entity/Q115> .
+
+<http://gadm.geovocab.org/id/0/73>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area246>, <http://www.wikidata.org/entity/Q33> .
+
+<http://gadm.geovocab.org/id/0/74>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area242>, <http://www.wikidata.org/entity/Q712> .
+
+<http://gadm.geovocab.org/id/0/75>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area238>, <http://www.wikidata.org/entity/Q9648> .
+
+<http://gadm.geovocab.org/id/0/76>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area250>, <http://www.wikidata.org/entity/Q142> .
+
+<http://gadm.geovocab.org/id/0/77>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area234>, <http://www.wikidata.org/entity/Q4628> .
+
+<http://gadm.geovocab.org/id/0/78>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area583>, <http://www.wikidata.org/entity/Q702> .
+
+<http://gadm.geovocab.org/id/0/79>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area266>, <http://www.wikidata.org/entity/Q1000> .
+
+<http://gadm.geovocab.org/id/0/80>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area826>, <http://www.wikidata.org/entity/Q145> .
+
+<http://gadm.geovocab.org/id/0/81>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area268>, <http://www.wikidata.org/entity/Q230> .
+
+<http://gadm.geovocab.org/id/0/82>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area831>, <http://www.wikidata.org/entity/Q25230> .
+
+<http://gadm.geovocab.org/id/0/83>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area288>, <http://www.wikidata.org/entity/Q117> .
+
+<http://gadm.geovocab.org/id/0/84>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area292>, <http://www.wikidata.org/entity/Q1410> .
+
+<http://gadm.geovocab.org/id/0/85>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area324>, <http://www.wikidata.org/entity/Q1006> .
+
+<http://gadm.geovocab.org/id/0/86>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area312>, <http://www.wikidata.org/entity/Q17012> .
+
+<http://gadm.geovocab.org/id/0/87>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area270>, <http://www.wikidata.org/entity/Q1005> .
+
+<http://gadm.geovocab.org/id/0/88>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area624>, <http://www.wikidata.org/entity/Q1007> .
+
+<http://gadm.geovocab.org/id/0/89>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area226>, <http://www.wikidata.org/entity/Q983> .
+
+<http://gadm.geovocab.org/id/0/9>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area784>, <http://www.wikidata.org/entity/Q878> .
+
+<http://gadm.geovocab.org/id/0/90>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area300>, <http://www.wikidata.org/entity/Q41> .
+
+<http://gadm.geovocab.org/id/0/91>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area308>, <http://www.wikidata.org/entity/Q769> .
+
+<http://gadm.geovocab.org/id/0/92>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area304>, <http://www.wikidata.org/entity/Q223> .
+
+<http://gadm.geovocab.org/id/0/93>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area320>, <http://www.wikidata.org/entity/Q774> .
+
+<http://gadm.geovocab.org/id/0/94>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area254>, <http://www.wikidata.org/entity/Q3769> .
+
+<http://gadm.geovocab.org/id/0/95>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area316>, <http://www.wikidata.org/entity/Q16635> .
+
+<http://gadm.geovocab.org/id/0/96>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area328>, <http://www.wikidata.org/entity/Q734> .
+
+<http://gadm.geovocab.org/id/0/97>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area344>, <http://www.wikidata.org/entity/Q8646> .
+
+<http://gadm.geovocab.org/id/0/98>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area334>, <http://www.wikidata.org/entity/Q131198> .
+
+<http://gadm.geovocab.org/id/0/99>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area340>, <http://www.wikidata.org/entity/Q783> .
+
+<http://nuts.geovocab.org/id/AT>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area040>, <http://www.wikidata.org/entity/Q40> .
+
+<http://nuts.geovocab.org/id/BE>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area056>, <http://www.wikidata.org/entity/Q31> .
+
+<http://nuts.geovocab.org/id/BG>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area100>, <http://www.wikidata.org/entity/Q219> .
+
+<http://nuts.geovocab.org/id/CH>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area756>, <http://www.wikidata.org/entity/Q39> .
+
+<http://nuts.geovocab.org/id/CY>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area196>, <http://www.wikidata.org/entity/Q229> .
+
+<http://nuts.geovocab.org/id/CZ>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area203>, <http://www.wikidata.org/entity/Q213> .
+
+<http://nuts.geovocab.org/id/DE>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area276>, <http://www.wikidata.org/entity/Q183> .
+
+<http://nuts.geovocab.org/id/DK>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area208>, <http://www.wikidata.org/entity/Q35> .
+
+<http://nuts.geovocab.org/id/EE>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area233>, <http://www.wikidata.org/entity/Q191> .
+
+<http://nuts.geovocab.org/id/ES>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area724>, <http://www.wikidata.org/entity/Q29> .
+
+<http://nuts.geovocab.org/id/FI>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area246>, <http://www.wikidata.org/entity/Q33> .
+
+<http://nuts.geovocab.org/id/FR>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area250>, <http://www.wikidata.org/entity/Q142> .
+
+<http://nuts.geovocab.org/id/GR>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area300>, <http://www.wikidata.org/entity/Q41> .
+
+<http://nuts.geovocab.org/id/HR>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area191>, <http://www.wikidata.org/entity/Q224> .
+
+<http://nuts.geovocab.org/id/HU>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area348>, <http://www.wikidata.org/entity/Q28> .
+
+<http://nuts.geovocab.org/id/IE>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area372>, <http://www.wikidata.org/entity/Q27> .
+
+<http://nuts.geovocab.org/id/IS>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area352>, <http://www.wikidata.org/entity/Q189> .
+
+<http://nuts.geovocab.org/id/IT>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area380>, <http://www.wikidata.org/entity/Q38> .
+
+<http://nuts.geovocab.org/id/LI>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area438>, <http://www.wikidata.org/entity/Q347> .
+
+<http://nuts.geovocab.org/id/LT>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area440>, <http://www.wikidata.org/entity/Q37> .
+
+<http://nuts.geovocab.org/id/LU>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area442>, <http://www.wikidata.org/entity/Q32> .
+
+<http://nuts.geovocab.org/id/LV>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area428>, <http://www.wikidata.org/entity/Q211> .
+
+<http://nuts.geovocab.org/id/MK>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area807>, <http://www.wikidata.org/entity/Q221> .
+
+<http://nuts.geovocab.org/id/MT>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area470>, <http://www.wikidata.org/entity/Q233> .
+
+<http://nuts.geovocab.org/id/NL>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area528>, <http://www.wikidata.org/entity/Q29999>, <http://www.wikidata.org/entity/Q55> .
+
+<http://nuts.geovocab.org/id/NO>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area578>, <http://www.wikidata.org/entity/Q20> .
+
+<http://nuts.geovocab.org/id/PL>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area616>, <http://www.wikidata.org/entity/Q36> .
+
+<http://nuts.geovocab.org/id/PT>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area620>, <http://www.wikidata.org/entity/Q45> .
+
+<http://nuts.geovocab.org/id/RO>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area642>, <http://www.wikidata.org/entity/Q218> .
+
+<http://nuts.geovocab.org/id/SE>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area752>, <http://www.wikidata.org/entity/Q34> .
+
+<http://nuts.geovocab.org/id/SI>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area705>, <http://www.wikidata.org/entity/Q215> .
+
+<http://nuts.geovocab.org/id/SK>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area703>, <http://www.wikidata.org/entity/Q214> .
+
+<http://nuts.geovocab.org/id/TR>
+    <http://www.w3.org/2002/07/owl#sameAs> <http://harth.org/andreas/2017/citydata/unsd-methodology#area792>, <http://www.wikidata.org/entity/Q43> .
+

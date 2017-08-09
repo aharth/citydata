@@ -20,7 +20,10 @@
 <../eurostat/indicator-cd-links.ttl> ,
 
 # links from cities to Wikidata
-<../wikidata/eurostat-cities-links.ttl> ,
+#<../wikidata/eurostat-cities-links.ttl> ,
+
+# data about countries
+<../eionet/countries.ttl> ,
 
 # links from geo to Wikidata
 <../wikidata/eurostat-geo-links.rdf> .

@@ -1,0 +1,1 @@
+Map country URIs from nuts.geovocab.org and gadm.geovocab.org to Wikidata and UNSD.

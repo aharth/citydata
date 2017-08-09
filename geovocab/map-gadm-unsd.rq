@@ -1,0 +1,9 @@
+PREFIX owl: <http://www.w3.org/2002/07/owl#>
+PREFIX ocdp: <http://harth.org/andreas/2017/ocdp/vocabs/ocdp#>
+
+CONSTRUCT { ?y owl:sameAs ?x, ?wikidata . }
+WHERE {
+  ?x ocdp:isoAlpha3 ?iso3 .
+  ?x owl:sameAs ?wikidata .
+  ?y <http://gadm.geovocab.org/ontology#iso> ?iso3 .
+}

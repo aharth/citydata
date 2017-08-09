@@ -170,8 +170,8 @@ for key in candidates:
             index = namesli.index(match[0])
             keytarget = idlitarget[index]
             print "<"+keytarget+">", "<http://www.w3.org/2002/07/owl#sameAs>", "<"+key+">", "."
-            print "<"+keytarget+">", "<http://www.w3.org/2000/01/rdf-schema#label>", "\""+namestarget[keytarget]+"\" ."
-            print "<"+key+">", "<http://www.w3.org/2000/01/rdf-schema#label>", "\""+namesfrom[key]+"\" ."
+            print "<"+keytarget+">", "<http://www.w3.org/2004/02/skos/core#altLabel>", "\""+namestarget[keytarget]+"\" ."
+            print "<"+key+">", "<http://www.w3.org/2004/02/skos/core#altLabel>", "\""+namesfrom[key]+"\" ."
         else:
             print "no match for", key
     else:
