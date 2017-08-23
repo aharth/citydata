@@ -11,7 +11,6 @@
 
 # QB and related
 @prefix qb: <http://purl.org/linked-data/cube#> .
-@prefix sdmx-measure: <http://purl.org/linked-data/sdmx/2009/measure#> .
 @prefix skosclass: <http://ddialliance.org/ontologies/skosclass#> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 

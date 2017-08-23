@@ -5,15 +5,18 @@ PREFIX sdmxdim: <http://purl.org/linked-data/sdmx/2009/dimension#>
 PREFIX sdmxm: <http://purl.org/linked-data/sdmx/2009/measure#>
 PREFIX cd: <http://citydata.wu.ac.at/ns#>
 PREFIX string: <http://www.w3.org/2000/10/swap/string#>
+PREFIX prov: <http://www.w3.org/ns/prov#>
 
 CONSTRUCT {
-  ?obs qb:dataSet ?ds ;
+  ?obs qb:dataSet <http://harth.org/andreas/2017/citydata/vocabs/global-cube#global-cube-ds> ;
+       prov:wasGeneratedBy ?ds ;
        sdmxdim:refArea ?city ;
        cd:hasIndicator ?indicator ;
        dcterms:date ?year ;
        sdmxm:obsValue ?value ;
        dcterms:publisher <http://estatwrap.ontologycentral.com/> ;
-       cd:estimatedRMSE "0.0"^^xsd:decimal .
+       cd:estimatedRMSE "0.0"^^xsd:decimal ;
+       a qb:Observation .
 } WHERE {
   ?obs qb:dataSet ?ds ;
        sdmxdim:refArea ?city ;
