@@ -7,7 +7,7 @@
 @prefix prov: <http://www.w3.org/ns/prov#> .
 
 @prefix qb: <http://purl.org/linked-data/cube#> .
-@prefix sdmx-measure: <http://purl.org/linked-data/sdmx/2009/measure#> .
+@prefix sdmxm: <http://purl.org/linked-data/sdmx/2009/measure#> .
 @prefix sdmxdim: <http://purl.org/linked-data/sdmx/2009/dimension#> .
 
 @prefix cd: <http://citydata.wu.ac.at/ns#> .
@@ -33,40 +33,25 @@
 
 	[ qb:attribute cd:estimatedRMSE ],
 #	[ qb:attribute cd:preferredObservation ],
-	[ qb:attribute prov:wasGeneratedBy ],
-	[ qb:attribute prov:generatedAtTime ],
+	[ qb:attribute prov:wasDerivedBy ],
+	[ qb:attribute rdfs:comment ],
 
-	[ qb:measure sdmx-measure:obsValue ] .
+	[ qb:measure sdmxm:obsValue ] .
 
-sdmxdim:refArea a qb:DimensionProperty,
-        rdf:Property .
+sdmxdim:refArea a qb:DimensionProperty .
 
-cd:hasIndicator a qb:DimensionProperty,
-        rdf:Property ;
-    rdfs:range cd:Indicator .
+cd:hasIndicator a qb:DimensionProperty .
 
-dcterms:date a qb:DimensionProperty,
-        rdf:Property .
+dcterms:date a qb:DimensionProperty .
 
-sdmx-measure:obsValue a qb:MeasureProperty,
-        rdf:Property ;
-    rdfs:range xsd:decimal .
+sdmxm:obsValue a qb:MeasureProperty .
 
-dcterms:publisher a qb:AttributeProperty,
-        rdf:Property .
+dcterms:publisher a qb:AttributeProperty .
 
-cd:estimatedRMSE a qb:AttributeProperty,
-	rdf:Property ;
+cd:estimatedRMSE a qb:AttributeProperty ,
 	rdfs:range xsd:decimal .
 
-cd:preferredObservation a qb:AttributeProperty,
-	rdf:Property ;
+cd:preferredObservation a qb:AttributeProperty ,
 	rdfs:range qb:Observation .
 
-prov:wasGeneratedBy a qb:AttributeProperty,
-        rdf:Property ;
-        rdfs:range qb:Observation .
-
-prov:generatedAtTime a qb:AttributeProperty,
-        rdf:Property ;
-        rdfs:range qb:Observation .
+prov:wasDerivedFrom a qb:AttributeProperty .

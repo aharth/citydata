@@ -9,7 +9,7 @@ PREFIX prov: <http://www.w3.org/ns/prov#>
 
 CONSTRUCT {
   ?obs qb:dataSet <http://harth.org/andreas/2017/citydata/vocabs/global-cube#global-cube-ds> ;
-       prov:wasGeneratedBy ?ds ;
+       prov:wasDerivedFrom ?ds ;
        sdmxdim:refArea ?city ;
        cd:hasIndicator ?indicator ;
        dcterms:date ?year ;

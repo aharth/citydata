@@ -9,6 +9,14 @@ date=`date -I`
 
 mkdir -p $date
 
+# get global cube dsd
+JAVA_OPTS="-Xmx64G -Dldfu.http.connecttimeout=60000 -Dldfu.http.sockettimeout=60000 -Dldfu.inputoriginthreads=1 -Dldfu.processingthreads=4" ldfu.sh -p http://harth.org/andreas/2017/citydata/programs/get-global-cube.n3 -p http://harth.org/andreas/2017/citydata/programs/get-qb.n3 -p http://harth.org/andreas/2017/citydata/programs/qb-norm.n3 -o ${date}/global-cube-crawl.nq -v 2> ${date}/global-cube-crawl.log
+# parse to clean files
+rapper -i nquads ${date}/global-cube-crawl.nq -o nquads 2> ${date}/global-cube-parse.log > ${date}/global-cube-crawl-clean.nq
+# parse to clean files
+rapper -i nquads ${date}/global-cube-clean.nq | gzip -c > ${date}/global-cube.nt.gz &
+
+# get observations
 for i in eurostat undata ; do
     # crawl
     JAVA_OPTS="-Xmx64G -Dldfu.http.connecttimeout=60000 -Dldfu.http.sockettimeout=60000 -Dldfu.inputoriginthreads=1 -Dldfu.processingthreads=4" ldfu.sh -p http://harth.org/andreas/2017/citydata/programs/get-${i}.n3 -p http://harth.org/andreas/2017/citydata/programs/get-qb.n3 -p http://harth.org/andreas/2017/citydata/programs/qb-norm.n3 -o ${date}/${i}-crawl.nq -v 2> ${date}/${i}-crawl.log
@@ -32,3 +40,4 @@ done
 
 sleep 10s
 gzip ${date}/*.nq
+gzip ${date}/*.csv
