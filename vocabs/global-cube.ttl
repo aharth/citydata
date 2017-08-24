@@ -48,10 +48,10 @@ sdmxm:obsValue a qb:MeasureProperty .
 
 dcterms:publisher a qb:AttributeProperty .
 
-cd:estimatedRMSE a qb:AttributeProperty ,
+cd:estimatedRMSE a qb:AttributeProperty ;
 	rdfs:range xsd:decimal .
 
-cd:preferredObservation a qb:AttributeProperty ,
+cd:preferredObservation a qb:AttributeProperty ;
 	rdfs:range qb:Observation .
 
 prov:wasDerivedFrom a qb:AttributeProperty .
