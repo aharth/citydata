@@ -31,7 +31,8 @@ for i in eurostat undata ; do
     # generate global cube (observations in canonical representation)
     JAVA_OPTS="-Xmx64G" ldfu.sh -i ${date}/${i}.nq -q queries/observations-${i}-construct.rq ${date}/global-cube-${i}.nt
     # skolemise blank nodes
-    sed -e "s/_:\(\S*\)/<http:\/\/skol\/\1>/g" ${date}/global-cube-${i}.nt | gzip -c > ${date}/global-cube-${i}.nt.gz &
+    cat ${date}/global-cube-${i}.nt | sed -e "s/_:\(\S*\)/<http:\/\/skol\/\1>/g" | gzip -c > ${date}/global-cube-${i}.nt.gz &
+    sleep 2s
     rm ${date}/global-cube-${i}.nt
 done
 
