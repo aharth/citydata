@@ -10,7 +10,7 @@ date=`date -I`
 mkdir -p $date
 
 # get global cube dsd
-JAVA_OPTS="-Xmx64G -Dldfu.http.connecttimeout=60000 -Dldfu.http.sockettimeout=60000 -Dldfu.inputoriginthreads=1 -Dldfu.processingthreads=4" ldfu.sh -p http://harth.org/andreas/2017/citydata/programs/get-global-cube.n3 -p http://harth.org/andreas/2017/citydata/programs/get-qb.n3 -p http://harth.org/andreas/2017/citydata/programs/qb-norm.n3 -p http://harth.org/andreas/2017/citydata/programs/rdf.n3 -p http://harth.org/andreas/2017/citydata/programs/rdfs.n3 -o ${date}/global-cube-crawl.nq -v 2> ${date}/global-cube-crawl.log
+JAVA_OPTS="-Xmx64G -Dldfu.http.connecttimeout=60000 -Dldfu.http.sockettimeout=60000 -Dldfu.inputoriginthreads=1 -Dldfu.processingthreads=4" ldfu.sh -d 3 -p http://harth.org/andreas/2017/citydata/programs/get-global-cube.n3 -p http://harth.org/andreas/2017/citydata/programs/get-qb.n3 -p http://harth.org/andreas/2017/citydata/programs/qb-norm.n3 -p http://harth.org/andreas/2017/citydata/programs/rdf.n3 -p http://harth.org/andreas/2017/citydata/programs/rdfs.n3 -o ${date}/global-cube-crawl.nq -v 2> ${date}/global-cube-crawl.log
 # parse to clean files
 rapper -i nquads ${date}/global-cube-crawl.nq 2> ${date}/global-cube-crawl-parse.log | gzip -c > ${date}/global-cube.nt.gz
 

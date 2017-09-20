@@ -1,8 +1,10 @@
 PREFIX sdmxm: <http://purl.org/linked-data/sdmx/2009/measure#>
 
-SELECT DISTINCT ?x ?val
+SELECT DISTINCT ?x ?val ?g
 WHERE {
-  ?x a qb:Observation ;
-     sdmxm:obsValue ?val .
+  GRAPH ?g {
+    ?x a qb:Observation ;
+       sdmxm:obsValue ?val .
+  }
   FILTER (!isNumeric(?val))
 }
